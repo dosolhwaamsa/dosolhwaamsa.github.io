@@ -1,0 +1,34 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+# Agency logo
+agency-logo: /pages/images/dosol-pages-logo.gif
+
+# Hero Banner
+hero-title: 도솔산 화암사
+hero-subtitle: 마음은 자유롭게, 세상은 아름답게
+hero-banner: /pages/images/banner_hwaam.png
+
+key-highlights:
+  - title: Highlight A!!!!
+    description: Important highlight A is important!!!!
+    url: https://google.com
+    external: true
+  - title: Highlight B
+    description: Important highlight B is equally important
+    url: https://yahoo.com
+    external: true
+  - title: 화암사소개
+    description: Page A is important too
+    url: /page-A/
+  - title: Dropdown A Content C
+    description: Dropdown A Content C is v important
+    url: /dropdown-A/content-C/
+
+#Call to Action Button
+button:
+  - text: Learn More
+    url: /who-we-are/
