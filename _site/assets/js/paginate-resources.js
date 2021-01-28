@@ -1,6 +1,6 @@
 "use strict";
 
-var PAGE_SIZE = ;
+var PAGE_SIZE = 12;
 var MAX_ADJACENT_PAGE_BTNS = 4;
 var MAX_ADJACENT_MOBILE_PAGE_BTNS = 1;
 var pageResults = void 0;

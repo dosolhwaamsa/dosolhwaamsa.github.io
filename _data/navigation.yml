@@ -1,33 +1,48 @@
 ##################################
 #                                #
-# Feel free to edit this file :) #
+# Edit this file carefully.      #
 #                                #
 ##################################
 
+# This file contains the structure for the top navigation and bottom footer
 
-- title: 화암사소개
-  url: /page-A/
-- title: 신행생활
-  url: /dropdown-A/content-A/
+- title: Application Guidelines
+  url: /application-guidelines/lorem-ipsum-one/second-level-a/
   sub-links:
-  - title: 법회안내(온라인법문)
-    url: /dropdown-A/content-A/
-  - title: 마음치유명상아카데미(마음치유명상강좌)
-    url: /dropdown-A/content-B/
-  - title: 템플스테이
-    url: /dropdown-A/content-C/
-- title: 도솔노인복지센터
-  url: /page-B/
+  - title: Second Level A
+    url: /application-guidelines/lorem-ipsum-one/second-level-a/
+  - title: Second Level B
+    url: /application-guidelines/lorem-ipsum-two/part-A/
+  - title: Lorem Ipsum Three
+    url: /application-guidelines/lorem-ipsum-three/ 
+- title: Legislation
+  url: https://google.com
+  external: true
   sub-links:
-  - title: 소개 및 인사말
-    url: 
-  - title: 연혁 및 시설안내
-    url:
-  - title: 주간보호센터(현장)
-    url:
-  - title: 숲체험교육
-    url:
-- title: 봉사안내
-  url: /page-C/
-- title: 문의하기
+  - title: External Link One
+    url: https://en.wikipedia.org/wiki/Year
+    external: true
+  - title: External Link Two
+    url: https://en.wikipedia.org/wiki/Spring_(season)
+    external: true
+- title: Resources
+  url: /resource_room/
+  sub-links:
+  - title: All
+    url: /resource_room/
+  - title: Forms and Templates
+    url: /resource_room/forms-and-templates/
+  - title: Guides
+    url: /resource_room/guides/
+- title: 你好 மெய்யெழுத்து
+  url: /who-we-are/
+- title: Contact Us
   url: /contact-us/
+- title: Data.gov Search
+  url: /data-gov-sg/
+# - title: Board of Directors
+#   url: /board-of-directors/
+# - title: FAQ
+#   url: /faq/
+# - title: Stuff
+#   url: /stuff/

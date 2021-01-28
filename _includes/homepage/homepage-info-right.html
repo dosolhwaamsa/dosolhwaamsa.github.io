@@ -1,0 +1,97 @@
+<section class="bp-section bg-newssection">
+    <div class="bp-container">
+        {%- comment -%} mobile edition {%- endcomment -%}
+        <div class="row is-hidden-desktop is-hidden-tablet-only">
+            <div class="col is-half padding--bottom">
+                <p class="padding--bottom eyebrow is-uppercase">
+                    {{- section.section-title -}}
+                </p>
+                <h1 class="has-text-secondary padding--bottom">
+                    <b>{{- section.section-subtitle -}}</b>
+                </h1>
+                <p>{{- section.section-description -}}</p>
+                <a href="{{- site.baseurl -}}{{- section.section-more-button-url -}}" class="bp-sec-button margin--top padding--bottom">
+                    {%- if section.section-more-button -%}                 
+                        <div>
+                            <span>{{- section.section-more-button -}}</span>
+                            <i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
+                        </div>
+                    {%- endif -%}
+                </a>
+            </div>
+            <div class="col is-half">
+                <img src="{{- site.baseurl -}}{{- section.section-image-path -}}" alt="
+                    {%- if section.section-image-alt -%}
+                        {{- section.section-image-alt -}}
+                    {%- elsif section.section-description -%}
+                        {{- section.section-description -}}
+                    {%- else -%}
+                        {{- section.section-title -}}
+                    {%- endif -%}
+                    " />
+            </div>
+        </div>
+        {%- comment -%} tablet edition {%- endcomment -%}
+        <div class="row is-hidden-mobile is-hidden-desktop">
+            <div class="col is-half is-half padding--top--xl padding--bottom--xl">
+                <img src="{{- site.baseurl -}}{{- section.section-image-path -}}" alt="
+                    {%- if section.section-image-alt -%}
+                        {{- section.section-image-alt -}}
+                    {%- elsif section.section-description -%}
+                        {{- section.section-description -}}
+                    {%- else -%}
+                        {{- section.section-title -}}
+                    {%- endif -%}
+                    " />
+            </div>
+            <div class="col is-half">
+                <p class="padding--bottom eyebrow is-uppercase">
+                    {{- section.section-title -}}
+                </p>
+                <h1 class="has-text-secondary padding--bottom">
+                    <b>{{- section.section-subtitle -}}</b>
+                </h1>
+                <p>{{- section.section-description -}}</p>
+                <a href="{{- site.baseurl -}}{{- section.section-more-button-url -}}" class="bp-sec-button margin--top padding--bottom">
+                    {%- if section.section-more-button -%}                 
+                        <div>
+                            <span>{{- section.section-more-button -}}</span>
+                            <i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
+                        </div>
+                    {%- endif -%}
+                </a>
+            </div>
+        </div>
+        {%- comment -%} desktop edition {%- endcomment -%}
+        <div class="row is-hidden-mobile is-hidden-tablet-only">
+            <div class="col is-half is-half padding--top--xl padding--bottom--xl">
+                <img src="{{- site.baseurl -}}{{- section.section-image-path -}}" alt="
+                    {%- if section.section-image-alt -%}
+                        {{- section.section-image-alt -}}
+                    {%- elsif section.section-description -%}
+                        {{- section.section-description -}}
+                    {%- else -%}
+                        {{- section.section-title -}}
+                    {%- endif -%}
+                    " />
+            </div>
+            <div class="col is-half padding--top--xl padding--bottom--xl padding--left--xl padding--right--xl">
+                <p class="padding--bottom eyebrow is-uppercase">
+                    {{- section.section-title -}}
+                </p>
+                <h1 class="has-text-secondary padding--bottom">
+                    <b>{{- section.section-subtitle -}}</b>
+                </h1>
+                <p>{{- section.section-description -}}</p>
+                <a href="{{- site.baseurl -}}{{- section.section-more-button-url -}}" class="bp-sec-button margin--top padding--bottom">
+                    {%- if section.section-more-button -%}                 
+                        <div>
+                            <span>{{- section.section-more-button -}}</span>
+                            <i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i>
+                        </div>
+                    {%- endif -%}
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
