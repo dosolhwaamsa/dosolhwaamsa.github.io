@@ -1,26 +1,26 @@
-- title: Govtechies Stories
-  name: Kaiwen
-  position: Tech Associate
-  # dept: Government Digital Services, Data Science Division
-  story: We get to experiment and build meaningful things that can bring a positive impact to the lives of Singaporeans.
-  img: images/career/stories/TAP_kaiwen.jpg
-  button-text: Read story
-  button-url: 
+- title: 봉사안내
+  # name: 다양한 분야에서 작은 도움이라도 여러분의 손길이 필요합니다.
+  # position: 
+  dept: 여러 분야에서 손길을 기다리고 있습니다. <br> (취미, 기능, 정서지원)
+  story: 저희가 하는 활동을 도울 수 있는 간단한 방법이 바로 여기 있습니다. <br> 사회복지를 향한 화암사의 이상을 달성하기 위한 최고의 방법은 지역 사회가 적극적으로 참여하는 것입니다. <br> 이는 도솔산화암사의 활동을 지지하는 가장 손쉬운 방법입니다. 
+  img: images/volunteers/아미타부처님2.jpg
+  button-text: 문의하기
+  button-url: /3_volunteers_part/contact-us/
 
-- title: Govtechies Stories 1
-  name: Wei Jian
-  position: Tech Associate
-  # dept: Government Digital Services, Data Science Division
-  story: I am always learning something new everyday and there is enough flexibility for me to explore new ways of doing things.
-  img: images/career/stories/TAP_weijian.jpg
-  button-text: Read story
-  button-url: 
+- title: 후원안내
+  # name: 다양한 형태의 봉사활동, 기부를 자유롭게 신청하세요. 
+  # position: 
+  dept: 다양한 형태의 봉사활동, 기부를 자유롭게 신청하세요. <br> (물품, 온라인, 결연후원)
+  story: 여러분의 적극적인 참여와 관심으로 도솔산화암사는 종교단체에 그치지 않고 지역사회의 사회복지증진에 기여할 수 있었습니다.<br> 여러분의 지지에 감사드리며, 앞으로도 많은 참여 부탁드립니다. 
+  img: images/volunteers/사찰입구.jpg
+  button-text: 문의하기
+  button-url: /3_volunteers_part/contact-us/
 
-- title: Govtechies Stories
-  name: Serena
-  position: Intern
-  # dept: Government Digital Services, Data Science Division
-  story: I like the flexibility of working here, the games provided in the office during our breaks, allows us to recharge ourselves.
-  img: images/career/stories/INTERN_serena.jpg
-  button-text: Read story
-  button-url: 
+# - title: Govtechies Stories
+#   name: Serena
+#   position: Intern
+#   # dept: Government Digital Services, Data Science Division
+#   story: I like the flexibility of working here, the games provided in the office during our breaks, allows us to recharge ourselves.
+#   img: images/career/stories/INTERN_serena.jpg
+#   button-text: Read story
+#   button-url: 

@@ -8,17 +8,19 @@
 
 locations:
   # HQ Address [REQUIRED]
-  - title: Avenue Q
-    address: Sesame Street<br>Singapore 123456
-    find-directions: https://maps.google.com
-  # Operating Hours [OPTIONAL]
-    operating-hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Weekends and Public Holidays
+  - title: 도솔산화암사
+    address: 대전 서구 변동서로27번길 20-3
+    content:
+      - line: +82 042-488-7209
+      - line: dosol-hwaam@naver.com (email)
+    find-directions: 오시는길(http://kko.to/8Kb5LDXD0){:target="_blank"}
+
   # Other Office Addresses [OPTIONAL]
-  - title: Hive @ Isomer Cooperation
-    address: 1 Fusionopolis View <br>#08-01 Sandcrawler<br>Singapore 138577
+  - title: 도솔노인복지센터
+    address: 대전 서구 변동서로27번길 20-3
+    content:
+      - line: +82 042-528-1080
+      - line: dosol-hwaam@naver.com (email)
     find-directions: https://maps.google.com
   # Operating Hours [OPTIONAL]
     operating-hours:
@@ -27,21 +29,14 @@ locations:
       - days: Fri
         time: 8.30am - 5.30pm
         description: Closed on Weekends and Public Holidays
-  - title: BirdsNest @ Isomer Cooperation
-    address: 1 Fusionopolis View <br>#08-01 Sandcrawler<br>Singapore 138577
-    find-directions: https://maps.google.com
 
 # Contact Us
 column:
   - title: General Enquiries & Feedback
     content:
     - line: +65 1234 5678
-    - line: dummy_email@dummy.com (email)
+    - line: dosol-hwaam@naver.com (email)
     # If you have an email, put (email) after the actual email
-
-  - title: Fax
-    content:
-    - line: +65 1234 5678
 
 # Image
 image-url: /images/contact-us.png

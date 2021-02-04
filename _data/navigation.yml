@@ -6,26 +6,37 @@
 
 # This file contains the structure for the top navigation and bottom footer
 
-- title: Application Guidelines
-  url: /application-guidelines/lorem-ipsum-one/second-level-a/
+- title: 화암사소개
+  url: /page-A/
+- title: 신행생활
+  url: /1_religous_part/ceremony_info/one/
   sub-links:
-  - title: Second Level A
-    url: /application-guidelines/lorem-ipsum-one/second-level-a/
-  - title: Second Level B
-    url: /application-guidelines/lorem-ipsum-two/part-A/
-  - title: Lorem Ipsum Three
-    url: /application-guidelines/lorem-ipsum-three/ 
-- title: Legislation
-  url: https://google.com
-  external: true
+  - title: 법회안내
+    url: /1_religous_part/ceremony_info/one/
+  - title: 마음치유명상아카데미
+    url: /1_religous_part/zen_cure/two/
+  - title: 템플스테이
+    url: /1_religous_part/temple_stay/three/
+- title: 도솔노인복지센터
+  url: /2_dosolnoin_part/dosolnoin_info/
   sub-links:
-  - title: External Link One
-    url: https://en.wikipedia.org/wiki/Year
-    external: true
-  - title: External Link Two
-    url: https://en.wikipedia.org/wiki/Spring_(season)
-    external: true
-- title: Resources
+  - title: 소개 및 인사말
+    url: /2_dosolnoin_part/dosolnoin_info/
+  - title: 연혁 및 시설안내
+    url: /2_dosolnoin_part/history/
+  - title: 주간보호센터(현장)
+    url: /2_dosolnoin_part/daycare/
+  - title: 숲체험교육
+    url: /2_dosolnoin_part/forest/
+- title: 봉사안내
+  url: /3_volunteers_part/volunteer-info/
+  sub-links:
+  - title: 문의하기
+    url: /3_volunteers_part/contact-us/
+  - title: 你好 மெய்யெழுத்து
+    url: /3_volunteers_part/who-we-are/
+
+- title: 참여마당
   url: /resource_room/
   sub-links:
   - title: All
@@ -34,15 +45,8 @@
     url: /resource_room/forms-and-templates/
   - title: Guides
     url: /resource_room/guides/
-- title: 你好 மெய்யெழுத்து
-  url: /who-we-are/
-- title: Contact Us
-  url: /contact-us/
-- title: Data.gov Search
-  url: /data-gov-sg/
-# - title: Board of Directors
-#   url: /board-of-directors/
-# - title: FAQ
-#   url: /faq/
-# - title: Stuff
-#   url: /stuff/
+  - title: Data.gov Search
+    url: /data-gov-sg/
+  - title: test_suite
+    url: /products-and-services/    
+

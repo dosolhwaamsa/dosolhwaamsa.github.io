@@ -3,7 +3,7 @@
 <style>
   .bg-hero {
     background: url('{{site.baseurl}}{{homepage.hero-banner}}') no-repeat top left;
-    -webkit-background-size: cover;
+    -webkit-background-size: cover;    
     background-size: cover;
     background-position: center center;
   }
@@ -29,7 +29,7 @@
                   <a href="{{- site.baseurl -}}{{- button.url -}}" class="bp-button is-secondary is-uppercase search-button">{{- button.text}}</a>
                   {%- endfor -%}
                   {%- endif -%}
-                  {%- if site.homepage_hero_i_want_to == true -%}
+                  <!-- {%- if site.homepage_hero_i_want_to == true -%}
                     <div class="bp-dropdown margin--top--sm">
                       <div class="bp-dropdown-trigger">
                           <a class="bp-button bp-dropdown-button hero-dropdown is-centered" aria-haspopup="true" aria-controls="hero-dropdown-menu">
@@ -53,7 +53,7 @@
                           </div>
                       </div>
                     </div>
-                  {%- endif -%}    
+                  {%- endif -%}     -->
                 </div>
             </div>
         </div>
@@ -63,7 +63,7 @@
 <section id="key-highlights" class="bp-section is-paddingless">
     <div class="bp-container">
        <div class="row is-gapless has-text-centered">
-          {%- for link in homepage.key-highlights limit:4 -%}
+          {%- for link in homepage.key-highlights limit:2 -%}
           <div class="col">
             {%- include links-baseurl.html -%}
             {%- if link.external and link.url -%}

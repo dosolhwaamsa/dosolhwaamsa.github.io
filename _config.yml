@@ -13,15 +13,15 @@
 # you will see them accessed via {{- site.title -}}, {{- site.email -}}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{- site.myvariable -}}.
-title: Isomer Pages Template
-title-abbreviated: Isomer Pages
-email: your-email@example.com
+title: 도솔산화암사 
+title-abbreviated: 마음은 자유롭게, 세상은 아름답게
+email: dosol-hwaam@naver.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This website was built using the Isomer Design System and Jekyll
+  이 곳 도솔산화암사 도량을 세움은 고통을 여의고 즐거움을 나누며 부처를 이루기 위함이니 선남자 연여인 모두 와서 합장하고 절을 하오.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.tech.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://dosolhwaamsa.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  dosolhwaamsa
 
 # Build settings
 markdown: kramdown
@@ -42,12 +42,18 @@ breadcrumbs:
     image: false # Show image or title text
 
 collections:
-  application-guidelines:
+  1_religous_part:
     output: true
-  who-we-are:
+  2_dosolnoin_part:
+    output: true  
+  3_volunteers_part:  
     output: true
-  products-and-services:
-    output: true
+  # application-guidelines:
+  #   output: true
+  # who-we-are:
+  #   output: true
+  # products-and-services:
+  #   output: true
 
 # Resource Room and Pagination
 resources_name: "resource_room"
@@ -57,19 +63,13 @@ paginate: 12
 ##################################
 
 # Homepage sections
-homepage_hero_i_want_to: true # if i_want_to is true, there will be no key highlights
-homepage_programmes: true
-homepage_resources: true
+# homepage_hero_i_want_to: true # if i_want_to is true, there will be no key highlights
 homepage_careers: true
-
-# Feedback Form URL
-feedback_form_url: "https://form.sg/#!/forms/govtech/5a9ce876b3a3b6006e6b8335"
-
-# FAQ URL
-faq_url: "http://www.ifaq.gov.sg/HLB/apps/Fcd_faqmain.aspx"
-faq_url_external: true
+homepage_resources: true
+homepage_programmes: false
 
 # Custom CSS file path
+# custom_css_path: "/misc/custom.css"
 custom_css_path: "/do-not-touch/theme-colors/custom.css"
 custom_print_css_path: "/assets/css/print.css"
 

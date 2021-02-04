@@ -35,8 +35,8 @@ layout: default
         {%- break -%}
     {%- endif -%}
 {%- endfor -%}
-{%- comment -%} Define category_index - the index used to determine the bg-color-{{category_index}} {%- endcomment -%}
-{%- comment -%} Fallback in case category_index is not set in the for loop {%- endcomment -%}
+<!-- Define category_index - the index used to determine the bg-color-{{category_index}}
+Fallback in case category_index is not set in the for loop -->
 {%- assign category_index = 1 -%}
 {%- for category in site.categories -%}
     {%- capture category_name -%}{{- category | first -}}{%- endcapture -%}
@@ -46,7 +46,7 @@ layout: default
     {%- endif -%}
 {%- endfor -%}
 
-{%- comment -%} Resource category buttons {%- endcomment -%}
+<!-- Resource category buttons  -->
 <section class="bp-section is-small padding--bottom--none">
     <div class="bp-container padding--top">
         <div class="row">

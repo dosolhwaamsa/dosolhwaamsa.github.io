@@ -8,109 +8,97 @@
 favicon: /assets/img/favicon.ico
 
 # Agency logo
-agency-logo: /do-not-touch/logo_blueprint.png
+agency-logo: /images/dosol-pages-logo.gif
 
 # Google analytics
 google-analytics: UA-test
 
 # AskJamie
-ask-jamie: non-empty string
+# ask-jamie: non-empty string
 
 # Hero Banner
-hero-title: Isomer Page Template
-hero-subtitle: This website was built using the Isomer Design System and Jekyll
-hero-banner: /images/banner_GardenBay.png
+hero-title: 도솔산 화암사
+hero-subtitle: 마음은 자유롭게, 세상은 아름답게
+hero-banner: /images/dosolhwaam_banner.png
 
 #Call to Action Button
-button:
-  - text: Learn More
-    url: /who-we-are/
+# button:
+#   - text: Learn More
+#     url: /who-we-are/
 
-# Hero Dropdown Main Text
-hero-dropdown-text: "I am a"
+# # Hero Dropdown Main Text
+# hero-dropdown-text: "I am a"
 
-# I want to dropdown
-i-want-to:
-  - title: apply for licence
-    url: /application-guidelines/applying-for-licence/
-  - title: cancel hotel licence
-    url: /application-guidelines/cancellation-of-licence/
-  - title: change hotel keeper
-    url: /application-guidelines/change-of-hotel-keeper/
-  - title: change hotel name
-    url: /application-guidelines/change-of-hotel-name/
-  - title: apply for exemption for hotel licence
-    url: /application-guidelines/exemption/
-  - title: renew hotel licence
-    url: /application-guidelines/renew-hotel-licence/
+# # I want to dropdown
+# i-want-to:
+#   - title: apply for licence
+#     url: /application-guidelines/applying-for-licence/
+#   - title: cancel hotel licence
+#     url: /application-guidelines/cancellation-of-licence/
+#   - title: change hotel keeper
+#     url: /application-guidelines/change-of-hotel-keeper/
+#   - title: change hotel name
+#     url: /application-guidelines/change-of-hotel-name/
+#   - title: apply for exemption for hotel licence
+#     url: /application-guidelines/exemption/
+#   - title: renew hotel licence
+#     url: /application-guidelines/renew-hotel-licence/
 
-# Key Highlights
-key-highlights:
-  - title: Templates and Forms
-    description: Downladable templates and forms
-    url: /resource_room/
-    external: false
-  - title: Google
-    description: LMGTFY
-    url: https://google.com
-    external: true
-  - title: Yahoo
-    description: Another search engine
-    url: https://yahoo.com/
-    external: true
-  - title: Wikipedia
-    description: More information
-    url: https://wikipedia.org
-    external: true
+# # Key Highlights
+# key-highlights:
+#   - title: Templates and Forms
+#     description: Downladable templates and forms
+#     url: /resource_room/
+#     external: false
+#   - title: Google
+#     description: LMGTFY
+#     url: https://google.com
+#     external: true
+#   - title: Yahoo
+#     description: Another search engine
+#     url: https://yahoo.com/
+#     external: true
+#   - title: Wikipedia
+#     description: More information
+#     url: https://wikipedia.org
+#     external: true
+
 
 # Info Sections
 info-sections:
-  - section-title: Users
-    section-subtitle: Hassle-free registration
-    section-description: We streamline your user registration process by removing your need for password and user management.
-    section-more-button: API References
-    section-more-button-url: /citizens/
-    section-image-path: /images/digital-transformation/govtech-hive.jpg
+  - section-title: 도솔산화암사
+    section-subtitle: 마음은 자유롭게, <br>세상은 아름답게
+    section-description: 도솔산화암사에서는 더불어 사는 사회, 사랑의 활동이 전해주는 풍요로움은 널리 전하고자 합니다. 도솔산화암사는 다양한 봉사활동을 하며 더 나은 내일을 만들기 위해 지속적으로 노력하고 있습니다. 단 한 번의 행동으로도 지역사회에 변화를 가져올 수 있습니다. 여러 대중들의 힘을 합한다면 전 세계에 큰 영향을 미칠 것입니다.
+    section-more-button: 화암사소개
+    section-more-button-url: /page-A/
+    section-image-path: /images/hero/1층계단.jpg
     section-image-alt: Photo of The Hive @ GovTech
-  - section-title: Developers
-    section-subtitle: Develop seamlessly
-    section-description: With the NDI platform, app developers only need one client ID to gain access to multiple government services.
-    section-more-button: Stuff
-    section-more-button-url: /citizens/
-    section-image-path: /images/digital-transformation/govtech-hive.jpg
-  - section-title: Users
-    section-subtitle: Hassle-free registration
-    section-description: We streamline your user registration process by removing your need for password and user management.
-    section-more-button: Stuff
-    section-more-button-url: /citizens/
-    section-image-path: /images/digital-transformation/govtech-hive.jpg
-  - section-title: Developers
-    section-subtitle: Develop seamlessly
-    section-description: With the NDI platform, app developers only need one client ID to gain access to multiple government services.
-    section-more-button: API References
-    section-more-button-url: /citizens/
-    section-image-path: /images/digital-transformation/govtech-hive.jpg
-
-# Programmes Section
-# To edit the programme details, go to programmes.yml
-programmes-title: Programmes
-programmes-subtitle: Co-creating for better value
-programmes-description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now. 
-programmes-more-button: More Programmes
-programmes-more-button-url:
-
-# Resources Section
-resources-title: Resources
-resources-subtitle: Be in the know
-resources-more-button: More Resources
-resources-more-button-url: /resource_room/
+  - section-title: 도솔노인복지센터
+    section-subtitle: 離苦得樂(이고득락) <br> 不請之友(불청지우)
+    section-description: 부처님 가르침인 지혜와 자비를 바탕으로 동체대비의 서원을 실천하며, 불자양성과 포교 및 사회복지 증진을 위한 수행도량으로 설립되었습니다. 생활불교를 선언하여 기도의 생활화 봉사를 통해 한국불교의 현대화 대중화에 기여하고 있습니다. 
+    section-more-button: 도솔노인복지센터 소개
+    section-more-button-url: /2_dosolnoin_part/dosolnoin_info/
+    section-image-path: /images/hero/복지센터전경.jpg
 
 # Careers Section
 # To edit the careers details, go to careers-stories.yml
-careers-title: Careers
-careers-subtitle: Be part of the digital transformation
-careers-description: We harness the transformative power of technology to deliver user-centric services for Singapore and Singaporeans. Be part of the team.
-careers-more-button: Explore Opportunities
-careers-more-button-url: https://www.tech.gov.sg/sub/careers
+# careers-title: 문의하기
+# careers-subtitle: 봉사 및 후원안내
+# careers-description: 화암사는 많은 봉사자들의 헌신적인 노력으로 운영되고 있습니다. <br> 여러분의 따뜻한 관심과 후원은 사회복지를 증진시키는  큰 원동력입니다.
+# careers-more-button: 바로가기
+# careers-more-button-url: /3_volunteers_part/contact-us/
 
 
+# Resources Section
+resources-title: 참여마당
+resources-subtitle: 공지사항 및 상담게시판
+resources-more-button: 더 많은 소식 보러가기
+resources-more-button-url: /resource_room/
+
+# # Programmes Section
+# # To edit the programme details, go to programmes.yml
+# programmes-title: Programmes
+# programmes-subtitle: Co-creating for better value
+# programmes-description: Using technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now. 
+# programmes-more-button: More Programmes
+# programmes-more-button-url:
