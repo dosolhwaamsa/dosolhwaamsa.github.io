@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 permalink: /1_religious_part/ceremony_info1/
 title: 신행생활 # 좌측 레벨2 메뉴제목
-breadcrumb: Application Guidelines (Lorem Ipsum One A) 
+breadcrumb: 신행생활 
 # last_updated: 01-04-2018 
 collection_name: 1_religious_part
 # second_nav_title: "법회안내" #좌측 레벨1 메뉴제목

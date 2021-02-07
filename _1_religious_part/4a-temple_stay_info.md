@@ -7,4 +7,4 @@ collection_name: 1_religious_part
 second_nav_title: "템플스테이"
 ---
 
-### 시설안내 
+### 템플스테이 
