@@ -1,0 +1,11 @@
+---
+layout: leftnav-page-content
+permalink: /2_dosolnoin_part/daycare/four/
+breadcrumb: Dosolnoin guide
+title:  주간보호생활현장
+collection_name: 2_dosolnoin_part
+second_nav_title: "주간보호센터" #좌측 레벨1 메뉴제목
+
+---
+
+### 생활현장 (게시판) 공지사항(게시판)

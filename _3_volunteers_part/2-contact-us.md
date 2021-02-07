@@ -24,6 +24,6 @@ Closed on Weekends and Public Holidays <br>
 #### **위치안내**
 [오시는길](http://kko.to/8Kb5LDXD0){:target="_blank"}  
 
-![image info](/images/contact-us.png)
+![image info](/images/contact-us.jpg)
 
-h2 { background:url(/images/contact-us.png); }
+<!-- h2 { background:url(/images/contact-us.jpg); } -->

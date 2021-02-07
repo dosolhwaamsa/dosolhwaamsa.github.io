@@ -1,54 +1,24 @@
 ---
 layout: leftnav-page-content
 permalink: /2_dosolnoin_part/dosolnoin_info/
-title: 소개 및 인사말 # 좌측 레벨2 메뉴제목
+title: 인사말 # 좌측 레벨2 메뉴제목
 breadcrumb: Application Guidelines (Lorem Ipsum One A) 
 # last_updated: 01-04-2018 
 collection_name: 2_dosolnoin_part
 ---
 
-### **도솔노인복지센터**
+### **인사말**
 
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book:
+#### 저희 도솔노인복지센터를 방문해 주신 모든 분들께 먼저 감사의 말씀을 드립니다.
 
-* It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
-* It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+불교에서는 노인복지에 대해 보은 정신에 입각한 노인 공경과 공양을 강조하고, 노인을 위하여 바르게 늙는 법과 더불어 밥그릇 숫자가 아닌 지혜의 나이를 생각하여 향락을 추구하는 탐욕을 버리고 청정한 실천행을 하도록 설하고 있습니다. 
 
-> Note: 
-> * Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.
-> * Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source.
+무료급식을 통해 노인들이 기본적인 욕구를 해결하고 다양한 노인문제에 대한 전문적인 서비스를 제공하기 위한 다양한 사회교육 프로그램과 의료서비스, 노인자원봉사활동을 통한 공동체 의식을 조성하고, 노인정보지원사업으로 인한 노인들의 사회참여를 지원함으로써 노인들의 삶의 질을 향상시키는 것을 궁극적인 목적으로 설립되었습니다.
 
-### **Where does it come from?**
+앞으로 저희 센터는 복지와 문화가 어우러질 수 있도록 하면서 또한 시설 운영에도 경영과 복지 마인드를 겸비하여 운영의 합리화를 가져오도록 할 것입니다. 아울러 노인복지에 대한 정보나 지원방안을 마련하여 서비스 체계와 네트워크 구성으로 복지 전달체계를 구축할 것입니다. 도솔노인복지센터는 국가사업의 위탁이 아니라 법인 자체의 독자적 재원으로 운영하는 시설이며, 법인만의 특색있는 복지사업을 확충해 나갈 것입니다. ​
 
-<table class="table-v">
-	<tr>
-		<td>More content</td>
-		<td>Test: <br><br> (1) Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. <br> (2) This book is a treatise on the theory of ethics, very popular during the Renaissance.</td>
-	</tr>
-	<tr>
-		<td>New content</td>
-		<td>he first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</td>
-	</tr>
-	<tr>
-		<td>Some content</td>
-		<td><b>Certificate of Registration</b> <br>(i) Dummy content - blah <br>(ii) More dummy content - bleh <br> (iii) Some more dummy content - blub <br><br> **Last bit of dummy content** - gah</td>
-	</tr>
-</table>
+우리가 무엇인가를 하고 싶다는 것은 우리에게 그 일을 할 능력이 있다는 뜻입니다.<br>
+상대를 즐겁고 기분좋게 해주는 사람이 복지사입니다. 이타심과 자비심으로 그 사람이 무엇을 원하는지 알아서 해주는 일로 꾸준히 정진할 것을 전직원과 더불어 약속드립니다. 
 
-### **Why do we use it?**
-
-1. It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout.
-
-2. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.
-
-3. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy:
-* Various versions have evolved over the [years](https://www.google.com.sg/search?q=year&oq=year&aqs=chrome..69i57j69i61j0l4.326j0j4&sourceid=chrome&ie=UTF-8){:target="_blank"} 
-* sometimes by accident, sometimes on purpose (injected humour and the like).
-
-New content - let's try this again...
-
----
-
-A sample download file can be found [here]({{site.baseurl}}/files/guides/guide-new-application.pdf)
-
-For further clarification, please email [dummy_email@dummy.com](mailto:dummy_email@dummy.com).      
+도솔노인복지센터 관장<br>
+*--덕향 혜광 합장*

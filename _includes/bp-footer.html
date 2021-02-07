@@ -48,8 +48,19 @@
             </div>
 
             {%- if social -%}
-              {%- comment -%} Social links for desktop {%- endcomment -%}
+              <!-- Social links for desktop -->
               <div class="col is-one-fifth is-hidden-mobile is-hidden-tablet-only" id="social-link-desktop">
+                {%- if social.naver -%}
+                  <a href="{{- social.naver -}}" target="_blank" class="social-link padding--bottom is-inline-block" rel="noreferrer">
+                    <img src="/assets/img/naver_icon.png" width= 18em margin-right=10px></img>
+                  </a>
+                {%- endif -%}
+                {%- if social.kakaoch -%}
+                  <a href="{{- social.kakaoch -}}" target="_blank" class="social-link padding--bottom is-inline-block" rel="noreferrer">
+                    <img src="/assets/img/kakaoch_icon.png" width= 18em margin-right=10px></img>
+                  </a>
+                    <!-- <span class="sgds-icon sgds-icon-linkedin is-size-4" title="Kakao channel"></span></a> -->
+                {%- endif -%}
                 {%- if social.facebook -%}
                   <a href="{{- social.facebook -}}" target="_blank" class="social-link padding--right padding--bottom is-inline-block" rel="noreferrer"><span class="sgds-icon sgds-icon-facebook is-size-4" title="Facebook"></span></a>
                 {%- endif -%}
@@ -69,6 +80,16 @@
               
               {%- comment -%} Social links for tablet {%- endcomment -%}
               <div class="col is-one-quarter is-hidden-mobile is-hidden-desktop" id="social-link-tablet">
+                {%- if social.naver -%}
+                  <a href="{{- social.naver -}}" target="_blank" class="social-link padding--bottom is-inline-block" rel="noreferrer">
+                    <img src="/assets/img/naver_icon.png" width= 18em margin-right=10px></img>
+                  </a>
+                {%- endif -%}
+                {%- if social.kakaoch -%}
+                  <a href="{{- social.kakaoch -}}" target="_blank" class="social-link padding--bottom is-inline-block" rel="noreferrer">
+                    <img src="/assets/img/kakaoch_icon.png" width= 18em margin-right=10px></img>
+                  </a>                    
+                {%- endif -%}
                 {%- if social.facebook -%}
                   <div class="row">
                     <a href="{{- social.facebook -}}" target="_blank" class="social-link margin--bottom" title="Facebook" rel="noreferrer"><span class="sgds-icon sgds-icon-facebook is-size-4"></span></a>
@@ -156,6 +177,16 @@
                 <class="last-updated">Last Updated {{site.time | date_to_string -}}</class> </a>
           </div>
           <div class="col is-hidden-tablet is-hidden-desktop padding--top--lg padding--bottom--none">
+              {%- if social.naver -%}
+                <a href="{{- social.naver -}}" target="_blank" class="social-link padding--bottom is-inline-block" rel="noreferrer">
+                  <img src="/assets/img/naver_icon.png" width= 18em margin-right=10px></img>
+                </a>
+              {%- endif -%}
+              {%- if social.kakaoch -%}
+                <a href="{{- social.kakaoch -}}" target="_blank" class="social-link padding--bottom is-inline-block" rel="noreferrer">
+                  <img src="/assets/img/kakaoch_icon.png" width= 18em margin-right=10px></img>
+                </a>                    
+              {%- endif -%}
               {%- if social.facebook -%}
                 <a href="{{- social.facebook -}}" target="_blank" class="social-link padding--right" title="Facebook" rel="noreferrer"><span class="sgds-icon sgds-icon-facebook is-size-4"></span></a>
               {%- endif -%}

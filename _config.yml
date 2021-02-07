@@ -42,7 +42,7 @@ breadcrumbs:
     image: false # Show image or title text
 
 collections:
-  1_religous_part:
+  1_religious_part:
     output: true
   2_dosolnoin_part:
     output: true  
