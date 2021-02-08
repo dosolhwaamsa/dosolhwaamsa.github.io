@@ -52,7 +52,7 @@ posts_json=[{
     "id": "10",
     "url": "/2_dosolnoin_part/daycare/three/",
     "title": "시설안내",
-    "content":"주간보호실 외관 주간보호실 주간보호실 외부 쉼터 주간보호실 야외 쉼터",
+    "content":"",
 },{
     "id": "11",
     "url": "/2_dosolnoin_part/daycare/four/",
