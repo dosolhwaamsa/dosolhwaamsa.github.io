@@ -5,6 +5,7 @@ layout: leftnav-page-content
 {% assign num = page.photos.size %}
 
 {%- if site.data.resources -%}
+  {{- content -}}      
   <ul>
     {% for i in (1..num) %}
     <li>        
