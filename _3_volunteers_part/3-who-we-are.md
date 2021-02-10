@@ -1,16 +1,13 @@
 ---
 layout: who-we-are
-title: Who We Are
+title: 신청하기
 permalink: /3_volunteers_part/who-we-are/
-breadcrumb: Who We Are
+breadcrumb: 신청하기
+collection_name: 3_volunteers_part
 ---
 
-### The beginning of spring is not always determined by fixed calendar dates. The phenological or ecological definition of spring relates to biological indicators, such as the blossoming of a range of plant species, the activities of animals, and the special smell of soil that has reached the temperature for micro flora to flourish.
+### 신청하기(작성중)
 
-These indicators, along with the beginning of spring, vary according to the local climate and according to the specific weather of a particular year. 
-* Most ecologists divide the year into six seasons that have no fixed dates. 
-* In addition to spring, ecological reckoning identifies an earlier separate prevernal (early or pre-spring) season between the hibernal (winter) and vernal (spring) seasons. 
-* This is a time when only the hardiest flowers like the crocus are in bloom, sometimes while there is still some snowcover on the ground.
 
 
 ### **Our Board Members**

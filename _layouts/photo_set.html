@@ -4,14 +4,24 @@ layout: leftnav-page-content
 
 {% assign num = page.photos.size %}
 
-<h1>{{ page.title }}</h1>
-<ul>
-  {% for i in (1..num) %}
-  <li>
-    <img src="{{ site.baseurl }}/images/{{page.photos.set}}/{{ page.photos.set }}-{{ i }}.jpg" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}">
-  </li>
-  {% endfor %}
-</ul>
+{%- if site.data.resources -%}
+  <ul>
+    {% for i in (1..num) %}
+    <li>        
+      <img src="{{page.photos.url}}/{{page.photos.set}}/{{ page.photos.set }}-{{ i }}.jpg" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}"> 
+    </li>
+    {% endfor %}
+  </ul>    
+{%- else -%}
+  <h1>{{ page.title }}</h1>
+  <ul>
+    {% for i in (1..num) %}
+    <li>        
+      <img src="{{ site.baseurl }}/images/{{page.photos.set}}/{{ page.photos.set }}-{{ i }}.jpg" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}">    
+    </li>
+    {% endfor %}
+  </ul>
+{%- endif -%}
 <!-- <div>
-  <a href="{{ site.baseurl }}/photos/">View All Photo Sets</a>
+  <a href="{{ site.baseurl }}/images/{{page.photos.set}}/">View All Photo Sets</a>
 </div> -->

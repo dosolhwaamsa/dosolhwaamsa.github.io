@@ -15,7 +15,7 @@ layout: default
     </div>
 </section>
 
-{%- comment -%} Resource category buttons {%- endcomment -%}
+<!-- Resource category buttons -->
 <section class="bp-section is-small padding--bottom--none">
     <div class="bp-container padding--top">
         <div class="row">
@@ -36,9 +36,9 @@ layout: default
 
                         {%- capture category_url -%} 
                             {%- if category_name == site.resources_name -%}
-                                /{{site.resources_name}}/
+                                /{{site.resources_name}}/                                
                             {%- else -%}
-                                /{{site.resources_name}}/{{category_name}}/
+                                /{{site.resources_name}}/{{category_name}}/                                
                             {%- endif -%}
                         {%- endcapture -%}
 
@@ -119,10 +119,10 @@ layout: default
                     </div>
                 </div> {%- endcomment -%}
                 {%- else -%}
-                {%- comment -%} Define category_index - the index used to determine the bg-color-{{category_index}} {%- endcomment -%}
-                {%- comment -%} Fallback in case category_index is not set in the for loop {%- endcomment -%}
+                <!-- {%- comment -%} Define category_index - the index used to determine the bg-color-{{category_index}} {%- endcomment -%}
+                {%- comment -%} Fallback in case category_index is not set in the for loop {%- endcomment -%} -->
                 {%- assign category_index = 1 -%}
-                {%- comment -%} Edge case where subcategory has the same name as resource room (post.categories[1] becomes undefined) {%- endcomment -%}
+                <!-- {%- comment -%} Edge case where subcategory has the same name as resource room (post.categories[1] becomes undefined) {%- endcomment -%} -->
                 {%- if post.categories[1] -%}
                     {%- assign post_category = post.categories[1] -%}
                 {%- else -%}

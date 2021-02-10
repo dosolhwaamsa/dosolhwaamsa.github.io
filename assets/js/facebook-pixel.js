@@ -1,5 +1,5 @@
 ---
-layout: blank
+layout: default
 ---
 ! function(f, b, e, v, n, t, s) {
     if (f.fbq) return;

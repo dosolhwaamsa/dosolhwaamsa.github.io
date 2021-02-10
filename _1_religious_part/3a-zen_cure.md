@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
 permalink: /1_religious_part/zen_cure/two/
-breadcrumb: Application Guidelines (Lorem Ipsum Two A) 
-title: 마음치유아카데미
+breadcrumb: 마음치유명상아카데미
+title: 마음치유명상아카데미
 collection_name: 1_religious_part
-second_nav_title: "마음치유명상"
+# second_nav_title: "마음치유명상"
 ---
 ### **마음치유명상 아카데미**
 

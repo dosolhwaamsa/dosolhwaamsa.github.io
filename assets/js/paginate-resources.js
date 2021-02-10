@@ -56,7 +56,7 @@ function displayFilterDropdown(earliestYear, currYear) {
   var yearFilterDesktop = document.getElementById('year-filter-desktop');
   var yearFilterMobile = document.getElementById('year-filter-mobile');
 
-  for (var year = earliestYear; year <= currYear; year++) {
+  for (var year = currYear; year >= earliestYear; year--) {
     if (!yearHasPosts(year)) continue; // Creating the select element for mobile view
 
     var option = document.createElement("option");
@@ -74,7 +74,7 @@ function displayFilterDropdown(earliestYear, currYear) {
         applyFilter(closureYear);
       };
     }();
-
+    
     yearFilterDesktop.appendChild(a_element);
     var p_element = document.createElement("p");
     p_element.innerHTML = year;

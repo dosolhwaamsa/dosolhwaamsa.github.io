@@ -18,7 +18,7 @@
 - title: 도솔노인복지센터
   url: /2_dosolnoin_part/dosolnoin_info/
   sub-links:
-  - title: 소개 및 인사말
+  - title: 인사말
     url: /2_dosolnoin_part/dosolnoin_info/
   - title: 설립목적 및 연혁
     url: /2_dosolnoin_part/history/
@@ -40,11 +40,12 @@
   - title: All
     url: /resource_room/
   - title: 공지사항
-    url: /resource_room/guides/
-  - title: Forms and Templates
-    url: /resource_room/forms-and-templates/
-  - title: Data.gov Search
-    url: /data-gov-sg/
-  - title: test_suite
-    url: /products-and-services/  
-  
+    url: /resource_room/notices/
+  - title: 주간보호생활현장
+    url: /resource_room/daycare-life/
+  - title: 숲체험교육현장  
+    url: /resource_room/forest/
+  - title: 봉사활동현장  
+    url: /resource_room/volunteer/
+  - title: 신행생활현장  
+    url: /resource_room/religious-life/

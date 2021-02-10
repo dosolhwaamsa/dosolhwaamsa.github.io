@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: leftnav-page-content
 ---
 
-<section class="bp-section is-small bp-section-pagetitle">
+<!-- <section class="bp-section is-small bp-section-pagetitle">
     <div class="bp-container">
         {%- include header-breadcrumb.html -%}
     </div>
@@ -13,12 +13,13 @@ layout: default
             </div>
         </div>
     </div>
-</section>
+</section> -->
 
-<section class="bp-section">
-	<div class="bp-container content padding--top--lg padding--bottom--xl">
+<!-- <section class="bp-section">
+	<div class="bp-container content padding--top--lg padding--bottom--xl"> -->
+	<div class="content">
 	    <div class="row">
-		    <div class="col is-8 is-offset-2">
+		    <div class="col is-8"> <!--is-offset-2-->
 		    	{{- content -}}
 	    	</div>
 	    </div>
@@ -26,7 +27,7 @@ layout: default
 		    {%- assign index = forloop.index0 | modulo:2 -%}
 		    {%- if index == 0 -%}
 		    <div class="row person-info">
-		    	<div class="col is-4 is-offset-2">
+		    	<div class="col is-4"> <!--is-offset-2-->
 					<p><b>{{- member.name -}}</b><br>
 					<small>{{- member.title -}}</small><br>
 					<a href="mailto:{{member.email}}">{{- member.email -}}</a>
@@ -49,4 +50,5 @@ layout: default
 			{%- endif -%}
 		{%- endfor -%}
 	</div>
-</section>
+	<!-- </div>
+</section> -->

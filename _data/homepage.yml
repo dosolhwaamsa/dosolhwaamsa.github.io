@@ -14,7 +14,7 @@ agency-logo: /images/dosol-pages-logo.gif
 google-analytics: UA-test
 
 # AskJamie
-# ask-jamie: non-empty string
+ask-jamie: non-empty string
 
 # Hero Banner
 hero-title: 도솔산 화암사

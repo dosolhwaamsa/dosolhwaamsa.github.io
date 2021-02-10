@@ -22,7 +22,7 @@ layout: default
 {%- endcapture -%}
 
 
-{%- comment -%} Define category_index - the index used to determine the bg-color-{{category_index}} {%- endcomment -%}
+<!-- {%- comment -%} Define category_index - the index used to determine the bg-color-{{category_index}} {%- endcomment -%} -->
 {%- for post in site.posts -%}
     {%- if post.categories[1] == page_category -%}
         {%- assign samplePost = post -%}

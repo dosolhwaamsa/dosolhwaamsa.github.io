@@ -1,8 +1,9 @@
 categories:
 - category-name: resource_room
-- category-name: 공지사항
-- category-name: 신행생활현장
-- category-name: 주간보호센터현장
-- category-name: 숲체험교육현장
-- category-name: 자원봉사현장
-- category-name: forms-and-templates
+- category-name: notices
+- category-name: daycare-life
+- category-name: forest
+- category-name: volunteer
+- category-name: religious-life
+# - category-name: forms-and-templates
+# - category-name: stuff
