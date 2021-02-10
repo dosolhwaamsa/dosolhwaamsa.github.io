@@ -410,17 +410,17 @@ posts_json=[{
     "content":"도솔노인복지센터 동계 실습생 모집 모집인원 : 5명 모집방법 : 선착순 접수 (1) 도솔노인복지센터 문의(전화: 528-1080) ⇒ (2) 학과 사무실 접수 및 신청, 도솔노인복지센터로 공문발송 ⇒ (3) 도솔노인복지센터 접수 ⇒ (4) 학과 및 학생에게 통보 실습기간 (1) 2018. 12. 10. ~ 12. 31. (3주간: 120시간) (2) 2019. 1. 2. ~ 1. 31. (4주간: 160시간) 실습기간 및 시간은 사전 조정 실습시간: 1일 8시간(주 5일) 실 습 비: 10만원(식비포함) 문의 (042) 528-1080",
 },{
     "id": "82",
-    "url": "/resource_room/religious-life/life6",
+    "url": "/resource_room/religious-life/life9",
     "title": "2019년 5월 12일 부처님 오신날(1)",
     "content":"",
 },{
     "id": "83",
-    "url": "/resource_room/religious-life/life6",
+    "url": "/resource_room/religious-life/life8",
     "title": "2019년 5월 12일 부처님 오신날(2)",
     "content":"",
 },{
     "id": "84",
-    "url": "/resource_room/religious-life/life6",
+    "url": "/resource_room/religious-life/life7",
     "title": "2019년 5월 12일 부처님 오신날(3)",
     "content":"",
 },{
