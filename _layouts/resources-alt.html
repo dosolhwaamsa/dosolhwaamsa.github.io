@@ -61,8 +61,10 @@ Fallback in case category_index is not set in the for loop -->
                     {%- for category-element in categories -%}
                         {%- if site.data.resources -%}
                             {%- capture category_name -%} {{- category-element.category-name -}} {%- endcapture -%}
+                            {%- capture category_address -%} {{- category-element.category-url -}} {%- endcapture -%}
                         {%- else -%}
                             {%- capture category_name -%} {{- category-element | first -}} {%- endcapture -%}
+                            {%- capture category_address -%} {{- category-element | first -}} {%- endcapture -%}
                         {%- endif -%}
 
                         {%- capture category_url -%} 
@@ -80,7 +82,7 @@ Fallback in case category_index is not set in the for loop -->
                                 {%- if page_url_no_whitespace == category_url -%}
                                     <a href="{{site.baseurl}}/{{site.resources_name}}/{{category_name}}/" class="is-uppercase media-category-button selected"><b>{{- category_name | replace: '-', ' ' -}}</b></a>
                                 {%- else -%}
-                                    <a href="{{site.baseurl}}/{{site.resources_name}}/{{category_name}}/" class="is-uppercase media-category-button"><b>{{- category_name | replace: '-', ' ' -}}</b></a>
+                                    <a href="{{site.baseurl}}/{{site.resources_name}}/{{category_address}}" class="is-uppercase media-category-button"><b>{{- category_name | replace: '-', ' ' -}}</b></a>
                                 {%- endif -%}
                             {%- endif -%}
                         </span>
