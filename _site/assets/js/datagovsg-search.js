@@ -1,3 +1,5 @@
+// ---
+// ---
 'use strict';
 
 var RESULTS_PER_PAGE = 10;

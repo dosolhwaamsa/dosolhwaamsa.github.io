@@ -5,14 +5,24 @@ layout: leftnav-page-content
 {% assign num = page.photos.size %}
 
 {%- if site.data.resources -%}
-  {{- content -}}      
-  <ul>
-    {% for i in (1..num) %}
+  {{- content -}}  
+  {%- if page.photos.set == 'dosolnoin'-%}
+  <ul>    
+    {% for i in (1..num) %}    
+    <li>        
+      <img src="{{page.photos.url}}/images/{{page.photos.set}}/{{ page.photos.set }}-{{ i }}.jpg" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}"> 
+    </li>
+    {% endfor %}
+  </ul> 
+  {%- else -%}
+  <ul>    
+    {% for i in (1..num) %}    
     <li>        
       <img src="{{page.photos.url}}/{{page.photos.set}}/{{ page.photos.set }}-{{ i }}.jpg" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}"> 
     </li>
     {% endfor %}
-  </ul>    
+  </ul> 
+  {% endif}
 {%- else -%}
   <h1>{{ page.title }}</h1>
   <ul>
