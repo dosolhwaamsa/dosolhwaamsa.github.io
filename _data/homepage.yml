@@ -17,7 +17,7 @@ google-analytics: UA-test
 ask-jamie: non-empty string
 
 # Hero Banner
-hero-title: 도솔산 화암사
+hero-title: "도솔산 화암사"
 hero-subtitle: 마음은 자유롭게, 세상은 아름답게
 hero-banner: /images/dosolhwaam_banner.png
 

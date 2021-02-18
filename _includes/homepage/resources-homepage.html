@@ -3,14 +3,14 @@
 <section class="bp-section">
     <div class="bp-container">
         <div class="row">
-            <div class="col is-half is-offset-one-quarter has-text-centered padding--top--lg">
-                <p class="padding--bottom eyebrow is-uppercase">
+            <div class="col is-half is-offset-one-quarter has-text-centered padding--top--lg" >
+                <p class="padding--bottom--xs eyebrow is-uppercase">
                     {{- homepage.resources-title -}}
                 </p>
-                <h1 class="has-text-secondary padding--bottom"><b>{{- homepage.resources-subtitle -}}</b></h1>
+                <h2 class="has-text-secondary padding--bottom--xs"><b>{{- homepage.resources-subtitle -}}</b></h2>
             </div>
         </div>
-        <div class="row padding--bottom">
+        <div class="row padding--bottom--xs is-marginless">
             {%- for post in site.posts limit:3 -%}
             <div class="col">
                 {%- comment -%} Define category_index - the index used to determine the bg-color-{{category_index}} {%- endcomment -%}
@@ -73,7 +73,7 @@
             </div>
             {%- endfor -%}
         </div>
-        <div class="row has-text-centered margin--top padding--bottom--lg">
+        <div class="row has-text-centered margin--top padding--bottom--xs is-marginless">
             <div class="col is-offset-one-third is-one-third">
                 <a href="{{- homepage.resources-more-button-url -}}" class="bp-sec-button">
                     <div>

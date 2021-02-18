@@ -189,7 +189,7 @@ function getQueryVariable(variable) {
     var pair = vars[i].split('=');
 
     if (pair[0] === variable) {
-      var dirtyString = decodeURIComponent(pair[1].replace(/\+/g, '%20'));
+      var dirtyString = decodeURIComponent(pair[1].replace(/\+/g, '%50'));
       return DOMPurify.sanitize(dirtyString, { ALLOWED_TAGS: [], ALLOWED_ATTR: [] });
     }
   }

@@ -59,6 +59,14 @@ collections:
 resources_name: "resource_room"
 paginate: 16
 
+
+# defaults:
+#   -
+#     scope:
+#       path: "photography"
+#     values:
+#       permalink: /:path/:basename:output_ext
+
 # Site configuration for Isomer Pages
 ##################################
 

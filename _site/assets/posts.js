@@ -550,14 +550,14 @@ posts_json=[{
     "content":"Use technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now. Co-creation In an inter-connected world where data is open and available to all, citizens and businesses can do a lot to shape how Singapore develops into a Smart Nation. Indeed, it is through your engagement and co-creation that a Smart Nation becomes truly smart. Today, there are several resources to get involved in a digital Singapore. By discovering new insights, sharing feedback and developing apps, many ground-up efforts of users are already shaping Singapore for the future. Tech Kaki Community We want to solve problems. In fact, we want to solve problems with you! At GovTech Singapore, we transform the delivery of Government digital services by taking an “outside-in” view, and put users first for our work. Tech Kaki is a community set up by GovTech for citizen participation. As part of this community, you will get first dibs on new tech products before they go live and be part of the development team to make them better. We will publish quick polls and mini surveys regularly. All you have to do is to take a few minutes to answer them. Join us at https://www.facebook.com/TechKaki today! Bug Bounty Program At GovTech, we embrace this “outside-in approach”. Only when we have taken in the views and preferences of citizens and stakeholders can a digital service be considered user-centric. This, we believe, is the way to develop high-quality digital services that matter. This is also why we are asking people to be our Tech Kaki. By joining the community, you get to try out our new tech products and services before they are available. Too many government apps today? That’s alright, we will evaluate the landscape of apps as we move towards addressing the various Moments of Life for citizens. As a user, your insights are valuable in creating digital offerings that are useful to citizens.",
 },{
     "id": "110",
-    "url": "/resource_room/religious-life/",
+    "url": "/resource_room/",
     "title": "참여마당",
     "content":"",
 },{
     "id": "111",
-    "url": "/resource_room/",
-    "title": "참여마당",
-    "content":"",
+    "url": "/photography/",
+    "title": "Photography",
+    "content":"Below are two example galleries. The first gallery illustrates basic usage. The second gallery illustrate how to include several image galleries into one entry to create more complex structures and tell better stories. A Very Basic Example Gallery A More Complicated Example Gallery &lt;/div&gt;",
 },{
     "id": "112",
     "url": "/resource_room/forest/",
@@ -570,7 +570,7 @@ posts_json=[{
     "content":"",
 },{
     "id": "114",
-    "url": "/resource_room/volunteer/",
+    "url": "/resource_room/religious-life/",
     "title": "참여마당",
     "content":"",
 },{
@@ -580,26 +580,31 @@ posts_json=[{
     "content":"",
 },{
     "id": "116",
+    "url": "/resource_room/volunteer/",
+    "title": "참여마당",
+    "content":"",
+},{
+    "id": "117",
     "url": "/",
     "title": "도솔산화암사",
     "content":"홈페이지 리뉴얼중입니다. 최신공지는 다음 링크에서 확인해주세요. [링크바로가기]",
 },{
-    "id": "117",
+    "id": "118",
     "url": "/initiatives/",
     "title": "Initiatives",
     "content":"Co-creating for Better Value Use technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now.",
 },{
-    "id": "118",
+    "id": "119",
     "url": "/page-A/",
     "title": "화암사소개",
     "content":"인사말 2007년 5월 도솔산 아래에 작은 밭을 만들었습니다. 사찰은 단순히 기도하고 법회보고 교육하는 장소가 아니라, 삶에 지친 세상 사람들에게 희망과 용기, 그리고 위로를 주는 공간이 되어야 합니다. 그리하여 다시 신바람나게 살고자하는 욕구가 샘솟게 하는 정신적인 서비스를 제공하는 곳으로 인식 전환이 필요합니다. 사찰은 시대정신이 반영된 소통의 공간이 되어야 합니다. 부처님 말씀대로 행하고 우리의 기도가 온전히 회향할 수 있는 공덕의 밭을 여기 가까이 마음 모을 수 있는 불자님들과 함께 만들었습니다. 아무리 작은 등불이라도 어둠을 밝힐 수 있듯이, 시작은 작고 미약하지만 그 속에 늘 푸르고 성실한 마하반야바라밀의 부처님의 알맹이가 자라도록 노력하겠습니다. 더불어 신도들의 모든 헌공을 철저히 사회에 환원할 것입니다. 화암사는 사회복지 증진을 목표로 정진하고 있으며, 도솔노인복지센터 운영을 통해 도솔산 화암사의 이상인 사회복지를 실현해 나가고 있습니다. 아울러 화암사는 끊임없는 기도와 정진을 생명으로 하는 수행의 요람입니다. 저희 화암사에 오시는 모든 분들이 보현보살의 눈과 관세음보살의 손과 지장보살의 마음으로 정진하시길 축원합니다. – 덕향 혜광 합장 화암사 신도 실천지첨 오늘 한 번이라도 남을 존중하였는가? 오늘 한 번이라도 남을 칭찬하였는가? 오늘 한 번이라도 남에게 베풀었는가? 오늘 한 번이라도 남이 한 일을 기뻐하였는가? 오늘 한 줄이라도 경전을 읽었는가? 오늘 한 번이라도 남의 뜻을 따랐는가? 오늘 내가 지은 공덕을 남의 공덕으로 여겼는가?",
 },{
-    "id": "119",
+    "id": "120",
     "url": "/products-and-services/",
     "title": "Products and Services",
     "content":"Co-creating for Better Value Use technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now.",
 },{
-    "id": "120",
+    "id": "121",
     "url": "/search/",
     "title": "Search",
     "content":"",
