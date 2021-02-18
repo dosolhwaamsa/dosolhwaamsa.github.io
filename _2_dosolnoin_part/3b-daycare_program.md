@@ -2,9 +2,9 @@
 layout: leftnav-page-content
 permalink: /2_dosolnoin_part/daycare/one/
 breadcrumb: Application Guidelines (Lorem Ipsum Two A) 
-title:  프로그램
+title:  주간보호 프로그램
 collection_name: 2_dosolnoin_part
-second_nav_title: "주간보호센터" #좌측 레벨1 메뉴제목
+second_nav_title: "주간보호센터안내" #좌측 레벨1 메뉴제목
 ---
 
 ### 주간보호 프로그램 계획(안)

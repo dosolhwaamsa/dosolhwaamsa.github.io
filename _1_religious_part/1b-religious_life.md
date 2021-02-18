@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-permalink: /1_religious_part/ceremony_info1/
+permalink: /1_religious_part/religious_life/
 title: 신행생활 # 좌측 레벨2 메뉴제목
 breadcrumb: 신행생활 
 # last_updated: 01-04-2018 
