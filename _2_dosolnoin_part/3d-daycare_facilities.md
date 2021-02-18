@@ -1,6 +1,6 @@
 ---
 # layout: leftnav-page-content
-layout: gallery
+layout: leftnav-page-content
 permalink: /2_dosolnoin_part/daycare/three/
 breadcrumb: Dosolnoin guide
 title:  시설안내
