@@ -6,11 +6,15 @@ breadcrumb: Dosolnoin guide
 title:  시설안내
 collection_name: 2_dosolnoin_part
 second_nav_title: "주간보호센터" #좌측 레벨1 메뉴제목
+support: [jquery, gallery]
 
 photos:
     set: dosolnoin
     size: 10
 ---
+
+{% include image-gallery.html folder="/images/dosolnoin" %}
+
 
 <!-- #### **주간보호실 외관**
 ![image]({{site.baseurl}}/images/dosolnoin/외관.jpg){:height="512" width="256"}

@@ -57,7 +57,7 @@ posts_json=[{
     "id": "11",
     "url": "/2_dosolnoin_part/daycare/three/",
     "title": "시설안내",
-    "content":"",
+    "content":"dosolnoin-1 dosolnoin-10 dosolnoin-2 dosolnoin-3 dosolnoin-4 dosolnoin-5 dosolnoin-6 dosolnoin-7 dosolnoin-8 dosolnoin-9",
 },{
     "id": "12",
     "url": "/2_dosolnoin_part/daycare/four/",
