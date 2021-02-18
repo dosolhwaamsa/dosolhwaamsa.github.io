@@ -5,10 +5,10 @@
 ##################################
 
 - title: 화암사소개
-  url: /page-A/
-- title: 신행생활
-  url: /1_religious_part/ceremony_info1/
+  url: /1_religious_part/hwaamsa_info/  
   sub-links:
+  - title: 신행생활
+    url: /1_religious_part/ceremony_info1/
   - title: 법회안내
     url: /1_religious_part/ceremony_info/one/
   - title: 마음치유명상아카데미

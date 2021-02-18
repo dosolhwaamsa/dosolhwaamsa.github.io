@@ -1,12 +1,18 @@
 ---
 layout: leftnav-page-content
 permalink: /1_religious_part/ceremony_info/two/
-title: 사찰안내
 breadcrumb: 사찰안내
-image: "/images/religious_part/1사찰전경.jpg" 
+title: 사찰안내
 collection_name: 1_religious_part
 second_nav_title: "법회안내"
+
 ---
+
+### 화암사 둘러보기
+
+{% include image-gallery.html folder="/images/religious_part/overview" %}
+
+
 
 ### 사찰안내
 

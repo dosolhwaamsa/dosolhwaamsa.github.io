@@ -5,7 +5,7 @@ title: 신행생활 # 좌측 레벨2 메뉴제목
 breadcrumb: 신행생활 
 # last_updated: 01-04-2018 
 collection_name: 1_religious_part
-# second_nav_title: "법회안내" #좌측 레벨1 메뉴제목
+second_nav_title: "화암사소개" #좌측 레벨1 메뉴제목
 ---
 
 ### **초심자를 위한 신행생활**

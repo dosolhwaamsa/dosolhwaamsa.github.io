@@ -1,8 +1,10 @@
 ---
-layout: simple-page
-title: 화암사소개
-permalink: /page-A/
+layout: leftnav-page-content
+permalink: /1_religious_part/hwaamsa_info/
+title: 인사말
 breadcrumb: 화암사소개
+collection_name: 1_religious_part
+second_nav_title: "화암사소개"
 ---
 
 ### **인사말**
