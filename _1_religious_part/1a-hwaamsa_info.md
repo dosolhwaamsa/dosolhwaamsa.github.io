@@ -9,10 +9,9 @@ second_nav_title: "화암사소개"
 
 ### **인사말**
 
-<!-- ![Organisational chart for Smart Nation and Digital Governance Group (SNDGG) in the Prime Minister Office (PMO)]({{- "/images/religious_part/dosolnoin_sub.gif" | relative_url -}}) -->
-![](http://images.weserv.nl/?url={{site.url}}{{site.baseurl}}/images/religious_part/dosolnoin_sub.gif&w=10&h=10&output=jpg&q=80&t=circle)
+![](http://images.weserv.nl/?url={{site.url}}{{site.baseurl}}/images/religious_part/dosolnoin_sub.gif&w=1.5&h=1.5&output=jpg&q=80&t=circle)
 
-<a href="{{ file.path | relative_url }}" title="{{ filename }}"><img src="//images.weserv.nl/?url={{site.url}}{{site.baseurl}}/images/religious_part/dosolnoin_sub.gif&w=10&h=10&output=jpg&q=80&t=circle" alt="{{ filename }}" /></a>
+<!-- <a href="{{ file.path | relative_url }}" title="{{ filename }}"><img src="//images.weserv.nl/?url={{site.url}}{{site.baseurl}}/images/religious_part/dosolnoin_sub.gif&w=1.5&h=1.5&output=jpg&q=80&t=circle" alt="{{ filename }}" /></a> -->
 
 2007년 5월 도솔산 아래에 작은 밭을 만들었습니다. 사찰은 단순히 기도하고 법회보고 교육하는 장소가 아니라, 삶에 지친 세상 사람들에게 희망과 용기, 그리고 위로를 주는 공간이 되어야 합니다.  그리하여 다시 신바람나게 살고자하는 욕구가 샘솟게 하는 정신적인 서비스를 제공하는 곳으로 인식 전환이 필요합니다. 
 
