@@ -27,12 +27,12 @@ posts_json=[{
     "id": "5",
     "url": "/1_religious_part/zen_cure/two/",
     "title": "마음치유명상아카데미",
-    "content":"마음치유명상 아카데미 – For further clarification, please email dosol-hwaam@naver.com.",
+    "content":"마음치유명상 아카데미 – ** 문의 및 안내 바로가기**",
 },{
     "id": "6",
     "url": "/1_religious_part/temple_stay/three/",
     "title": "템플스테이",
-    "content":"템플스테이",
+    "content":"템플스테이 세부일정 일자 시간 내용 10월 13일 14:00 ~ 14:40 접수 및 입제, 화암사 소개 14:00 ~ 14:40 오리엔테이션(음악치료, 자기소개, 별칭짓기) 14:00 ~ 14:40 휴식 17:00 ~ 18:00 호흡 명상 18:00 ~ 19:00 저녁 공양 19:00 ~ 20:00 자비 명상 20:00 ~ 20:10 휴식 20:10 ~ 22:00 자기긍정 명상 22:00 ~ 22:30 세면 및 취침 10월 14일 04:30 ~ 05:00 기상 및 세면 05:00 ~ 06:00 나를 찾는 108배(김영동) 06:00 ~ 07:00 아침 공양 07:00 ~ 09:00 도솔산 숲길 걷기(숲 명상, 걷기 명상) 09:00 ~ 10:00 자신에게 쓰는 영상편지(김성필 법우님) 10:00 ~ 10:30 주변 정리 10:30 ~ 12:00 불교의식 체험(일요법회) 12:00 ~ 13:00 점심 공양 및 휴식 13:00 ~ 15:00 차 한 잔의 여유, 소감문 작성, 울력 15:00 회향(나를 찾아 떠나기)",
 },{
     "id": "7",
     "url": "/1_religious_part/temple_stay/four/",
@@ -560,56 +560,51 @@ posts_json=[{
     "content":"Use technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now. Co-creation In an inter-connected world where data is open and available to all, citizens and businesses can do a lot to shape how Singapore develops into a Smart Nation. Indeed, it is through your engagement and co-creation that a Smart Nation becomes truly smart. Today, there are several resources to get involved in a digital Singapore. By discovering new insights, sharing feedback and developing apps, many ground-up efforts of users are already shaping Singapore for the future. Tech Kaki Community We want to solve problems. In fact, we want to solve problems with you! At GovTech Singapore, we transform the delivery of Government digital services by taking an “outside-in” view, and put users first for our work. Tech Kaki is a community set up by GovTech for citizen participation. As part of this community, you will get first dibs on new tech products before they go live and be part of the development team to make them better. We will publish quick polls and mini surveys regularly. All you have to do is to take a few minutes to answer them. Join us at https://www.facebook.com/TechKaki today! Bug Bounty Program At GovTech, we embrace this “outside-in approach”. Only when we have taken in the views and preferences of citizens and stakeholders can a digital service be considered user-centric. This, we believe, is the way to develop high-quality digital services that matter. This is also why we are asking people to be our Tech Kaki. By joining the community, you get to try out our new tech products and services before they are available. Too many government apps today? That’s alright, we will evaluate the landscape of apps as we move towards addressing the various Moments of Life for citizens. As a user, your insights are valuable in creating digital offerings that are useful to citizens.",
 },{
     "id": "112",
-    "url": "/resource_room/volunteer/",
-    "title": "참여마당",
-    "content":"",
-},{
-    "id": "113",
-    "url": "/photography/",
-    "title": "Photography",
-    "content":"Below are two example galleries. The first gallery illustrates basic usage. The second gallery illustrate how to include several image galleries into one entry to create more complex structures and tell better stories. A Very Basic Example Gallery A More Complicated Example Gallery &lt;/div&gt;",
-},{
-    "id": "114",
     "url": "/resource_room/forest/",
     "title": "참여마당",
     "content":"",
 },{
-    "id": "115",
-    "url": "/resource_room/daycare-life/",
-    "title": "참여마당",
-    "content":"",
-},{
-    "id": "116",
-    "url": "/resource_room/religious-life/",
-    "title": "참여마당",
-    "content":"",
-},{
-    "id": "117",
-    "url": "/resource_room/notices/",
-    "title": "참여마당",
-    "content":"",
-},{
-    "id": "118",
+    "id": "113",
     "url": "/resource_room/",
     "title": "참여마당",
     "content":"",
 },{
-    "id": "119",
+    "id": "114",
+    "url": "/resource_room/religious-life/",
+    "title": "참여마당",
+    "content":"",
+},{
+    "id": "115",
+    "url": "/resource_room/notices/",
+    "title": "참여마당",
+    "content":"",
+},{
+    "id": "116",
+    "url": "/resource_room/volunteer/",
+    "title": "참여마당",
+    "content":"",
+},{
+    "id": "117",
+    "url": "/resource_room/daycare-life/",
+    "title": "참여마당",
+    "content":"",
+},{
+    "id": "118",
     "url": "/",
     "title": "도솔산화암사",
     "content":"홈페이지 리뉴얼중입니다. 최신공지는 다음 링크에서 확인해주세요. [링크바로가기]",
 },{
-    "id": "120",
+    "id": "119",
     "url": "/initiatives/",
     "title": "Initiatives",
     "content":"Co-creating for Better Value Use technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now.",
 },{
-    "id": "121",
+    "id": "120",
     "url": "/products-and-services/",
     "title": "Products and Services",
     "content":"Co-creating for Better Value Use technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now.",
 },{
-    "id": "122",
+    "id": "121",
     "url": "/search/",
     "title": "Search",
     "content":"",
