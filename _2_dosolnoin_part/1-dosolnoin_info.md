@@ -2,12 +2,18 @@
 layout: leftnav-page-content
 permalink: /2_dosolnoin_part/dosolnoin_info/
 title: 인사말 # 좌측 레벨2 메뉴제목
-breadcrumb: Application Guidelines (Lorem Ipsum One A) 
+breadcrumb: 복지센터 인사말
 # last_updated: 01-04-2018 
 collection_name: 2_dosolnoin_part
 ---
 
+![]({{site.url}}/images/contact-us.jpg){:height="25%" width="25%"}
+
+<br>
+
+
 ### **인사말**
+
 
 #### 저희 도솔노인복지센터를 방문해 주신 모든 분들께 먼저 감사의 말씀을 드립니다.
 

@@ -1,4 +1,9 @@
 @charset "UTF-8";
+
+img[src*='#right'] {
+    float: right;
+}
+
 /*
  *  Owl Carousel - Core
  */
