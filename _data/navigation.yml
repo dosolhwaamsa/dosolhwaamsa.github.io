@@ -29,10 +29,10 @@
 - title: 봉사안내
   url: /3_volunteers_part/volunteer-info/
   sub-links:
-  - title: 문의하기
-    url: /3_volunteers_part/contact-us/
   - title: 신청하기
     url: /3_volunteers_part/who-we-are/
+  - title: 문의하기
+    url: /3_volunteers_part/contact-us/
 
 - title: 참여마당
   url: /resource_room/
