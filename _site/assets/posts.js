@@ -522,7 +522,7 @@ posts_json=[{
     "id": "104",
     "url": "/resource_room/religious-life/life2",
     "title": "2020년 5월 30월 부처님 오신날 꽃꽃이 2",
-    "content":"",
+    "content":"20200530-1 20200530-2 20200530-3 20200530-4 20200530-5 20200530-6",
 },{
     "id": "105",
     "url": "/resource_room/notices/ceremony_info",
