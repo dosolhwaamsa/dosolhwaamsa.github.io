@@ -1,0 +1,76 @@
+---
+layout: leftnav-page-content
+---
+
+
+
+<!-- Resource category buttons 
+<section class="bp-section is-small padding--bottom--none">
+    <div class="bp-container padding--top">
+        <div class="row">
+            <div class="col is-three-quarters-desktop is-fullwidth bp-overflow-buttons padding--left--none padding--right--none">
+                {%- assign categories = site.data.what-we-do.categories -%}                    
+
+                    {%- for category-element in categories -%}
+                        {%- capture category_name -%} {{- category-element.category-name -}} {%- endcapture -%}
+                        {%- capture category_address -%} {{- category-element.category-url -}} {%- endcapture -%}                        
+
+                        {%- capture category_url -%} /{{site.resources_name}}/{{category_address}}/  {%- endcapture -%}                        
+
+                        <a href="{{site.url}}{{page.permalink}}" class="is-uppercase media-category-button"><b>{{- category_name | replace: '-', ' ' -}}</b></a>
+
+                    {%- endfor -%}
+            </div>
+                        
+        </div>
+    </div>
+</section> -->
+
+{%- assign categories = site.data.what-we-do.categories -%}                    
+
+    {%- for category-element in categories -%}
+        {%- capture category_name -%} {{- category-element.category-name -}} {%- endcapture -%}
+        {%- capture category_url-%} {{- category-element.category-url -}} {%- endcapture -%} 
+
+    {%- endfor -%}
+
+    {{categories.category-name}}
+    {{categories.category-url}}
+    
+{%- comment -%} Posts {%- endcomment -%}
+<!-- <section class="bp-section"> -->    
+    <div class="bp-container padding--top--none padding--bottom--xs">
+        <div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet resource-card-element hide" id="{{- post.date | date: "%Y" -}}">
+        </div>
+            
+            {%- for post in site.posts -%}
+                {%- if post.categories[1] == category_url -%}
+
+                <div class="is-fluid padding--none description">
+                    <a href="{{site.url}}{{post.permalink }}" class="has-text-grey-dark" ><b>
+                      <h6 class="has-text-black"> {{- post.title | truncatewords : 10}} </h6></b>
+                    </a>
+                    
+                    <small class="date has-text-grey">
+                        {{- post.date | date_to_string | upcase -}}
+                    </small>   
+                    
+                    {%- if post.file_url -%}
+                        <a href="{{site.url}}{{post.file_url}}" target="_blank"> 
+                        <small class="has-text-black">  
+                            <span class="sgds-icon sgds-icon-download align-right is-size-5"></span>
+                        </small>  
+                        </a>
+                    {%- endif -%}
+                </div>                
+                {%- endif -%}
+            {%- endfor -%}
+        </div>
+    <!-- </section> -->
+
+<div class="search pagination padding--bottom--xl">
+    <span class="sgds-icon sgds-icon-arrow-left is-size-4"></span>
+    {%- comment -%} To insert page selectors {%- endcomment -%}
+    <div id="paginator-pages"></div>
+    <span class="sgds-icon sgds-icon-arrow-right is-size-4"></span>
+</div>

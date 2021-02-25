@@ -3,7 +3,7 @@
 <section class="bp-section">
     <div class="bp-container">
         <div class="row">
-            <div class="col is-half is-offset-one-quarter has-text-centered padding--top--lg" >
+            <div class="col is-half is-offset-one-quarter has-text-centered padding--top--xs" >
                 <p class="padding--bottom--xs eyebrow is-uppercase">
                     {{- homepage.resources-title -}}
                 </p>
@@ -11,7 +11,7 @@
             </div>
         </div>
         <div class="row padding--bottom--xs is-marginless">
-            {%- for post in site.posts limit:3 -%}
+            {%- for post in site.posts limit:4 -%}
             <div class="col">
                 {%- comment -%} Define category_index - the index used to determine the bg-color-{{category_index}} {%- endcomment -%}
                 {%- comment -%} Fallback in case category_index is not set in the for loop {%- endcomment -%}
@@ -57,7 +57,7 @@
                     <div class="media-card-plain bg-media-color-{{category_index}} padding--lg">
                         <div>
                             <small class="has-text-white padding--bottom">{{- post_category | upcase | replace: '-', ' ' | replace: '_', ' ' -}}</small>
-                            <h4 class="has-text-white padding--bottom--lg" style="line-height: 2.25rem"><b>{{- post.title | truncatewords: 15 -}}</b></h4>
+                            <h5 class="has-text-white padding--bottom--xs" style="line-height: 2.25rem"><b>{{- post.title | truncatewords: 15 -}}</b></h5>
                         </div>
                         <div class="is-fluid padding--top--md description">
                             <small class="has-text-white">{{- post.date | date_to_string | upcase -}}</small>

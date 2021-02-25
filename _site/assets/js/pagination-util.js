@@ -50,7 +50,7 @@ function changePageUtil(curr, index) {
   currentPageIndex = index;
   setCurrentPage(curr);
   displayNavArrows(index);
-  scrollToTop();
+  // scrollToTop();
 }
 
 function displayNavArrows(i) {

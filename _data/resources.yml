@@ -2,8 +2,6 @@ categories:
 - category-name: resource_room
 - category-name: 공지사항
   category-url: notices
-- category-name: 주간보호현장
-  category-url: daycare-life
 - category-name: 숲체험현장
   category-url: forest
 - category-name: 자원봉사현장

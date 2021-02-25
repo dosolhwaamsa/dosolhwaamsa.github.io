@@ -75,7 +75,7 @@ Fallback in case category_index is not set in the for loop -->
                             {%- endif -%}
                         {%- endcapture -%}
 
-                        <span class="bp-sec-button">
+                        <span class="bp-sec-button padding--top padding--bottom--xs">
                             {%- if category_name == site.resources_name -%}
                                     <a href="{{site.baseurl}}/{{site.resources_name}}/" class="is-uppercase media-category-button"><b>ALL</b></a>
                             {%- else -%}
@@ -127,7 +127,7 @@ Fallback in case category_index is not set in the for loop -->
 
 {%- comment -%} Posts {%- endcomment -%}
 <section class="bp-section is-small">
-    <div class="bp-container padding--top padding--bottom--xl">
+    <div class="bp-container padding--top padding--bottom--xs">
         <div class="row is-multiline">
             {%- for post in site.posts -%}
                 {%- if post.categories[1] == ' ' -%}

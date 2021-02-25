@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 permalink: /2_dosolnoin_part/daycare/
-breadcrumb: Daycare Info
+breadcrumb: 주간보호센터안내
 title: 주간보호 사업소개
 collection_name: 2_dosolnoin_part
 second_nav_title: "주간보호센터안내" #좌측 레벨1 메뉴제목

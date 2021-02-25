@@ -5124,7 +5124,7 @@ a[href$=".pdf"][target="_blank"]:after {
     content: "≻";
 }
 
-.bp-card {
+/* .bp-card {
     background-color: white;
     box-shadow: 0 2px 3px rgba(10, 10, 10, 0.1), 0 0 0 1px rgba(10, 10, 10, 0.1);
     color: #484848;
@@ -5180,7 +5180,7 @@ a[href$=".pdf"][target="_blank"]:after {
 }
 .bp-card .media:not(:last-child) {
     margin-bottom: 0.75rem;
-}
+} */
 
 .bp-dropdown {
     display: block;
