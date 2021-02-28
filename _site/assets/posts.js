@@ -572,7 +572,7 @@ posts_json=[{
     "id": "114",
     "url": "/resource_room/",
     "title": "참여마당",
-    "content":"",
+    "content":"@charset “UTF-8”;",
 },{
     "id": "115",
     "url": "/resource_room/volunteer/",
