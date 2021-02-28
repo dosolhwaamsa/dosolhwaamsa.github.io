@@ -1,2 +1,4 @@
 baseurl: ""
 url: "https://isomerpages-template.netlify.com"
+lang: "ko"
+charset: "uft8"
