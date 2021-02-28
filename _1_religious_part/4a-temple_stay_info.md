@@ -108,3 +108,6 @@ collection_name: 1_religious_part
 </tr>
 </tbody>
 </table>
+
+
+[** <span style="color:blue"> 문의 및 안내 바로가기</span>**](/3_volunteers_part/contact-us)
