@@ -21,8 +21,6 @@ hero-title: "도솔산 화암사"
 hero-subtitle: 마음은 자유롭게, 세상은 아름답게
 hero-banner: /images/dosolhwaam_banner.png
 
-lang: "ko"
-charset: "UTF-8"
 #Call to Action Button
 # button:
 #   - text: Learn More
