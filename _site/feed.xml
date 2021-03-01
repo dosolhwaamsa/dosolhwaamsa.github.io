@@ -5,36 +5,9 @@
     <description>이 곳 도솔산화암사 도량을 세움은 고통을 여의고 즐거움을 나누며 부처를 이루기 위함이니 선남자 연여인 모두 와서 합장하고 절을 하오.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 01 Mar 2021 23:03:05 +0900</pubDate>
-    <lastBuildDate>Mon, 01 Mar 2021 23:03:05 +0900</lastBuildDate>
+    <pubDate>Tue, 02 Mar 2021 02:46:40 +0900</pubDate>
+    <lastBuildDate>Tue, 02 Mar 2021 02:46:40 +0900</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
-    
-      <item>
-        <title>무료급식/한방치료 안내</title>
-        <description>&lt;h4 id=&quot;무료급식-안내&quot;&gt;무료급식 안내&lt;/h4&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;매주 수요일/토요일 10시 ~ 12시&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&quot;무료한방치료&quot;&gt;무료한방치료&lt;/h4&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;매주 일요일 10시 ~ 12시&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;h4 id=&quot;도솔산-화암사-042528-7209-042488-7209&quot;&gt;도솔산 화암사 (042)528-7209, (042)488-7209&lt;/h4&gt;
-</description>
-        <pubDate>Mon, 08 Feb 2021 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/resource_room/notices/dosolnoin_info</link>
-        <guid isPermaLink="true">http://localhost:4000/resource_room/notices/dosolnoin_info</guid>
-        
-        
-        <category>resource_room</category>
-        
-        <category>notices</category>
-        
-      </item>
     
       <item>
         <title>도솔산화암사 기도 및 법회안내</title>
@@ -95,13 +68,40 @@
 &lt;h4 id=&quot;도솔산-화암사-042528-7209-042488-7209&quot;&gt;도솔산 화암사 (042)528-7209, (042)488-7209&lt;/h4&gt;
 </description>
         <pubDate>Mon, 08 Feb 2021 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/resource_room/notices/ceremony_info</link>
-        <guid isPermaLink="true">http://localhost:4000/resource_room/notices/ceremony_info</guid>
+        <link>http://localhost:4000/resource_room/notices-hwaam/ceremony_info</link>
+        <guid isPermaLink="true">http://localhost:4000/resource_room/notices-hwaam/ceremony_info</guid>
         
         
         <category>resource_room</category>
         
-        <category>notices</category>
+        <category>notices-hwaam</category>
+        
+      </item>
+    
+      <item>
+        <title>무료급식/한방치료 안내</title>
+        <description>&lt;h4 id=&quot;무료급식-안내&quot;&gt;무료급식 안내&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;매주 수요일/토요일 10시 ~ 12시&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;무료한방치료&quot;&gt;무료한방치료&lt;/h4&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;매주 일요일 10시 ~ 12시&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;도솔산-화암사-042528-7209-042488-7209&quot;&gt;도솔산 화암사 (042)528-7209, (042)488-7209&lt;/h4&gt;
+</description>
+        <pubDate>Mon, 08 Feb 2021 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/resource_room/notices/dosolnoin_info</link>
+        <guid isPermaLink="true">http://localhost:4000/resource_room/notices/dosolnoin_info</guid>
+        
+        
+        <category>resource_room</category>
+        
+        <category>notices-dosolnoin</category>
         
       </item>
     
@@ -117,6 +117,104 @@
   
   &lt;div class=&quot;image-gallery&quot;&gt;
     &lt;div id=&quot;gallery-sizer&quot; class=&quot;gallery-sizer&quot;&gt;&lt;/div&gt;
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
   
     
   
@@ -2135,6 +2233,104 @@
     
   
     
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
       
   
         
@@ -2544,7 +2740,7 @@
         
         <category>resource_room</category>
         
-        <category>notices</category>
+        <category>notices-dosolnoin</category>
         
       </item>
     
@@ -2560,6 +2756,104 @@
   
   &lt;div class=&quot;image-gallery&quot;&gt;
     &lt;div id=&quot;gallery-sizer&quot; class=&quot;gallery-sizer&quot;&gt;&lt;/div&gt;
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
   
     
   
@@ -4616,6 +4910,104 @@
     
   
     
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
       
   
         
@@ -4972,6 +5364,104 @@
   
   &lt;div class=&quot;image-gallery&quot;&gt;
     &lt;div id=&quot;gallery-sizer&quot; class=&quot;gallery-sizer&quot;&gt;&lt;/div&gt;
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
   
     
   
@@ -6157,47 +6647,24 @@
       </item>
     
       <item>
-        <title>2019년도 도솔노인복지센터 하계 사회복지사 실습생 모집 안내</title>
-        <description>&lt;h3 id=&quot;도솔노인복지센터-하계-실습생-모집&quot;&gt;&lt;strong&gt;도솔노인복지센터 하계 실습생 모집&lt;/strong&gt;&lt;/h3&gt;
+        <title>성오 큰스님 초청 법회</title>
+        <description>&lt;h5 id=&quot;성오-큰스님-초청-법회&quot;&gt;&lt;strong&gt;성오 큰스님 초청 법회&lt;/strong&gt;&lt;/h5&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;모집인원 : 5명&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;모집방법 : 선착순 접수
-    &lt;ul&gt;
-      &lt;li&gt;(1) 도솔노인복지센터 문의(전화: 528-1080) ⇒&lt;/li&gt;
-      &lt;li&gt;(2) 학과 사무실 접수 및 신청, 도솔노인복지센터로 공문발송 ⇒&lt;/li&gt;
-      &lt;li&gt;(3) 도솔노인복지센터 접수 ⇒&lt;/li&gt;
-      &lt;li&gt;(4) 학과 및 학생에게 통보&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;실습기간
-    &lt;ul&gt;
-      &lt;li&gt;(1) 2019. 7. 1.  ~ 7. 19.  (3주간: 120시간)&lt;/li&gt;
-      &lt;li&gt;(2) 2019. 7. 22.  ~ 8. 9.  (3주간: 120시간)&lt;/li&gt;
-    &lt;/ul&gt;
-    &lt;ul&gt;
-      &lt;li&gt;실습기간 및 시간은 사전 조정&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;실습시간: 1일 8시간(주 5일)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;실 습 비: 10만원(식비포함)&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;문의 (042) 528-1080&lt;/li&gt;
-&lt;/ol&gt;
+&lt;p&gt;씨앗을 뿌려야 싹이열려 열매를 거두는 세상의 이치와 같이 수행에도 시간을 투자해야 성취가 있습니다.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;일 시 : 2019년 7월 28일 일요일 (오전10시30분)&lt;/li&gt;
+  &lt;li&gt;설 법 : 성오큰스님 (홍원사 주지)&lt;/li&gt;
+&lt;/ul&gt;
 </description>
-        <pubDate>Tue, 18 Jun 2019 00:00:00 +0900</pubDate>
-        <link>http://localhost:4000/resource_room/notices/life57</link>
-        <guid isPermaLink="true">http://localhost:4000/resource_room/notices/life57</guid>
+        <pubDate>Fri, 26 Jul 2019 00:00:00 +0900</pubDate>
+        <link>http://localhost:4000/resource_room/notices-hwaam/life30</link>
+        <guid isPermaLink="true">http://localhost:4000/resource_room/notices-hwaam/life30</guid>
         
         
         <category>resource_room</category>
         
-        <category>notices</category>
+        <category>notices-hwaam</category>
         
       </item>
     
