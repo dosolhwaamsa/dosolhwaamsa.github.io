@@ -38,8 +38,9 @@ layout: leftnav-page-content
     {{categories.category-url}}
     
 {%- comment -%} Posts {%- endcomment -%}
-<!-- <section class="bp-section"> -->    
+<section class="bp-section">    
     <div class="bp-container padding--top--none padding--bottom--xs">
+        
         <div class="col is-one-quarter-widescreen is-one-third-desktop is-half-tablet resource-card-element hide" id="{{- post.date | date: "%Y" -}}">
         </div>
             
@@ -66,7 +67,7 @@ layout: leftnav-page-content
                 {%- endif -%}
             {%- endfor -%}
         </div>
-    <!-- </section> -->
+    </section>
 
 <div class="search pagination padding--bottom--xl">
     <span class="sgds-icon sgds-icon-arrow-left is-size-4"></span>

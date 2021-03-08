@@ -4,6 +4,7 @@ img[src*='#right'] {
     float: right;
 }
 
+
 /*
  *  Owl Carousel - Core
  */
@@ -420,6 +421,15 @@ hr {
 img {
     height: auto;
     max-width: 100%;
+}
+
+.img2 {
+    height: auto;
+    max-width: 40%;
+    display: block;
+    margin: auto;
+    position: relative;
+    align-items: left;
 }
 
 input[type="checkbox"],

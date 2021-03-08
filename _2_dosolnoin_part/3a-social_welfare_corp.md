@@ -13,5 +13,6 @@ second_nav_title: "대전불교사회복지회" #좌측 레벨1 메뉴제목
 
 #### 법인설립일(2009.05.02)
 
-![](http://images.weserv.nl/?url={{site.url}}{{site.baseurl}}/images/const.png&w=1.5&h=1.5&output=jpg&q=80&t=square)
+![]({{site.url}}/images/const.jpg){: .img2}
 
+<!-- <img src="{{site.url}}/images/const.jpg" />{: .img2} -->

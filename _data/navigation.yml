@@ -22,6 +22,8 @@
     url: /2_dosolnoin_part/dosolnoin_info/
   - title: 설립목적 및 연혁
     url: /2_dosolnoin_part/history/
+  - title: 대전불교사회복지회
+    url: /2_dosolnoin_part/socialwelfare/
   - title: 주간보호센터안내
     url: /2_dosolnoin_part/daycare/
   - title: 숲체험교육
@@ -39,11 +41,13 @@
   sub-links:
   - title: All
     url: /resource_room/
-  - title: 공지사항
-    url: /resource_room/notices/
-  - title: 숲체험교육현장  
+  - title: 화암사 공지사항
+    url: /resource_room/notices-hwaam/
+  - title: 복지센터 공지사항
+    url: /resource_room/notices-dosolnoin/
+  - title: 숲체험현장  
     url: /resource_room/forest/
-  - title: 봉사활동현장  
+  - title: 자원봉사현장  
     url: /resource_room/volunteer/
   - title: 신행생활현장  
     url: /resource_room/religious-life/
