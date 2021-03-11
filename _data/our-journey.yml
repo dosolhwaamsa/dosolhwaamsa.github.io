@@ -1,0 +1,51 @@
+##################################
+#                                #
+# Edit this file carefully.      #
+#                                #
+##################################
+
+# <b>BOLD ME</b> is the syntax to bold things
+# <i>ITALICIZE ME</i> is the syntax to italicize things
+
+- title: 2013-Present
+  years:
+    - subtitle: 2013
+      img: /images/hero/복지센터전경.jpg
+      description:
+        - line: <b>02</b> 사회복지공동모금회지원 - 주간보호 운영지원 사업 선정
+        - line: <b>01</b> 요양보호사 교육원 실습연계 계약체결(도마동 대전간호학원, 둔산대전간호학원)     
+- title: 2010-2012
+  years:
+    - subtitle: 2012
+      description:
+         - line: <b>12</b> '나누는 기쁨, 함께하는 세상' 후원행사(바자회) 개최
+         - line: <b>11</b> 녹색사업단 숲 체험교육사업 선정 -"숲과 함께하는 아름다운 동행"
+    - subtitle: 2011
+      description:
+         - line: <b>08</b> 산림청 "노인복지 숲 해설 운영" 협약 <br> &nbsp; &nbsp; &nbsp; 사회복지공동모금회지원 - 주간보호 운영지원 사업 선정
+         - line: <b>05</b> 장기요양시설평가 인증
+         - line: <b>03</b> 주간보호실 신관 증축
+         - line: <b>01</b> 요양보호사학원 연계 실습 실시 <br> &nbsp; &nbsp; &nbsp; 새희망요양보호사 교육원 <br> &nbsp; &nbsp; &nbsp; 조은요양보호사 교육원 <br> &nbsp; &nbsp; &nbsp; (삼성)서대전요양보호사 교육원 <br> &nbsp; &nbsp; &nbsp; (변동)성모요양보호사 교육원
+    - subtitle: 2010
+      description:
+         - line: <b>05</b> 도솔노인 경로잔치 실시
+         - line: <b>03</b> 노인돌봄(종합)서비스 제공기관 지정
+- title: 2007-2009
+  years:
+    - subtitle: 2009
+      description:
+        - line: <b>06</b> 무료급식단체 지정 승인(대전광역시 서구청)
+        - line: <b>05</b> 사단법인 대전불교 사회복지회 설립
+        - line: <b>03</b> 국민건강보험공단 연계 건강체조 실시 <br> &nbsp; &nbsp; &nbsp; 대전서구보건소 연계 압화수업 실시 <br> &nbsp; &nbsp; &nbsp; 한밭대학교 봉사활동 동아리 'Give them love' 활동
+        - line: <b>02</b> 대전만성질환관리 사업단 연계 건강강좌 실시(2회) <br> &nbsp; &nbsp; &nbsp; 대전서구보건소 연계 치매예방교육 실시 <br> &nbsp; &nbsp; &nbsp; 한국조폐공사 봉사활동
+        - line: <b>01</b> 대전서구보건소 연계 치매조기검진사업 실시
+    - subtitle: 2008
+      description:
+        - line: <b>12</b> 현대오일뱅크 대전 충난본부, 충북 소매본부 봉사활동
+        - line: <b>11</b> 노인장기요양기관 지정, 도솔노인복지센터 개관식
+        - line: <b>10</b> 재가노인복지시설 인증 <br> &nbsp; &nbsp; &nbsp; 무료한방진료(대전대학교 출신한의사, 동헌당)
+        - line: <b>07</b> 노인장기요양기관 지정
+    - subtitle: 2007
+      description:
+        - line: <b>07</b> 무료한방진료 사업개시(경희대학교 출신 한의사모임 "한사랑봉사회")
+        - line: <b>05</b> 도솔노인복지센터 무료급식 사업 개시 

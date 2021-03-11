@@ -1,0 +1,51 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: 화암사소개
+  url: /1_religious_part/hwaamsa_info/  
+  sub-links:
+  - title: 법회안내
+    url: /1_religious_part/ceremony_info/
+  - title: 마음치유명상아카데미
+    url: /1_religious_part/zen_cure/two/
+  - title: 템플스테이
+    url: /1_religious_part/temple_stay/three/
+- title: 도솔노인복지센터
+  url: /2_dosolnoin_part/dosolnoin_info/
+  sub-links:
+  - title: 인사말
+    url: /2_dosolnoin_part/dosolnoin_info/
+  - title: 설립목적 및 연혁
+    url: /2_dosolnoin_part/history/
+  - title: 대전불교사회복지회
+    url: /2_dosolnoin_part/socialwelfare/
+  - title: 주간보호센터안내
+    url: /2_dosolnoin_part/daycare/
+  - title: 숲체험교육
+    url: /2_dosolnoin_part/forest/
+- title: 봉사안내
+  url: /3_volunteers_part/volunteer-info/
+  sub-links:
+  - title: 신청하기
+    url: /3_volunteers_part/who-we-are/
+  - title: 문의하기
+    url: /3_volunteers_part/contact-us/
+
+- title: 참여마당
+  url: /resource_room/
+  sub-links:
+  - title: All
+    url: /resource_room/
+  - title: 화암사 공지사항
+    url: /resource_room/notices-hwaam/
+  - title: 복지센터 공지사항
+    url: /resource_room/notices-dosolnoin/
+  - title: 숲체험현장  
+    url: /resource_room/forest/
+  - title: 자원봉사현장  
+    url: /resource_room/volunteer/
+  - title: 신행생활현장  
+    url: /resource_room/religious-life/

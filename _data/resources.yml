@@ -1,0 +1,16 @@
+categories:
+- category-name: resource_room
+- category-name: 화암사 공지사항
+  category-url: notices-hwaam
+- category-name: 복지센터 공지사항
+  category-url: notices-dosolnoin
+- category-name: 숲체험현장
+  category-url: forest
+- category-name: 자원봉사현장
+  category-url: volunteer
+- category-name: 신행생활현장
+  category-url: religious-life
+# - category-name: forms-and-templates
+# - category-name: stuff
+
+
