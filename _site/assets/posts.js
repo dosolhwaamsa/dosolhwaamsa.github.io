@@ -982,22 +982,22 @@ posts_json=[{
     "id": "196",
     "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_3",
     "title": "2020년_12월_2주차_주간보호_어르신들의_활동_사진",
-    "content":"건강체조 민요교실 웃음치료 점선잇기 미술활동 미술활동 작품 생신잔치 모자이크",
+    "content":"1-_JOxjGUo6x 2-aUbxgZQ6JB 3-3eVi87j6W4 4-acMPOzQ9CF 5-K92YTIAk1h 6-ZsyZTzbKK2 7-5vgQGGeOgo 8-Pg2KTIaurE 건강체조 민요교실 웃음치료 점선잇기 미술활동 미술활동 작품 생신잔치 모자이크",
 },{
     "id": "197",
     "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2",
     "title": "2020년_12월_3주차_주간보호_어르신들의_활동_사진",
-    "content":"콩고르기 고리던지기 도미노 미술활동 가사쓰기 윷놀이 인지활동",
+    "content":"1-UYwY3PWSsE 2-TxcuhHgJNx 3-uRrRPT4kVV 4-XUAs7WME5g 5-rtQX5Bs3Qr 6-Ew3hnq11XX 7-gebsw5Qg7g 콩고르기 고리던지기 도미노 미술활동 가사쓰기 윷놀이 인지활동",
 },{
     "id": "198",
     "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1",
     "title": "2020년_12월_4주차_주간보호_어르신들의_활동_사진",
-    "content":"투호 던지기 구슬꿰기 미술활동 미술활동 작품 모자이크",
+    "content":"1-Coki2ldcRY 2-Iyq9isNUFr 3-dtxztvhkja 4-6aRWqx9pT5 5-mFyPOVZkaT 투호 던지기 구슬꿰기 미술활동 미술활동 작품 모자이크",
 },{
     "id": "199",
     "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_0",
     "title": "2020년_12월_5주차_주간보호_어르신들의_활동_사진",
-    "content":"건강체조 오재미 던지기 만다라 칠교놀이 인지활동 점선잇기 낱말찾기",
+    "content":"1-jCcRELT5X6 2-ugOeL9VKOT 3-C7p7vdFilr 4-NzEHtd9QRH 5-HrmZeK7dQ3 6-FP3rKTTnZp 7-EnKGIlSChD 건강체조 오재미 던지기 만다라 칠교놀이 인지활동 점선잇기 낱말찾기",
 },{
     "id": "200",
     "url": "/resource_room/notices/dosolnoin_info",
