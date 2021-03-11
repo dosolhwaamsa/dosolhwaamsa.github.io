@@ -9,7 +9,7 @@ second_nav_title: "화암사소개"
 
 ### **인사말**
 
-![](/images/religious_part/dosolnoin_sub.jpg){: .img2}
+![](/images/religious_part/greet.jpg){: .img2}
 
 <!-- ![](http://images.weserv.nl/?url={{site.url}}{{site.baseurl}}/images/religious_part/dosolnoin_sub.gif&w=1.5&h=1.5&output=jpg&q=80&t=circle) -->
 
