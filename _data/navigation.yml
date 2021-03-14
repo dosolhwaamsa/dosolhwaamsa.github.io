@@ -47,10 +47,10 @@
     url: /resource_room/notices-dosolnoin/
   - title: 숲체험현장  
     url: /resource_room/forest/
-  - title: 자원봉사현장  
-    url: /resource_room/volunteer/
-  - title: 신행생활현장  
+  - title: 신행생활 및 자원봉사
     url: /resource_room/religious-life/
+  - title: 자료실
+    url: /resource_room/references/
   # - title: etc.
   #   url: /resource_room/forms-and-templates/
   # - title: Data.gov Search
