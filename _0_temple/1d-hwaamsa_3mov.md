@@ -1,0 +1,43 @@
+---
+layout: leftnav-page-content
+permalink: /0_temple/hwaamsa_info/movie2/
+breadcrumb: 사찰내시설
+title: 사찰내시설소개(동영상)
+collection_name: 0_temple
+second_nav_title: "사찰안내"
+
+---
+
+### **화암사 내 시설 소개(영상)**
+
+* **도솔원**
+<iframe width="500"
+        height="300"
+        src="https://youtu.be/uTilytb2--E?t=16"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen></iframe>
+
+* **차담원**
+<iframe width="500"
+        height="300"
+        src="https://youtu.be/eLLwpnl7vKI?t=16"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen></iframe>
+
+* **차담원내부**
+<iframe width="500"
+        height="300"
+        src="https://youtu.be/6Qj1Mk6YbmE?t=15"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen></iframe>
+
+* **갤러리**
+<iframe width="500"
+        height="300"
+        src="https://youtu.be/wKjkdmNswZ0?t=12"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen></iframe>

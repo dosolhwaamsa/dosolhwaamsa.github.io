@@ -2,9 +2,10 @@
 layout: leftnav-page-content
 # layout: who-we-are
 permalink: /3_volunteers_part/contact-us/
-breadcrumb: 문의하기
-title: 문의하기
+title: 연락처
+breadcrumb: 연락처
 collection_name: 3_volunteers_part
+second_nav_title: "문의하기"
 ---
 
 ### **도솔산화암사**
