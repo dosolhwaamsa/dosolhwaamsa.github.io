@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: 합창단
-permalink: /3_volunteers_part/who-we-are/
+permalink: /3_volunteers_part/choir_info/
 breadcrumb: 합창단
 collection_name: 3_volunteers_part
 ---
