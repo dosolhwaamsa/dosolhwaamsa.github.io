@@ -58,8 +58,8 @@ collections:
   #   output: true
 
 # Resource Room and Pagination
-# resources_name: "resource_room"
-# paginate: 16
+resources_name: "resource_room"
+paginate: 16
 
 
 # defaults:

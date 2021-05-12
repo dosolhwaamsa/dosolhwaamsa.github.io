@@ -21,12 +21,12 @@ posts_json=[{
 },{
     "id": "4",
     "url": "/0_temple/hwaamsa_info/movie1/",
-    "title": "사찰전경(동영상)",
+    "title": "사찰전경(영상)",
     "content":"화암사 소개(영상) 외관 현관 큰법당 지장전",
 },{
     "id": "5",
     "url": "/0_temple/hwaamsa_info/movie2/",
-    "title": "사찰내시설소개(동영상)",
+    "title": "사찰내시설소개(영상)",
     "content":"화암사 내 시설 소개(영상) 도솔원 차담원 차담원내부 갤러리",
 },{
     "id": "6",
@@ -130,31 +130,4191 @@ posts_json=[{
     "content":"도솔산화암사 대전 서구 변동서로27번길 20-3 +82 042-488-7209 도솔노인복지센터 대전 서구 변동서로27번길 20-3 Tel. +82 042-528-1080 Fax. +82 042-472-7209 dosol-hwaam@naver.com 도솔노인복지센터 운영시간 Mon - Fri 8.30am - 6.00pm Closed on Weekends and Public Holidays 위치안내 오시는길",
 },{
     "id": "26",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/live1",
+    "title": "주간보호 10월4일 프로그램 결과",
+    "content":"",
+},{
+    "id": "27",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_583",
+    "title": "2011_주간보호_10월5일_프로그램_결과",
+    "content":"우리 센터내 주간보호실을 이용하시는 어르신들을 대상으로 신체적 · 정신적 · 사회적 서비스를 제공함으로써 심신의 기능유지 및 향상을 목적으로 다음과 같은 프로램을 실시하였습니다. 프 로 그 램 명 : 만다라색칠하기, 스트레칭체조, 압화수업 프로그램장소 : 주간보호 프로그램실 프로그램일시 : 2011.10.5(수) 오전프로그램 : 10:10 ~ 10:50 (만다라색칠하기), 11:00 ~ 11:40 (스트레칭체조) 오후프로그램 : 14:00 ~ 15:40 (압화수업), 14:00 ~ 15:30 (아주병원진료) 프로그램 활동사진입니다. (이미지는 무단으로 사용하시면 안됩니다.) 만다라색칠하기(내부직원) 압화 프로그램(서구문화원 꽃누르미 강사님) 어르신들의 행복을위해 정성을 다하여 프로그램을 진행해 주시는 선생님들에게 감사드리며, 앞으로도 지속적인 관심과 사랑 부탁드립니다. ^^ 문의사항 : 도솔노인복지센터 ☎ 042)528-1080 도솔노인복지센터는 어르신들의 행복하고 활기찬 노후를 위해 항상 최선을 다하겠습니다.",
+},{
+    "id": "28",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_45",
+    "title": "2011_주간보호_10월4일_프로그램_결과!!!",
+    "content":".",
+},{
+    "id": "29",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_80",
+    "title": "2011_주간보호_10월6일_프로그램_결과",
+    "content":".",
+},{
+    "id": "30",
+    "url": "/resource_room/notices-dosolnoin/life1",
+    "title": "10월 12일 어르신 체험활동 나들이 안내",
+    "content":"어르신들이 가을철을 맞이하여 롯데백화점 봉사단 선생님들과 함께 아래와 같이 나들이를 다녀오실 계획입니다. 참고하시어 당일날 어르신들의 옷차림 및 개인물품관리(지팡이, 스틱, 모자, 운동화 등)에 신경써주시 바랍니다. — 아 래 — 행 사 명 : 허브스쿨 체험활동 일 시 : 2011. 10. 12(수) 10:00 ~ 15:00(300분) 장 소 : 대전광역시 중구 정생동14-3번지 허브스쿨(http://www.herbschool.kr ) 내 용 허브비누만들기 체험 밤줍기체험 점심식사(닭백숙) 기타 문의사항은 ☎ 042)528-1080 김주홍 으로 연락주시기 바랍니다.",
+},{
+    "id": "31",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_42",
+    "title": "2011_주간보호_10월7일_프로그램_결과",
+    "content":".",
+},{
+    "id": "32",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_580",
+    "title": "2011_주간보호_10월5일_프로그램_결과",
+    "content":"우리 센터내 주간보호실을 이용하시는 어르신들을 대상으로 신체적 · 정신적 · 사회적 서비스를 제공함으로써 심신의 기능유지 및 향상을 목적으로 다음과 같은 프로램을 실시하였습니다. 프 로 그 램 명 : 미술활동 프로그램장소 : 주간보호 프로그램실 프로그램일시 : 2011.10.8(토) 오전프로그램 : 10:30 ~ 11:30 (미술활동) 프로그램 활동사진입니다. (이미지는 무단으로 사용하시면 안됩니다.) 미술활동(내부직원) 어르신들의 행복을위해 정성을 다하여 프로그램을 진행해 주시는 선생님들에게 감사드리며, 앞으로도 지속적인 관심과 사랑 부탁드립니다. ^^ 문의사항 : 도솔노인복지센터 ☎ 042)528-1080 도솔노인복지센터는 어르신들의 행복하고 활기찬 노후를 위해 항상 최선을 다하겠습니다.",
+},{
+    "id": "33",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2190",
+    "title": "2011_주간보호_10월10일_프로그램_결과",
+    "content":".",
+},{
+    "id": "34",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2152",
+    "title": "2011_주간보호_10월11일_프로그램_결과",
+    "content":".",
+},{
+    "id": "35",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2114",
+    "title": "2011_주간보호_10월12일_프로그램_결과",
+    "content":".",
+},{
+    "id": "36",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2076",
+    "title": "2011_주간보호_10월13일_프로그램_결과",
+    "content":".",
+},{
+    "id": "37",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2038",
+    "title": "2011_주간보호_10월14일_프로그램_결과",
+    "content":".",
+},{
+    "id": "38",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2000",
+    "title": "2011_주간보호_10월17일_프로그램_결과",
+    "content":".",
+},{
+    "id": "39",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1962",
+    "title": "2011_주간보호_10월_18일_프로그램_결과",
+    "content":".",
+},{
+    "id": "40",
+    "url": "/resource_room/notices-dosolnoin/life2",
+    "title": "10월 주간보호 어르신 이/미용서비스 안내",
+    "content":"10월 이미용 서비스를 아래와 같이 안내 해드리오니 아래 내용을 참고 하시어 참여바랍니다. — 아 래 — 일 시 : 2011. 10.18(화) 내 용 : 미용서비스(11:00~12:00), 목욕서비스(13:00~14:00) 대 상 : 주간보호 서비스 이용 어르신 중 희망자에 한함 전달사항 : 이·미용서비 이용을 희망하시는 보호자분들은 사전에 전화연락을 주시거나, 당일 이송선생님들을 통해 전달해주세요. 목욕서비스를 희망하시는 보호자께서는 어르신이 갈아입으실 여벌의 옷을 준비해서 보내주세요. 기타 문의사항 및 자세한 사항은 528-1080 으로 문의하여주세요.",
+},{
+    "id": "41",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1887",
+    "title": "2011_주간보호_10월19일_프로그램_결과",
+    "content":".",
+},{
+    "id": "42",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1850",
+    "title": "2011_주간보호_10월20일_프로그램_결과",
+    "content":".",
+},{
+    "id": "43",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1813",
+    "title": "2011_주간보호_10월21일_프로그램_결과",
+    "content":".",
+},{
+    "id": "44",
+    "url": "/resource_room/notices-hwaam/life1",
+    "title": "신중탱화 동진보살 점안식 및 동안거 백일기도 안내",
+    "content":"귀의삼보 하옵고, 불자님 각 가정에 부처님의 자비광명이 충만하시길 기원 드리며 금번 화암사에서는 이년 동안 신중단에 모실 동진보살상을 조성하여 이번에 모시고 점안식을 거행하게 되었습니다. 동진보살이란 신중님들 중에서도 가장 높은 분으로 위태천신이라고도 하며 불법을 수호하고 스님과 신도님들을 옹호하며 어려운 일이 있을 때마다 원하는 일을 이룰 수 있도록 도와주시는 역할을 하는 보살이십니다. 그동안 많은 분들이 동참하시어 이제 봉안하고 회향하게 되어 화암사가 더욱 사운이 창성하고 신도님들 가정에도 무장무애 하시길 축원합니다. 아울러 동안거 백일기도를 봉행하여 신도님들 가정에 불은이 충만하시고 선망부모, 원근친척 등 일체 영가님들의 극락왕생을 기원하며 위로는 제불보살님의 은덕이 충만하고 아래로는 고통 받는 모든 중생의 복덕이 있기를 발원하면서 불자님 가족의 건강과 하시는 일 모두 이루시길 축원드립니다. 신중탱화 동진보살 점안식 양 10월 29일(토요일)오전 10시 30분(음 10월 3일) 동진보살 복장에 동참하실 분은 미리 연락바랍니다. 백일기도 입재 : 불기2555년 양 11월 10일 (음 10월 15일) 백일기도 회향일 : 불기2556년 양 2월 6일 (음1월 15일) 기도비 : 일금십만원 영가위패접수 : 一位 오천원 시월 상달 3일간 신중기도는 동진보살 점안후 (양 29일) 입재해서 회향은 양10월 31일(음 10월 5일)에 있을 예정입니다.기도비는 일인 10kg 쌀 한포씩올립니다. 입금계좌 : 국민은행 740901-01-250239 백창기(화암사) 하나은행 634-910188-76307 백창기 농협 453011-56-138332 백창기 대한불교 조계종 화암사 사문 혜광 합장",
+},{
+    "id": "45",
+    "url": "/resource_room/religious-life/dlf_1",
+    "title": "2011-10-21-KBS다큐멘터리 대장경 특집 4부작 &#39;다르마&#39;",
+    "content":"다음 천년을 위한 새로운 비전 “다르마”는 대장경의 가치를 문화재와 역사성으로만 조명하던 기존의 협소한 시각에서 탈피하고 한단계 더 나아가 콘텐츠의 가치를 재발견하는 다큐멘터리이다. 천년 전 경판에 새겨진 내용이 지금 여기, 우리나라뿐 아니라 전세계가 당면하고 있는 문제와 골칫거리 들을 해결할 수 있는 비전을 지니고 있음을 천명하는 다큐멘터리이다. 그리고 그 가치가 우리나라의 것만이 아니라 전지구적인 것을 드러내기 위해 기존 다큐멘터리와 다른 독특한 형식과 과감한 포맷을 사용했다. 노 내레이션 다큐멘터리 “다르마”는 성우의 해설 내레이션이 없는 다큐멘터리이다. 제작진의 자의적 해설과 과장을 배제하고 출연자의 육성과 현장음을 통해 보다 깊이있고 진실한 방법으로 의미를 전달하고 글로벌 트렌트에 부응한다. 새로운 형식 - 두 곳의 이야기가 교차되고 포개진다 대장경의 역사를 개괄하는 1편을 제외하고 2,3,4편은 지구 반대편 두 곳에서 벌어지는 이야기를 병렬적 으로 전개하며 두 곳의 이야기가 교차되는 독특한 형식을 시도했다. 두 곳을 연결짓고 씨줄과 날줄로 꿰매는 것은 고려대장경에서 인용된 질문과 대답들이다. 1편 에서는 버클리대 교수 루이스 랭카스터의 3D입체 대장경 프로젝트를 중심으로 전세계인들이 붓다의 최후를 기록한 고려대장경을 릴레이로 읽어가는 독특한 형식으로 대장경의 역사를 여행한다. 2편 에서는 미국 매사추세츠의 최신의학병원과 영국 런던 외곽의 불교사원을 넘나들며 질문한다. “어떻게 괴로움에서 벗어날 수 있습니까?” 3편 에서는 빅뱅실험이 벌어지는 유럽핵물리학 연구소 VS 4,100미터 고원의 티벳 불교수행처가 교차되며 하나의 질문이 던져진다 “우리는 어디에서 왔고 어디로 가고 있습니까?” 4편 에서는 오스트리아의 베네틱트 수도원 VS 지리산의 쌍계사가 아름다운 영상으로 포개진다. “완전한 행복은 어디에 있습니까?” 세계적인 영화음악가 류이치 사카모토의 음악 로 아카데미 영화음악상을 수상하고, , 등 할리우드에서 활약하고 있는 세계적 영화음악가 류이치 사카모토가 음악을 맡아 동양과 서양, 실험적인 컨템포러리와 클래식을 오가는 그의 음악세계를 새로운 형식의 다큐멘터리에 펼쳐놓는다. KBS 1TV 1편/ 붓다의 유언 (10월 15일 토요일 저녁 8시) 2편/ 치유 (10월 16일 일요일 저녁 8시) 3편/ 환생과 빅뱅 (10월 22일 토요일 저녁 8시) 4편/ 천국은 어디에 있는가 (10월 23일 일요일 저녁 8시) 제작진 기획 : 우종택 연출 : 윤찬규, 최근영 음악 : 류이치 사카모토",
+},{
+    "id": "46",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1776",
+    "title": "2011_주간보호_10월24일_프로그램_결과",
+    "content":".",
+},{
+    "id": "47",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1739",
+    "title": "2011_주간보호_10월25일_프로그램_결과",
+    "content":".",
+},{
+    "id": "48",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1702",
+    "title": "2011_주간보호_10월26일_프로그램_결과",
+    "content":".",
+},{
+    "id": "49",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1665",
+    "title": "2011_주간보호_10월27일_프로그램_결과",
+    "content":".",
+},{
+    "id": "50",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1628",
+    "title": "2011_주간보호_10월28일_프로그램_결과",
+    "content":".",
+},{
+    "id": "51",
+    "url": "/resource_room/notices-dosolnoin/life3",
+    "title": "서구보건소연계 구강관리교육프로그램안내",
+    "content":"저희센터에서는 지역의 저소득층 어르신들과 센터 주간보호 이용 어르신들을 대상으로 잇몸질환의 진행을 억제하고 치근면 우식예방 및 시린이 방지를 위한 노인불소도포․스케일링사업을 서구 보건소와 연계하여 아래와 같이 실시 하오니 많은 참여 바랍니다. — 아 래 — 프로그램명 : 지역 어르신 노인불소도포 ․ 스케일링 일 시 : 2011. 11. 3(목) 10:30 ~ 12:00 장 소 : 센터 프로그램실 대 상 자 : 지역주민 어르신(만 65세이상) 세부진행사항 시간 내용 세부프로그램 내용 비고 09:30 ~ 10:00 준비 - 프로그램 진행 및 재료준비 - 주의사항 전달 및 프로그램 진행일정 안내   10:00 ~ 10:30 대상자 - 대상자별 주의사항 전달 및 진료안내 - 특이사항 파악   10:30 ~ 11:20 프로그램진행 - 구강건강상태 점검 및 치료 - 불소도포, 스케일링 치아 혹은 틀니 세척   11:20 ~ 11:50 교육 - 치아 및 틀니 올바른 사용/관리방법 - 치주질환 질의응답   11:50 ~ 12:00 정리 - 프로그램 마무리 정리 및 인사  ",
+},{
+    "id": "52",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1591",
+    "title": "2011_주간보호_10월31일_프로그램_결과",
+    "content":".",
+},{
+    "id": "53",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1554",
+    "title": "2011_주간보호_11월1일_프로그램_결과",
+    "content":".",
+},{
+    "id": "54",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1517",
+    "title": "2011_주간보호_11월2일_프로그램_결과",
+    "content":".",
+},{
+    "id": "55",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1480",
+    "title": "2011_주간보호_11월3일_프로그램_결과",
+    "content":".",
+},{
+    "id": "56",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1443",
+    "title": "2011_주간보호_11월4일_프로그램_결과",
+    "content":".",
+},{
+    "id": "57",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1406",
+    "title": "2011_주간보호_11월7일_프로그램_결과",
+    "content":".",
+},{
+    "id": "58",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1369",
+    "title": "2011_주간보호_11월8일_프로그램_결과",
+    "content":".",
+},{
+    "id": "59",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1310",
+    "title": "2011_주간보호_11월9일_프로그램_결과",
+    "content":".",
+},{
+    "id": "60",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1274",
+    "title": "2011_주간보호_11월10일_프로그램_결과",
+    "content":".",
+},{
+    "id": "61",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1238",
+    "title": "2011_주간보호_11월11일_프로그램_결과",
+    "content":".",
+},{
+    "id": "62",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1202",
+    "title": "2011_주간보호_11월14일_프로그램_결과",
+    "content":".",
+},{
+    "id": "63",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1166",
+    "title": "2011_주간보호_11월15일_프로그램_결과",
+    "content":".",
+},{
+    "id": "64",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1130",
+    "title": "2011_주간보호_11월16일_프로그램_결과",
+    "content":".",
+},{
+    "id": "65",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1094",
+    "title": "2011_주간보호_11월_17일_프로그램_결과",
+    "content":".",
+},{
+    "id": "66",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1058",
+    "title": "2011_주간보호_11월18일_프로그램_결과",
+    "content":".",
+},{
+    "id": "67",
+    "url": "/resource_room/religious-life/v2",
+    "title": "2011년 화암사 김장나눔 행사",
+    "content":"2011년도 독거노인 및 경로당 지원 김장나눔 행사를 실시하였습니다. 2011.11.18(금)~19(토) 현대오일뱅크 임직원 여러분 및 김장나눔행사에 참여해 주신 신도분들께 감사의 인사를 전합니다. 20111118-1 20111118-10 20111118-11 20111118-12 20111118-2 20111118-3 20111118-4 20111118-5 20111118-6 20111118-7 20111118-8 20111118-9",
+},{
+    "id": "68",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1022",
+    "title": "2011_주간보호_11월21일_프로그램_결과",
+    "content":".",
+},{
+    "id": "69",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_986",
+    "title": "2011_주간보호_11월22일_프로그램_결과",
+    "content":".",
+},{
+    "id": "70",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_950",
+    "title": "2011_주간보호_11월23일_프로그램_결과",
+    "content":".",
+},{
+    "id": "71",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_914",
+    "title": "2011_주간보호_11월_24일_프로그램_결과",
+    "content":".",
+},{
+    "id": "72",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_878",
+    "title": "2011_주간보호_11월25일_프로그램_결과",
+    "content":".",
+},{
+    "id": "73",
+    "url": "/resource_room/notices-dosolnoin/life4",
+    "title": "1월 나들이 일정안내",
+    "content":"11월 나들이를 11.29(화)에 공주 풀꽃이랑 마을로 인절미체험 및 겨울맞이 나들이를 실시할 예정입니다. 아래 일정을 확인하시어 어르신이용에 참고해 주세요 ^^ 문의사항 ☎ 528 ~ 1080, 김주홍 — 아 래 — 프로그램명 : 11월 사랑나누기 나들이 “공주 풀꽃이랑마을” 일 시 : 2011. 11.29(화) 10:30 ~ 14:30 장 소 : 충남 공주시 정안면 고성리 풀꽃이랑마을(http://www.pulkkotirang.com/) 체 험 일 정 점심식사(추어탕,영양밥상) 군밤체험활동 및 나눔 인절미 만들기 체험활동 및 나눔 모든 체험활동 및 나들이는 실내에서 실시되오며 나들이 장소로 이동시 중간에 휴식을 취하여 무리가 가지 않도록 조치함. 날씨가 추워지고 있으므로 어르신들의 각별한 건강관리 부탁드립니다.",
+},{
+    "id": "74",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_842",
+    "title": "2011_주간보호_11월28일_프로그램_결과",
+    "content":".",
+},{
+    "id": "75",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_806",
+    "title": "2011_주간보호_11월29일_프로그램_결과",
+    "content":".",
+},{
+    "id": "76",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_763",
+    "title": "2011_주간보호_11월30일_프로그램_결과",
+    "content":".",
+},{
+    "id": "77",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_728",
+    "title": "2011_주간보호_12월1일_프로그램_결과",
+    "content":".",
+},{
+    "id": "78",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_693",
+    "title": "2011_주간보호_12월2일_프로그램_결과",
+    "content":".",
+},{
+    "id": "79",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_658",
+    "title": "2011_주간보호_12월5일_프로그램_결과",
+    "content":".",
+},{
+    "id": "80",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_623",
+    "title": "2011_주간보호_12월6일_프로그램_결과",
+    "content":".",
+},{
+    "id": "81",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_588",
+    "title": "2011_주간보호_12월7일_프로그램_결과",
+    "content":".",
+},{
+    "id": "82",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_553",
+    "title": "2011_주간보호_12월8일_프로그램_결과",
+    "content":".",
+},{
+    "id": "83",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_518",
+    "title": "2011_주간보호_12월9일_프로그램_결과",
+    "content":".",
+},{
+    "id": "84",
+    "url": "/resource_room/notices-dosolnoin/life5",
+    "title": "2011년 하반기 강사 간담회 안내",
+    "content":"2011년도 하반기 주간보호 프로그램 강사님들과 함께 간담회를 진행합니다. 한해동안 어르신들을 위해 노력해주신 노고에 작은 감사의 마음을 전하고자 이번 감담회를 준비하였습니다. 저녁식사를 하시며 한해 특이사항 및 개선방안을 토의해보고, 내년도(2012) 원활한 프로그램진행을 위해 마련한 자리오니 아래 내용을 참고하시 많은 참여 참여부탁드립니다. — 아 래 — 행 사 명 : 2011년 하반기 강사간담회 일 시 : 2011. 12. 16(금) 18:00 ~ 20:00 장 소 : 버섯본가(내동점) T. 042)531~0920 내동 롯데아파트 육교, 현대오일뱅크 옆에 위치하고 (대전시 서구 내동 152-4) 문의사항은 528~1080 김주홍 으로연락주세요.",
+},{
+    "id": "85",
+    "url": "/resource_room/notices-hwaam/life2",
+    "title": "혜민스님 초청강좌 및 후원의 밤",
+    "content":"“우리가 행복해 질 때까지” 혜민스님 초청강좌 및 후원의 밤 일 시 : 2011. 12. 28(수)/강좌(19:00∼21:00), 바자회(11:00∼21:00) 주요내용 : 기념식, 교양강좌, 공연(기타리스트), 바자회(농산물 판매, 커피시음회, 먹거리,다도,기념품제공 등) 장 소 : 도솔산 화암사 및 복지센터 문 의 : 도솔노인복지센터 ☎042)528-1080 혜민스님 소개 대전출생 학 력 하버드대학교 대학원 종교학 프린스턴대학교 대학원 종교학 박사 캘리포니아대학교 버클리캠프스 학사 경 력: 미국 햄프셔대학 종교학 교수 저 서: 젊은 날의 깨달음/하버드에서 출가 그리고 10년 시사저널/미디어리서치 공동조사 국내 30개 분야 지도자 1천 5백명 선정 주목되는 분야별 미래지도자 300인 한국방송공사(KBS)아침마당 출연 안형수 기타리스트 소개 1987년 제12회 한국 기타협회 콩쿨 대상 수상 1989년 제1회 대전일보 콩쿨대회 금상 수상 1991년 제1회 KBS 교향악단 협연자 선정 2001년 이후 Sony BMC와 &lt;마법의 성&gt;과 &lt;하얀 연인들&gt;발표 편곡 악보집도 발간 최근 새음반 &lt;사랑과 인사&gt;발매 송구영신 법회 및 성도재일 철야 기도 및 천등불사 한해를 마무리 하고 새해를 맞이하면서 부처님께서 성도 하신 날에 천개의 등불을 밝힌 동참금은 구정에 어려운 독거노인에게 전달 합니다(많은 동참 바랍니다). 양 12월 31일(토) 19시 1인 1등 : 만원",
+},{
+    "id": "86",
+    "url": "/resource_room/references/dlf_1/Za9NWJ1atl.hwp",
+    "title": "2011-12-09-1_치매어르신과의 대화법",
+    "content":"본 자료를 공유하시어 치매어르신들의 케어에 작은 도움이 되었으면 좋겠습니다. 케어에 대한 상담 및 문의사항은 상담게시판 혹시 528-1080으로 문의주세요. 관련파일",
+},{
+    "id": "87",
+    "url": "/resource_room/references/dlf_2/lo0Vmljesm.pdf",
+    "title": "2011-12-09-2_치매예방관리",
+    "content":"본 자료를 공유하시어 치매어르신들의 케어에 작은 도움이 되었으면 좋겠습니다. 케어에 대한 상담 및 문의사항은 상담게시판 혹시 528-1080으로 문의주세요. 관련파일",
+},{
+    "id": "88",
+    "url": "/resource_room/references/dlf_3/2Royked5vW.hwp",
+    "title": "2011-12-09-3_치매노인과 사례관리",
+    "content":"본 자료를 공유하시어 치매어르신들의 케어에 작은 도움이 되었으면 좋겠습니다. 케어에 대한 상담 및 문의사항은 상담게시판 혹시 528-1080으로 문의주세요. 관련파일",
+},{
+    "id": "89",
+    "url": "/resource_room/references/dlf_4/truJn0itE0.hwp",
+    "title": "2011-12-09-4_치매 케어복지론",
+    "content":"본 자료를 공유하시어 치매어르신들의 케어에 작은 도움이 되었으면 좋겠습니다. 케어에 대한 상담 및 문의사항은 상담게시판 혹시 528-1080으로 문의주세요. 관련파일",
+},{
+    "id": "90",
+    "url": "/resource_room/references/dlf_5",
+    "title": "2011-12-09-5_치매자료실 이용관련 안내",
+    "content":"본 자료들은 치매어르신들의 이해와 예방 케어를 위해 게시한 자료입니다. 공개자료이오니 열람하시어 치매에 대한 보다 나은 이해와 정보제공을 목적으로 하고 있습니다. 기타 저작권 및 유해자료에 대해서는 권고를 해주시면 즉각적으로 시정하도록 하겠습니다. 필요하신 자료가 있으시면 상담게시판을 이용하여 자료를 요청해주세요. 성심성의껏 자료를 구하여 올려드리겠습니다. 올바른 치매의 이해와 케어를 위해 도솔노인복지센터가 앞장서겠습니다.",
+},{
+    "id": "91",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_483",
+    "title": "2011_주간보호_12월12일_프로그램_결과",
+    "content":".",
+},{
+    "id": "92",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_448",
+    "title": "2011_주간보호_12월13일_프로그램_결과",
+    "content":".",
+},{
+    "id": "93",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_413",
+    "title": "2011_주간보호_12월14일_프로그램_결과",
+    "content":".",
+},{
+    "id": "94",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_378",
+    "title": "2011_주간보호_12월15일_프로그램_결과",
+    "content":".",
+},{
+    "id": "95",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_343",
+    "title": "2011_주간보호_12월16일_프로그램_결과",
+    "content":".",
+},{
+    "id": "96",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_273",
+    "title": "2011_주간보호_12월19일_프로그램_결과",
+    "content":".",
+},{
+    "id": "97",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_308",
+    "title": "2011년_하반기_주간보호_프로그램_강사_간담회_진행_결과",
+    "content":".",
+},{
+    "id": "98",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_246",
+    "title": "2011_주간보호_12월20일_프로그램_결과",
+    "content":".",
+},{
+    "id": "99",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_212",
+    "title": "2011_주간보호_12월21일_프로그램_결과",
+    "content":".",
+},{
+    "id": "100",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_178",
+    "title": "2011_주간보호_12월22일_프로그램_결과",
+    "content":".",
+},{
+    "id": "101",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_144",
+    "title": "2011_주간보호_12월23일_프로그램_결과",
+    "content":".",
+},{
+    "id": "102",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_110",
+    "title": "2011_주간보호_12월26일_프로그램_결과",
+    "content":".",
+},{
+    "id": "103",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_76",
+    "title": "2011_주간보호_12월27일_프로그램_결과",
+    "content":".",
+},{
+    "id": "104",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_42",
+    "title": "2011_주간보호_12월28일_프로그램_결과",
+    "content":".",
+},{
+    "id": "105",
+    "url": "/resource_room/notices-dosolnoin/life6/resource_room/notices-dosolnoin/files/1%EC%9B%94%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EA%B3%84%ED%9A%8D%EB%B0%8F%EC%8B%9D%EB%8B%A8%ED%91%9C.hwp",
+    "title": "도솔노인복지센터 1월 프로그램 계획 및 식단표",
+    "content":"1월 프로그램 계획 및 식단입니다.",
+},{
+    "id": "106",
+    "url": "/resource_room/notices-dosolnoin/life7",
+    "title": "한국치매가족협회 치매케어 DVD 가이드북 신청 안내",
+    "content":"&lt; 치매케어 DVD 및 가이드북 신청 안내&gt; 본 협회는 2010년도에 이어 올 해에도 생명보험사회공헌재단의 지원으로 가정과 시설에서 치매환자에 대한 올바른 지식을 가지고, 치매환자들의 문제 행동에 대한 적절한 대처방법을 제시하는 DVD”안개속의 추억”과 가이드북 “치매 케어의 새로운 길”을 제작하여 무료로 배포하고자 하오니 아래 내용에 따라서 신청하여 주시기 바랍니다. — 아 래 — 신청기간 : 2011.12. 27(화) ~ 2012.1.10(화)까지 신청접수 : E-mail 또는 팩스 E-mail: afcde01@unitel.co.kr 팩스 : 02-424-9963 등기로 발송되오니, 주소와 연락처를 정확히 기재하여 주시기 바랍니다 !!! 신 청 서: 첨부파일 배포는 신청 마감 후, 일괄 등기발송됩니다.^^* (1월 중순 등기발송 예정입니다.) 문의 한국치매가족협회 사무국 02-431-9963 기타 자세한 사항은 한국치매가족협회 (http://www.alzza.or.kr) 공지사항을 참고해주시고요. 신청서 작성방법 및 기타문의는 본 센터 T.042)528-1080 로 해주시기 바랍니다. 많은 신청과 정보제공으로, 보호자들의 치매케어 및 이해에 보다 많은 정보 제공이 이루어 졌으면 좋겠습니다.",
+},{
+    "id": "107",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1165",
+    "title": "2012_1월_9일_주간보호_어르신_생활현장",
+    "content":".",
+},{
+    "id": "108",
+    "url": "/resource_room/references/dlf_6",
+    "title": "2012-01-09-6_치매환자 관리",
+    "content":"본 자료를 공유하시어 치매어르신들의 케어에 작은 도움이 되었으면 좋겠습니다. 케어에 대한 상담 및 문의사항은 상담게시판 혹시 528-1080으로 문의주세요.",
+},{
+    "id": "109",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1131",
+    "title": "2012_1월_10일_주간보호_어르신_생활현장",
+    "content":".",
+},{
+    "id": "110",
+    "url": "/resource_room/notices-hwaam/life3",
+    "title": "화암사 일요정기법회 개시",
+    "content":"삼보 귀의 하옵고 불자님들 가정에 불은이 충만하시길 축원합니다. 아뢰올 말씀은 무진년 일요정기법회를 봉행 하오니 두루 동참 하시어 불자님들의 가정에 행복과 건강 그리고 하시고자 하는 모든 일이 원만히 성취 되시길 기원합니다.",
+},{
+    "id": "111",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1097",
+    "title": "2012_1월_11일_주간보호_어르신_생활현장",
+    "content":".",
+},{
+    "id": "112",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1063",
+    "title": "2012_1월_12일_주간보호_어르신_생활현장",
+    "content":".",
+},{
+    "id": "113",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1029",
+    "title": "2012_1월_13일_주간보호_어르신_생활현장",
+    "content":".",
+},{
+    "id": "114",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_995",
+    "title": "2012_1월_16일_주간보호어르신_생활현장",
+    "content":".",
+},{
+    "id": "115",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_961",
+    "title": "2012_1월_17일_주간보호_어르신_생활현장",
+    "content":".",
+},{
+    "id": "116",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_927",
+    "title": "2012_1월_18일_주간보호_어르신_생활현장",
+    "content":".",
+},{
+    "id": "117",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_893",
+    "title": "2012_1월_19일_주간보호_어르신_생활현장",
+    "content":".",
+},{
+    "id": "118",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_859",
+    "title": "2012_1월_20일_주간보호_어르신_생활현장",
+    "content":".",
+},{
+    "id": "119",
+    "url": "/resource_room/notices-dosolnoin/life8/resource_room/notices-dosolnoin/files/2%EC%9B%94%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EA%B3%84%ED%9A%8D%EB%B0%8F%EC%8B%9D%EB%8B%A8%ED%91%9C.hwp",
+    "title": "도솔노인복지센터 2월 프로그램 계획 및 식단표",
+    "content":"2월 프로그램 계획 및 식단입니다.",
+},{
+    "id": "120",
+    "url": "/resource_room/references/dlf_7",
+    "title": "2012-01-09-7_낙상예방을 위해",
+    "content":"낙상 예방 낙상예방 환경 정비 ◦ 노인생활 공간 공통사항 늘어진 줄이나 전기줄, 바닥 여기저기에 있는 방석이나 카펫을 치운다. 부득이 방바닥에 양탄자나 이불을 깔아야 한다면 가장자리를 잘 고정시킨다. 전화기, 의자나 탁자 등 조그만 가구는 되도록 벽 쪽 익숙한 장소에 둔다. 바닥재는 덜 미끄럽고, 탄성이 있어 넘어졌을 때의 충격을 흡수할 수 있는 재질을 이용하는 것이 좋다. 낙상 위험이 있는 장애물, 문턱 등 단차를 없애거나, 되도록 낮게 한다. 가구는 모서리가 둥근 형태의 것을 사용하고, 벽 및 가구 표면에는 뾰족한 못 등 날카로운 것이 없어야 한다. 모서리가 곡선으로 처리된 가구를 사용하거나, 모서리 쿠션, 모서리방지 안전 가드 등을 부착한다. 누워있거나, 잠든 동안에는 항상 침대난간을 올려 고정해둔다. 바닦에 물이 떨어진 경우, 즉시 물기가 전혀 없을 때까지 닦는다. 깨지기 쉬운 물건, 위험한 것들을 보관해두는 보관함 및 캐비닛을 설치하고 노인들이 열지 못하도록 잠금장치를 한다. ◦ 의복 및 신발 착용 날씨가 추울 때는 가벼운 옷을 여러겹 겹쳐 입어, 몸을 움추려 균형감각이 저하되지 않도록 한다(적정온도 및 습도 : 18 ∼ 22℃ / 40 ∼ 70%). 슬리퍼나 바닥이 미끄러운 신발은 신지 않는다. 되도록 미끄럼방지 양말을 신는다. 굽이 낮고, 폭이 넓으며, 미끄럽지 않은 고무바닥, 뒤가 막힌 신발을 신는다. 보행에 어려움이 있을 경우, 보행(보조)차나 지팡이 등을 사용하도록 한다. ◦ 조명 활용 실내 적정조도 : 200∼300 Lux 유지 거실과 계단, 현관, 화장실은 항상 환하게 밝혀 두거나, 사람이 있을 때만 켜지는 센서 등을 설치한다. 자다가 한밤중에 일어날 때 켤 수 있도록, 잠자리 옆에 미등을 마련해 둔다. ◦ 화장실 벽과 변기 근처에 안전손잡이를 설치한다. 욕조 안과 욕실 바닥에 미끄러지지 않도록 방수용 테이프를 붙이거나, 미끄럼방지액을 도포한다. 노인의 방은 별도의 세면대와 목욕탕이 마련되어 있거나, 되도록 가까이 있는 것이 좋다. ◦ 부엌 싱크대나 가스렌지 근처 바닥에는 미끄러지지 않도록 고무매트를 깔아놓는다. 물을 엎지른 경우에는 즉시 닦는다. 낙상시 처치 ◦ 노인이 낙상을 했을 경우 당황하지 말고 노인을 안정시킨다 ◦ 노인이 낙상한 상황을 눈으로 확인하지 못했다면 의사를 표현할 수 있는 경우 상 황을 묻고, 무리하지 않고 가장 편안한 상태로 있게 한다. ◦ 통증이 심한 경우 억지로 구부리거나 펴려고 하지 않는다. ◦ 요양보호사는 간호사 등 응급보고체계 윗 단계로 보고한다. ◦ 가장 가까운 가족 및 보호자에게 사고 사실을 반드시 알린다. ◦ 간호사는 출혈이 있으면 지혈하고, 환부를 부목 등으로 고정하고, 되도록 신속히 의료기관으로 옮긴다.",
+},{
+    "id": "121",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_815",
+    "title": "2012_우리_도솔노인_주간보호센터_이용_어르신들의_하루_모습입니다.",
+    "content":".",
+},{
+    "id": "122",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_782",
+    "title": "2012_2월_27일_어르신_생활_모습입니다.",
+    "content":".",
+},{
+    "id": "123",
+    "url": "/resource_room/notices-hwaam/life4/resource_room/notices-hwaam/files/20120227TXA76nVb7I.pdf",
+    "title": "윤달 49일간 생전 예수재 기도 안내",
+    "content":"윤달 49일간 생전 예수재 기도 안내 안내문",
+},{
+    "id": "124",
+    "url": "/resource_room/religious-life/dlf_2/I8W6drNl0Y.hwp",
+    "title": "2012-2-27-숲 관련 교육",
+    "content":"관련파일",
+},{
+    "id": "125",
+    "url": "/resource_room/religious-life/dlf_3/W6W1hF450P.hwp",
+    "title": "2012-2-27-진실성 있는 서원이 필요하다",
+    "content":"관련파일",
+},{
+    "id": "126",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_749",
+    "title": "2012_2월_28일에서_3월_3일까지의_우리_어르신들_생활_모습입니다.",
+    "content":".",
+},{
+    "id": "127",
+    "url": "/resource_room/notices-dosolnoin/life9",
+    "title": "3월 1일 주간보호센터 휴관안내",
+    "content":"3월 1일은 삼일절 국경일으로 인하여 주간보호센터를 휴관 합니다. 보호자 및 이용자 여러분께서는 참조하시기 바랍니다.",
+},{
+    "id": "128",
+    "url": "/resource_room/religious-life/dlf_4/I8a5kt4sJ4.hwp",
+    "title": "2012-2-28-한국의 불교는 지금 어디있는가",
+    "content":"관련파일",
+},{
+    "id": "129",
+    "url": "/resource_room/notices-dosolnoin/life10/resource_room/notices-dosolnoin/files/3%EC%9B%94%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EA%B3%84%ED%9A%8D%EB%B0%8F%EC%8B%9D%EB%8B%A8%ED%91%9C.hwp",
+    "title": "도솔노인복지센터 3월 프로그램 계획 및 식단표",
+    "content":"3월 프로그램 계획 및 식단입니다.",
+},{
+    "id": "130",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_716",
+    "title": "2012_3월_5일부터_3월_8일까지_우리_어르신들_생활모습입니다.",
+    "content":".",
+},{
+    "id": "131",
+    "url": "/resource_room/religious-life/dlf_5/tRE1Iw0DPl.hwp",
+    "title": "2012-3-5-불교정신 깃든 황룡사 복원 기대한다",
+    "content":"관련파일",
+},{
+    "id": "132",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_683",
+    "title": "2012_3월_9일부터_3월_15일까지_우리_어르신들_생활_모습입니다.",
+    "content":".",
+},{
+    "id": "133",
+    "url": "/resource_room/religious-life/dlf_6/QO2bKSlYTc.hwp",
+    "title": "2012-3-13-2012년 선거와 시민정치운동",
+    "content":"관련파일",
+},{
+    "id": "134",
+    "url": "/resource_room/religious-life/dlf_7/tIPmmMCbBF.hwp",
+    "title": "2012-3-13-생전 예수재는 윤달에만 지낸다",
+    "content":"관련파일",
+},{
+    "id": "135",
+    "url": "/resource_room/religious-life/dlf_8/PHvpcnNYDn.hwp",
+    "title": "2012-3-13-생전 예수재의 의미",
+    "content":"관련파일",
+},{
+    "id": "136",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_650",
+    "title": "2012_3월_16일부터_3월_23일까지_우리_어르신들_생활_모습_입니다.",
+    "content":".",
+},{
+    "id": "137",
+    "url": "/resource_room/notices-dosolnoin/life11/resource_room/notices-dosolnoin/files/4biw71g2e8.hwp",
+    "title": "아름다운 풍경입니다.",
+    "content":"아름다운 풍경입니다.",
+},{
+    "id": "138",
+    "url": "/resource_room/religious-life/dlf_9/U1hJQty0hs.hwp",
+    "title": "2012-3-20-법정스님 좋은 말씀",
+    "content":"관련파일",
+},{
+    "id": "139",
+    "url": "/resource_room/religious-life/dlf_10/YzW1PK6kqE.hwp",
+    "title": "2012-3-20-창의적 체험 활동 활용해서 새 포교지평 열어야",
+    "content":"관련파일",
+},{
+    "id": "140",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_617",
+    "title": "2012_3월_24일부터_3월_30일까지_우리_어르신들_생활_모습_입니다.",
+    "content":".",
+},{
+    "id": "141",
+    "url": "/resource_room/religious-life/dlf_11/fjkH8WvcJI.hwp",
+    "title": "2012-3-26-생명 평화 1000일 결사 동참 기대",
+    "content":"관련파일",
+},{
+    "id": "142",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_584",
+    "title": "2012_3월_31일부터_4월_6일까지_우리_어르신들_생활_모습입니다.",
+    "content":".",
+},{
+    "id": "143",
+    "url": "/resource_room/notices-dosolnoin/life12/resource_room/notices-dosolnoin/files/4%EC%9B%94%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EA%B3%84%ED%9A%8D%EB%B0%8F%EC%8B%9D%EB%8B%A8%ED%91%9C.hwp",
+    "title": "도솔노인복지센터 4월 프로그램 계획 및 식단표",
+    "content":"4월 프로그램 계획 및 식단입니다.",
+},{
+    "id": "144",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_551",
+    "title": "2012_4월_7일부터_4월_13일까지_우리어르신들_생활_모습입니다.",
+    "content":".",
+},{
+    "id": "145",
+    "url": "/resource_room/religious-life/dlf_13/j4onfiAZAF.hwp",
+    "title": "2012-4-12-손가락질 받는 이름",
+    "content":"관련파일",
+},{
+    "id": "146",
+    "url": "/resource_room/religious-life/dlf_14/CaSKCgTnSG.hwp",
+    "title": "2012-4-12-혜민 스님 광고 출연료 소외이웃에 전액기부",
+    "content":"관련파일",
+},{
+    "id": "147",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_518",
+    "title": "2012_4월_14일부터_4월_20일까지_우리_어르신들_생활_모습입니다.",
+    "content":".",
+},{
+    "id": "148",
+    "url": "/resource_room/references/dlf_10/uzmsoptm35.hwp",
+    "title": "2012-04-16-10_&lt;대전ㆍ충남 요양시설 어디가 괜찮나&gt;",
+    "content":"대전ㆍ충남 요양시설 어디가 괜찮나   관련파일",
+},{
+    "id": "149",
+    "url": "/resource_room/references/dlf_8/QZPdTLWQaQ.hwp",
+    "title": "2012-04-16-8_&lt;요양병원 연간 진료비 6년 간 13배 급증&gt;",
+    "content":"요양병원 연간 진료비 6년 간 13배 급증   관련파일",
+},{
+    "id": "150",
+    "url": "/resource_room/references/dlf_9/3HzNH6GU2Z.hwp",
+    "title": "2012-04-16-9_&lt;우후죽순 요양병원 건강보험공단 재정에 심각한 부담&gt;",
+    "content":"우후죽순 요양병원 건강보험공단 재정에 심각한 부담   관련파일",
+},{
+    "id": "151",
+    "url": "/resource_room/religious-life/dlf_15/Kl6ck6Lg6B.hwp",
+    "title": "2012-4-16-자살하지 않는 사회 만들어야",
+    "content":"관련파일",
+},{
+    "id": "152",
+    "url": "/resource_room/references/dlf_11/MUBqRxR7QU.hwp",
+    "title": "2012-04-20-11_&lt;난폭했던 할머니, 꽃을 보면 웃는다&gt;",
+    "content":"난폭했던 할머니, 꽃을 보면 웃는다   관련파일",
+},{
+    "id": "153",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_485",
+    "title": "2012_4월_21일부터_4월_27일까지_우리_어르신들_생활_모습입니다.",
+    "content":".",
+},{
+    "id": "154",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_452",
+    "title": "2012_4월_28일부터_5월_4일까지_우리_어르신들_생활_모습_입니다.",
+    "content":".",
+},{
+    "id": "155",
+    "url": "/resource_room/notices-dosolnoin/life13/resource_room/notices-dosolnoin/files/5%EC%9B%94%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EA%B3%84%ED%9A%8D%EB%B0%8F%EC%8B%9D%EB%8B%A8%ED%91%9C.hwp",
+    "title": "도솔노인복지센터 5월 프로그램 계획 및 식단표",
+    "content":"5월 프로그램 계획 및 식단입니다.",
+},{
+    "id": "156",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_419",
+    "title": "2012_5월_5일부터_5월_11일까지_우리_어르신들_생활_모습_입니다.",
+    "content":".",
+},{
+    "id": "157",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_386",
+    "title": "2012_5월_12일부터_5월_18일까지_우리_어르신들_생활_모습입니다.",
+    "content":".",
+},{
+    "id": "158",
+    "url": "/resource_room/references/dlf_12/hPwNuys6SJ.pdf",
+    "title": "2012-05-12-12_노인자살예방 관련 안내 가이드북",
+    "content":"노인자살예방 관련 안내 가이드북   관련파일",
+},{
+    "id": "159",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_353",
+    "title": "2012_5월_19일부터_5월_25일까지_우리_어르신들_생활_모습입니다.",
+    "content":".",
+},{
+    "id": "160",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_325",
+    "title": "2012_5월_26일부터_6월_1일까지_우리_어르신들_생활_모습입니다.",
+    "content":".",
+},{
+    "id": "161",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_293",
+    "title": "2012_5월_30일_우리_어르신들_나들이_모습입니다(지당_자연사_박물관)",
+    "content":".",
+},{
+    "id": "162",
+    "url": "/resource_room/notices-dosolnoin/life14/resource_room/notices-dosolnoin/files/6%EC%9B%94%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EA%B3%84%ED%9A%8D%EB%B0%8F%EC%8B%9D%EB%8B%A8%ED%91%9C.hwp",
+    "title": "도솔노인복지센터 6월 프로그램 계획 및 식단표",
+    "content":"6월 프로그램 계획 및 식단입니다.",
+},{
+    "id": "163",
+    "url": "/resource_room/references/dlf_13",
+    "title": "2012-06-06-13_욕창예방",
+    "content":"▶ 목 적 욕창은 신체 모든 부위에 발생할 수 있고 일단 발생되면 치료가 어려우므로 욕창을 예방하여 정상 피부상태를 유지하는 것이 중요하다. ▶ 방 법 피부를 깨끗이 유지한다. 에어 매트리스를 사용한다. 2시간 간격으로 체위를 변경한다. 관절의 최대운동범위(Range of Motion) 운동을 한다. 호발 부위에 베게를 대어주며 자주(적어도 4시간)마사지를 하여 혈액순환을 돕 는다. 시트의 구김살과 부스러기 등으로 인한 자극을 줄이기 위해 침상은 항상 주름 이 없도록 팽팽하게 펴주고 청결을 유지한다. 신체의 한 지점에 대한 지나친 압력 편중을 감소시키기 위해 환자 상태에 따라 체위를 자주 변경시켜준다. 충분한 단백질과 비타민 C를 공급하고 적당한 수분을 섭취하며 칼로리가 많은 음식을 준다 천골부·미골부는 소변과 대변으로 더럽혀 지지 않도록 즉시 닦아주고, 주위를 부드럽게 마사지 해준다. 손상 받은 피부에 피부 보호 연고나 스프레이를 뿌린다. 발적된 부위가 있으면 윤활제를 사용하여 마사지 해준다. 마비된 부분은 부딪치거나 미끄러지거나,넘어지거나,비벼지거나,뜨거운 물이나 음식이 쏟아지는 등의 상해로부터 보호한다. 압박감을 나타내는 저릿저릿함과 변색된 피부 등이 있는지 살펴본다. 가능하면 침대 머리를 30도 이하로 유지하여 쏠림을 감소시킨다. 욕창 예방의 필요성과 피부 관리에 대해 전반적인 사항을 환자와 가족에게 교육 한다.",
+},{
+    "id": "164",
+    "url": "/resource_room/religious-life/dlf_16/Bx9L2MVYIF.hwp",
+    "title": "2012-6-7-불기 2546년 부처님 오신날 봉축 법요식",
+    "content":"관련파일 불기 2546년 부처님 오신날을 맞이하여 도솔산 화암사에서는 사부대중 약 500명이 참석하여 성대하게 봉축 법요식 행사를 진행하였습니다. 모두가 어려운 시기여서 작년 만큼은 등을 달지는 못하였지만 부처님을 향한 마음은 더 높다고 생각을 합니다. 내년에는 모든일이 잘 되어서 많은 분들이 등불을 밝히는데 동참할 수 있기를 간절히 바라며, 불자님 가정 가정마다 항상 부처님의 가피가 함께 하시기를 기원드립니다. 성불하십시요.",
+},{
+    "id": "165",
+    "url": "/resource_room/religious-life/dlf_17/CZj2ZSq3F1.hwp",
+    "title": "2012-6-7-사랑의 쌀 108포를 전달",
+    "content":"관련파일 우리 도솔산 화암사(혜광스님)에서는 불기 2546년(마음에 평화를 세상에 행복을)부처님 오신날을 맞이하여 서구 관내 어려운 이웃을 위해 사용해달며 사랑의 쌀 108포(4,320kg)을 서구청에 전달하였습니다. 전달 된 쌀은 각 동 주민센터를 통해 서구 관내 어려운 가정 108세대에 잘 전달되었습니다. 금번에 모아진 쌀은 스님을 비롯한 화암사 모든 신도분들이 어려운 이웃을 위해 좋은 일을 하자는 원을 세운 후 모두가 동참하여 이렇게 뜻 있은 일을 할 수가 있었습니다. 스님께서는 내년에는 더 좋은 일과 더 큰 일을 준비하고 있습니다. 관심 있는 여러분들의 많은 분들의 동참을 바랍니다.",
+},{
+    "id": "166",
+    "url": "/resource_room/religious-life/dlf_19",
+    "title": "2012-6-8-불기 2546년 부처님 오신날 맞이 제5회 도솔 어르신 경로잔치",
+    "content":"도솔산 화암사에서는 부처님 오신날을 맞이하여 지역사회 어르신들을 위한 제5회 도솔 어르신 경로잔치를 진행하였습니다. 지역사회의 어르신 및 경로당 어르신 약 200여분이 참여하였으며 점심공양과 정성이 담긴 선물을 모두에게 전해 드렸습니다. 금년에는 큰 경로행사를 진행하지 못하였지만 그래도 여러분들의 도움으로 행사를 원만하게 진행하였습니다. 내년에는 더 알차고 다양한 경로행사를 준비하도록 하겠습니다. 1868272075_9GkxbLJ3_1-7 1868272075_Boju2kP5_1-1 1868272075_ENTdcIpv_1-8 1868272075_FBVi7SvL_1-4 1868272075_NGCtYZ2k_1-5 1868272075_NkZzgRsn_1-6 1868272075_OrkSsVb5_1-2 1868272075_Ub5wEvFI_1-9 1868272075_Uc6mNT52_1-3 1868272075_bq1ErMlG_1-11 1868272075_wYsS3NUx_1-10 1868272075_LPmRSVHy_2-6 1868272075_XZsepbck_2-3 1868272075_dwpQy6Fs_2-2 1868272075_gStDT2jF_2-4 1868272075_m3uDx95L_2-1 1868272075_rNGfVQOv_2-5",
+},{
+    "id": "167",
+    "url": "/resource_room/religious-life/dlf_18",
+    "title": "2012-6-8-불기 2546년 부처님 오신날 봉축 음악회",
+    "content":"불기 2546년 부처님 오신날 맞이 안형수 키타리스트와 함께 한 봉축 음악회 관련 사진 입니다. 1868272075_9GkxbLJ3_1-7 1868272075_Boju2kP5_1-1 1868272075_ENTdcIpv_1-8 1868272075_FBVi7SvL_1-4 1868272075_NGCtYZ2k_1-5 1868272075_NkZzgRsn_1-6 1868272075_OrkSsVb5_1-2 1868272075_Ub5wEvFI_1-9 1868272075_Uc6mNT52_1-3 1868272075_bq1ErMlG_1-11 1868272075_wYsS3NUx_1-10",
+},{
+    "id": "168",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_261",
+    "title": "2012_6월_25일부터_6월_30일까지_우리_어르신들_생활_모습입니다.",
+    "content":".",
+},{
+    "id": "169",
+    "url": "/resource_room/notices-dosolnoin/life15/resource_room/notices-dosolnoin/files/7%EC%9B%94%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EA%B3%84%ED%9A%8D%EB%B0%8F%EC%8B%9D%EB%8B%A8%ED%91%9C.hwp",
+    "title": "도솔노인복지센터 7월 프로그램 계획 및 식단표",
+    "content":"7월 프로그램 계획 및 식단입니다.",
+},{
+    "id": "170",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_229",
+    "title": "2012_7월_2일부터_7월_7일까지_우리_어르신들_생활_모습_입니다.",
+    "content":".",
+},{
+    "id": "171",
+    "url": "/resource_room/religious-life/dlf_20",
+    "title": "2012-7-5-혜민스님과 함께하는 마음치유 콘서트 사진",
+    "content":"1868272075_0JjHQW2o_3-10 1868272075_2SVZnBDh_3-1 1868272075_37gMohc0_3-3 1868272075_70nJQCM9_3-2 1868272075_9w30iylG_3-4 1868272075_L5Y90H3C_3-12 1868272075_Nmu9IBPY_3-17 1868272075_Pt6g3dVu_3-7 1868272075_QsZSUwpK_3-11 1868272075_R5FlKNmi_3-18 1868272075_RHX6B5ho_3-14 1868272075_SiBwIMsj_3-9 1868272075_dDG1ea9E_3-13 1868272075_kMnNDUhm_3-16 1868272075_l0Cta1Uv_3-6 1868272075_ujaLvOyS_3-19 1868272075_xMdlYa8z_3-8 1868272075_xeEFB3gc_3-20 1868272075_ytbWC95A_3-5 1868272075_zb4tCP5v_3-15",
+},{
+    "id": "172",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_197",
+    "title": "2012_7월_9일부터_7월_14일까지_우리_어르신들_생활_모습_입니다.",
+    "content":".",
+},{
+    "id": "173",
+    "url": "/resource_room/references/dlf_14/AzPiihxJ7j.hwp",
+    "title": "2012-07-09-14_노인장기요양보험 등급 산정 완화됐어요.",
+    "content":"노인장기요양보험 등급 산정 완화됐어요.   관련파일",
+},{
+    "id": "174",
+    "url": "/resource_room/religious-life/dlf_21/5xOlQXzK45.hwp",
+    "title": "2012-7-9-진화론 연기법처럼 부정할 수 없는 진리",
+    "content":"관련파일",
+},{
+    "id": "175",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_165",
+    "title": "2012_7월_16일부터_7월_21일까지_우리_어르신들_생활_모습_입니다.",
+    "content":".",
+},{
+    "id": "176",
+    "url": "/resource_room/religious-life/dlf_22/fJMFweIiD3.hwp",
+    "title": "2012-7-20-한국 불교 세계화 희망을 품은 스마트 봉녕 ",
+    "content":"관련파일",
+},{
+    "id": "177",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_133",
+    "title": "2012_7월_23일부터_7월_28일까지_우리_어르신들_생활_모습_입니다.",
+    "content":".",
+},{
+    "id": "178",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_101",
+    "title": "2012_7월_30일부터_8월_4일까지_우리_어르신들_생활_모습입니다.",
+    "content":".",
+},{
+    "id": "179",
+    "url": "/resource_room/notices-dosolnoin/life16/resource_room/notices-dosolnoin/files/8%EC%9B%94%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EA%B3%84%ED%9A%8D%EB%B0%8F%EC%8B%9D%EB%8B%A8%ED%91%9C.hwp",
+    "title": "도솔노인복지센터 8월 프로그램 계획 및 식단표",
+    "content":"8월 프로그램 계획 및 식단입니다.",
+},{
+    "id": "180",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_69",
+    "title": "2012_8월_6일부터_8월_11일까지_우리_어르신들_생활_모습_입니다.",
+    "content":".",
+},{
+    "id": "181",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_37",
+    "title": "2012_8월_13일부터_8월_18일까지_우리_어르신들_생활_모습_입니다.",
+    "content":".",
+},{
+    "id": "182",
+    "url": "/resource_room/notices-dosolnoin/life17/resource_room/notices-dosolnoin/files/9%EC%9B%94%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EA%B3%84%ED%9A%8D%EB%B0%8F%EC%8B%9D%EB%8B%A8%ED%91%9C.hwp",
+    "title": "도솔노인복지센터 9월 프로그램 계획 및 식단표",
+    "content":"9월 프로그램 계획 및 식단입니다.",
+},{
+    "id": "183",
+    "url": "/resource_room/references/dlf_15",
+    "title": "2012-09-07-15_건강을 지키는 7가지 방법",
+    "content":"기름진 음식에 술·담배까지… 소화기 질환은 식습관과 관련이 깊다. 최근의 대장암 증가 원인으로는 주로 육류나 기름진 음식이 꼽히는데, 이런 섭생은 대변이 장에 머무는 시간을 지연시키고 독성물질 분비를 촉진함으로써 장 점막세포를 손상, 변질시킨다. 이런 손상과 변화가 반복되면 점막세포가 용종을 거쳐 암으로 발전한다. 또 단백질은 암모니아와 아민 등의 부패물질로 분해되고, 고지방은 대장 내 유해세균을 증가시키는데, 이 중 대장균·박테로이데스·클로스트리디움 등의 유해세균이 장염과 궤양 등 대장질환을 일으키고, 혈액 속에서 발암물질을 만들어 대장암을 유발한다. 술과 담배, 불에 탄 단백질, 염장식품 등도 주의해야 한다. 외면 당하는 곡물·채소류 변비를 막고 장운동을 활발하게 하는 데는 김·다시마 등 해조류와 콩·보리 등의 곡물류, 사과·알로에·자두·당근 등 과채류가 좋다. 이런 식품군에는 섬유소가 많기 때문이다. 섬유소는 영양소는 아니지만 다량의 수분을 흡수, 대변의 양을 많고 부드럽게 만들어 변비를 예방한다. 장에는 물이 보약 대변의 약 70%는 수분이고 나머지가 음식물 찌꺼기와 장내 세균이다. 때문에 수분 공급은 배변과 장 건강에 큰 영향을 미친다. 물을 많이 마시면 대변의 수분이 흡수돼 생긴 변비에 효과적이다. 특히 잠자리에서 땀을 많이 흘리는 사람은 아침에 탈수가 오기 쉬우므로 기상 후 물을 한 컵씩 마시면 좋다. 사람은 1일 1.5∼2ℓ 정도의 수분을 필요로 한다. 국 등 음식을 통해 섭취하는 수분을 제외하고도 하루 4∼5잔 정도의 물을 마셔주면 장운동에 좋다. 밤참의 유혹 불규칙한 식사는 과식·폭식을 유발해 장내 세균에 의한 부패물질 생산의 원인이 되고, 이로 인해 장염과 궤양 등이 생기기 쉽다. 특히 밤참이 문제다. 장은 낮과 달리 밤에는 활동력이 떨어져 음식의 소화·흡수가 더디다. 따라서 밤 9시 이후에는 음식을 안 먹는 것이 좋으며, 식사가 늦어지면 미리 김밥 등 간식을 먹어 공복감을 해소하면 과식·폭식을 피할 수 있다. 저녁은 채식 위주로 간단히 먹는 게 좋고, 아침 식사는 거르지 않아야 대장의 연동운동을 촉진, 배변을 원활하게 한다. 화장실 장기 체류? 음식물이 십이지장·소장을 거쳐 대장 끝으로 옮겨갈 수 있는 것은 연동운동 때문인데, 이 운동이 원활해야 쾌변이 된다. 변비는 이런 연동운동이 원활하지 못하다는 신호이자 장 건강을 해치는 주범이다. 변비를 예방하려면 바른 식습관과 함께 배변시간이 10분을 넘지 않도록 해야 한다. 배변 중 습관적으로 신문·잡지를 읽는 것은 좋지 않다. 또 배변욕이 느껴지면 즉시 배변하는 습관을 들여야 한다. 반복해서 변을 참다 보면 변비가 오기 쉽다. 배변에 가장 좋은 시간은 아침식사 직후. 위에 음식이 들어가면 결장이 운동을 시작해 S상 결장에 쌓여 있던 배설물이 직장으로 옮겨간다. 이 때 자극이 대뇌에 전달돼 배변욕을 느끼는데, 아침식사 직후 이 느낌이 가장 강하다. 따라서 아침식사 후에는 배변욕을 안 느끼더라도 화장실에 가는 것이 좋다. 변을 계속 참으면 대장의 감각이 마비돼 나중에는 배변욕을 느낄 수 없게 된다. 설사·변비가 오락가락 지사제나 변비약도 조심해야 한다. 변비나 설사 증상이 있을 때마다 약을 먹으면 나중에는 약효가 크게 떨어져 약의 복용량을 늘려야 하는 악순환으로 대장에 큰 위험을 초래할 수 있다. 약물이 대부분 장내 유익균을 죽이고 유해 세균과 부패물질을 늘리기 때문이다. 또 변비약을 지속적으로 복용하면 체내 칼륨이 빠져나가 장운동이 무력해져 오히려 변비를 유발하기도 한다. 내시경, 겁나서 못한다? 대부분의 소화기질환은 예방이 가능하기 때문에 건강을 잃기 전에 정기적인 검사를 통해 예방하거나 조기에 치료하는 것이 현명하다. 별다른 증상이 없더라도 40대 이후라면 위내시경은 1년마다, 대장내시경은 5년마다 하는 것이 좋다. [출처: 네이버뉴스]",
+},{
+    "id": "184",
+    "url": "/resource_room/references/dlf_16/MSUZBoqBce.pdf",
+    "title": "2012-09-07-16_노인학대예방 안내 교육 소책자",
+    "content":"일반노인용 노인학대예방교육 소책자 “노인학대! 신고부터 예방까지” 입니다.   관련파일",
+},{
+    "id": "185",
+    "url": "/resource_room/notices-dosolnoin/life19",
+    "title": "2012-09-11-3_혜민스님 초청강연회 및 후원의 밤 행사",
+    "content":"2011.12.28(수) / 바자회(11:00~21:00), 강연회(19:00~21:00) 혜민스님 초청강연회 및 후원의 밤 행사에 참여해 주신 많은 분들에게 감사의 인사를 전합니다. 화암사 불사이래 최대의 인원이 참여하여 이번행사가 진행되였습니다. 바자회 수익과 후원금은 지역의 소외된 이웃과 독거노인들이 따뜻한 겨울을 날 수 있도록 사용하겠습니다. 다시한번 바쁘신 와중에도 참여해 주시고 봉사해주신 많은 분들께 감사의 인사를 전합니다. 2070192621_0axpdP9C_6-4 2070192621_0gBjEMsm_6-1 2070192621_1s8FhCuI_6-10 2070192621_MWYmA4uL_6-6 2070192621_MYN5i8zH_6-9 2070192621_UNdlo6w9_6-7 2070192621_WxZ7GHLg_6-5 2070192621_f2TygYe7_6-8 2070192621_rhJR2lV8_6-2 2070192621_rv8tFQaB_6-3",
+},{
+    "id": "186",
+    "url": "/resource_room/notices-dosolnoin/life20",
+    "title": "2012-09-11-4_2011년 화암사 김장나눔 행사",
+    "content":"  2011년도 독거노인 및 경로당 지원 김장나눔 행사를 실시하였습니다. 2011.11.18(금)~19(토) 현대오일뱅크 임직원 여러분 및 김장나눔행사에 참여해 주신 신도분들께 감사의 인사를 전합니다. 2070192621_3s0GnHzO_4-7 2070192621_Ad73ieyu_4-2 2070192621_Ej1xr0oI_4-6 2070192621_FWY0xsyu_4-11 2070192621_LopyzFlN_4-10 2070192621_NMF1lePI_4-8 2070192621_RYfS5mEL_4-4 2070192621_RjKd53os_4-3 2070192621_j73xJue0_4-9 2070192621_kIjah2sC_4-1 2070192621_oq89yGzX_4-5 2070192621_sHqIdO5J_4-12",
+},{
+    "id": "187",
+    "url": "/resource_room/religious-life/ceremony_2",
+    "title": "기무사령부 초청법회",
+    "content":"2011.10.23.(일) 서울 기무사령부 통일 호국사에 초청법회를 다녀오셨습니다. 아름다운 경치와 청명한 가을날씨에 여러 신도분들과 군부대 장병들과의 좋은시간을 함께하는 자려였습니다. 1868272075_GZKuIp4T_2-1 1868272075_K9sOelEk_2-3 1868272075_PRsSdpgA_2-5 1868272075_UqC5GZKl_2-9 1868272075_a30lEm1T_2-8 1868272075_flRecgGO_2-2 1868272075_sk67nY0E_2-6 1868272075_wmX3n94z_2-7 1868272075_yTH0GNn1_2-4",
+},{
+    "id": "188",
+    "url": "/resource_room/religious-life/ceremony_3",
+    "title": "신중탱화 동진보살 점안식",
+    "content":"도솔산 화암사 개원 4주년을 맞이하여 신중탱화 동신보살 점안식을 거행하였습니다. 많은 신도분들이 동참하여 주셔서 뜻깊은 자리가 되었습니다. 1868272075_9ApuegfC_3-8 1868272075_E9Bk38fd_3-7 1868272075_N0LyPcDU_3-5 1868272075_QmvikdNH_3-6 1868272075_WsOrkZY7_3-3 1868272075_ZnVmhM1w_3-2 1868272075_fCANXvDV_3-4",
+},{
+    "id": "189",
+    "url": "/resource_room/religious-life/ceremony_4",
+    "title": "2011년 동지기도법회",
+    "content":"2011.12.22(목) 동지기도 법회가 있었습니다. 많은 신도분들이 법회에 참여를 해주시고, 맛있는 팥죽도 나누어 먹었답니다. 무료급식을 실시하여 지역의 독거노인들도 방문하시어 팥죽을 함께나누는 귀중한 시간이 되었습니다. 1868272075_BjkOU6uL_5-6 1868272075_P8Bd1IQq_5-3 1868272075_QjGmSouy_5-7 1868272075_YPVenvbx_5-1 1868272075_iYxJdZCF_5-4 1868272075_wC7nrhjG_5-5",
+},{
+    "id": "190",
+    "url": "/resource_room/religious-life/v1",
+    "title": "롯데백화점 봉사단 활동사진",
+    "content":"2011.10.12 (수) 롯데백화점 봉사단과 함께 허브스쿨로 체험학습나들이를 다녀왔습니다. 어르신 나들이에 봉사를 나와주신 롯데백화점 봉사단 선생님들에게 진심으로 감사드리며, 앞으로도 지속적인 관심과 참여 부탁드립니다.^^ 20120911-1 20120911-2 20120911-3 20120911-4 20120911-5 20120911-6 20120911-7",
+},{
+    "id": "191",
+    "url": "/resource_room/religious-life/ceremony_1",
+    "title": "불기2555 부처님 오신날",
+    "content":"불기 2555년 부처님 오신날 법회를 진행하였습니다. 1868272075_J4COWd0S_1-1 1868272075_KwjIGHFe_1-3 1868272075_jSui5qOR_1-2",
+},{
+    "id": "192",
+    "url": "/resource_room/notices/life21",
+    "title": "도솔노인복지센터 10월 프로그램 계획표",
+    "content":"2012. 10.01∼10.31. –도솔노인복지센터–",
+},{
+    "id": "193",
+    "url": "/resource_room/notices-hwaam/life5",
+    "title": "마음치유와 명상강좌",
+    "content":"마음치유와 명상강좌",
+},{
+    "id": "194",
+    "url": "/resource_room/notices-dosolnoin/life22",
+    "title": "도솔노인복지센터 11월 프로그램 계획표",
+    "content":"",
+},{
+    "id": "195",
+    "url": "/resource_room/notices-hwaam/life6",
+    "title": "도솔노인복지센터 후원행사",
+    "content":"도솔노인복지센터 후원행사",
+},{
+    "id": "196",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_98",
+    "title": "2012_11월_26일_주간보호_어르신들_프로그램_활동모습입니다.",
+    "content":"건강박수 하시는 모습입니다. 적극적으로 잘따라해주시는 우리어르신들~!       발음하기 어려운 글도 잘읽으시는 어르신들     오려붙이기 시간에 정성들여 색칠하셨어요. 사회복지사 실습생께서 어르신들과 함께 유쾌한 웃음치료 프로그램을 진행하셨습니다.",
+},{
+    "id": "197",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_66",
+    "title": "2012_11월_27일_주간보호_어르신들_프로그램_활동모습입니다.",
+    "content":"  건강박수 시간에 적극적으로 따라하시는 어르신들.     만다라 시간에 집중하여 열심히 색칠하셨어요       명상활동 시간입니다. 어르신들께서 집중하시는 모습이 참 아름답습니다.       실버난타시간입니다. 이시간을 어르신들께서 제일 좋아하신답니다!",
+},{
+    "id": "198",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_34",
+    "title": "2012_11월_28일_주간보호_어르신들_프로그램_활동모습입니다.",
+    "content":"  줄스트레칭 시간입니다. 어르신들께서 참 적극적으로 참여하시죠?     만다라 시간입니다. 야채색깔에 맞추어 색칠해보기로 했습니다.     종이 공예 시간입니다. 연필꽂이를 만드는 준비과정입니다. 손유희 시간입니다. 어르신들께서 동요를 따라부르시며 적극적으로 참여하셨어요",
+},{
+    "id": "199",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_3264",
+    "title": "2012_11월_29일_주간보호_어르신들_프로그램_활동모습입니다.",
+    "content":"  서구보건소에서 어르신들 치매척도검사를 해주셨어요 이날 출석한 모든 어르신들은 치매척도검사를 받으셨답니다.   풍선 공예 시간입니다. 직접 풍선을 불어보기도 하신답니다.   생활체육 시간입니다. 어르신들께서 적극적으로 참여 해주셨어요. 만다라 시간입니다. 적극적으로 잘참여하셨습니다.",
+},{
+    "id": "200",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_3232",
+    "title": "2012_11월_30일_주간보호_어르신들_프로그램_활동모습입니다.",
+    "content":"  콩고르기 시간입니다. 세가지 콩을 섞어서 콩을 색깔별로 고르고 계십니다.     다도교실 시간이에요. 이시간에는 차예절과 시조를 읊는 시간이에요.     노래교실 시간입니다. 어르신들께서 직접 노래도 부르고 하신답니다.   바느질 시간입니다. 어르신들께서 예전솜씨를 뽐내고 계세요.",
+},{
+    "id": "201",
+    "url": "/resource_room/notices-hwaam/life7",
+    "title": "실습생 모집",
+    "content":"도솔노인복지센터 동계 실습생 모집 모집인원 : 5~6명 모집제한: 한 학교 당 3인 이하 모집방법 : 선착순 접수 마감 (1) 도솔노인복지센터 문의(전화: 528-1080) ⇒ (2) 학과 사무실 접수 및 신청, 도솔노인복지센터로 공문발송 ⇒ (3) 도솔노인복지센터 접수 ⇒ (4) 학과 및 학생에게 통보 실습기간 2013.1.7 ~ 1.25 (3주간 : 120시간) + 1주 (4주간 : 160시간) 실습시간: 1일 8시간(주 5일) 실 습 비: 10만원(식비포함) 문의 (042) 528-1080",
+},{
+    "id": "202",
+    "url": "/resource_room/notices-dosolnoin/life23",
+    "title": "도솔노인복지센터 12월 프로그램 계획표",
+    "content":"",
+},{
+    "id": "203",
+    "url": "/resource_room/notices-hwaam/life8",
+    "title": "홍보동영상",
+    "content":"홍보동영상 http://youtu.be/j5SnBkXZAFM",
+},{
+    "id": "204",
+    "url": "/resource_room/notices-dosolnoin/life24",
+    "title": "도솔노인복지센터 1월 프로그램 계획표",
+    "content":"",
+},{
+    "id": "205",
+    "url": "/resource_room/notices-hwaam/life9",
+    "title": "도솔노인복지센터 후원행사(바자회)-사진자료",
+    "content":"“나누는 기쁨, 함께하는 세상” 행사와 관련하여 도움을 주신 화암사 신도회 회장님 이하 신도(무량수회 및 거사회) 여러 후원자님, 봉사자님 등 모든 분들께 진심으로 감사를 드립니다. 감사합니다.^^(꾸벅) 3531329127_7b8qvuwQ_DSC_0900 3531329127_TIkjNv6Y_DSC_0986 3531329127_Tdszj7u3_DSC_0984 3531329127_dDxVSFkZ_DSC_0934 3531329127_fYl67Cza_DSC_0920 3531329127_ghuSL3p9_DSC_0980 3531329127_jRLn83pf_DSC_0950 3531329127_nDxLyodq_DSC_0964 3531329127_w4nhdqOH_DSC_0948",
+},{
+    "id": "206",
+    "url": "/resource_room/notices-hwaam/life10",
+    "title": "도솔노인복지센터 후원행사(바자회)-사진자료2",
+    "content":"“나누는 기쁨, 함께하는 세상” 함께하신 모든 분들께 감사를 드립니다. 도움을 주신 모든 분들께 진심으로 깊은 감사를 드립니다. 특히, 유자차 만들기에 애써주신 보살님과 거사님들께 다시 한번 감사를 드립니다. ^^(꾸벅) 3531329127_7462hegk_DSC_1056 3531329127_LYK1Bsec_DSC_1024 3531329127_MAJGqEsT_DSC_1059 3531329127_Pv4GybHd_DSC_1067 3531329127_YT8I2Nyb_DSC_1050 3531329127_ZIKWjBw8_DSC_1000 3531329127_eTr8XuFg_DSC_1033 3531329127_k3fpqnvM_DSC_1001 3531329127_xlukYCDm_DSC_1032",
+},{
+    "id": "207",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_3168",
+    "title": "1월_4일_주간보호_어르신들_프로그램_활동모습입니다.",
+    "content":"  콩고르기 시간입니다. 어르신들께서 적극적으로 참여하셨어요.   다도교실 시간입니다. 시조를 외우시는데 큰소리로 잘 따라 하셨어요.     노래교실 시간입니다. 어르신께서 적극적으로 참여하셨어요.     옛추억을 회상하며 한땀 한땀 수를 놓으셨어요.  ",
+},{
+    "id": "208",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_3136",
+    "title": "1월_5일_주간보호프로그램_모습입니다.",
+    "content":"오늘은 토요일(소한)입니다. 추위도 잊은채 만다라 색칠하기 프로그램에 열중이십니다. 예쁜 어르신들의 모습에 성원을 부탁드립니다 ",
+},{
+    "id": "209",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_3104",
+    "title": "1월_8일_프로그램_활동_사진입니다.",
+    "content":"건강박수, 만다라, 난타프로그램 사진입니다. 건강도 챙기고 스트레스도 확 풀어드리는 시간이 되었습니다.",
+},{
+    "id": "210",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_3072",
+    "title": "1월_9일_프로그램_사진입니다.",
+    "content":"만다라, 줄트르레칭, 풍선배구 … 프로그램에 열중이십니다. 만다라는 인지프로그램이라 매일 해드립니다.",
+},{
+    "id": "211",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_3040",
+    "title": "1월_10일_프로그램_사진입니다.",
+    "content":"매일 하는 인지활동^^ - 기억력 증진에 도움이 되고요 월 1회 진행되는 생일잔치, 건강을 위한 생활체육 프로그램입니다. 오늘도 화이팅입니다.",
+},{
+    "id": "212",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_3008",
+    "title": "1월_11일_활동사진입니다.",
+    "content":"앗싸 ! 나는 가수입니다….. 재일 좋아하시는 노래교실입니다. 따뜻한 차 한잔과 시조 한수…. 다도교실 인지강화를 위한 콩고르기와 손유희….. 어르신 멋져버려^^",
+},{
+    "id": "213",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2895",
+    "title": "1월_12일_토요일_프로그램사진입니다.",
+    "content":"머리가 지끈지끈… 이 나이에 먼 공부여….. 옛날 생각하며 오늘도 열공^^ ",
+},{
+    "id": "214",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2864",
+    "title": "1월_14일_주간보호프로그램_사진입니다.",
+    "content":"건강박수, 생활체조, 인지활동 사진들입니다. 어르신들의 심신의 건강을  위한 프로그램입니다.",
+},{
+    "id": "215",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2833",
+    "title": "1월_15일_오늘은_어떤일이_있었을까요",
+    "content":"만다라, 명상, 난타, 줄스트레칭 프로그램 진행 모습입니다. 예쁘게 머리 단장도 하였습니다. - 이미용은 월 1회 진행됩니다. 맛있는 간식도 드렸습니다. - 매일 간식을 드립니다. 맛있게 드삼^^",
+},{
+    "id": "216",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2802",
+    "title": "1월_16일_주간보호_프로그램_사진입니다.",
+    "content":"건강박수, 손유희, 만다라 사진입니다. 그리고, 뭘 만드실까요? 종이공예 시간에 연필꽂이를 만드시네요. ^^",
+},{
+    "id": "217",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2771",
+    "title": "1월_17일_주간보호_프로그램_사진입니다.",
+    "content":"생활체육시간에 강사님이 가르쳐주시는대로 열심히 따라 운동을 하니 개운하다고 하시며 즐거워하셨습니다. 또한 요리프로그램으로 유부초밥을 어르신들과 함께 만들고 맛있게 먹으며 즐겁고 행복한 시간을 보냈습니다.^-^",
+},{
+    "id": "218",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2740",
+    "title": "2013년_1월_18일_어르신들_프로그램_활동사진입니다.",
+    "content":"다도수업을 통해 차를 마시며 시조를 읆는시간을 갔져으며 어르신들이 바느질을 하며 회상할수 있는 시간을 가지셨습니다. 어르신 항상 건강하시고 행복하세요!!",
+},{
+    "id": "219",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2709",
+    "title": "1월_21일_주간보호_프로그램_활동사진입니다.",
+    "content":"건강박수 및 풍선배구를 통해 신체활동을 원활히 하시고 글씨쓰기 및 인지활동을 하시며 회상하는 시간을 가지셨습니다. 항상 건강하시고 행복한 하루하루 되세요!!^^",
+},{
+    "id": "220",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2678",
+    "title": "1월_22일_주간보호_프로그램_활동사진입니다.",
+    "content":"여러가지 색깔을 이용하여 그림에 색칠를 하시고, 신명나게 장구,북,꽹과리등을 강사선생님의 장단에 맞추어 즐겁고 행복한 시간을 보냈습니다.",
+},{
+    "id": "221",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2647",
+    "title": "1월_23일_주간보호_프로그램_활동사진입니다.",
+    "content":"건강박수, 손유희, 종이공예 프로그램을 하시며 행복한 하루를 보내셨습니다.",
+},{
+    "id": "222",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2616",
+    "title": "1월_24일_주간보호_프로그램_활동사진입니다.",
+    "content":"생활체육을 통해 어르신들의 심신의 단련하시고, 미술활동, 만다라를 통해 여러가지 색을 고루고루 칠하심. 공기놀이를 통해 회상을 하시며 즐거워하시는 모습을 보이심. ",
+},{
+    "id": "223",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2585",
+    "title": "1월_25일_주간보호_프로그램_활동사진입니다.",
+    "content":"구슬꿰기, 콩고르기, 노래교실, 다도교실등 다양한 프로그램을 통해 즐겁고 행복한 하루를 보내셨습니다.",
+},{
+    "id": "224",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2554",
+    "title": "1월_26일_주간보호_프로그램_활동사진입니다.",
+    "content":"장단에 맞추어 노래를 부르고 춤을 추시며 즐거운 시간을 보내셨습니다.",
+},{
+    "id": "225",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2523",
+    "title": "1월_29일_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"만다라, 실버난타, 명상, 줄스트레칭등 다양한 프로그램을 통해 어르신들의 즐거운 하루를 보내셨습니다.",
+},{
+    "id": "226",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2492",
+    "title": "1월_30일_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"줄스트레칭, 만다라, 고리만들기등 다양한 프로그램을 통해 어르신들에게 즐거고 행복한 시간을 보내시고 계십니다.",
+},{
+    "id": "227",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2461",
+    "title": "1월_31일_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"만다라, 바느질, 향기치료, 생활체육등 프로그램을 통해 어르신들의 심신단련 및 건강하게 하루하루를 보내시고 계십니다.",
+},{
+    "id": "228",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2364",
+    "title": "2월_1일_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"신나는 음악소리에 맞춰 노래를 부르시고 박수도 치시며 즐거운 시간을 보냈으며, 향기치료, 다도수업, 구슬꿰기등 언제나 어르신들에게 다양한 프로그램을 제공하고 있습니다.",
+},{
+    "id": "229",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2334",
+    "title": "2013년_2월_4일_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"건강박수, 생활체육, 손글씨 쓰기, 인지활동, 향기치료등 다양한 프로그램에 참여하여 활기차고 건강하게 지내고 계십니다. ",
+},{
+    "id": "230",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2304",
+    "title": "2013년_2월_5일_주간보호_어르신_활동사진입니다.",
+    "content":"실버난타, 명상, 향기치료, 만다라, 줄스트레칭 프로그램을 통하여 어르신들의 건강과 심신을 단련할수 있는 즐거운 시간이었습니다.",
+},{
+    "id": "231",
+    "url": "/resource_room/notices-dosolnoin/life25",
+    "title": "도솔노인복지센터 2월 프로그램 계획표",
+    "content":"",
+},{
+    "id": "232",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2274",
+    "title": "2월_6일_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"2월 생신을 맞으신 어르신 다시 한번 축하드립니다. 항상 건강하시고 행복한 시간 보내세요!!",
+},{
+    "id": "233",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2244",
+    "title": "2월_7일_주간보호_프로그램_활동사진입니다.",
+    "content":"어르신들과 덕담도 주고 받으며 즐거운 시간을 보냈으며,윷놀이등 다양한 프로그램을 통해 행복한 하루를 보냈습니다.",
+},{
+    "id": "234",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2214",
+    "title": "2월_8일_주간보호_프로그램_활동사진입니다.",
+    "content":"우리나라의 가장 큰 명절 설날을 맞이하여 어르신께 세배를 하고 덕담도 주고 받으며 건강과 행복을 기원드렸습니다.",
+},{
+    "id": "235",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2184",
+    "title": "2월_12일_주간보호_프로그램_활동사진입니다.",
+    "content":"건강박수, 만다라, 명상등 다양한 프로그램등을 통해 어르신들이 하루하루 행복해 하고 계십니다.",
+},{
+    "id": "236",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2154",
+    "title": "2월_13일_주간보호_프로그램_활동사진입니다.",
+    "content":"어르신들과 함께 줄스트레칭, 종이공예, 미술활동등을 통해 즐거운 시간을 보내고 있습니다.",
+},{
+    "id": "237",
+    "url": "/resource_room/notices-dosolnoin/life26",
+    "title": "2013-02-13-1_2012년 후원행사(바자회) 사진 안내",
+    "content":"  나누는 기쁨, 함께하는 세상 - 도솔노인복지센터후원행사(바자회) 일시 : 2012. 12. 1. (토) 10:00~21:00 장소 : 화암사 및 도솔노인복지센터 주요내용 : 전통사찰음식, 산사음악회, 바자회, 농산물직거래장터, 먹거리장터 운영 주최 : (사) 대전불교사회복지회, 도솔산 화암사 주관 : 도솔노인복지센터, 화암사 신도회 후원 : 대불청대전충남지구외 다수 도움을 주신 모든 분들께 진심으로 감사드립니다 ^6     SN207748 SN207797 SN207844 SN207895 SN207896",
+},{
+    "id": "238",
+    "url": "/resource_room/notices-dosolnoin/life27",
+    "title": "2013-02-13-2_2012년 독거노인 김장김치 자비나눔 후원행사",
+    "content":"  사업명 : “2012년 독거노인 김장김치 자비나눔 후원행사” 목 적 (1) 법인이 운영하는 경로식당(무료급식)을 이용 하시는 어르신과 독거 노인들에게 지원될 맛있는 김장김치를 담금으로서 지역 어르신들의 겨울철 먹거리 제공. (2) 직원 및 지역 봉사단체와 함께 나눔의 행사를 진행함으로써 지역주민와 하나되는 복지 공동체를 형성하고, 경로효친사상을 고취시킨다. (3) 독거 어르신들께 직접 담은 맛있는 김치를 나누어 드림으로서 독거 어르신의 고독감 및 소외감을 감소시킨다. 사업내용 (1) 일 시 : 2012. 11. 19.(월) / 09:00 ~ 20(화) / 16:00 (2) 장 소 : 화암사 앞마당 및 주차장, 경로식당 (3) 대 상 : 법인 경로식당 이용 어르신, 독거어르신 (4) 행사참가자 : 법인 임직원, 자원봉사자(무량수회, 현대오일뱅크 충청호남본부) (5) 행사일정세부계획서 도움을 주신 현대오일뱅크 충청호남본부 임직원여러분, 화암사 신도회(무량수회) 여러분들께 진심으로 감사를 드립니다. 변동 주민자치센터를 통하여 어려우신 독거어르신들에게 월동김장김치가 잘 전달되었습니다.     SN207495 SN207531 SN207533 SN207548 SN207550 SN207554",
+},{
+    "id": "239",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2124",
+    "title": "2월_14일_주간보호_프로그램_활동사진입니다.",
+    "content":"생활체육 강사선생님의 동작에 따라 열심히 따라하시며 즐거워 하시고, 풍선공예를 통해 손을 활용하여 이쁜 모양을 만들며 환하게 웃고 계십니다.",
+},{
+    "id": "240",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2094",
+    "title": "2월_15일_주간보호_프로그램_활동사진입니다.",
+    "content":"다도수업 시간을 통해 차를 마시며 시조낭창을 열심히 하시고, 노래수업시간에는 강사선생님의 멋진 노래자락에 맞춰 박자를 맞춰가며 즐겁고 흥겨운 시간을 보내셨습니다.",
+},{
+    "id": "241",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2064",
+    "title": "2월_16일_주간보호_프로그램_활동사진입니다.",
+    "content":"어울림 수업 시간에는 어르신들이 옛 노래자락을 불러보시고 흥겨운 춤을 배우며 행복해 하셨습니다.",
+},{
+    "id": "242",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2034",
+    "title": "2월_18일_주간보호_프로그램_활동사진입니다.",
+    "content":"건강박수, 생활체육시간을 통해 심신을 단련하시고, 손글씨 쓰기를 통해 한자한자 정성스레 써 내려가시 열심히 하셨습니다.",
+},{
+    "id": "243",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2004",
+    "title": "2월_19일_주간보호_프로그램_활동사진입니다.",
+    "content":"요양보호사 실습생 선생님들과 함께 즐거운 노래교실 시간을 가졌으며, 어르신들의 이미용 서비스를 실시하였습니다. 보다 더나은 프로그램을 통해 어르신들이 항상 즐겁고 건강한 생활을 하실수 있도록 노력하겠습니다.",
+},{
+    "id": "244",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1974",
+    "title": "2월_21일_주간보호_프로그램_활동사진입니다.",
+    "content":"풍선공예시간에 강사선생님의 진행에 따라 열심히 따라하시며 이쁜 뽕망치를 만드셨으며, 오재미 활동을 통해 어르신들의 옛 생각을 회상하는 시간도 가졌습니다.",
+},{
+    "id": "245",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1944",
+    "title": "2월_22일_주간보호_프로그램_활동_사진입니다.",
+    "content":"노래교실을 통해 마음껏 노래도 부르며 박자에 맞춰 몸을 조금씩 움직이며 즐거운 시간을 보내셨습니다.",
+},{
+    "id": "246",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1863",
+    "title": "2월_23일_주간보호_프로그램_활동사진입니다.",
+    "content":"어울림 수업을 통해 전통 민요를 배우고, 간단한 춤 동작을 익히며 즐거운 시간을 보내고 있습니다.",
+},{
+    "id": "247",
+    "url": "/resource_room/notices-dosolnoin/life28",
+    "title": "2013-02-24-5_한방진료-광림한의원 진료 모습입니다.",
+    "content":"언제나 큰 버팀목이 되어주시는 든든한 김정규원장님(유성 광림한의원 원장님) ! 늘 한결같은 마음으로 어르신들을 위하여 봉사하여 주심에 깊이 감사드립니다. 그리고 자원봉사를 해주는 대전대한의대 학생들에게도 감사를 드립니다. ^^ SN208995 SN208996 SN208997 SN208998 SN208999 SN209000",
+},{
+    "id": "248",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1834",
+    "title": "2월_25일_주간보호_프로그램_활동_사진입니다.",
+    "content":"자원봉사자 분들과 즐거운 노래교실 시간을 가졌으며, 생활체육, 줄스트레칭등을 통해 심신을 단련하시고 건강을 유지하고 계십니다.",
+},{
+    "id": "249",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1805",
+    "title": "2월_26일_주간보호_프로그램_활동사진입니다.",
+    "content":"건강박수, 난타, 명상등 다양한 프로그램을 통해 항상 행복하고 즐거운 시간을 보내고 계십니다.",
+},{
+    "id": "250",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1776",
+    "title": "2월_27일_주간보호_프로그램_활동_사진입니다.",
+    "content":"요리프로그램 시간에 어르신들과 함께 김치 부침게를 해서 간식으로 맛있게 드셨으며, 오려붙이를 완성하시어 즐거워 하셨습니다.",
+},{
+    "id": "251",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1747",
+    "title": "2월_28일_주간보호_프로그램_활동사진입니다.",
+    "content":"  생활체육시간을 통해 동작하나하나를 열심히 따라하시고, 풍선배구를 하시며 어르신들과 즐거운 시간을 보내셨습니다.",
+},{
+    "id": "252",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1718",
+    "title": "3월_2일_주간보호_프로그램_활동사진입니다.",
+    "content":"어울림 전통 수업 강사님의 노래를 따라 부르시고, 춤과 함께 노래를 부르며 즐겁고 행복하셨습니다.",
+},{
+    "id": "253",
+    "url": "/resource_room/notices-dosolnoin/life31",
+    "title": "2013-03-02-6_무료급식 모습",
+    "content":"경로식당 무료급식사업 진행 사진 입니다. (매주 화, 목, 토 - 주 3회 실시됩니다.) SN209100 SN209101 SN209102 SN209103 SN209104",
+},{
+    "id": "254",
+    "url": "/resource_room/religious-life/ceremony_5",
+    "title": "백일기도회향및 큰스님 법문",
+    "content":"2013.2.24. (일) - 음력(1.15.) 백일기도 회향 및 큰 스님(법주사 무상 큰스님) 법문 5acd2f06714847fd6ea744ad5a10adb7_2V9v8rcSDaaNjeNX4v52LLoPJxv4U1w 5acd2f06714847fd6ea744ad5a10adb7_87hjJuJX 5acd2f06714847fd6ea744ad5a10adb7_UmEcEb83 5acd2f06714847fd6ea744ad5a10adb7_ijJf39n5GmooHk",
+},{
+    "id": "255",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1689",
+    "title": "3월_4일_주간보호_프로그램_활동사진입니다.",
+    "content":"어르신들과 함께 건강박수, 생활체육, 가사쓰기, 만다라등 다양한 프로그램을 진행하여 어르신들과 행복한 시간을 보냈습니다.",
+},{
+    "id": "256",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1660",
+    "title": "3월_5일_주간보호_프로그램_활동사진입니다.",
+    "content":"3월부터 서구 문화원에서 우리춤 우리민요배우기를 새로 시작하여 어르신들과 함께 즐거운 시간을 보내셨고, 아로마 명상을 통해 심신의 안정을 찾고, 지속적인 프로그램을 통해 즐거운 시간을 보내고 계십니다.",
+},{
+    "id": "257",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1631",
+    "title": "3월_6일_주간보호_프로그램_활동사진입니다.",
+    "content":"건강체조, 바느질, 종이공예, 풍선공예 시간에 열심히 따라하시고, 3월 생신을 맞으신 어르신들을 축하하며 즐거운 시간을 보냈습니다. 항상 건강하시고 행복한 시간보내세요!!",
+},{
+    "id": "258",
+    "url": "/resource_room/notices-dosolnoin/life32",
+    "title": "2013-03-06-7_한방진료 - 이혜진 원장님편",
+    "content":"이혜진 한의사 선생님과 대전대 한의학과 예비 한의사분들이 수고해 주셨습니다. 감사합니다.  SN209105 SN209106 SN209107",
+},{
+    "id": "259",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1602",
+    "title": "3월_7일_주간보호_프로그램_활동사진입니다.",
+    "content":"맨손체조와 생활체조를 통해 어르신들의 건강유지를 하고 계시며, 숲속체험여행 프로그램을 통해 산에대해 이해하고, 숲속꾸미기를 통해 즐거운 모습으로 지내고 계십니다.",
+},{
+    "id": "260",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1573",
+    "title": "3월_8일_주간보호_프로그램_활동사진입니다.",
+    "content":"날씨구분하기로 하루를 시작하며, 맨손체조, 콩고르기, 다도수업, 잰가놀이를 통해 어르신들과 즐거운 시간을 보냈습니다.",
+},{
+    "id": "261",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1544",
+    "title": "3월_9일_주간보호_프로그램_활동사진입니다.",
+    "content":"장단에 맞춰 노래가락을 부르기도 하시고, 춤동작을 따라하며 즐거운 시간을 보내셨습니다.",
+},{
+    "id": "262",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1515",
+    "title": "3월_11일_주간보호_프로그램_활동사진입니다.",
+    "content":"숲에대해 어르신들이 조금식 이해를 하시며, 궁금한 점을 물어보기도 하십니다. 만다라 수업을 통해 집중력을 키우고 계십니다.",
+},{
+    "id": "263",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1486",
+    "title": "3월_12일_주간보호_프로그램_활동사진입니다.",
+    "content":"어르신들과 날씨 이야기를 하여 계절을 구분하고 건강체조를 하며 하루를 시작하였습니다. 서구문화원에서 어르신들과 함께 노래를 부르고, 난타와 아로마 명상등을 통해 행복한 하루를 보내셨습니다.",
+},{
+    "id": "264",
+    "url": "/resource_room/notices-hwaam/life11",
+    "title": "도솔노인복지센터 안드로이드 APP 출시",
+    "content":"**도솔노인복지센터 안드로이드 APP 출시 ** 안드로이드 마켓에서 “도솔노인복지센터”, “도솔노인” 만 검색하시면 도솔노인복지센터 앱을 스마트폰에 설치하실 수 있습니다. 많은 이용 부탁드립니다. 3531329127_7462hegk_DSC_1056 3531329127_LYK1Bsec_DSC_1024 3531329127_MAJGqEsT_DSC_1059 3531329127_Pv4GybHd_DSC_1067 3531329127_YT8I2Nyb_DSC_1050 3531329127_ZIKWjBw8_DSC_1000 3531329127_eTr8XuFg_DSC_1033 3531329127_k3fpqnvM_DSC_1001 3531329127_xlukYCDm_DSC_1032 –&gt;",
+},{
+    "id": "265",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1457",
+    "title": "3월_13일_주간보호_프로그램_활동사진입니다.",
+    "content":"어르신들과 날씨와 건강체조를 하고, 숲체험 나들이가 예정이였으나 비가오는 관계로 자원봉사자분들과 내부에서 교육 및 점심을 먹으며 즐거운 시간을 보냈습니다.",
+},{
+    "id": "266",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1392",
+    "title": "3월_14일_주간보호_프로그램_활동사진입니다.",
+    "content":"생활체조를 통해 어르신들의 건강유지를 하고 계시며 숲체험 프로그램 통해 숲에대해 그동안 스쳐지나갔던것들을 좀더 깊숙이 열심히 배우고 있습니다.",
+},{
+    "id": "267",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1364",
+    "title": "3월_15일_주간보호_프로그램_활동사진입니다.",
+    "content":"계절구분하기, 건강체조, 콩고르기, 다도수업, 노래교실등을 통해 어르신들과 즐거운 시간을 보냈습니다.",
+},{
+    "id": "268",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1336",
+    "title": "3월_18일_주간보호_프로그램_활동사진입니다.",
+    "content":"생활체조를 통해 심신단련을 하시고, 오후에는 숲해설 강사님과 함게 숲에 대한 이야기를 하고, 나무목걸이를 이쁘게 만들었습니다.",
+},{
+    "id": "269",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1308",
+    "title": "3월_19일_주간보호_프로그램_활동사진입니다.",
+    "content":"이미용 서비스를 실시하였으며,어르신들과 난타 프로그램 시간에 장구와 북등을 이용하여 장단에 맞춰 열심히 치시고 서구문화원 선생님들의 노래자락을 들으며 옛 추억을 회상하는 시간을 가졌습니다.",
+},{
+    "id": "270",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1280",
+    "title": "3월_20일_주간보호_프로그램_활동사진입니다.",
+    "content":"열심히 매일 매일 건강체조를 어르신들과 함께 하고 있으며 만다라등 다양한 프로그램통해 어르신들과 행복한 시간을 보내고 있습니다.",
+},{
+    "id": "271",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1252",
+    "title": "3월_21일_주간보호_프로그램_활동사진입니다.",
+    "content":"어르신들과 생활체조를 통해 다양한 운동방법을 배우고 익히고 계시며 종이컵에 부추 씨앗을 뿌려 어르신들과 기르며 관찰하고 있습니다.",
+},{
+    "id": "272",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1224",
+    "title": "3월_22일_주간보호_프로그램_활동사진입니다.",
+    "content":"다양한 프로그램을 통해 어르신들에게 웃음을 드리고 즐거운 시간을 보내고 계십니다.",
+},{
+    "id": "273",
+    "url": "/resource_room/forest/life1",
+    "title": "숲과 함께하는 아름다운 동행사업 안내 - 소개(1)",
+    "content":"사업개요 사 업 명: 숲과 함께하는 “아름다운 동행” 지원대상: 도솔노인복지센터 사업기간: 2013. 1. 1. ~ 2013. 12. 31.(12개월) 사업장소: 월평공원(대전시) 숲체험 교육장소: 도솔문화센터, 월평공원 야외행사장 사업내용 숲속 체험여행: 청소년, 일반성인 등을 대상으로 숲에 대한 기본교육, 숲속에서의 체험, 공작물 만들기, 네이쳐스포츠, 마음치유명상, 정화활동 등을 통하여 숲에 대한 이해 증진 및 면역력 향상 도모 함께 숲속으로: 치매어르신 또는 장애인을 자원봉사자(학생, 일반성인 등)와 1:1 매칭하여 함께 숲을 찾아 숲을 공부하고 즐기는 프로그램으로 자원봉사자와 질환어르신, 장애인과의 친밀도를 도모하고, 평소 숲을 찾기 어려운 보행약자에 숲을 즐길 수 있는 기회 제공 사업규모: 150회 / 3,820명 세부사업내역 체험교육 참가인원",
+},{
+    "id": "274",
+    "url": "/resource_room/forest/life2",
+    "title": "숲과 함께하는 아름다운 동행사업 안내 - 소개(2)",
+    "content":"세부사업내역 체험교육 참가인원 장애인 : 대전광역시 장애인단체 총연합회 등과 연계 노인성 질환어르신 : 도솔노인복지센터 주․야간 보호 치매어르신 청소년(학생) : 시교육청 WE센터, 청소년상담지원센터, 청소년활동지원 센터와 연계 및 프로그램 참여 개별신청자 및 각급 학교와 연계 일반성인 : 도솔노인복지센터 대표 백창기(법명 혜광)가 주지로 있는 화암사의 신도 및 프로그램 참여 개별신청자 체험교육 주요내용 도솔문화센터 : 도솔노인복지센터 내 문화센터 숲속 교육장 : 월평공원 야외행사장(광장형 데크) 네이쳐 스포츠(6set) : 자연을 배경으로 자연의 도구를 이용해 만든 시설에서 무리가 되지 않는 신체 활동으로 치유의 숲 효과를 얻을 수 있으며 남녀노소가 이야기구조의 재미를 얻을 수 있는 야외 활동 QR코드 : 격자무늬 코드, 스마트폰으로 스캔하여 각종 정보 취득 숲속교육장(광장형 데크) 및 네이쳐 스포츠(6set), QR코드는 2011년 10월 완공 / 산림청(부여국유림관리소) 사업시행",
+},{
+    "id": "275",
+    "url": "/resource_room/forest/life3",
+    "title": "숲과 함께하는 아름다운 동행사업 안내 - 소개(3)",
+    "content":"세부사업내역 체험교육 일정표: 학생 25명 – 매월 첫째주 토요일 교육 일정표: “숲 속 체험여행” (10:30~15:30) =&gt; 10:00~15:00 교육 일정표: “함께 숲속으로” 학생 40명 – 매월 셋째주 토요일 - 오전(10:00~12:00) 오후 프로그램(13:30~15:30) - 오전 또는 오후 선택",
+},{
+    "id": "276",
+    "url": "/resource_room/forest/life4",
+    "title": "숲과 함께하는 아름다운 동행사업 안내 - 소개(4)",
+    "content":"교육장 현황 월평공원 야외행사장(숲속 교육장) 현황 위 치 : 서구 월평동 산36-1번지 일원(월평공원 내) 면 적 : 300㎡(15m×20m) / 2011.10 준공 특 징 : 도솔문화센터에서 도보 30~40분 거리에 위치하여 있으며, 목재테크와 일부 지붕 시공하여 숲해설, 기체조, 요가, 음악회 등을 자연환경과 가까운 숲에서 체험할 수 있는 공간 도솔문화센터(도솔노인복지센터 내) 위 치 : 서구 변동 254-415 면 적 : 553.46㎡ 주요시설 : 강의실, 다도실, 식당, 휴세실, 상담실, 주차장(15면) 월평공원 네이쳐스포츠 현황 위 치 : 서구 월평동 산36-1번지 일원(월평공원 내) 규 모 : 6set / 2011.10 준공 특 징 : 자연을 배경으로 자연의 도구를 이용해 만든 시설에서 무리가 되지 않는 신체활동으로 치유의 숲 효과를 얻을 수 있으며 남녀노소가 이야기구조의 재미를 얻을 수 있는 야외 활동 기대효과 산림의 기능과 역할에 대한 기초소양교육을 실시함으로써 숲에 대한 고마움을 스스로 깨닫게 하고, 숲을 가꾸고 아끼는 국민의식 확산에 기여 자연과의 조화로움 속에서 생명존중 의식과 아름다운 정서를 함양하여 미래지향적인 올바른 인성과 열린 사고 함양에 기여 이론중심의 수업에서 다양한 숲체험 프로그램으로 전환, 전문 숲해설가가 현장에서 실시하는 실질적 교육으로 질적 향상 도모 숲에서 건강을 찾고자 하는 이를 대상으로 다양한 숲치유 프로그램을 운영하여 숲의 치료와 완화 등 숲의 가치에 대한 인식 고취 치매어르신 숲체험 운영 프로그램 모델 개발",
+},{
+    "id": "277",
+    "url": "/resource_room/forest/life5",
+    "title": "함께 할 학생봉사자를 모집합니다.",
+    "content":"재가노인복지시설 - 도솔노인복지센터(주간보호시설) ‘숲과 함께하는 아름다운 동행 사업’에 참여 할 학생(청소년)봉사자를 아래와 같이 모집합니다. 주요 봉사활동 모집 내용 [혜택] 봉사활동에 참여한 시간만큼 봉사활동 확인서 발급 봉사활동이 우수한 학생 선발하여 포상",
+},{
+    "id": "278",
+    "url": "/resource_room/forest/life6",
+    "title": "2013년 3월 숲체험 교육사업 일정표",
+    "content":"",
+},{
+    "id": "279",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1196",
+    "title": "3월_23일_주간보호_프로그램_활동사진입니다.",
+    "content":"서대전여고 학생들과 함게 색칠하기를 하며 즐거며 하시는어르신 항상 건강하시고 행복하세요!!",
+},{
+    "id": "280",
+    "url": "/resource_room/forest/flf_10",
+    "title": "2013-03-23-3월_13일_어르신과_함께하는_함께_숲속으로_프로그램_활동사진입니다.",
+    "content":"어르신과 함께 숲속으로 나들이가 비오는 관계로 내부에서 진행되었으며 무량수회 자원봉사자분들과 함께 행복하고 즐거운 시간을 보냈습니다. SN209294 SN209307 SN209314 SN209319 e59449fc530523b9e351fb84c119fbe4_4FnBCESvQ8L",
+},{
+    "id": "281",
+    "url": "/resource_room/forest/flf_11",
+    "title": "2013-03-23-3월_16일_동심원과_함께하는_&quot;함께_숲속으로&quot;프로그램_활동사진입니다.",
+    "content":"숲을 깨끗이 가꾸는데 조금이나마 조금되기위해 환경정화활동 시간을 가졌으며, 마지막으로 단체사진을 찍고 즐거운 시간을 마무리 하였습니다. 함께 해준 자원봉사자분들과 동심원 직원분들께 진심으로 감사드립니다. 동심원 이용인분들의 참여로 프로그램이 더욱 알찬 시간이 되었습니다. SN209392 SN209394 SN209403 SN209407 SN209427 SN209435 SN209437 SN209440 SN209451 e59449fc530523b9e351fb84c119fbe4_IohGbHUy2KGgoXvHkK47MYa5A4Gr7e1",
+},{
+    "id": "282",
+    "url": "/resource_room/forest/flf_9",
+    "title": "2013-03-23-3월_둘째주_숲속체험_여행_프로그램_활동사진입니다.",
+    "content":"숲에 대한 다양한 주제를 가지고 봄의 숲에 대해 이야기도 하고, 봄에 피는 꽃, 봄에 나는 나물등 생각만 해도 봄이 오고 있는것 같습니다. SN209262 e59449fc530523b9e351fb84c119fbe4_XMJXF7MePl7H",
+},{
+    "id": "283",
+    "url": "/resource_room/forest/flf_12",
+    "title": "2013-03-23-3월_셋째주_숲속체험_여행_프로그램_활동사진입니다.",
+    "content":"어르신들과 숲에있는 나무와 나무잎등을 관찰하는 시간을 가졌으며, 나무목걸이 만들기를 하며 어르신과 즐거운 시간을 보냈습니다. SN209464 SN209469 SN209472 SN209548 SN209551 e59449fc530523b9e351fb84c119fbe4_IBERp6TJKuqOb3vA",
+},{
+    "id": "284",
+    "url": "/resource_room/forest/flf_8",
+    "title": "2013-03-23-3월_첫째주_숲속체험여행_활동사진입니다.",
+    "content":"어르신들과 숲에 대해 이야기를 나누고, 숲에 있는 다양한 나뭇잎, 솔방울 등을 가지고 색지에 그림처럼 이쁘게 꾸미니 아름다운 숲속처럼 만들어졌습니다. 어르신들의 얼굴에 웃음꽃이 떠나질 않네여!!^^ SN209193 SN209194 SN209197 SN209206 e59449fc530523b9e351fb84c119fbe4_dCq8cLxTDQlONmF4UcKEi",
+},{
+    "id": "285",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1168",
+    "title": "3월_25일_주간보호_프로그램_활동사진입니다.",
+    "content":"건강박수를 하며 즐거운 시간을 보내고 숲체험을 통해 어르신들이 그동안 잘 알지 못했던 숲에 대한 이야기를 들으면 즐거운 시간을 보내고 계십니다.",
+},{
+    "id": "286",
+    "url": "/resource_room/notices-dosolnoin/life33",
+    "title": "2013-03-25-8_한방진료 - 오재근 원장님편",
+    "content":"오재근 원장의 한방진료 모습입니다. SN209593 SN209594 SN209595 SN209596",
+},{
+    "id": "287",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1140",
+    "title": "3월_26일_주간보호_프로그램_활동사진입니다.",
+    "content":"어르신들과 함께 봄의 날씨에 대해 이야기 해보는 시간을 갖고 민요부르기, 난타, 아로마명상을 다양한 프로그램을 진행하였습니다.",
+},{
+    "id": "288",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1112",
+    "title": "3월_27일_주간보호_프로그램_활동사진입니다.",
+    "content":"건강박수로 어르신들과 하루를 시작하고, 종이공예, 풍선공예등을 통해 만들기를 하면서 손의 잔존능력을 유지하고, 요리실습을 하면서 행복한 시간을 보내고 계십니다.",
+},{
+    "id": "289",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1084",
+    "title": "3월_28일_주간보호_프로그램_활동사진입니다.",
+    "content":"생활체조 강사님의 동작을 열심히 따라 운동하시고, 원예수업시간에 부추를 기르시며 즐거운 시간을 보내고 계시며, 숲체험 시간에는 어르신들과 나무에 이쁘게 색칠을 하였습니다.",
+},{
+    "id": "290",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1056",
+    "title": "3월_29일_주간보호_프로그램_활동사진입니다.",
+    "content":"노래교실 시간에 강사님과 열심히 노래를 부르며 스트레스를 해소하시고, 잰가놀이, 콩고르기, 석고상 색칠하기등 지속적으로 다양한 프로그램을 진행함으로써 즐거움을 찾고 계십니다.",
+},{
+    "id": "291",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1028",
+    "title": "3월_30일_주간보호_프로그램_활동사진입니다.",
+    "content":"어울림 전통 수업시간을 통해 민요따라부르기 및 동작을 따라하시며 즐거운 시간을 보내셨습니다.",
+},{
+    "id": "292",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1000",
+    "title": "4월_1일_주간보호_프로그램_활동사진입니다.",
+    "content":"열심히 운동을 따라하시고, 숲체험 강사님과 함께 숲에 있는 나무를 만져보고, 냄새도 맡아보며 느낌을 말해보는 시간을 갖고 나무액자에 숲속 그림을 자유롭게 그리고, 서로의 그림에 대한 설명하는 시간을 가졌습니다.",
+},{
+    "id": "293",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_951",
+    "title": "4월_2일_주간보호_프로그램_활동사진입니다.",
+    "content":"    민요도 열심히 부르시고, 소고를 가지고 장단에 열중하시며 옛 생각을 떠올리기도 하시고 4월 봄에 대한 날씨를 이야기하며 즐거운 시간을 보냈습니다.",
+},{
+    "id": "294",
+    "url": "/resource_room/forest/flf_13",
+    "title": "2013-04-02-3월_넷째주_숲속체험여행●함께숲속으로_프로그램_활동사진입니다.",
+    "content":"어르신들은 숲속체험여행을 실내에서 숲에 대한 다양한 주제를 가지고 재미있고 유익한 교육시간을 가졌으며, 3월 31일(일) 우리사랑 식구들과 도솔산 월평공원에서 구봉중학교 가족 봉사단 여러분들과 함께 “함께 숲속으로” 라는 주제를 가지고 숲이 오는 소리를 듣고 다양한 도구와 프로그램을 준비하여 유익한 시간을 가졌습니다. 우리사랑 여러분들과 구봉중학교 가족봉사단 여러분 다시 한번 감사드립니다.  SN209615 SN209734 SN209743 SN209799 SN209804 SN209812 SN209833 SN209880 SN209881",
+},{
+    "id": "295",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_924",
+    "title": "4월_3일_주간보호_프로그램_활동사진입니다.",
+    "content":"“어르신들과 봄 나들이” 따사로운 봄 햇살을 받으며 개나리, 진달래 꽃등을 구경하고  산책을 하며 새소리를 들으며 즐겁고 행복한 나들이를 다녀왔습니다. ",
+},{
+    "id": "296",
+    "url": "/resource_room/forest/flf_14",
+    "title": "2013-04-03-4월_일정표_입니다.",
+    "content":"￭ 숲 체험교육사업 ￭ 숲과 함께하는 “아름다운 동행” 4월 진행 계획표 ",
+},{
+    "id": "297",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_897",
+    "title": "4월_4일_주간보호_프로그램_활동사진입니다.",
+    "content":"서로 마주보며 열심히 운동을 하시고, 원예활동시간에는 부추를 키우고 계십니다. 숲에서 가지고온 다양한 재료들을 가지고 게임도 하시며 즐거운 시간을 보내셨습니다.",
+},{
+    "id": "298",
+    "url": "/resource_room/forest/flf_15",
+    "title": "2013-04-04-4월_첫째주_&quot;숲속체험여행&quot;,&quot;함께_숲속으로&quot;_활동사진입니다.",
+    "content":"실내에서는 숲에 대한 이론을 들으며 재료를 가지고 만져보며 느낌을 말하며 즐거운 숲체험 교육을 하고 계시며, 숲체험 나들이를 통해 현장에서 개나리 꽂이 만들기, 진달래 수술 게임등 다양한 체험위주의 교육을 통해 어르신들이 숲이 주는 선물을 많이 받으시며 행복한 시간을 보냈습니다. SN200003 SN200008 SN200034 SN200040 SN200051 SN209897 SN209903 SN209943 SN209952 SN209973 SN209976",
+},{
+    "id": "299",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_870",
+    "title": "4월_5일_주간보호_프로그램_활동사진입니다.",
+    "content":"어르신들과 함께 건강박수로 즐거운 시간을 보냈으며, 어르신들과 함께 오늘의 날씨를 알아 보는 시간을 가졌습니다. 원예활동 및 숲체험 교육을 통해 자연이 주는 아름다움을 몸소 느끼고 체험을 하였습니다.",
+},{
+    "id": "300",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_843",
+    "title": "4월_6일_주간보호_프로그램_활동사진입니다.",
+    "content":"어르신들과 제일고등학교 프런티어 봉사단 학생들과 함께 도솔산으로 숲체험교육”함께 숲속으로”나들이를 진행될 예정이었으나 비가 오는 관계로 실내에서 진행되었습니다. 도솔산으로 나가지 못해 아쉽지만 어르신들과 함께 실내에서 다양한 프로그램을 준비하여 즐거운 시간을 보냈습니다.",
+},{
+    "id": "301",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_816",
+    "title": "4월_8일_주간보호_프로그램_활동사진입니다.",
+    "content":"어르신들과 함께 생활체조를 통해 열심히 운동을 하고 계십니다. 인지활동, 숲체험교육등 다양한 프로그램에 참여하고 계십니다.",
+},{
+    "id": "302",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_789",
+    "title": "4월_9일_주간보호_프로그램_활동사진입니다.",
+    "content":"어르신들과 건강체조를 하고, 오늘의 날씨를 알아보는 시간을 가지며 하루를 시작하였습니다. 서구 문화원에서 오셔서 민요부르기하며 즐거운 시간을 보내셨고, 난타와 아로마 명상을 하시며 행복한 하루를 보내셨습니다.",
+},{
+    "id": "303",
+    "url": "/resource_room/forest/flf_16",
+    "title": "2013-04-09-4월_6일_어르신과_함께_&quot;함께_숲속으로&quot;_프로그램_진행_활동_사진입니다.",
+    "content":"비가 와서 실내에서 프로그램을 진행하였지만 숲에 대한 다양한 프로그램을 진행하여 어르신들이 즐겁고 행복한 시간을 보내셨습니다. 제일고등학교 프런티어 봉사단 학생들에게 다시한번 진심으로 감사드립니다.   SN200100 SN200119 SN200132 SN200134 SN200143 SN200145 SN200157 SN200166 SN200181",
+},{
+    "id": "304",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_762",
+    "title": "4월_10일_주간보호_프로그램_활동사진입니다.",
+    "content":"4월 생신을 맞으신 이승애, 김종태, 홍두표 어르신 축하드립니다. 항상 건강하시고 행복 하세요… 어르신들과 함께 행복한 시간을 보냈습니다.",
+},{
+    "id": "305",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_735",
+    "title": "4월_11일_주간보호_프로그램_활동_사진입니다.",
+    "content":"어르신들과 함께 다양한 프로그램을 통해 즐겁고 행복한 시간을 보내고 있습니다. ",
+},{
+    "id": "306",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_708",
+    "title": "4월_12일_주간보호_프로그램_활동사진입니다.",
+    "content":"어르신들이 좋아하시는 노래를 열심히 부르시며 즐거워하시고, 따뜻한 차 한잔을 드시며 마음의 여유도 가짐으로써 어르신들의 삶의 질 향상을 위해 노력하고 있습니다. ",
+},{
+    "id": "307",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_681",
+    "title": "4월_15일_주간보호_프로그램_활동사진입니다.",
+    "content":"   생활체조를 열심히 따라하시며 심신단련을 하셨으며  인지활동을 통해 회상하는 시간을 갖고,날씨의 변화에 대해 알아보았습니다. 오랜만에 하는 풍선배구를 어르신들이 재미있다며 즐거워 하셨습니다.",
+},{
+    "id": "308",
+    "url": "/resource_room/forest/flf_17",
+    "title": "2013-04-15-4월_둘째주_&quot;숲속체험_여행&quot;프로그램_활동사진입니다.",
+    "content":"진행하여 어르신들과 교육을 진행하였습니다. 손수건을 만들며 재미있고 이쁘게 나왔다며 이쁜 미소를 지으시며 행복해 하셨습니다. 나무만들기 재료를 가지고 나무모양을 어르신들이 손수 만들며 다양한 이야기거리를 통해 즐거운 시간을 보내고 계십니다. SN200200 SN200205 SN200213 SN200216 SN200316 SN200320 SN200321 SN200328",
+},{
+    "id": "309",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_654",
+    "title": "4월_16일_주간보호_프로그램_활동사진입니다.",
+    "content":"어르신들과 함께 즐거운 시간을 보낼수 있도록 노력하겠습니다. 다양한 프로그램을 통해 어르신들과 함께 즐겁고 행복한 시간을 보내고 계십니다.",
+},{
+    "id": "310",
+    "url": "/resource_room/forest/flf_18",
+    "title": "2013-04-16-4월_13일_동심원과_함께하는&quot;함께_숲속으로&quot;_프로그램을_진행하였습니다.",
+    "content":"씨앗심기, 개나리 목거리만들기, 솟대만들기등 다양한 프로그램으로 즐겁고 행복한 시간을 보냈습니다. 프로그램에 참여해주신 동심원 이용인분들과, 하루종일 자원봉사를 해주신 연주호 미술치료 자원봉사자 여러분들께 다시한번 감사드립니다. SN200382 SN200384 SN200401 SN200406 SN200415",
+},{
+    "id": "311",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_627",
+    "title": "4월_17일_주간보호_프로그램_활동사진입니다.",
+    "content":"어르신들과 함께 건강박수, 손글씨 쓰기, 잰가놀이, 만다라등 다양한 프로그램을 통해 즐거운 시간을 보냈습니다.",
+},{
+    "id": "312",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_600",
+    "title": "4월_18일_주간보호_프로그램_활동사진입니다.",
+    "content":"어르신들과 미술활동, 원예활동등 다양한 프로그램을 통해 즐거운 시간을 보내고 있습니다.",
+},{
+    "id": "313",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_573",
+    "title": "4월_19일_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"어르신들이 신명나게 노래를 부르시며 즐거워 하시고, 다도수업시간에 차를 드시며 마음의 안정을 찾으시며 즐겁고 행복한 시간을 보내고 계십니다.",
+},{
+    "id": "314",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_540",
+    "title": "4월_20일_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"어르신들과 함께 오늘의 날씨를 알아보고 봄의 이야기를 하는 시간을 갖고 하루를 시작하였습니다. 생활체조시간에 어르신들과 스트레칭으로 건강을 유지하기 위해 열심히 땀을 흘리며 운동을 하시고 오후에는 숲속체험 여행시간에 어르신들과 함께 진달래를 이용하여 맛있는 간식도 드시며 즐겁고 편안한 시간을 보내셨습니다.",
+},{
+    "id": "315",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_514",
+    "title": "4월_23일_주간보호_프로그램_활동사진입니다.",
+    "content":"어르신들과 함께 다양한 프로그램을 통해 즐겁고 행복한 시간을 보내고 계십니다.",
+},{
+    "id": "316",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_488",
+    "title": "4월_넷째주_주간보호어르신_프로그램_활동사진입니다.",
+    "content":"어르신들에게 다양한 프로그램을 제공해드리고 어르신들이 함께 즐겁고 재미있는 시간을 보낼수 있도록 최선을 다하고 있습니다.",
+},{
+    "id": "317",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_462",
+    "title": "4월_다섯째주_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"어르신들과 함께 신명나고 재미있는 시간을보내고 있으며 열심히 배우고 연습하시며 즐겁고 행복해 하고 계십니다.",
+},{
+    "id": "318",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_436",
+    "title": "5월_첫째주_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"5월 생신을 맞으신 어르신들께 다시한번 진심으로 축하드립니다. 어르신들과 함께 숲체험시간에 솔방울, 은행등을 이용하여 액자를 만드셨습니다. 저희 어르신들이 가장 좋아하는 노래교실 시간에 흥겹고 즐거운 시간을 보내고 계십니다.",
+},{
+    "id": "319",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_410",
+    "title": "5월_둘째주_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"어르신들이 프로그램을 통해 즐거움과 행복을 찾을수 있도록 최선의 노력을 다하고 있습니다.",
+},{
+    "id": "320",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_384",
+    "title": "5월_셋째주_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"프로그램시간에 어르신들이 강사님의 설명을 듣고 만들기를 열심히 하시며 어르신들만의 색깔을 내시며 즐거워 하시고 계십니다.",
+},{
+    "id": "321",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_358",
+    "title": "5월_넷째주_주간보호_어르신_활동사진입니다.",
+    "content":"어르신들이 음식만들기를 하시며 즐거운 시간을 보내셨고, 줄스트레칭, 생활체조,난타,풍선공예,종이공예등을 열심히 만들고 따라하시며 행복하게 지내고 계십니다.",
+},{
+    "id": "322",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_332",
+    "title": "5월_다섯째주_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"어르신들이 지속적으로 프로그램에 참여 하여 즐겁고 행복한 시간을 보낼수 있도록 최선을 다하고 있습니다.",
+},{
+    "id": "323",
+    "url": "/resource_room/notices-dosolnoin/life29",
+    "title": "도솔노인복지센터 13년 3월 프로그램 계획표",
+    "content":"이번달부터 숲체험교육 프로그램이 새롭게 진행될 예정입니다. 전문 숲해설가에 의한 다양한 야외 및 실내 숲체험 프로그램이 시작될 예정입니다.",
+},{
+    "id": "324",
+    "url": "/resource_room/notices-dosolnoin/life38",
+    "title": "2013-06-03-10_6월 무료급식 모습 입니다.",
+    "content":"매주 화, 목, 토 지역어르신을 대상으로 무료급식을 진행합니다. 20130601_113004 20130601_113010 20130601_113019 20130601_113029",
+},{
+    "id": "325",
+    "url": "/resource_room/notices-dosolnoin/life34",
+    "title": "도솔노인복지센터 13년 4월 프로그램 계획표",
+    "content":"",
+},{
+    "id": "326",
+    "url": "/resource_room/notices-dosolnoin/life35",
+    "title": "도솔노인복지센터 13년 5월 프로그램 계획표",
+    "content":"",
+},{
+    "id": "327",
+    "url": "/resource_room/notices-dosolnoin/life36",
+    "title": "도솔노인복지센터 13년 6월 프로그램 계획표",
+    "content":"",
+},{
+    "id": "328",
+    "url": "/resource_room/notices-dosolnoin/life37/resource_room/notices-dosolnoin/files/%EA%B2%BD%EB%A1%9C%EC%9E%94%EC%B9%98%EC%82%AC%EC%A7%84%EB%AA%A8%EC%9D%8C.hwp",
+    "title": "2013-06-03-9_2013년도 경로잔치",
+    "content":"행사명 : 불기 2557년 부처님 오신날 및 어버이날 맞이 제 6회 지역 어르신 초청 경로행사」‘세상에 희망을, 마음에 행복을’ 일 시 : 2013년 5월 11일 (토) / 11:00 ~ 13:00 장 소 : 2층 경로식당 및 화암사 앞마당 대 상 : 지역 어르신 주요내용 : 점심(중식) 및 특식제공, 기념품 지급 참여인원 : 250명 숲체험참가자모집공고",
+},{
+    "id": "329",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_306",
+    "title": "6월_첫째주_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"민요를 장단에 맞춰 열심히 따라부르시며 즐거운 시간을 보내고 계시고 어르신들 잘 따라 하시도록 천천히 동작을 여러번 박복적으로 연습을 하시며 즐거운 시간을 보내고 계십니다.",
+},{
+    "id": "330",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_280",
+    "title": "6월_10일_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"어르신들과 함께 다양한 프로그램을 진행하여 즐거운 시간을 보내실수 있도록 노력하고 있습니다.",
+},{
+    "id": "331",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_254",
+    "title": "6월_11일_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"어르신들과 함께 날씨 변화에 대해 알아보고, 민요를 신명나게 따라부르시며 좋아하심. 어르신들과 함께 수체험 교육을 들으며 즐거우 시간을 보내셨습니다.",
+},{
+    "id": "332",
+    "url": "/resource_room/forest/flf_19",
+    "title": "2013-06-11-4월_넷째주_&quot;숲속체험여행&quot;프로그램활동사진입니다.",
+    "content":"  숲해설가 강사님의 숲속이야기를 듣고 즐거워 하시고, 어르신들이 자연색을 이용해 직접손수건을 만들며 행복해 하셨습니다. SN200604 SN200609 SN200619 SN200621 SN200728 SN200740 SN200747",
+},{
+    "id": "333",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_228",
+    "title": "6월_12일_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"건강박수를 하나하나 따라 하시며 열심히 하시고 그림에 색칠을 하시며 꼼꼼하게 칠하심. 어르신들과 숲체험 교육을 통해 즐거운 시간을 보낼수 있도록 노력하고 있습니다.",
+},{
+    "id": "334",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_202",
+    "title": "6월_13일_주간보호_어르신_프로그램_활동사진_입니다.",
+    "content":"어르신들과 함께 신명나게 장단에 맞춰 북, 장구, 꽹과리, 소고등을 이용하여 즐거운 시간을 보내심. 숲체험 수업을 통해 새로운 꽃의 이름을 어르신들과 알아보며 즐거운 시간을 보내셨습니다.",
+},{
+    "id": "335",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_176",
+    "title": "6월_14일_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"어르신들이 좋아하시는 노래교실을 통해 즐겁고 행복한 시간을 보내셨으며, 다도수업,오재미, 줄스트레칭등 다양한 프로그램으로 어르신들과 함께하고 있습니다.",
+},{
+    "id": "336",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_159",
+    "title": "6월_15일_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"제일고등학교 자원봉사 학생들과 함께 도솔산에서 진행되는 어르신과 함께하는 “함께 숲속으로” 나들이를 진행하였습니다. 숲에 대한 다양한 설명과 게임등을 하시며 즐거운 시간을 보내셨습니다.",
+},{
+    "id": "337",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_134",
+    "title": "6월_17일_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"어르신들과 날씨에 대해 알아보는 시간을 갖고, 생활체조 스트레칭을 열심히 따라하심. 다양한 프로그램을 통해 어르신들이 즐거운 시간을 보내실수 있도록 노력하고 있습니다.",
+},{
+    "id": "338",
+    "url": "/resource_room/forest/flf_21",
+    "title": "2013-06-17-5월_첫째주_숲과함께하는_아름다운_동행_활동사진입니다.",
+    "content":"다양한 만들기 및 어르신들과 함께 숲속이야기를 하며 즐거운 시간을 보내셨습니다.",
+},{
+    "id": "339",
+    "url": "/resource_room/forest/flf_20",
+    "title": "2013-06-17-업무협약체결.",
+    "content":"도솔노인복지센터(관장 : 혜광스님) 와 대전제일고등학교(교장 : 강형천) - 업무협약체결 주요 협약의 내용 봉사프로그램 개발과 보급 : 숲과 함께하는 아름다운 동행 사업(숲속체험여행, 함께 숲속으로) 봉사활동 터전 제공과 연계활동 사회공헌 활동에 관한 상호 협력 을 통하여 이웃과 사회를 위해 몸소 봉사를 실천하는 인재를 육성하고, 삶의 질 향상과 지역공동체 회복을 위한 봉사활동 촉진을 다짐하였다. 학생대표와 학부모 대표분들이 함께하여 자리를 빛내주시었다. SN202294 SN202297 SN202299 SN202300",
+},{
+    "id": "340",
+    "url": "/resource_room/notices-hwaam/life12",
+    "title": "업무협약체결",
+    "content":"업무협약체결 도솔노인복지센터(관장: 혜광스님)와 대전제일고등학교(교장: 강형천) - 업무협약체결 주요 협약의 내용 봉사프로그램 개발과 보급: 숲과 함께하는 아름다운 동행 사업(숲속체험여행, 함께 숲속으로) 봉사활동 터전 제공과 연계활동 사회공헌 활동에 관한 상호 협력을 통하여 이웃과 사회를 위해 몸소 봉사를 실천하는 인재를 육성하고, 삶의 질 향상과 지역공동체 회복을 위한 봉사활동 촉진을 다짐하였다. 학생대표와 학부모 대표분들이 함께하여 자리를 빛내주시었다. e34027b3b8060e25f263370688e3c484_BS3I4teuhteWmsqEEia9ecjRzY e34027b3b8060e25f263370688e3c484_D4MBiztozwx2RgQm8dYFat e34027b3b8060e25f263370688e3c484_cHRS1vlwAcLKGii1U22sYnMq e34027b3b8060e25f263370688e3c484_hBmi6EMjx93oMkvo",
+},{
+    "id": "341",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_109",
+    "title": "6월_18일_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"도솔산으로 나들이가 예정되어 있었으나 비가오는 관계로 실내에서 다사랑,롯데카드 자원봉사자분들과 함께 즐거운 시간을 보내셨습니다.",
+},{
+    "id": "342",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_84",
+    "title": "6월_19일_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"어르신들과 건강박수를 다양하게 진행하시며 즐겁게시간을 보내셨고, 숲체험 시간에 만들기를 하시며 다양한 체험을 하셨습니다.",
+},{
+    "id": "343",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_59",
+    "title": "6월_20일_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"난타와 숲체험 프로그램을 통해 어르신들이 행복한 시간을 보내고 계십니다.",
+},{
+    "id": "344",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_34",
+    "title": "6월_21일_주간보호_어르신_프로그램활동사진입니다.",
+    "content":"어르신들이 행복한 시간을 보내실수 있도록 최선을 다하고 있습니다.",
+},{
+    "id": "345",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_9",
+    "title": "6월_22일_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"한순복 선생님의 장구의 장단에 맞춰 민요를 부르며 즐거운 시간을 보내고 계십니다.",
+},{
+    "id": "346",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_896",
+    "title": "6월_24일_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"어르신들과 낱말인지, 생활체조, 숲체험 프로그램을 진행하여 어르신들이 즐거움을 찾을 수 있도록 노력하고 있습니다.",
+},{
+    "id": "347",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_874",
+    "title": "6월_25일_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"어르신들과 민요, 명상, 젠가놀이등을 열심히 하시며 즐거움을 찾고 계십니다.",
+},{
+    "id": "348",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_852",
+    "title": "6월_26일_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"풍선공예,종기접기,요리교실등을 통해 어르신들이 즐거움을 찾으셔 즐거운 시간을 보내고계십니다.",
+},{
+    "id": "349",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_830",
+    "title": "6월_27일_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"다양한 프로그램을 통해 어르신들이 즐거워 하시고, 담소를 나누며 행복한 시간을 보내셨습니다.",
+},{
+    "id": "350",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_808",
+    "title": "6월_28일_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"어르신들이 가장 좋아하시는 노래교실을 통해 즐거운 시간을 보내시고 다도수업을 통해 차를 마시며 시조를 읆으며 차분한 시간을 보내셨습니다.  ",
+},{
+    "id": "351",
+    "url": "/resource_room/notices-hwaam/ceremony_info3",
+    "title": "백중49재기도_안내",
+    "content":" ",
+},{
+    "id": "352",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_786",
+    "title": "6월_29일_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"만다라 색칠하기를 통해 색 표현을 하실수 있도록 도움을드리며 즐거운 시간을 보내시고 계십니다.",
+},{
+    "id": "353",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_764",
+    "title": "7월_1일_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"숲체험 프로그램을 통해 7월의 크리스마라는 제목으로 트리를 만들며 즐거운 시간을 보내셨으며 생활체조, 구슬꿰기등을 하시고 편안한 하루를 보내고 계십니다.",
+},{
+    "id": "354",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_742",
+    "title": "7월_2일_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"다양한 프로그램으로 어르신들과 즐거운 시간을 보내고 있습니다.",
+},{
+    "id": "355",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_720",
+    "title": "7월_3일_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"7월 생신을 맞으신 어르신 다시 한번 축하드립니다. 항상건강하시고 행복하세요!!",
+},{
+    "id": "356",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_698",
+    "title": "7월_4일_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"다양한 악기를 가지고 열심히 장단에 맞춰 리듬 타시며 즐거워 하시고, 숲체험 프로그램 시간에 나무을 이용한 표현하기를 하고 계십니다.",
+},{
+    "id": "357",
+    "url": "/resource_room/notices-dosolnoin/life39",
+    "title": "도솔노인복지센터 13년 7월 프로그램 계획표",
+    "content":"",
+},{
+    "id": "358",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_676",
+    "title": "7월_5일_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"어르신들이 가장 좋아하시는 노래교실 시간에 많은 노래를 부르시며 즐거워 하셨고, 손유희시간에 다양한 동작을 익히시며 노래도 부르며 즐거워 하셨습니다.",
+},{
+    "id": "359",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_654",
+    "title": "7월_6일_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"다양한 민요를 부르시며 동작을 배우시고 계십니다.",
+},{
+    "id": "360",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_632",
+    "title": "7월_8일_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"건강박수 열심히 따라하시고, 구슬꿰기 시간에는 다양한 색깔의 구슬을 실에 열심히 끼으셨습니다. 숲체험 시간에는 물고기를 열심히 만드시며 행복해 하셨습니다.",
+},{
+    "id": "361",
+    "url": "/resource_room/religious-life/ceremony_8",
+    "title": "화암사 - 혜민스님 초청 &#39;자비나눔 콘서트&#39; 수익금 기탁식",
+    "content":"1-6Pw4MiSPy5",
+},{
+    "id": "362",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_610",
+    "title": "7월_9일_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"서구 민요 선생님들과 함께 민요를 따라 부르시고, 동작을 열심히 따라하심. 원예활동시간에 재활용 컵을 꾸미고 씨앗을 심으며 옛날 이야기를 나무며 즐거운 시간을 보내셨습니다.",
+},{
+    "id": "363",
+    "url": "/resource_room/religious-life/ceremony_9",
+    "title": "혜민스님 초청 자비나눔 콘서트 사진",
+    "content":"1-yRbYJPMeT1 10-3CACLq8jHB 11-w61G5uhEHA 12-eQizD6z2rn 2-6aFsWhXLkT 3-ornwRj4e9i 4-Ed5meq6Uf2 5-KDdVGl5doE 6-AtSXGRgesT 7-ED3zINRS7z 8-NivCvquDZs 9-UjpbTo8e5w",
+},{
+    "id": "364",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_588",
+    "title": "7월_10일_주간보호_어르신_활동사진입니다.",
+    "content":"만다라, 종이공예등 다양한 프로그램을 통해 즐거움을 찾고 계십니다.",
+},{
+    "id": "365",
+    "url": "/resource_room/religious-life/ceremony_10",
+    "title": "불기2557(2013)년 초파일 행사",
+    "content":"1-LZpoYBit5b 10-6c31WSiO2V 11-bumlBXIgdR 12-2hbwMilMs8 2-_lcJwsGx2d 3-uVuEyOhH4A 4-CAHeh2Be4P 5-c_nrIfs5cU 6-HPRwtmqUHX 7-IAUbIro7VL 8-okmqo5GyeN 9-dVSekwbUVg",
+},{
+    "id": "366",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_566",
+    "title": "7월_11일_주간보호_어르신_활동사진입니다.",
+    "content":"난타, 생활체육, 숲속체험여행 프로그램을 통해 스트레스를 해소하시며 즐거움 찾으시며 편안하게 지내고 계십니다.",
+},{
+    "id": "367",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_544",
+    "title": "7월_12일_주간보호_어르신_활동사진입니다.",
+    "content":"현대오일뱅크 자원봉사자 분들과 함께 도솔산 숲속관찰을 하시며 즐거운 시간을 보내셨습니다.",
+},{
+    "id": "368",
+    "url": "/resource_room/notices-hwaam/ceremony_info6",
+    "title": "불교입문_강좌_안내",
+    "content":"",
+},{
+    "id": "369",
+    "url": "/resource_room/notices-hwaam/ceremony_info4",
+    "title": "자비도량참법_기도안내",
+    "content":"",
+},{
+    "id": "370",
+    "url": "/resource_room/notices-hwaam/ceremony_info7",
+    "title": "점안식_안내",
+    "content":"",
+},{
+    "id": "371",
+    "url": "/resource_room/notices-hwaam/ceremony_info5",
+    "title": "칠석기도_안내",
+    "content":"",
+},{
+    "id": "372",
+    "url": "/resource_room/notices-dosolnoin/life40",
+    "title": "도솔노인복지센터 13년 8월 프로그램 계획및 식단표",
+    "content":"",
+},{
+    "id": "373",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_478",
+    "title": "8월_1주_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"미술활동, 원예활동, 생활체조, 만들기, 민요배우기 하루하루 어르신들이 행복한 시간을 보낼수 있도록 노력하고 있습니다.",
+},{
+    "id": "374",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_456",
+    "title": "8월_2주_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"어르신들이 프로그램 통해 즐거운 시간을 보내시고 계십니다.",
+},{
+    "id": "375",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_434",
+    "title": "8월_3주_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"숲체험교육, 생활체조, 미술활동 등 다양한 프로그램에 어르신들이 참여하여 함께 즐거운 시간을 보내고 계십니다.",
+},{
+    "id": "376",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_412",
+    "title": "8월_4주_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"어르신들이 숲체험 프로그램에 참여하여 목걸이를 예쁘게 만드시고, 민요와 난타, 생활체육등 다양한 프로그램에 참여하시여 생활에 활력소가 될수 있도록 노력하고 있습니다.",
+},{
+    "id": "377",
+    "url": "/resource_room/forest/flf_24",
+    "title": "2013-08-09-5월_넷째주_숲과_함께하는_아름다운_동행_프로그램_활동사진입니다.",
+    "content":"비가와서 도솔산으로 가지는 못했지만 롯데 백화점 다사랑봉사회분들과 함께 실내에서 다양한 숲에 대한 이야기와 공작물을 만들면 즐거운 시간을 보냈습니다.",
+},{
+    "id": "378",
+    "url": "/resource_room/forest/flf_22",
+    "title": "2013-08-09-5월_둘째주_숲과_함께하는_아름다운_동행_프로그램_활동_사진입니다.",
+    "content":"어르신들과 함께 도솔산 숲속관찰을 하며 숲에 대한 이야기를 나누며 즐거운 시간을 보내셨습니다. SN201332 SN201333 SN201484 SN201491 SN201499 SN201510",
+},{
+    "id": "379",
+    "url": "/resource_room/forest/flf_23",
+    "title": "2013-08-09-5월_셋째주_숲과_함께하는_아름다운_동행_프로그램_활동사진입니다.",
+    "content":"도솔산에서 다양한 숲에 대한 이야기와 관찰을 하면서 즐거운 시간을 보내며 즐거운 시간을 보낼수 있도록 숲해설가 강사님들이 노력하고 있습니다. SN201541 SN201557 SN201703 SN201720 SN201739 SN201748 SN201751",
+},{
+    "id": "380",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_390",
+    "title": "9월_1주_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"생활체조 시간에 스트레칭을 통해 건강증진에 도움이 될수 있도록 열심히 따라하시고, 숲체험교육과 나들이를 통해 스트레스를 해소하시도 하십니다. 어르신들이 꽹과리, 북, 장구등을 가지고 장단에 맞춰 열심히 치시고, 노래를 부르시며 즐겁고 행복한 시간을 보내시고 계십니다.",
+},{
+    "id": "381",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_368",
+    "title": "9월_2주_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"9월 생신을 맞으신 4명의 어르신들 축하드리고 항상 건강하시고 행복하세요!!",
+},{
+    "id": "382",
+    "url": "/resource_room/notices-dosolnoin/life41",
+    "title": "9월 생신잔치 일자 조정 안내",
+    "content":"9월 ‘생신잔치’ 일자를 아래와 같이 조정함을 양지하여 주시기 바랍니다. 변경(조정)전 : 2013. 9. 4.(수) 변경(조정)후 : 2013. 9. 11.(수)",
+},{
+    "id": "383",
+    "url": "/resource_room/notices-dosolnoin/life42",
+    "title": "도솔노인복지센터 13년 9월 프로그램 계획 및 식단표",
+    "content":"9월 18(수) ~ 9월 20(금)은 추석연휴 기간입니다. 즐거운 명절되세요~ 그리고, 9월은 연휴가 있어 쉬는 날이 많은 관계로 가족 요양 및 방문요양을 이용하시는 분은 잘 확인하시기 바랍니다. 지금 9월 21(토) 센터 이용와 관련하여 사전에 보호자 및 이용자의 의견을 수렴중입니다. 개별적으로 의견을 여쭈어 봐서 21일(토) 운영여부를 차후에 공지하도록 하겠습니다.",
+},{
+    "id": "384",
+    "url": "/resource_room/notices-dosolnoin/life43",
+    "title": "도솔노인복지센터 13년 10월 프로그램 계획 및 식단표",
+    "content":"",
+},{
+    "id": "385",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_324",
+    "title": "10월_1일_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"생활체조, 명상, 원예프로그램등을 통해 행복한 시간을 보내셨으며 작품을 완성후에는 만족감을 표현하시도 하셨습니다. ",
+},{
+    "id": "386",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_302",
+    "title": "10월_2일_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"노래를 부르시며 가사쓰기를 하실때 노래는 생각이 나는데 글씨쓰기가 어렵다고 하셨지만 끝까지 열심히 하심. 숲체험 시간에는 나무 목걸이를 완성하기 위하여 열심히 하심.",
+},{
+    "id": "387",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_192",
+    "title": "10월_5주_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"환절기에 어르신들이 건강에 도움이 될수 있도록 설명을 드리고 다양한 프로그램을 통해 집중력 향상및 건강증진에 도움을 드리고자 최선을 다하고 있습니다.",
+},{
+    "id": "388",
+    "url": "/resource_room/notices-dosolnoin/life44",
+    "title": "한글날 휴관 공고",
+    "content":"휴관공고 한글날로 인한 휴관 : 2013. 10.9.(수) 도솔노인복지센터(주간보호) 휴관합니다. 한글날 : 훈민정음 곧 오늘의 한글을 창제해서 세상에 펴낸 것을 기념하고, 우리 글자 한글의 우수성을 기리기 위한 국경일",
+},{
+    "id": "389",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_280",
+    "title": "10월_7일_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"작품을 완성하시고 흐뭇해 하시며 v를 하시며 환하게 웃으심. 건강을 위해 생활체조 강사님의 동작을 따라하시며 시원하고 좋다는 말씀도 하심.",
+},{
+    "id": "390",
+    "url": "/resource_room/notices-dosolnoin/life45",
+    "title": "2013-10-12-11_순천의료원-김용찬원장님 한방진료",
+    "content":"  멀리 순천의료원에서 한방진료 봉사활동을 해주시는 김용찬 원장님 진료 모습입니다 함께 참여해주신 대전대 한의과 학생 봉사자분들에게도 감사를 드립니다.. 친절하고 자상하게 진료하신다는 입소문으로 많은 어르신들이 진료를 받으시려 모이십니다.  DSC_2188 DSC_2191 DSC_2193 DSC_2197 DSC_2199 DSC_2203",
+},{
+    "id": "391",
+    "url": "/resource_room/forest/flf_27",
+    "title": "2013-10-21-6월_셋째주_숲과_함께하는_아름다운_동행_프로그램_활동사진입니다",
+    "content":"다양한 체험과 놀이를 통해 행복한 미소가 가득하고 마음속에 추억을 가득 간직하세요!! SN202333 SN202344 SN202396 SN202406 SN202421 SN202438 SN202475 SN202493 SN202500 SN202570 SN202582 SN202607 SN202651 SN202654",
+},{
+    "id": "392",
+    "url": "/resource_room/forest/flf_25",
+    "title": "2013-10-21-6월_1주_숲과_함께하는_아름다운_동행_프로그램_활동사진입니다.",
+    "content":"제일고등학교 학생 과 도솔산에 있는 네이쳐 스포츠 를 이용하고, 다양한 프로그램을 통해 즐거운 시간을 보냄. 동심원분들과 함께 도솔산 소나무 숲에서 출발하여 다양한 숲속이야기와 공작물 만들기등을 통해 행복가득한 마음을 한가득 가져가셨습니다. SN201913 SN201977 SN202009 SN202087 SN202090 SN202154 네이쳐스포츠",
+},{
+    "id": "393",
+    "url": "/resource_room/forest/flf_28",
+    "title": "2013-10-21-6월_넷째주_숲과_함께하는_아름다운_동행_프로그램_활동사진입니다.",
+    "content":"다양한 재료를 가지고 어르신들의 얼굴을 표현해 보기도 하고 크리스 마스 트리를 꾸미시면서 즐거운 시간을 보내시고 계십니다.",
+},{
+    "id": "394",
+    "url": "/resource_room/forest/flf_26",
+    "title": "2013-10-21-6월_둘째주_숲과_함께하는_아름다운_동행_프로그램_활동사진입니다.",
+    "content":"숲속체험여행과 함께 숲속으로 프로그램에 적극적으로 참여하여 즐거운 시간을 보내심. 20130611_141424_1 20130615_101443 20130615_101829 20130615_112745 SN202175 SN202229",
+},{
+    "id": "395",
+    "url": "/resource_room/forest/flf_30",
+    "title": "2013-10-22-7월_둘째주_숲과_함께하는_아름다운_동행_프로그램_활동사진입니다.",
+    "content":"현대오일뱅크 직원분들과 함께 도솔산을 오르며 즐거운 대화를 나누시고 숲에 있는 다양한 재료를 가지고 표현을 하며 즐거운 시간을 보내셧습니다. DSC_0321 DSC_0323 DSC_0324 DSC_0402 DSC_0411 DSC_0435 DSC_0470 DSC_0493",
+},{
+    "id": "396",
+    "url": "/resource_room/forest/flf_29",
+    "title": "2013-10-22-7월_첫째주_숲과_함께하는_아름다운_동행_프로그램_활동사진입니다.",
+    "content":"어르신들과 함께 다양한 나무 조각을 가지고 자유롭게 표현을 하시도록 하니 어르신들이 그 동안 생각했던 동물, 물고기등을 표현하시며 행복한웃음을 지으셨습니다. 사진 015",
+},{
+    "id": "397",
+    "url": "/resource_room/forest/flf_31",
+    "title": "2013-10-22-7월_셋째주_숲과_함께하는_아름다운_동행_프로그램_활동사진입니다.",
+    "content":"숲체혐 교육시간에 자녀분들이 함께 참여하시어 사진도 찍고 함께 만들기 수업을 하시며 즐거운 시간을 보내셨습니다. DSC_0716 DSC_0717 DSC_0723",
+},{
+    "id": "398",
+    "url": "/resource_room/forest/flf_32",
+    "title": "2013-10-25-7월_넷째주_숲과_함께하는_아름다운_동행_프로그램_활동사진입니다.",
+    "content":"숲에 대한 다양한 정보와 체험을 통해 즐거운 시간을 보내고 계십니다. DSC_0800 DSC_0803 DSC_0867 DSC_0868 DSC_0913 DSC_0928 DSC_0931 DSC_0932 DSC_0940 DSC_1096",
+},{
+    "id": "399",
+    "url": "/resource_room/forest/flf_35",
+    "title": "2013-10-25-8월_넷째주_숲과_함께하는_아름다운_동행_프로그램_활동사진입니다.",
+    "content":"어르신들과 숲체험 교재를 가지고 다양한 활동에 참여하고 계십니다. DSC_1945 DSC_1947 DSC_1949 SN202860",
+},{
+    "id": "400",
+    "url": "/resource_room/forest/flf_34",
+    "title": "2013-10-25-8월_둘째,셋째주_숲과_함게하는_아름다운_동행_프로그램_활동사진입니다.",
+    "content":"솔방울 줍기, 올빼미 찾기등 다양한 프로그램을 준비하여 어르신들과 장애인 분들이 즐거운 시간을 보내실수 있도록 노력하겠습니다. DSC_1511 DSC_1517 DSC_1518 DSC_1807 DSC_1811 DSC_1855 DSC_1870 DSC_1891",
+},{
+    "id": "401",
+    "url": "/resource_room/forest/flf_33",
+    "title": "2013-10-25-8월_첫째주_숲과_함께하는_아름다운_동행_프로그램_활동사진입니다.",
+    "content":"어르신들이 공작놀이 시간에 다양한 재료를 가지고 멋진 목걸이와 액자를 만들고 계십니다. DSC_1209 DSC_1220 DSC_1306 DSC_1315 DSC_1436 DSC_1442",
+},{
+    "id": "402",
+    "url": "/resource_room/forest/flf_37",
+    "title": "2013-10-25-9월_셋째,넷째주_숲과_함께하는_아름다운_동행_프로그램_활동사진입니다.",
+    "content":"주사위를 꼼꼼하게 만드시고, 숲체험 교재를 통해 작품을 완성하시고 어르신만의 책을 만들기 위해 열심히 노력하고 계십니다. 20130916_142840 20130916_143406 20130923_141952 20130923_142510 20130923_143451",
+},{
+    "id": "403",
+    "url": "/resource_room/forest/flf_36",
+    "title": "2013-10-25-9월_첫째,_둘째주_숲과_함께하는_아름다운_동행_프로그램_활동사진입니다.",
+    "content":"어르신들이 손수 큐브를 만들시면 신기하시면서도 즐겁다고 하시며 어르신들만의 큐브를 만들고 계십니다. IMG2059 IMG2079 IMG2081 IMG2093 IMG2134 IMG2154",
+},{
+    "id": "404",
+    "url": "/resource_room/notices-hwaam/ceremony_info8",
+    "title": "오백나한_조성_불사_동참_안내",
+    "content":"오백나한 조성 불사 권선문   “삼계에 충만하사 아니 계신곳 없으신 대자대비하신 부처님, 이제 당신의 제자가 무상복전에 나한님을 모시는 대불사를 이루고자 머리숙여 계수례하노니 감응하시어 가호하여 주시옵소서.”   도솔산 화암사에서는 오백나한님을 조성하여 1인1불 모시는 대불사를 봉행합니다. 탐․진․치에 오염된 자성을 밝히고 보살대도를 닦아 열반의 상락을 증득토록 하자는 것이 불법 홍포의 지고한 목적이며 또한 본분일 것입니다.그러므로 불도량을 장엄하고 불사를 한다는 것은 곧 자기 자신의 마음을 닦아 청정히 하는 것이며, 나아가 구경성불과 직결되는 것입니다. 하기에 불자 여러분들의 지극하신 불심과 정성어린 보시공덕으로 이번 불사를 원만히 성취할 수 있도록 불자님과 함께 부처님 전에 엎드려 간절히 기도드릴 뿐입니다. 부처님이 계실 때 500명의 도둑이 부처님의 설법을 듣고 감응을 받아 발심 참회하여 부처님의 제자가 되었다는 오백나한의 유래는 경전이나 법문을 들어서 잘알고 계실 것입니다. 또한 나한님은 신통 영험이 뛰어나 나한기도를 정성껏 드리면 반드시 소원을 이룬다는 설화가 수없이 전합니다. 만약 한 사람이 나한님 열여섯 분을 조성하여 모시면 전생이나 현생에 지은 모든 업장이 자연히 소멸되어 자자손손 대대로 복록을 누리게 되며, 원하는 일마다 성취하고 후세에 부처님 세상에 태어난다고 하였습니다. 어찌 불가사의한 무량공덕이 아니라고 할 수 있겠습니까? 바라옵건대, 이번 나한님을 모시는 불사에 도솔산 화암사의 넓은 문을 열어놓고 성스러운 기도와 수행의 길로 인도하고자 하오니, 여러 불자님들께서는 서로 권하고 앞장서서 이불사가 원만히 성취될 수 있도록 인연을 맺어 주시기 바랍니다. 이는 불법 포교에 밑거름이 되는 일인 동시에 무량복락을 이루는 길이 되므로 용기와 격려, 그리고 기도로써 도움을 주시기를 부처님전에 합장 기원합니다. 불기 2557 년 10월 대한불교조계종 도솔산화암사 사문혜광   1인 1불 : 일백만원 (분할가능) 계좌 : 농협301-0136-8664-61 백창기 (화암사 오백나한)  접수문의 : 042-488-7209, 042-528-7209   ",
+},{
+    "id": "405",
+    "url": "/resource_room/notices-hwaam/ceremony_info9",
+    "title": "동안거_백일기도_입재_안내",
+    "content":"동안거 백일기도 입재 안내문   귀의 삼보 하옵고 불자님 각 가정에 부처님의 자비광명이 충만하시길 기원 드리며, 금번 화암사에서는 불기 2557년 동안거 백일기도를 봉행합니다. 결재란 백일 간 모든 삿된 마음과 탐․진․치 삼독심을 버리고, 오로지 깨달음의 수행정진을 통하여 부처님의 혜명을 잇고 대자유의 해탈을 향하여 가는 것입니다. 이러한 불사는 모든 불사 중에 가장 수승한 것이며, 마땅히 불자로서 닦아야 할 덕목인 것입니다. 백 년 동안 때 묻은 옷이라도 하루 동안에 씻어서 깨끗하게 하는 것과 같이 백 천겁 동안에 지은 모든 불선업(不善業)도 불법의 힘으로 잘 수순해서 닦으면 일시에 소멸하는 것입니다.   아울러 동안거 백일기도 기간 중 매일 사시에 화엄경 독송을 봉행하며, 큰스님의 초청법회가 있을 예정입니다. 백일기도 인연으로 삼생의 모든 부모님과 누세종친, 원근친척 등 일체 영가님들의 극락왕생을 기원하며, 위로는 제불보살님의 은덕이 충만하고 아래로는 고통 받는 모든 중생의 복덕이 있기를 발원하면서 불자님 댁내에 가족 모두의 건강과 하시는 모든 일이 원만 성취되시기를 축원 드립니다.     ○ 입제일: 불기 2557년 (양)11월 17일 오전 10시 30분 (음10. 15.)                 - 입재법문 법주사 무상큰스님 ○ 회향일: 불기 2558년 (양) 2월 14일 오전 10시 30분 (음01. 15.) ○ 기도비 : 一金 일십만원 ○ 영가위패접수 : 一位 오천원 ○ 기도접수 : (042) 488-7209, 528-7209(법당직통번호) ○ 입금계좌 : 국민은행 : 740901-01-250239 백창기(화암사)                      하나은행 : 634-910188-76307 백창기                      농       협 : 453011-56-138332 백창기   대한불교 조계종 화암사 사문 혜광 합장",
+},{
+    "id": "406",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_170",
+    "title": "11월_첫째주_어르신_프로그램_활동사진입니다.",
+    "content":"다양한 프로그램을 가지고 어르신들이 한주 동안 즐거운 시간을 보내셨습니다.",
+},{
+    "id": "407",
+    "url": "/resource_room/forest/flf_41",
+    "title": "2013-11-01-10월_넷째주_숲과_함께하는_아름다운_동행_프로그램_활동사진입니다.",
+    "content":"어르신들이 숲체험을 통해 더욱 웃음이 많아지고 행복해하셨습니다. 함께해주신 무량수회, 조폐공사 자원봉사자분들있어 더욱 행복했습니다.감사합니다. DSC_2694 DSC_2706 DSC_2757 DSC_2763 DSC_2775 DSC_2779 DSC_2802 DSC_2821 DSC_2829",
+},{
+    "id": "408",
+    "url": "/resource_room/forest/flf_39",
+    "title": "2013-11-01-10월_둘째주_숲과_함께하는_아름다운_동행_프로그램_활동사진입니다.",
+    "content":"자연물을 이용하여 어르신들이 표현을 하시며 흡족해 하시는 모습을 보이시며 우리에게 자연이 주는것기 참 많다고 말씀해 주시며 즐거워 하심. 동심원분들과 숲속올림피아드라는 주제를 가지고 쾌청한 날씨속에 진행되어 다양한 체험을 하시며 행복한 웃음과 즐거움을 가득 간직하셨습니다. DSC_2234 DSC_2238 DSC_2251 DSC_2290 DSC_2294 DSC_2304 DSC_2341 DSC_2353 DSC_2359 DSC_2373 DSC_2376",
+},{
+    "id": "409",
+    "url": "/resource_room/forest/flf_40",
+    "title": "2013-11-01-10월_셋째주_숲과_함께하는_아름다운_동행_프로그램_활동사진입니다.",
+    "content":"어르신들과 제일고등학교 학생들과 함께 천천히 도솔산을 오르며 따스한 가을 햇빛을 받으니 절로 웃음이 나오고 숲해설가분의 감미로운 목소리로 노래를 들으며 즐거운 시간을 보내셨습니다. DSC_2425 DSC_2426 DSC_2432 DSC_2436 DSC_2478 DSC_2483 DSC_2486 DSC_2605 DSC_2618 DSC_2638 DSC_2652",
+},{
+    "id": "410",
+    "url": "/resource_room/forest/flf_38",
+    "title": "2013-11-01-10월_첫째주_숲과_함께하는_아름다운_동행_프로그램활동사진입니다.",
+    "content":"도솔산에서 제일고 학생들과 숲에 대한 이야기를 듣고 숲에 있는 나무잎을 가지고 표현하기등 다양한 프로그램을 진행하였습니다. 어르신들과 함께 다양한 프로그램을 가지고 지속적으로 진행하고 있습니다. 20131002_142815 20131002_144916 제일고등학교 숲체험 008 제일고등학교 숲체험 042 제일고등학교 숲체험 068 제일고등학교 숲체험 125",
+},{
+    "id": "411",
+    "url": "/resource_room/notices-dosolnoin/life46",
+    "title": "도솔노인복지센터 13년 11월 프로그램 계획 및 식단표",
+    "content":"",
+},{
+    "id": "412",
+    "url": "/resource_room/notices-dosolnoin/life47",
+    "title": "2013-11-04-12_은어송한의원-박지영원장님편",
+    "content":"늦게 오신 어르신들도 한분 한분, 진료를 해주셨습니다. ^^ 감사 ^^ DSC_3390 DSC_3393 DSC_3396 DSC_3397 DSC_3398",
+},{
+    "id": "413",
+    "url": "/resource_room/notices-hwaam/life13",
+    "title": "김장김치 자비나눔 후원행사 안내",
+    "content":"2013년 월동 김장 행사 공지 2013.11.20.(수) ~ 21.(목) 화암사 신도분들과 자원봉사 여러분의 많은 참여를 부탁드립니다. 김장행사 관련 후원(배추, 무우, 양념류 등)도 받습니다. - 기부금 영수증 발급 20(수) : 배추 다듬기 및 절이기, 씻기, 김치 양념준비 21(목) : 김치속 넣기 및 김장김치 전달 담근 김치는 소외계층(독거노인, 다문화가정, 소년소녀가정 등)에 전달되며, 일부는 경로식당 무료급식에 사용될 예정입니다.",
+},{
+    "id": "414",
+    "url": "/resource_room/notices-dosolnoin/life48",
+    "title": "2013-11-11-13_한방진료 - 김남규 원장님편",
+    "content":"멋쟁이 ! 김남규 원장님 한방진료 모습입니다. DSC_3684 DSC_3685 DSC_3686 DSC_3687 DSC_3688 DSC_3689",
+},{
+    "id": "415",
+    "url": "/resource_room/notices-hwaam/ceremony_info10",
+    "title": "세종청사공무원불자연합회_정기법회",
+    "content":"일시 : 불기 2557(2013)년 11월 13일(수) 12:00 장소 : 환경부 대회의실 (6동 609호) 법회순서 개회사 삼귀의 반야심경 독송 청법가 입정 법문 : 법사 - 도솔산 화암사 혜광스님 불교의 3가지 특성 대중과 함께 하며 지켜야 할 다섯가지 다짐 북송시대. 자각종색선사의 ‘좌선의’ 발원문 낭독 사홍서원   1-grzkGgBFnT 2-4_iIbkDCil 3-nh8cqOH6do 4-vDV9b5ElBF          ",
+},{
+    "id": "416",
+    "url": "/resource_room/notices-hwaam/life14",
+    "title": "대전시청불자회 - 김장김치 자비나눔행사",
+    "content":"대전시청불자회 - 2013년도 김장김치 자비나눔행사 일시 : 2013. 11. 23. / 09:00 ~ 12:00 장소 : 도솔산 화암사 기부하신 김장김치(150포기)는 도움이 필요한 어려운 이웃을 위하여 소중하게 사용하겠습니다. 추운날씨에 모두들 수고하셨습니다. e34027b3b8060e25f263370688e3c484_8Qrbpk2wOhnfnrkFHuDQiRLtpQcPU e34027b3b8060e25f263370688e3c484_UMEQmW4kHVotqZOB e34027b3b8060e25f263370688e3c484_VwKx7neUgf5rmtvad82U e34027b3b8060e25f263370688e3c484_loFoPco5QuCIRvfR8 e34027b3b8060e25f263370688e3c484_mjH8vJH4Lx e34027b3b8060e25f263370688e3c484_tLgdEWo12egyBRhC9",
+},{
+    "id": "417",
+    "url": "/resource_room/notices-hwaam/life15",
+    "title": "도솔노인복지센터 자비나눔 콘서트",
+    "content":"도솔노인복지센터 자비나눔 콘서트 개관 6주년 기념, 정목스님의 마음치유와 가수 박상민이 함께하는 도솔노인복지센터 자비나눔콘서트 - 후원행사 일시 : 2013. 12. 15.(일) 14:00~16:00 장소 : 대전시청 대강당 입장권(3만원) 소지자에 한하여 행사당일 지정좌석 없이 선착순 입장(좌석 700석, 입석 300석) 본 행사를 통하여 얻어지는 기금 전액은 복지시설 이용 어르신을 위하여 사용됩니다. 후원행사에 많은 참여를 바랍니다. e34027b3b8060e25f263370688e3c484_BS3I4teuhteWmsqEEia9ecjRzY e34027b3b8060e25f263370688e3c484_D4MBiztozwx2RgQm8dYFat e34027b3b8060e25f263370688e3c484_cHRS1vlwAcLKGii1U22sYnMq e34027b3b8060e25f263370688e3c484_hBmi6EMjx93oMkvo –&gt;",
+},{
+    "id": "418",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_82",
+    "title": "12월_1주_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"1-D7o92mUOiy 2-EopdtWAHQp 3-vHYOhxJRD9 4-fZuQMJPIjr 5-5EtKZLnfMR 6-dO5Sew6FaJ 어르신들과 함께 다양한 프로그램을 통해 즐거운 하루를 보내실수 있도록 노력하고 있습니다.",
+},{
+    "id": "419",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_60",
+    "title": "12월_2주_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"1-I4OpSpyI6V 2-r6FkvSUodi 3-KNbaEVmGmi 4-9SdvCdaklY 5-e1ZK6VGiJU 6-WSWlN2i3f2 7-wwZTTh8hEp 차를 마시며 어르신들과 이야기도 하시고, 난타 프로그램시간에는 꽹과리, 장구, 북등을 이용하여 장단에 맞춰 두드리며 즐거운 시간을 보내고 계십니다.",
+},{
+    "id": "420",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_38",
+    "title": "12월_3주_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"1-rRCg92AnvP 2-ggBmVHZYel 3-A8XhgQT4mu 4-OVYlNk3xwd 5-t8spTpsWKT 6-F4gwMxCXQW 7-MrazLm4cxr 어르신들이 노래교실시간에 배우고 싶어하시는 강사님과 함께 여러번 반복하여 배우시며 즐거워 하시고, 건강박수, 풍선배구등 활동을 하시며 어르신들과 함께 즐거운 시간을 보내고 계십니다.",
+},{
+    "id": "421",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_16",
+    "title": "12월_4주_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"1-57nsk3bdam 2-5D8yclgwbY 3-ePL53boJLP 4-cY7gJ5OstG 5-k6QTy9uUcd 6-_nMF69EoUX 어르신들이 함께 프로그램에 참여하여 즐거움을 나누시고 집중력을 향상을 위해 열심히 노력하고 계십니다.",
+},{
+    "id": "422",
+    "url": "/resource_room/notices-hwaam/ceremony_info11",
+    "title": "정부세종청사_공무원_불자연합회_합동_법회_(2013년_12월_11일)",
+    "content":"12월 11일 법문    선업(善業)을 넘어 도업(道業)으로 불교한 온전히 ‘나를 없애는 수행’ 입니다.   이세상의 모든 고통은 내가 있시 때문입니다.   아무리 절에 오래 다녔더라도, 팔만대장경을 다 읽었더라도 ‘나’라는 상이 있으면 나를 버리지 못한다면 헛일입니다. 선업을 쌓기 위해 베풀어야 합니다. 물질이 없는 사람도 얼마든지 나눌수 있다는 말씀이 에 나오는 무재칠시(無財七施)입니다. 화안시 : 얼굴에 화색을 띠고, 부드럽고 정다운 얼굴로 남을 대하는 것입니다. 자안시 : 편안한 눈빛으로 상대방을 대하는 것입니다. 심   시 : 마음의 문을 열고 따뜻한 마음을 갖는 것입니다. 언사시 : 친절한 말로 상대방에게 친절을 베푸는 일입니다. 신   시 : 바른 용모로 상대방에게 친절을 베푸는 일입니다. 상좌시 : 상대방에게 자리를 양보하는 것도 보시입니다. 방사시 : (찰시) 상대방에게 불편함이 없는지를 살펴 주는 것도 보시입니다.   무재칠시는 누구나 다 할수 있습니다. 또 아무리 사용해도 소진되지 않습니다. 누구나 할수 있되 늘깨어있는 사람만이 실천할수 있습니다. 무재칠시를 실천해서 선업에서 도업으로 가시기를 바랍니다. 1-Xu4cIA6EEN 2-wBQaXuJQVQ 3-lScGjdQhUK 4-oMDGnmBfsG 5-hAOeaHeWo9 6-MUzgXHRcD6  ",
+},{
+    "id": "423",
+    "url": "/resource_room/notices-hwaam/life16",
+    "title": "감사의 글",
+    "content":"감사의 글 평소 도솔노인복지센터에 많은 관심과 격려를 아끼지 않으신 모든 분들께 감사의 인사를 드립니다. 추운날씨 속에서 걱정반, 기대반으로 개관 6주년을 기념한 도솔노인복지센터의 후원행사“마음은 자유롭게, 세상은 아름답게”를 준비하였습니다. 해마다 실시하는 후원행사였지만, 올해는 특별히 마음치유의 큰 멘토이신 정목스님과 기부의 천사로 많은 분들에게 자비의 마음을 전해주는 가수 박상민씨가 함께하는‘자비나눔콘서트’로 행사를 준비하였습니다. 한 해 동안 센터를 후원해주시고 도움을 주신 모든 분들을 격려하고 감사의 마음을 전하는 자리로, 불자들과 일반시민들이 하나 되고 함께 참여하여 어우러진‘힐링의 장’으로 개최하였습니다. 많은 분들의 도움으로 행사가 여법하게 거행되었음을 깊이 감사드립니다. ‘자비나눔콘서트’행사를 위하여 빠쁜신 와중에도 참석하여 자리를 빛내 주시고, 아낌없는 성원과 후원을 하여 주신 모든 분들께 - 음으로 양으로 마음써 주시고 도움을 주신 모든 분들께 진심으로 감사의 말씀을 드립니다. 일일이 찾아뵙고 감사의 인사를 드림이 도리인줄 아노나 서면으로 대신하게 됨을 널리 양해하여주시기 바랍니다. 도솔노인복지센터가 발전할 수 있도록 변함없는 애정과 관심으로 지원과 성원하여 주심에 거듭 감사드리며, 앞으로도 지역사회와 함께하는 센터로 나눔을 통하여 더 좋은 세상을 만들어 가는 도솔산 화암사로 더욱더 발전할 수 있도록 많은 지도와 편달을 부탁드립니다. 얼마 남지 않은 계사년 하시는 모든 일, 원만 성취하시길 바라며, 여러분의 가정에 항상 행복과 건강을 기원 드립니다. 2013.12. 도솔노인복지센터장 혜광 합장",
+},{
+    "id": "424",
+    "url": "/resource_room/notices-hwaam/life17",
+    "title": "도솔노인복지센터 자비나눔 콘서트",
+    "content":"개관 6주년 기념 도솔노인복지센터 자비나눔 콘서트 정목스님의 마음치유와 가수 박상민이 함께하는 ‘마음은 자유롭게, 세상은 아름답게’ 모든 분들께 진심으로 감사를 드립니다. 감사합니다. e34027b3b8060e25f263370688e3c484_1No8fEIe e34027b3b8060e25f263370688e3c484_3BeWvwcsH e34027b3b8060e25f263370688e3c484_5m2mun3NzPC8NukM7KrK8 e34027b3b8060e25f263370688e3c484_7kv2r5VUf8 e34027b3b8060e25f263370688e3c484_AUioeRpquFtOvgYQ6U e34027b3b8060e25f263370688e3c484_LtwtGwvIJSLx4JWKnkcugVQP7X2gZ e34027b3b8060e25f263370688e3c484_QFeBThdEJK6XSj5dRZaZb2N e34027b3b8060e25f263370688e3c484_RFK6wp2ZLU3KHDaZV7jelTd5VqMLjG1z e34027b3b8060e25f263370688e3c484_jhFOYyDGk2KmFVxNt3kUX e34027b3b8060e25f263370688e3c484_n2wPiHNQnRHERsQ3WX96D7AyXThV4 e34027b3b8060e25f263370688e3c484_sjeZwI6bU8DzYrelEmRtnV e34027b3b8060e25f263370688e3c484_wmI8nXMKytKpNcQ",
+},{
+    "id": "425",
+    "url": "/resource_room/notices-dosolnoin/life49",
+    "title": "도솔노인복지센터 13년 12월 프로그램 계획 및 식단표",
+    "content":"",
+},{
+    "id": "426",
+    "url": "/resource_room/notices-hwaam/ceremony_info12",
+    "title": "동지기도_법회",
+    "content":"http://cafe.daum.net/dosolnoion/IRnD/154 참조하세요",
+},{
+    "id": "427",
+    "url": "/resource_room/notices-dosolnoin/life50",
+    "title": "도솔노인복지센터 14년 1월 프로그램 계획 및 식단표",
+    "content":"",
+},{
+    "id": "428",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_34",
+    "title": "2013년_1월_1주_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"1-ECqwB3uXt7 2-_3GvwAQOBU 3-9y2BGTNgXn 4-S2d3sqwQYO 5-Izg8wVbUsb 6-3UgZ8OYLrV 7-uYJZavI2K5 2014년에는 어르신들과 함께 더욱 즐겁고 행복한 시간을 될 수 있도록 최선을 다하겠습니다.",
+},{
+    "id": "429",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_33",
+    "title": "1월_2주_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"1-OMzfX4lN4t 10-a9ZUu6QTAk 2-hsdL3Qbnfb 3-YwTZR2dCLd 4-ir7IX24sQv 5-w92t3lm17w 6-oypZYRzw2y 7-Pf2jJzVNF1 8-JJGFtxalwT 9-vlXMAK9buo 어르신들이 행복하고 즐거운 시간을 보내실 수 있도록 다양한 프로그램을 진행하고 있습니다.",
+},{
+    "id": "430",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_32",
+    "title": "1월_3주_주간보호_이용어르신_프로그램_활동사진입니다.",
+    "content":"1-DW3iKQjkLF 10-N1jQnaJprn 11-9wzfKD8TpZ 2-JU2TFGxod3 3-iOilJKfPfN 4-bcQKtQJtk4 5-26YqQPhlLq 6-T64pRm2bAH 7-mKiI7IUfzS 8-B9iaEKBqAL 9-RnmtuQ1lRK 어르신들과 새로운 프로그램을 진행하면서 재미와 즐거움을 찾고, 함께하며 협동심을 발휘하는등 서로간의 화합의 시간을 갖으셨습니다.",
+},{
+    "id": "431",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_31",
+    "title": "1월_4주_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-sTVJIqIHmQ 2-JFMrieEvPh 3-nglrYRHl76 4-BVhZ2aPTMG 5-nsZIiyfNHV 6-qOrbYvRmzx 어르신들이 프로그램에 참여하여 적극적으로 열심히 하시며 즐거운 시간을 보내고 계십니다.",
+},{
+    "id": "432",
+    "url": "/resource_room/notices-dosolnoin/life51",
+    "title": "2014-01-13-14_무료급식 휴무 공지",
+    "content":"무료급식휴무 소방시설 기능보강 공사로 인하여 무료급식이 실시되지 않습니다. 휴무 : 총 20일간 기간 : 1. 13(월) ~2.1(토) 2월 4 (화)일부터 정상적으로 실시됩니다.",
+},{
+    "id": "433",
+    "url": "/resource_room/notices-dosolnoin/life52/resource_room/notices-dosolnoin/files/2014%EB%85%84%EC%98%88%EC%82%B0%EC%84%9C%EA%B3%B5%EC%A7%80.pdf",
+    "title": "2014-01-21-15_2014년도 대전불교사회복지회 예산공고",
+    "content":"2014년도 대전불교사회복지회 예산 - 세입/세출 공고 입니다. 2014년예산서공지",
+},{
+    "id": "434",
+    "url": "/resource_room/notices-dosolnoin/life53",
+    "title": "2014년도 도솔노인복지센터 예산서 공지",
+    "content":"2014년도 도솔노인복지센터 예산서입니다.",
+},{
+    "id": "435",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_30",
+    "title": "2월_1주_주간보호_이용어르신_프로그램_활동사진입니다.",
+    "content":"1-BdjkQ9RCHL 10-SIIJkaNYu8 2-bxAHbrAKd1 3-eMYJy1ixR2 4-dIeVIQsdW3 5-MkrWIZYmS4 6-4_p8vXw7Av 7-IdjwDe4Ni5 8-NM3YMoW3jH 9-M2Z9MADoLZ 어르신들이 다양한 프로그램에 참여하여 생활에 활력소가 될 수 있도록 도움을 드리고, 스트레스를 해소할 수있도록 도움을 드림.  ",
+},{
+    "id": "436",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_29",
+    "title": "2월_2주_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"1-6oXw6yo1NA 2-EI1KJ3uFW5 3-j5a1ik8Qyz 4-X7QtAGwzQr 5-cGxasP5X4R 6-ety5Nmls2a 7-_zeQ2ZYSGz 8-8ilJtJiqp9 어르신들이 프로그램을 통해 추억을 회상하시거나, 즐거움을 통해 스트레스를 해소 할 수 있는 시간을 갖으심.",
+},{
+    "id": "437",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_28",
+    "title": "2월_3주_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"1-F547d7hS1b 10-CSb3KwR8XD 11-ULVvtAxiIa 12-wMUQqFshqC 2-B7U9hhHmvy 3-5OJRzPBka1 4-df1rJVjwGA 5-GH5qSAx7sF 6-GIDxU7Oivg 7-b5P1s436gV 8-UKAQVvMtd1 9-D3xAjAcVRq 어르신들과 함께 즐거운 시간을 보내기 위해 최선의 노력을 다하고 있습니다.",
+},{
+    "id": "438",
+    "url": "/resource_room/notices-dosolnoin/life54",
+    "title": "도솔노인복지센터 14년 2월 프로그램 계획 및 식단표",
+    "content":"",
+},{
+    "id": "439",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_27",
+    "title": "2월_4주_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"1-r7DqU6mZmO 10-bfZuXzCFPW 2-fUZetPvry2 3-My97ZyNMIh 4-rhNaSXrqlk 5-Ma2cT3qnt8 6-8j3C6B8WIJ 7-TO1oZEJATZ 8-2lXcTgfdae 9-wHwHUbHUfr 프로그램을 통해 어르신들의 집중력 향상및 심리적 안정을 찾을 수 있도록 도움을 드리고 웃음이 가득하고 행복한 시간을 만들고 있습니다.",
+},{
+    "id": "440",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_26",
+    "title": "3월_1주_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"1-19pteDHkLB 2-jWN9NvhJQ9 3-ca5QnFQlyL 4-SdUv6APIEx 5-AQUczQXgvw 6-4xswtdd8yi 7-2WbXFHcNjh 8-xJ1nqmGHz4 9-gHJcaIRgSu 3월 부터 서구민요, 숲체험여행(음악치료, 웃음치료, 숲산책)등 다양한 프로그램으로 어르신들과 함께 하고 있습니다.",
+},{
+    "id": "441",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_25",
+    "title": "3월_2주_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"1-JGEBTCfSzQ 10-nxqq1RlYvW 11-biLJ8c7b1G 2-I7YnoP6i1w 3-YmRG7d8M1s 4-IzqdpSQvrT 5-dnjBDrciHt 6-OlZeYv89ab 7-EZIxB3tEdx 8-TI1oN9Dlgb 9-s6ctSXMXRJ 따뜻한 봄 햇살 아래 어르신들과 함께 대전 현충원을 다녀왔습니다. 어르신들의 입가에 웃음이 한가득!! 어르신들이 항상 즐겁고, 행복한 시간이 될 수 있도록 최선을 다하겠습니다.",
+},{
+    "id": "442",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_24",
+    "title": "3월_3주_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"1-CdczyJEuoI 10-aZaBUglDy6 2-vT7QyHSqe7 3-asHWVCtrmq 4-_fglKxhhnn 5-QMD9IRw5DH 6-Ova3qRqvlz 7-ln5BhWSuGA 8-k8v69ms2WY 9-Bc546kwzTm 생신을 맞으신 어르신을 축하드리며 즐거운 시간을 갖으셨으며, 다양한 프로그램과 노인학대예방교육을 실시하였습니다.",
+},{
+    "id": "443",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_23",
+    "title": "3월_4주_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"1-mhLAiGnz2G 2-RrCaTwDcbX 3-4_3Q4ueLMs 4-HANSxNKkFr 5-xVm6O1N3Zi 어르신들이 행복하고 즐거운 시간을 보내실 수 있도록 다양한 프로그램을 진행하고 있습니다.",
+},{
+    "id": "444",
+    "url": "/resource_room/notices-dosolnoin/life55",
+    "title": "도솔노인복지센터 14년 3월 프로그램 계획 및 식단표",
+    "content":"",
+},{
+    "id": "445",
+    "url": "/resource_room/forest/flf_42",
+    "title": "2014-03-04-2014년 소외계층과 함께하는 숲체험 여행 &#39;함께 숲으로&#39;",
+    "content":"",
+},{
+    "id": "446",
+    "url": "/resource_room/notices-dosolnoin/life56",
+    "title": "2014-03-18-16_제 7회 지역어르신 초청경로잔치행사 안내",
+    "content":"▪ 마음은 자유롭게, 세상은 아름답게 ▪ 부처님 오신날 및 어버이날 맞이 제 7회 지역 어르신 초청 경로잔치 행사 안내 추진배경 및 목적 불기 2558년 부처님 오신 날 및 어버이 날을 맞이하여, 지역 어르신 초경 경로잔치를 통하여, ⌬ 부처님이 오신 참뜻을 널리 알리고 함께 축하하며, ⌬ 지역사회 경로효친 사상의 고취 ⌬ 어르신들에게 감사드리는 사회적 분위기 조성 및 효와 나눔의 문화 확산 행사개요 행 사 명 : 부처님 오신날 및 어버이날 맞이 “ 제 7회 지역 어르신 초청 경로잔치” 일 시 : 2014. 4. 26.(토) 10:30 ~ 13:30 장 소 : 대전광역시 서구청 대강당 및 식당 대 상 : 서구지역 어르신 500여명 주요내용 식전공연 : 바이올린 솔로연주 인사말씀 : 혜광스님 축사 및 격려사 : 무상큰스님 외 축하공연 : 트롯(소민), 국악(고선애), 가수(한석영), 프렌즈(밴드) 등 점심 특식제공 : 육개장 외 떡, 과일, 막걸리 등 참석예상인원 : 약 500여명(최대 식수인원 : 700명) 주최, 주관 및 후원 주최 : 도솔산 화암사, (사) 대전불교사회복지회 주관 : 도솔노인복지센터 후원 : 대전광역시 서구청불자회, 청맥회(거사회), 무량수회(여신도 회), 도솔합창단, 법등회(명상강좌 수료생)외 다수 행사 세부일정",
+},{
+    "id": "447",
+    "url": "/resource_room/notices-dosolnoin/life57",
+    "title": "녹색사업지원 - 함께 숲속으로 협약식 안내(제일고등학교)",
+    "content":"녹색사업지원 – 함께 숲속으로 협약식 안내(제일고등학교) notices-dosolnoin",
+},{
+    "id": "448",
+    "url": "/resource_room/notices-dosolnoin/life58",
+    "title": "도솔노인복지센터 14년 4월 프로그램 계획 및 식단표",
+    "content":"",
+},{
+    "id": "449",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_22",
+    "title": "4월_1주_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"1-FC1qcxJpeu 2-_7U4tRogAL 3-PxaE2JsHwg 4-Rw5dv9fy3K 5-TCQSW2Ktq1 6-vWCZ3feLT2 7-4_eVL1calX 8-rfr54jr9bj 자원봉사학생들도 함께 다양한 프로그램을 통해 즐겁고 행복한 시간을 보내고 있습니다. ",
+},{
+    "id": "450",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_21",
+    "title": "4월_2주_주간보호_어르신_프로그램_활동사진입니다.",
+    "content":"1-4_a8BV18MC 2-UtNOjShJN1 3-mxAxQVemfC 4-ahXjobuxFZ 5-uUVFfgXgBS 6-lNk8GUFEHz 4월 생신을 맞으신 이승애, 김을분,최상호, 홍두표 어르신 축하드립니다. 항상 건강하시고 행복 하세요… 어르신들과 함께 행복한 시간을 보냈습니다.",
+},{
+    "id": "451",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_20",
+    "title": "4월_3주_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-Nw1jHrso7J 2-P17TicXYl8 3-KFyyWdWZRM 4-MYrWQY9s9V 5-_pcueAx8tG 6-vUxYPlJpLH 어르신들과 함께 건강체조, 다도, 숲체험등 다양한 프로그램을 통해 즐거운 시간을 보냈습니다.",
+},{
+    "id": "452",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_19",
+    "title": "4월_4주_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-KWEccvtWc4 2-sigOCIdNoO 3-A1wXLSRnst 4-3NtYYE57FB 5-WwZtOGzg4O 어르신들과 함께 생활체육, 음악치료, 숲체험등 다양한 프로그램을 함께 했으며, 특히 도솔산 숲산책 프로그램에 즐겁게 참여하셨습니다.",
+},{
+    "id": "453",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_18",
+    "title": "5월_1주_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-MjipYPKK5j 2-ozdYeS7udQ 3-VujBo58CSo 4-4_45BAPdPI 어르신들에게 다양한 프로그램을 제공해드리고 어르신들이 함께 즐겁고 재미있는 시간을 보낼 수 있도록 최선을 다하고 있습니다.",
+},{
+    "id": "454",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_17",
+    "title": "5월_2주_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-udi3crdNBP 2-_iira5tKSH 3-yMk7iHBiVu 4-OZk43tXDuw 5-iZXq33h77i 6-OOnK7KLhJF 7-vQuFvCYY2C 5월 어버이날 직접 카네이션도 만들고 숲체험시간에는곤충들을 직접 만원경을 보면서 그림 그려보는 시간을 가졌습니다. 어르신들이 프로그램을 통해 즐거움과 행복을 찾을수 있도록 최선의 노력을 다하고 있습니다.",
+},{
+    "id": "455",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_16",
+    "title": "5월_3주_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-onXXfpNCmD 2-HECS4Y7CNx 3-DvkQxU1I7d 4-92P4gugMfJ 5-samHGyA7s6 6-MXyGpfJUlz 7-Z85uSqn7Yz 8-nbiMmAxdgX 9-bfLYHaxsu7 프로그램시간에 어르신들이 강사님의 설명을 듣고 만들기도하고 체험도 해보시면서 즐겁게 참여하고 계십니다.",
+},{
+    "id": "456",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_15",
+    "title": "5월_4주_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-Yps4bhSeUo 10-OmSIpe2ihB 2-QRCLKoph2q 3-YKKg7gxRp9 4-KZQjm28k3B 5-QPMwyrrXNT 6-2PUShPrkuq 7-AiK42itTSX 8-fXS9XEEmN5 9-e3cg8RTVFS                      장태산 나들이도 즐겁게 다녀오시고 프로그램도 적극적으로 참여해 주고 계십니다.",
+},{
+    "id": "457",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_14",
+    "title": "6월_1주_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-bAclQI5Hgd 2-GLKYzHQCbP 3-pxhmIxWpv6 4-rr1bfSWEpx 5-QmbqqtuO6z 6-R9onrK9MUk                     서구민요, 웃음치료, 낱말인지, 음악치료, 생활체육 등 다양한 프로그램과 함께 하셨으며,           노래교실 프로그램시간 새로운 노래를 배우면서 즐겁게 참여하셨습니다.",
+},{
+    "id": "458",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_13",
+    "title": "6월_2주_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-DLhAkDRrcq 2-Cledokba3d 3-IydgPavip2 4-gG6tisV7qb 5-_TJ8axAYnZ 6-GVwvF7rzEV 7-8ipF6bVA8q 8-yebCdqeCmf                프로그램시간에 어르신들이 강사님의 설명도 잘 들으시면서 만들기도하고          체험도 해보시면서 즐겁게 참여하고 계십니다.",
+},{
+    "id": "459",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_12",
+    "title": "6월_3주_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-ZvwG1SzVK4 2-qhWZoDPxv7 3-3rC5ZhdMsf 4-g5ZkqjHsLy 5-bD2TbRc1YK 6-NRCP76S2p2 어르신들에게 다양한 프로그램을 제공해드리고 어르신들이 함께 즐겁고 재미있는 시간을 보낼 수 있도록 최선을 다하고 있습니다.",
+},{
+    "id": "460",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_11",
+    "title": "6월_4주_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-4_38q3YPog 2-PlIV2GGcRH 3-PMuKlHIEKL 4-2gU3Lp6skJ 5-6xtJdbxpTo 6-NusoKgDcpL 어르신들이 행복하고 즐거운 시간을 보내실 수 있도록 다양한 프로그램을 진행하고 있습니다.",
+},{
+    "id": "461",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_10",
+    "title": "7월_1주_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-39YmSBiSAE 2-uA4TFifw4b 3-6iEvVrZpo7 4-rnGiEY2qiS 5-zPY1L2iqWN 6-5kORr9J22d 7-9dOUOaQSWk 8-G5U4gczUpW 9-MNGsSQWZrq 실습학생들과 함께 다양한 프로그램을 통해 즐겁고 행복한 시간을 보내고 있습니다. ",
+},{
+    "id": "462",
+    "url": "/resource_room/notices-dosolnoin/life59",
+    "title": "도솔노인복지센터 14년 5월 프로그램 계획 및 식단표",
+    "content":"",
+},{
+    "id": "463",
+    "url": "/resource_room/notices-dosolnoin/life60",
+    "title": "도솔노인복지센터 14년 6월 프로그램 계획 및 식단표",
+    "content":"",
+},{
+    "id": "464",
+    "url": "/resource_room/notices-dosolnoin/life61",
+    "title": "도솔노인복지센터 14년 7월 프로그램 계획 및 식단표",
+    "content":"",
+},{
+    "id": "465",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_9",
+    "title": "7월_2주_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-GcOCQuI5Ci 10-Kv5LXEl3KD 2-Y5YdE7XMAn 3-CCGWyQJb3l 4-oW3EJwcrNz 5-CSU8kr1AXE 6-4B1HpFVLPu 7-4_2BUdT4OX 8-QMxRN19qEX 9-ubGZgN46u5       강사님과 자원봉사학생이 함께 다양한 프로그램을 통해 즐겁고 행복한 시간을 보내고 있습니다. ",
+},{
+    "id": "466",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_8",
+    "title": "7월_3주_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-RKeQEWie8a 10-8pURvR5INL 11-3WPZHhBGOL 12-VbjSOyFKER 2-1q9gVCc8mI 3-UjGz2BbaRi 4-wPvY7mjnay 5-wyNW66fGx7 6-neysuvcNDw 7-KyMvJOUjTO 8-4UsW33L3Bq 9-I9K7PHkt2h 대전시립역사박물관 나들이도 즐겁게 다녀오시고 자원봉사자 학생들과 발마사지도 받으시면서 즐겁고 행복한 시간을 보내셨습니다.",
+},{
+    "id": "467",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_7",
+    "title": "7월_4주_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-1bhVcWmKJ1 2-YsOPYeHzIi 3-Jba3lfajcc 4-sFjnMfzOVv 5-rRLugA9DBM 6-nZtXI3wKpO 7-VhCRqV5z1s .",
+},{
+    "id": "468",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_6",
+    "title": "7월_5주_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-ILo4fqk2Us 10-_bnpgTfwEJ 2-nyJ8IgQk1K 3-8awYCau4dM 4-YwbkrBQfcP 5-kyJ5r4SiL3 6-_KGnVI6ixN 7-2SSiMocySq 8-8BJltiJ88g 9-CMP4i5Qkx2 자원봉사학생들도 함께 다양한 프로그램을 통해 즐겁고 행복한 시간을 보내고 있습니다. ",
+},{
+    "id": "469",
+    "url": "/resource_room/notices-dosolnoin/life62",
+    "title": "도솔노인복지센터 14년 8월 프로그램 계획 및 식단표",
+    "content":"",
+},{
+    "id": "470",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_5",
+    "title": "8월_1주_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-_OIhSDqJFJ 2-IgrSvApywR 3-CIIoTPEQQc 4-AK3ipY5udp 5-7gljGO4nL7 6-QIhnHSEiSO 7-gVS8HdAtEb 프로그램시간에 어르신들이 강사님의 설명도 잘 들으시면서 만들기도하고 체험도 해보시면서 즐겁게 참여하고 계십니다.",
+},{
+    "id": "471",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_4",
+    "title": "8월_2주_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-xYS5E2GZlQ 10-rZWbaTZ3Bn 11-SQRzLNzSdR 2-Vjh5deTXKI 3-_KrmnkWaa4 4-pJOq95K3b7 5-f1c2FChkSf 6-Ap4vHBqegj 7-DB59bI15Vr 8-XQJiFGGLwB 9-aRdhn79qIu   이번한주도 어르신들과 함께 건강체조, 음악치료, 생신잔치, 숲체험등 다양한 프로그램을 통해 즐거운 시간을 보냈습니다.",
+},{
+    "id": "472",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_3",
+    "title": "8월_3주_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-cuNxfwABd5 2-_pti5FHcTp 3-jVmDqALVfU 4-TYFwHeKq1R 5-A8yNnZxl21 6-lRza8qZfiQ 7-BtKgwzfIgc 8-HlOlHm5DLL 9-FG74yW7fWH 어르신들과 함께 생활체육, 음악치료, 다도, 숲체험등 다양한 프로그램을 함께 했으며, 특히 도솔산 숲산책 프로그램에 즐겁게 참여하셨습니다.",
+},{
+    "id": "473",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2",
+    "title": "8월_4주_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-_VfvRQPfw8 10-hQXtruRBmY 2-WVKMsdRbIz 3-Rjz1t9fery 4-wXa2guflRl 5-dqvWvuNTbk 6-g1XLfHWrss 7-jJbGh6i1jB 8-zFbAcwZe4f 9-PkMM7BDe9U 생활체육, 음악치료, 숲산책등 여러가지 다양한 프로그램을 함께 했으며, 특히 숲체험 프로그램시간에 송편도 만드시면서 즐겁게 참여하셨습니다.",
+},{
+    "id": "474",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1",
+    "title": "9월_1주_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-YASHSNkTBt 10-3U6OadMTIq 2-DKrsLO1xNA 3-L8UQB3IJLW 4-1ZbHlP3QEt 5-sdPSzsiZ9K 6-GyPiKbSwgo 7-P3K53J1WTY 8-AoHP5ZeAYx 9-SSWwpc9Q6Q   서구민요, 웃음치료, 낱말인지, 노래교실, 생활체육 등 다양한 프로그램과 함께 하셨으며,           음악치료 프로그램시간 새로운 노래를 배우면서 즐겁게 참여하셨습니다.",
+},{
+    "id": "475",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_0",
+    "title": "9월_2주_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-pvFXWgmTxK 2-8jXdUAUK4o 3-jdrQwMWrsh 4-_TMRMPO7jh 5-4_1ZFaTxpY 6-xsQznZdKSb 7-DlH5k9oxa9 8-_wh94uIM79 숲체험, 다도, 음악치료, 만다라등 다양한 프로그램등을 통해 어르신들이 하루하루 행복해 하고 계십니다.",
+},{
+    "id": "476",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_214",
+    "title": "9월_3주_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-MW89Z1G6i5 10-aZVt9DJmdU 11-hoc8izVcIM 12-5bs1wXY7dw 2-8yL8v2lB3P 3-UFPSdQIdxU 4-_9zA7vSk7H 5-CEk95NJdG3 6-hIa8Hi6J3j 7-APFiWLsJ79 8-lvnjgL95AI 9-MxV8sGIxNS 어르신들과 함께 생신잔치, 노래교실, 종이공예, 숲체험등을 통해 즐거운 시간을 보내고 있습니다. 특히 자원봉사자들과 음악치료 프로그램을 함께 하면서 즐거워 하셨습니다.",
+},{
+    "id": "477",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_213",
+    "title": "9월_4주_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-FEEsJPAkjF 2-Uz5EiLwJVv 3-XdVAlxBAba 4-4_gVSytqkw 5-xnDRxe5mRB 6-EXu9PpHDsI 7-ZhoZpQAeVP 8-Q9xY4Cw1yG     생활체육, 건강체조 프로그램시간 동작도 적극적으로 따라하시고, 숲체험 강사님과 함께 도솔산 산책도 다녀오시고 생태계에 대한 설명하는 시간도 가졌습니다.  ",
+},{
+    "id": "478",
+    "url": "/resource_room/notices-dosolnoin/life63",
+    "title": "도솔노인복지센터 14년 9월 프로그램 계획 및 식단표",
+    "content":"",
+},{
+    "id": "479",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_212",
+    "title": "10월_1주_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-Mgxqi6NVKI 2-eWmt9vCaQJ 3-zkaqxLBQ3V 4-XNpj9NXoO5 5-ryky3n2aQA 6-27p4cnNMIW 7-K3DdEH2GYZ 8-jgZFQJlD4N 9-wRkjW9mnVP 생활체육, 인지프로그램, 음악치료프로그램등을 통해 행복한 시간을 보내셨으며 자원봉사자 학생들과도 즐거운 시간을 보내셨습니다. ",
+},{
+    "id": "480",
+    "url": "/resource_room/notices-dosolnoin/life64",
+    "title": "도솔노인복지센터 14년 10월 프로그램 계획 및 식단표",
+    "content":"",
+},{
+    "id": "481",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_211",
+    "title": "10월_2주_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-JziuvYWdSI 2-o4uotLL1G4 3-_zO6MtEUKS 4-qxAtv1jgoQ 5-l6yLC5IC7Q 6-4_Wzy4GVxI 7-Xc2V8F6oCj 8-nsS1tgkDQZ 9-J1mefhD91U 부여백제역사단지 나들이를 자원봉사자들과 함께 즐겁게 관람하시고 건강체조, 종이공예, 숲체험등 다양한 프로그램과 함께 즐겁게 참여하셨습니다.  ",
+},{
+    "id": "482",
+    "url": "/resource_room/notices-hwaam/life18",
+    "title": "오백나한 조성 불사 권선문",
+    "content":"오백나한 조성 불사 권선문",
+},{
+    "id": "483",
+    "url": "/resource_room/notices-hwaam/life19",
+    "title": "윤달 49일간 생전예수재 및 큰스님 초청법회 안내문",
+    "content":"윤달 49일간 생전예수재 및 큰스님 초청법회 안내문",
+},{
+    "id": "484",
+    "url": "/resource_room/notices-hwaam/ceremony_info13",
+    "title": "10월_5일_생전예수재_3재_방곡사_묘허_큰스님_법회",
+    "content":"10월 5일 방곡사 묘허 큰스님 법회 1-hvLa2nwg7H",
+},{
+    "id": "485",
+    "url": "/resource_room/notices-hwaam/ceremony_info14",
+    "title": "10월_12일_생전예수재_4재_직지사_승가대학원장_지안_큰스님_법회",
+    "content":"10월 12일 일요일 직지사 승가대학원장 지안 큰스님 법회 1-EVzFi6d3Ij",
+},{
+    "id": "486",
+    "url": "/resource_room/notices-dosolnoin/life65",
+    "title": "도솔노인복지센터 14년 11월 프로그램 계획 및 식단표",
+    "content":"주간보호센터 11월 프로그램 진행 계획표(함께 숲으로 포함) «2014.11.01. ~ 11.30» –도솔노인복지센터– 일 월 화 수 목 금 토 30 최은희(출근) - 한방진료(윤성식원장)           1 - 아침인사, 건강체크 - 인지활동 전통어울림 2 - 한방진료(김용찬원장) 3 - 아침인사, 건강체크 - 계절구분 - 생활체육, 인지활동 - 노래교실, 풍선배구 4 - 아침인사, 건강체크 - 계절구분 - 서구문화원(민요) - 요가, 웃음치료 5 - 아침인사, 건강체크 - 계절구분 - 종이공예, 도미노 - 미술치료, 볼링 6 - 아침인사, 건강체크 - 계절구분 - 생활체육, 만다라 - 음악치료, 낱말인지 7 (입동) - 아침인사, 건강/당뇨체크 - 계절구분 - 건강체조, 다도교실 - 곤충만들기, 윷놀이 8 - 아침인사, 건강체크 - 인지활동, 전통어울림 9 - 임장혁(출근) -한방진료(임현경원장) 10«명세서안내문문자발송» - 아침인사, 건강체크 - 계절구분 - 생활체육, 인지활동 - 노래교실, 풍선배구 11 - 아침인사, 건강체크 - 계절구분 - 서구문화원(민요) - 요가, 웃음치료 12 - 아침인사, 건강체크 - 계절구분 - 종이공예, 도미노 - 미술치료, 고리던지기 13 - 아침인사, 건강체크 - 계절구분 - 생활체육, 만다라 - 음악치료, 낱말인지 14 - 아침인사, 건강/당뇨체크 - 계절구분 - 건강체조, 다도교실 - 곤충만들기, 윷놀이 15 박선미(休) - 아침인사, 건강체크 - 인지활동, 전통어울림 16 - 김경승(출근) -한방진료(오재근원장) 17 - 아침인사, 건강체크 - 계절구분 - 생활체육, 인지활동 - 노래교실, 젠가 18«이/미용서비스» - 아침인사, 건강체크 - 계절구분 - 서구문화원(민요) - 요가, 웃음치료 19 - 아침인사, 건강체크 - 계절구분 - 종이공예, 도미노 - 미술치료, 볼링 20 - 아침인사, 건강체크 - 계절구분 - 생활체육, 만다라 - 음악치료, 낱말인지 21 - 아침인사, 건강/당뇨체크 - 계절구분 - 건강체조, 다도교실 - 곤충만들기, 윷놀이  ",
+},{
+    "id": "487",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_210",
+    "title": "11월_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-38a5Cmmyop 10-jJEAtr5Mk8 11-X4ovd56ZbB 2-5PIRNNdsb1 3-IrUByn2O7c 4-teQQ3rA4j8 5-TcsaKjFl7J 6-oM3cFtK4z8 7-OdlUMuRMuk 8-sNWVihogqI 9-bMpPYQ7BXe   11월에는 이·미용 서비스, 생신잔치, 우리 전통 민요 및 춤배우기, 음악치료 등의 다양한 프로그램을 주간보호 어르신들이 함께 즐겁게 참여하셨습니다.",
+},{
+    "id": "488",
+    "url": "/resource_room/notices-dosolnoin/life66",
+    "title": "도솔노인복지센터 14년 12월 프로그램 계획 및 식단표",
+    "content":"주간보호센터 12월 프로그램 진행 계획표 «2014.12.01. ~ 12.31» –도솔노인복지센터– 일 월 화 수 목 금 토   1 - 아침인사, 건강체크 - 계절구분 - 생활체육, 인지활동 - 노래교실, 풍선배구 2 - 아침인사, 건강체크 - 계절구분 - 풍선공예, 구슬꿰기 - 요가, 웃음치료 3 - 아침인사, 건강체크 - 계절구분 - 종이공예, 도미노 - 미술치료, 윷놀이 4 - 아침인사, 건강체크 - 계절구분 - 생활체육, 만다라 - 음악치료, 낱말인지 5 - 아침인사, 건강/당뇨체크 - 계절구분 - 건강체조, 다도교실 - 숲체험, 콩고르기 6 임장혁(休) - 아침인사, 건강체크 - 인지활동, 전통어울림 7(대설) 김경승(출근) - 한방진료(김남규원장) 8 - 아침인사, 건강체크 - 계절구분 - 생활체육, 인지활동 - 노래교실, 풍선배구 9 - 아침인사, 건강체크 - 계절구분 - 풍선공예, 구슬꿰기 - 요가, 웃음치료 10«명세서안내문문자발송» - 아침인사, 건강체크 - 계절구분 - 종이공예, 도미노 - 미술치료, 윷놀이 11 - 아침인사, 건강체크 - 계절구분 - 생활체육, 만다라 - 음악치료, 낱말인지 12 - 아침인사, 건강/당뇨체크 - 계절구분 - 건강체조, 다도교실 - 숲체험, 콩고르기 13 김경승(休) - 아침인사, 건강체크 - 인지활동, 전통어울림 14 - 정솔(출근) -한방진료(김정규원장) 15 - 아침인사, 건강체크 - 계절구분 - 생활체육, 인지활동 - 노래교실, 풍선배구 16«이/미용서비스» - 아침인사, 건강체크 - 계절구분 - 풍선공예, 구슬꿰기 - 요가, 웃음치료 17 - 아침인사, 건강체크 - 계절구분 - 종이공예, 도미노 - 미술치료, 윷놀이 18 - 아침인사, 건강체크 - 계절구분 - 생활체육, 만다라 - 음악치료, 낱말인지 19 - 아침인사, 건강/당뇨체크 - 계절구분 - 건강체조, 다도교실 - 숲체험, 콩고르기 20 박선미(休) - 아침인사, 건강체크 - 인지활동, 전통어울림 21 - 임장혁(출근) -한방진료            ",
+},{
+    "id": "489",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_209",
+    "title": "12월_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-GNCKYJmCyp 10-6xLqnJKwW2 11-clak79YYRo 12-CDvZyImYD3 2-ghSIMdWlxP 3-9IKrFMr6h2 4-rAYQWw3dMf 5-_kR5nbU1QU 6-E9TS5hW4GE 7-bsYUQBIPQs 8-pSWapd4QZK 9-9YmHMMEfjb 12월에는 발맛사지, 음악치료, 종이공예, 구슬꿰기, 생신잔치, 이·미용서비스, 웃음치료, 풍선공예 등 여러가지 다양한 프로그램을 주간보호 어르신들께서 즐겁게 참여하셨습니다.",
+},{
+    "id": "490",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_208",
+    "title": "1월_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-Pcprs6wEBD 10-aol7nsCflc 11-_DBEBACTfJ 12-LLLmG1HZEm 2-ElS6bHg9BT 3-jQReyU3J8N 4-cAfqRsn95e 5-puXn7kYIzB 6-qtnQ33fD8v 7-yXHpw42a8u 8-8yJ7y1e2CP 9-M6TMyDNNJw 1월에는 건강체조, 다도교실, 만다라, 윷놀이, 발맛사지, 요가, 생신잔치 등의 다양한 프로그램을 어르신들께서 참여해주시며 새해를 즐겁게 맞이하셨습니다.",
+},{
+    "id": "491",
+    "url": "/resource_room/notices-dosolnoin/life67",
+    "title": "도솔노인복지센터 15년 1월 프로그램 계획 및 식단표",
+    "content":"주간보호센터 1월 프로그램 진행 계획표 «2015.01.01. ~ 01.31» –도솔노인복지센터– 일 월 화 수 목 금 토         1 신정(센터휴관) 2 - 아침인사, 건강체크 - 계절구분 - 건강체조, 다도교실 - 숲체험, 고리던지기 3 김경승(休) - 아침인사, 건강체크 - 인지활동, 전통어울림 4 박선미(출근) - 한방진료(임현경원장) 5 - 아침인사, 건강체크 - 계절구분 - 생활체육, 인지활동 - 노래교실, 구슬꿰기 6 - 아침인사, 건강체크 - 계절구분 - 만다라, 풍선공예 - 요가, 웃음치료 7 - 아침인사, 건강체크 - 계절구분 - 종이공예, 콩고르기 - 미술치료, 풍선배구 8 - 아침인사, 건강체크 - 계절구분 - 낱말인지, 도미노 - 만들기, 콩고르기 9«명세서안내문문자발송» - 아침인사, 건강/당뇨체크 - 계절구분 - 건강체조, 다도교실 - 음악치료, 윷놀이 10 임장혁(休) - 아침인사, 건강체크 - 인지활동, 전통어울림 11 - 최은희(출근) -한방진료(오재근원장) 12 - 아침인사, 건강체크 - 계절구분 - 인지활동, 구슬꿰기 - 노래교실, 생신잔치 13 - 아침인사, 건강체크 - 계절구분 - 만다라, 풍선공예 - 요가, 웃음치료 14 - 아침인사, 건강체크 - 계절구분 - 생활체육, 종이공예 - 미술치료, 풍선배구 15 - 아침인사, 건강체크 - 계절구분 - 낱말인지, 도미노 - 요리교실 16 - 아침인사, 건강/당뇨체크 - 계절구분 - 건강체조, 다도교실 - 음악치료, 윷놀이 17 박선미(休) - 아침인사, 건강체크 - 인지활동, 전통어울림 18 - 이정혁(출근) -한방진료(이혜진원장) 19 - 아침인사, 건강체크 - 계절구분 - 인지활동, 구슬꿰기 - 노래교실, 건강체조 20 - 아침인사, 건강체크 - 계절구분 - 만다라, 도미노 - 요가, 웃음치료 21 - 아침인사, 건강체크 - 계절구분 - 생활체육, 종이공예 - 미술치료, 풍선배구 22 - 아침인사, 건강체크 - 계절구분    ",
+},{
+    "id": "492",
+    "url": "/resource_room/notices-dosolnoin/life68",
+    "title": "도솔노인복지센터 15년 2월 프로그램 계획 및 식단표",
+    "content":"주간보호센터 2월 프로그램 진행 계획표 «2015.02.02. ~ 02.28» –도솔노인복지센터– 일 월 화 수 목 금 토 1 이혜원(출근) - 한방진료(김남규원장) 2 - 아침인사, 건강체크 - 계절구분 - 건강체조, 구슬꿰기 - 노래교실, 생신잔치 3 - 아침인사, 건강체크 - 계절구분 - 인지활동, 만다라 - 요가, 웃음치료 4 - 아침인사, 건강체크 - 계절구분 - 생활체육, 종이공예 - 미술치료, 풍선배구 5 - 아침인사, 건강체크 - 계절구분 - 풍선공예 - 만들기, 콩고르기 6 - 아침인사, 건강/당뇨체크 - 계절구분 - 줄스트레칭, 다도교실 - 음악치료, 윷놀이 7 김경승/김솔(休) - 아침인사, 건강체크 - 인지활동, 전통어울림 -숲체험만들기 8 김경승(출근) - 한방진료(김정규원장) 9 - 아침인사, 건강체크 - 계절구분 - 건강체조, 다도교실 - 노래교실, 낱말인지 10 - 아침인사, 건강체크 - 계절구분 - 인지활동, 만다라 - 요가, 웃음치료 11 - 아침인사, 건강체크 - 계절구분 - 생활체육, 종이공예 - 미술치료, 풍선배구 12 - 아침인사 및 건강보건교육 - 건강체크, 계절구분 - 콩고르기, 풍선공예 - 요리교실(소고기유부초밥) 13 - 아침인사, 건강/당뇨체크 - 계절구분 - 줄스트레칭, 구슬꿰기 - 음악치료, 윷놀이 14 임장혁/이혜원/최은희(休) - 아침인사, 건강체크 - 인지활동, 전통어울림 -숲체험만들기 15 박선미(출근) - 한방진료(김용찬원장) 16 - 아침인사 및 건강보건교육 -건강체크, 계절구분 - 건강체조, 다도교실 - 노래교실, 낱말인지 17«이/미용서비스» - 아침인사 및 건강보건교육 - 건강체크, 계절구분 - 인지활동, 만다라 - 요가, 웃음치료 18 센터휴관 19 설날 센터휴관 20 센터휴관 21 센터휴관 22 23 - 아침인사 및 건강보건교육 - 건강체크, 계절구분 - 건강체조, 다도교실 - 노래교실, 낱말인지 24        ",
+},{
+    "id": "493",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_207",
+    "title": "2월_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-PPX4VUpEY4 10-sSRu8Vv4uA 11-B35cQ5nH4b 12-4_ExAoYz4c 2-j8faUos1Nh 3-4_373ju3eZ 4-bxlpdcrkmY 5-Edc8FiDgLJ 6-4_HNhtmURT 7-BK31NNgIKJ 8-dYJaTTdA3r 9-CvqzwI18zx 2월에는 영화감상, 발맛사지, 생신잔치, 요리프로그램, 전통어울림 등의 다양한 프로그램을 어르신들께서 즐겁게 참여하셨습니다.",
+},{
+    "id": "494",
+    "url": "/resource_room/notices-dosolnoin/life69",
+    "title": "도솔노인복지센터 15년 3월 프로그램 계획 및 식단표",
+    "content":"주간보호센터 3월 프로그램 진행 계획표 «2015.03.02. ~ 03.31» –도솔노인복지센터– 일 월 화 수 목 금 토 1 (삼일절) 최은희(출근) - 한방진료(김남규원장) 2 - 아침인사 및 건강보건교육 - 건강체크, 계절구분 - 건강체조, 다도교실 - 노래교실, 생신잔치 3 - 아침인사 및 건강보건교육 - 건강체크, 계절구분 - 인지활동, 만다라 - 요가, 웃음치료 4 - 아침인사 및 건강보건교육 - 건강체크, 계절구분 - 생활체육, 종이공예 - 미술치료, 풍선배구 5 (정월대보름) - 아침인사 및 건강보건교육 - 건강체크 , 계절구분 - 콩고르기, 풍선공예 - 숲체험만들기, 도미노 6 - 아침인사, 건강/당뇨체크 - 계절구분 - 줄스트레칭, 구슬꿰기 - 음악치료, 윷놀이 7 이정혁(休) - 아침인사, 건강체크 - 인지활동, 전통어울림 8 이혜원(출근) - 한방진료(오재근원장) 9 - 아침인사 및 건강보건교육 - 건강체크, 계절구분 - 건강체조, 다도교실 - 노래교실, 낱말인지 10(명세서안내문문자발송) - 아침인사 및 건강보건교육 - 건강체크, 계절구분 - 종이공예, 만다라 - 요가, 웃음치료 11 - 아침인사 및 건강보건교육 - 건강체크, 계절구분 - 생활체육, 인지활동 - 요리교실(샌드위치) 12 - 아침인사 및 건강보건교육 - 건강체크 , 계절구분 - 콩고르기, 풍선공예 - 숲체험만들기, 도미노 13 - 아침인사, 건강/당뇨체크 - 계절구분 - 줄스트레칭, 구슬꿰기 - 음악치료, 윷놀이 14 임장혁(休) - 아침인사, 건강체크 - 전통어울림 15 이정혁(출근) - 한방진료(윤성식원장) 16 - 아침인사 및 건강보건교육 -건강체크, 계절구분 - 건강체조, 다도교실 - 노래교실, 낱말인지 17«이/미용서비스» - 아침인사 및 건강보건교육 - 건강체크, 계절구분 - 종이공예, 만다라 - 요가, 웃음치료 18 - 아침인사 및 건강보건교육 - 건강체크, 계절구분 - 생활체육, 인지활동 - 미술치료, 풍선배구 19 - 아침인사 및 건강보건교육 - 건강체크 , 계절구분 - 콩고르기, 풍선공예 - 숲체험만들기, 도미노 20 - 아침인사, 건강/당뇨체크 - 계절구분 - 줄스트레칭, 구슬꿰기 - 음악치료, 윷놀이 21 박선미",
+},{
+    "id": "495",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_206",
+    "title": "3월_1주_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-KRHZLlbIvd 10-oZcJtAKx3r 11-dKtfMkzhua 12-4k2ftz66J7 2-O7mc3PvHWy 3-fHfcwOrRAc 4-bjOGxOwKGj 5-MyEdcfTEPw 6-DGKA9j8fz1 7-bjQlulgh67 8-QcNgQGFUzB 9-TfhgRLo1LP 3월 1주에는 노래교실, 생신잔치, 요가, 생활체육, 웃음치료 등 활기차고 즐거운 다양한 프로그램을 주간보호 어르신들께서 참여하셨습니다.",
+},{
+    "id": "496",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_205",
+    "title": "3월_2주_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-pRzSuTiE3v 10-654ekwhPvC 2-hyiHyTO87R 3-V5DkSnJShj 4-E3RW69XOLj 5-rW1YwtjA2N 6-MPNNE1Cnm3 7-FW5xLztLpt 8-T1NSbHkhYH 9-RYy1Mf8SsT 3월 2주에는 전통어울림, 건강체조, 공고르기, 요가, 다도교실 등의 다양한 프로그램을 어르신들께서 즐겁게 참여하셨습니다.",
+},{
+    "id": "497",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_204",
+    "title": "3월_3주_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-1yj1x585OM 2-B7d5jfUsBU 3-r7WWDPhNFU 4-yoZJfoShAL 5-GRVFq2Grha 6-65zqbi54xo 7-XA4mbeiJRB 8-naN2qLGSHs 9-HQZZJ195IM 3월 3주에는 숲체험만들기, 풍선공예, 생활체육, 전통어울림, 웃음치료, 노래교실 등의 다양한 프로그램을 어르신들께서 즐겁게 참여하셨습니다.",
+},{
+    "id": "498",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_203",
+    "title": "3월_4주_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-dVrj7THqGz 10-R18PkiMPJS 11-yaHZCCEaid 2-S9A4UpdTZY 3-XcDSqPSVUS 4-B1WSOJU8O1 5-dudn9CUnNw 6-4_ggNzOKan 7-JDvaxHASJu 8-UvZKpX756r 9-t9pxfNhDPB 3월 4주에는 풍선공예, 윷놀이, 음악치료, 영화감상, 손율동, 만다라 등의 다양한 프로그램을 어르신들께서 참여하셨습니다.",
+},{
+    "id": "499",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_202",
+    "title": "3월_5주_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-z7emos6CKO 10-Iei6uWHYNG 2-KFwZrVm2Lh 3-on6EE8rECz 4-19nmOdSx8B 5-9WosYSId9z 6-ndSzWszSPM 7-ycMc17onGJ 8-8QpNnByBY7 9-z1zzyTIVeW   3월 5주에는 봄을 맞이하여 어르신들과 함께 가까운 곳으로 외식을 다녀왔습니다. 노래 교실, 종이접기 등의 프로그램을 어르신들께서 즐겁게 참여하셨습니다.",
+},{
+    "id": "500",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_201",
+    "title": "4월_1주_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-LqGkNbj9NM 10-SzDrH1NsDe 2-pYteI6iXRY 3-4_Jz5rEuYg 4-vkSDnXWKiF 5-J9T8nrxFkL 6-tat4sTa9UP 7-UhCCVJDcY4 8-q1Gqv8VZDi 9-g99HIhQi5g 전통어울림, 손율동, 음악치료, 풍선공예시간에 만들었던 주사위로 주사위 던지기 등의 활동적이고 즐거운 프로그램들을 어르신들께서 참여하셨습니다.",
+},{
+    "id": "501",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_200",
+    "title": "4월_2주_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-6ogAfGXg36 10-515a3rpgjz 11-1g2ugsRWsP 12-GR9hBjTh6J 2-LSlTWg9a6I 3-GQkEiwB8qw 4-UH2M6yoX8K 5-3z4GIaebgE 6-wM7BrU98Vv 7-hsUTlGXNvR 8-lRWb6w7udF 9-944k5fDq9J 4월 2주에는 벚꽃이 만발한 동학사로 벚꽃나들이를 다녀왔습니다. 어르신들과 함께 맛있는 설렁탕도 먹고 예쁜 벚꽃도 구경하는 즐거운 하루였습니다. 또 날씨 좋은 날 어르신들과 함께 센터 근처의 놀이터로 산책을 다녀왔습니다. 다양한 프로그램을 어르신들이 즐겁게 참여하시며 4월 2주도 즐거운 한주였습니다.  ",
+},{
+    "id": "502",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_199",
+    "title": "4월_3주_주간보호_어르신_프로그램_활동사진입니다",
+    "content":"1-4_bOn81P3P 2-8tsBHjw7CE 3-FoCQAmTjt2 4-_OWj3h4Ib7 5-s2AhHhN3cV 6-RvBc96OZpS 7-fhczVLKVyC 8-jAF71sJ1EW 9-AOV8sQWq2l 4월 3주에는 요가, 다도교실, 손율동, 도미노, 윷놀이 등 다양한 프로그램을 어르신들께서 즐겁게 참여해주셨습니다.",
+},{
+    "id": "503",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_198",
+    "title": "4월_4주_주간보호_어르신들의_프로그램_활동_사진입니다",
+    "content":"1-OeINVjshPn 2-hCk3UScnS4 3-ItYRyzNhkt 4-HuzsR2sq9X 미술치료,생활체육, 만들기, 풍선공예시간에 만들었던 주사위로 주사위 던지기 등의                                    활동적이고 즐거운 프로그램들을 어르신들께서 참여하셨습니다.",
+},{
+    "id": "504",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_197",
+    "title": "4월_5주_주간보호_어르신들의_프로그램_활동_사진입니다",
+    "content":"1-OeINVjshPn 2-hCk3UScnS4 3-ItYRyzNhkt 4-HuzsR2sq9X 미술치료,생활체육, 만들기, 풍선공예시간에 만들었던 주사위로 주사위 던지기 등의                                    활동적이고 즐거운 프로그램들을 어르신들께서 참여하셨습니다.",
+},{
+    "id": "505",
+    "url": "/resource_room/notices-dosolnoin/life70",
+    "title": "도솔노인복지센터 15년 4월 프로그램 계획 및 식단표",
+    "content":"주간보호센터 4월 프로그램 진행 계획표 «2015.04.01. ~ 04.30» –도솔노인복지센터– 일 월 화 수 목 금 토       1 - 아침인사 및 건강보건교육 - 건강체크, 계절구분 - 생활체육, 인지활동 - 만들기, 콩고르기 2 - 아침인사 및 건강보건교육 - 건강체크, 계절구분 - 미술치료, 풍선공예 - 숲체험만들기, 도미노 3 - 아침인사 및 건강보건교육 - 건강체크, 계절구분 - 손레크레이션, 구슬꿰기 - 음악치료, 윷놀이 4 이혜원(休) - 아침인사, 건강체크 - 전통어울림 5 (식목일) 김경승(출근) - 한방진료(김남규원장) 6 - 아침인사 및 건강보건교육 - 건강/당뇨체크, 계절구분 - 손레크레이션, 다도교실 - 노래교실, 낱말인지 7 - 아침인사 및 건강보건교육 - 건강체크, 계절구분 - 종이공예, 만다라 - 요가, 웃음치료 8 - 아침인사 및 건강보건교육 - 건강체크, 계절구분 - 생활체육, 인지활동 - 요리교실(송편) 9 - 아침인사 및 건강보건교육 - 건강체크, 계절구분 - 미술치료, 풍선공예 - 숲체험만들기, 도미노 10 (명세서안내문문자발송) - 아침인사 및 건강보건교육 - 건강체크, 계절구분 - 손레크레이션, 구슬꿰기 - 음악치료, 윷놀이 11 임장혁(休) - 아침인사, 건강체크 - 전통어울림 12 이정혁(출근) - 한방진료(계강윤원장) 13 - 아침인사 및 건강보건교육 - 건강/당뇨체크, 계절구분 - 손레크레이션, 다도교실 - 노래교실, 생신잔치 14«이/미용서비스» - 아침인사 및 건강보건교육 - 건강체크, 계절구분 - 종이공예, 만다라 - 요가, 웃음치료 15 - 아침인사 및 건강보건교육 - 건강체크, 계절구분 - 생활체육, 인지활동 - 만들기, 콩고르기 16 - 아침인사 및 건강보건교육 - 건강체크, 계절구분 - 미술치료, 풍선공예 - 숲체험만들기, 도미노 17 - 아침인사 및 건강보건교육 - 건강체크, 계절구분 - 손레크레이션, 구슬꿰기 - 음악치료, 윷놀이 21 박선미/김경승(休)-아침인사, 건강체크 - 전통어울림 19 이혜원(출근) - 한방진료(김용찬원장) 20 - 아침인사 및 건강보건교육 - 건강/당뇨체크, 계절구분 - 손레크레이션, 다도교실 - 노래교실, 낱말인지 21 - 아침인사 및 건강보건교육 - 건강체크, 계절구분 - 종이공예, 만다라        ",
+},{
+    "id": "506",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_196",
+    "title": "5월_2주_주간보호_어르신들의_프로그램_활동_사진입니다",
+    "content":"1-ZyJ3NMOTGc 2-4_9Hi4UY77 3-f1E83UzLE4 4-OlFTyNiah5 5-Xhwd2weDE4 6-_rOYA7Rjte 7-usE6PfDaLg 8-tk8bXtyD5B 9-_dHpyM4UWL 손율동, 미술치료, 숲체험, 풍선공예, 생활체육, 요리교실등 다양한 프로그램을 실시하였고 어버이날을 맞이하여 민요 프로그램으로 어르신들의 즐거운 일상이 될 수 있도록 하여 즐거운 한 주가 되셨습니다.",
+},{
+    "id": "507",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_195",
+    "title": "5월_3주_주간보호_어르신들의_프로그램_활동_사진입니다",
+    "content":"1-_iSaqiCs2l 10-3jFxUYz5Wk 11-tif8w7C1TP 12-_wZaWp8Q6p 13-6RWcLOnTXl 2-iaCUAoxj5y 3-1m1KBOnk4M 4-VjGVRkeV7E 5-_ufdxiUGXM 6-kLZYJZ82ZK 7-CUGLGS1JiX 8-fuHfm7jGGb 9-eMTOQnyLCE       손율동, 웃음치료, 콩고르기, 도미노, 풍선공예, 민요등 다양한 프로그램을 실시 하였고  5월 생신 맞으신어르신의 생신잔치도 있었고 제일고에서 봉사 온 학생들과 동네 놀이터로 즐거운 산책을 다녀오셨습니다.",
+},{
+    "id": "508",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_194",
+    "title": "5월_4주_주간보호_어르신들의프로그램_활동_사진_입니다.",
+    "content":"1-8513QVsFE2 2-Vu6tY1Qrhd 3-A4uGnLbdSg 4-aaK4fsTTGf 5-_PV4Moaij1 6-sLduBVSCle 7-mgcYXyjGeZ 8-Z4ViGBFFLv 9-U7VHrev6ZU 5월 4주 도솔 노인 복지 센터 에서는 이, 미용 서비스 및 다도, 손레크레이션, 숲체험 만들기, 구슬꿰기등의 다양한 프로그램을 어르신들 모두 즐겁게 참여 하였습니다.",
+},{
+    "id": "509",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_193",
+    "title": "5월_5주_주간보호_어르신들의_프로그램_활동_사진_입니다.",
+    "content":"1-9EXI6iR5Yq 10-jpycznTf8p 2-7GNDxPgFKV 3-jljS8WeUXR 4-nI55RDjUGI 5-lGWphmBlcx 6-p6WtYQubWQ 7-TNIxC6lJM7 8-fiAT8KJsfi 9-bzJ4ua5dMF 5월 5주 주간보호 어르신들께서 손율동, 민요, 풍선공예, 인지활동, 웃음치료, 콩고르기, 도미노등의 다양한 프로그램을 적극적으로 참여 해 주셨습니다.",
+},{
+    "id": "510",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_192",
+    "title": "6월_1주_주간보호_어르신들의_프로그램_활동_사진_입니다.",
+    "content":"1-WaVezeMjNz 10-gTKqNOy4W8 2-Ox4sb1tE3C 3-Rq1EBgSuwX 4-q7TA9kxHUT 5-SZt6SnmHdp 6-n6bEqWxpbb 7-U9Jt1qIL9T 8-2yvcYW1uuT 9-WeHiBEEBXz 6월 1주에는 6월 생신을 맞으신 어르신의 생신 축하 잔치도 있었고 윷놀이, 만다라, 손율동, 가사쓰기, 민요, 미술활동, 풍선공예등의 많은 프로그램으로 즐거운 한 주가 되셨습니다.",
+},{
+    "id": "511",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_191",
+    "title": "6월_2주_주간보호_어르신들의_프로그램_활동_사진_입니다.",
+    "content":"1-sV33COnbHm 10-DQiZRSgytI 11-X7B4Sc1NDt 12-_dO2gEWbno 2-4yJJ3qWUO3 3-_ZHxoXdINx 4-hY4d8bYwdm 5-NjOHbuwfDx 6-o3pGRjmkdc 7-w8b9C3u6kZ 8-zMOcjcFlXi 9-7IcPEuBEjE 6월 2주 주간보호 어르신들께서는 노래교실, 민요, 풍선공예, 요가, 윷놀이, 구슬꿰기등의 다양한 프로그램으로 즐거운 한 주를 보내셨습니다.",
+},{
+    "id": "512",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_190",
+    "title": "6월3주_주간보호_어르신들의_프로그램_활동_사진입니다.",
+    "content":"1-oSsH5ZaogP 10-3pKszkK8sv 2-4_ClgTh4sZ 3-fdMKQqNqwm 4-yaEvogoUWd 5-jvWbLbj7lX 6-cvGL8ZKueB 7-7wxHk8Iz2L 8-4_oHl2G3Cd 9-xsUnTGexhN 6월 3주 도솔 주간 보호 어르신들은 웃음치료, 손율동, 다도, 요가,  퓽선공예, 구슬꿰기, 콩고르기, 민요등의 다양한 프로그램을 실시 하였고  어르신들에게 이, 미용 서비스도 있는 즐거운 한 주가 되셨습니다.",
+},{
+    "id": "513",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_189",
+    "title": "6월_4주_주간보호_어르신들의_프로그램_활동_사진입니다.",
+    "content":"1-uuLJjZUs2k 10-8xDseZJPWC 2-znwRUNGyZA 3-mQ9awqE756 4-MvtHebYvoF 5-3H8cmEnxfO 6-KQeZxove7y 7-4_bg96yqrM 8-sznYca5cxo 9-p3hgYloCPM 노래교실,  다도,  손레크레이션,  민요,  풍선공예,  발맛사지,  도미노, 웃음치료, 요가등의 다양한 프로글램으로 즐겁고 활기찬 한 주를보내셨습니다.",
+},{
+    "id": "514",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_188",
+    "title": "7월_1주_주간보호_어르신들의_프로그램_활동_사진_입니다.",
+    "content":"1-Bd4rWyivIa 2-zKFhS7vhFG 3-CSxNHN8QYT 4-pXv9YzRNlK 5-yKD89pgOey 6-KQbjtyqby6 7-vRF3aLsfQr 8-Si5wlSbuXF 생활체육, 미술활동, 구슬꿰기, 요가, 윷놀이, 손레크레이션, 풍선공예, 풍선배구,  전통어울림등의 다양한 프로그램으로 어르신들 모두 즐거운 한 주가 되셨습니다.",
+},{
+    "id": "515",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_187",
+    "title": "7월_2주_주간보호_어르신들의_프로그램_활동_사진_입니다.",
+    "content":"1-4_1roTwJc4 10-WCO22Tevlu 2-TLLVibLBfL 3-gfrRPMVpcj 4-gOnRhu3WhX 5-OkF6fvLXBw 6-53MDgAIVY7 7-pLeDgyKqhM 8-GvxFzGm28N 9-mxn7TefztX 노래교실, 다도, 민요, 낱말꿰기, 투호던지기, 팔지만들기, 숲체험, 전통어울림, 퍼즐맞추기등의 다양한 프로그램으로 즐거운 한 주가 되셨습니다.",
+},{
+    "id": "516",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_186",
+    "title": "7월_3주_주간보호_어르신들의_프로그램_활동사진입니다.",
+    "content":"1-IWwhFwGFzk 2-BAFc6cy84u 3-kmGVtDAQBC 4-JIIVwFdvbg 다양한 프로그램에 참여 하여 즐거운 시간을 보내고 계십니다.",
+},{
+    "id": "517",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_185",
+    "title": "7월_4주_주간보호_어르신들의_프로그램_활동사진입니다.",
+    "content":"1-nGhSTPBVPT 2-BRdn8uNuih 3-nIUlffkhR3 4-z4owBdb14W 5-2ohv7sb6Do 어르신들이 참여 하여 즐거운 시간을 보내고 계십니다.",
+},{
+    "id": "518",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_184",
+    "title": "8월_1주_주간보호_어르신들의_프로그램_활동사진입니다.",
+    "content":"1-H1X3teojEJ 2-U6Tgi2mdAv 3-mm1dcbeWth 어르신들이 흥미를 가지고 즐거운 시간을 보내고 계십니다.",
+},{
+    "id": "519",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_183",
+    "title": "8월2주_주간보호_어르신들의_프로그램_활동사진입니다.",
+    "content":"1-k56LvCQTnw 2-fzzCz2nBIm 어르신들과 즐거운 시간을 보내기 위해 노력하고 있습니다.",
+},{
+    "id": "520",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_182",
+    "title": "8월_3주_주간보호_어르신들의_프로그램_활동사진입니다.",
+    "content":"1-oJeimqEkx8 2-pUXjwKM5kx 3-C36zRbaFos 4-1jTUCWxfAG 5-f4ypP4azAQ 다양한 프로그램 준비하여 어르신들과 즐거운 시간을 보내고 있습니다.",
+},{
+    "id": "521",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_181",
+    "title": "8월_4주_주간보호_어르신들의_프로그램_활동사진입니다.",
+    "content":"1-RB6UxkfMKq 2-1Ag1JvfPh2 3-6stRB7i3pY 유성문화원에서 어르신들에게 다양한 공연을 보여드렸습니다.",
+},{
+    "id": "522",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_180",
+    "title": "9월_1주_주간보호_어르신들의_프로그램_활동사진입니다.",
+    "content":"1-EfCVSFZo1T 2-iKHSqjUAXl 3-4_3huytGbG 행복한 하루하루를 보내실수 있도록 최선을 다하겠습니다.",
+},{
+    "id": "523",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_179",
+    "title": "9월_2주_주간보호_어르신들의_프로그램_활동_사진입니다.",
+    "content":"1-BTDhaiMkK8 2-4_QDYSs2pL 3-klCwoaXQ98 4-_uvepoMxcL 어르신들이 행복한 하루하루를 보내고 계십니다.",
+},{
+    "id": "524",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_178",
+    "title": "9월_3주_주간_보호_어르신들의_프로그램_활동_사진입니다.",
+    "content":"1-inzIfbLQFT 2-mF3kzkCSsB 3-Rtz1DJobU6 4-qVOHkVFMca 5-vDp2ein9bt 6-MdkZVTbCCt 7-Ip4fJY3pJ8 8-vO7mpGbl7W 9-4_ZFdWfkYo 노래교실, 다도, 풍선배구, 민요, 웃음치료, 퍼즐 맞추기, 생활체육, 풍선공예, 숲체험, 미술활동, 윷놀이등의 다양한 프로그램으로 즐거운 한 주를 보내셨습니다.",
+},{
+    "id": "525",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_177",
+    "title": "9월_4주_주간보호_어르신들의_프로그램_활동_사진_입니다.",
+    "content":"1-vQcEuBtsfz 10-FbQEmyRbU7 11-4_LNjxggVN 2-DXaqyAYVTb 3-1Zf1AwTfxB 4-n6STCEvSBi 5-eDwAlgaNu2 6-tsmHtzLRwG 7-MYjZF91aEZ 8-vbPh8z4qvz 9-68lwm6jRxL 노래교실, 맷돌체조, 웃음치료, 만다라, 인지활동, 풍선공예, 낱말인지, 구슬꿰기, 요가등의 다양한 프로그램과 추석 명절을 맞아 송편도 빚어 보았고 계룡시에 있는 괴목정으로 나들이도 다녀 오셨습니다.",
+},{
+    "id": "526",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_176",
+    "title": "10월_1주_주간보호_어르신들의_프로그램_활동_사진_입니다.",
+    "content":"1-RFNBOr1FZA 10-wFihHyFgIq 11-aebWi266Ps 12-5TvWN1aPHu 2-GhZqBHpjhW 3-8BKQjIoEQ8 4-CiSHHeO3lx 5-myKd2tdLMq 6-XOkMTcGL4C 7-jap44Jjtdj 8-ebolH7VBLH 9-jsDLPQNZc3 10월 생신 맞으신 어르신들의 생신잔치도 있었고 다도, 맷돌 체조, 민요, 숲체험 등의 다양한 프로그램과 동네 놀이터로 산책도 다녀오셨고 어르신들에게 대전광역 치매센터에서 오셔서 어르신들에게 치매 예방 교육도 실시 하셨습니다.",
+},{
+    "id": "527",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_175",
+    "title": "10월_2주_주간보호_어르신들의_프로그램_활동_사진_입니다.",
+    "content":"1-kU5WjjHfP5 10-bXgRzLzPYG 11-TQhPNqvd1O 12-Ra5kODnxis 2-TowZayl8XY 3-vTdrVojoiX 4-e57TPRQvIt 5-WcO4KUviiE 6-EENzg4BdH3 7-r3ontgbh3T 8-WmOiGUGFx6 9-UcvfNqUCTh 노래교실, 맷돌체조, 숲체험, 윷놀이, 산책, 영화상영 등의 다양한 프로그램으로 어르신들께서 즐거운 한 주를 보내셨습니다.",
+},{
+    "id": "528",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_174",
+    "title": "10월_3주_주간보호_어르신들의_프로그램_활동_사진_입니다.",
+    "content":"1-BttKnvTyoU 2-y4NS335suV 3-PbmKZpRjuW 4-fzMXNkNLrP 5-XBSAn2r82k 6-35nKbnBbV6 7-IADJ37x1Am 8-9ZOMQq3rbk 9-gdRSXYPpRg 민요, 맷돌체조, 요가, 구슬꿰기, 산책 등의 다양한 프로그램으로 즐거운 한주를 보내셨습니다.미",
+},{
+    "id": "529",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_173",
+    "title": "10월_4주_주간보호_어르신들의_프로그램_사진_입니다.",
+    "content":"1-_QKCIgt1Iw 10-FQNDHDWxdU 11-v3nBwLYN3M 12-KnGc538RlQ 2-VbDRJJYCGK 3-N4uOQuz2uK 4-VOY8vwzJu7 5-IB3Vl5IAzm 6-FHygur5b9y 7-fxLGvhRgzu 8-9tMKY9DFwR 9-J787bL3Sds 맷돌 체조, 낱말인지, 풍선공예, 인지활동, 구슬꿰기, 만다라 등의 다양한 프로그램과 요리 프로그램으로 김밥 만들기를 실시 하여 어르신들 모두 맛있게 드셨습니다.",
+},{
+    "id": "530",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_172",
+    "title": "11월_1주_주간보호_어르신들의_프로그램_활동_사진_입니다.",
+    "content":"1-_UEMzyG4Cw 10-hb8NeFZuHe 2-pTf8KT9Vpz 3-CyxGqTPcUO 4-3YBNm5P5xq 5-DmGN9kxj4a 6-4_NVpL37B2 7-bdCatruQh8 8-48P6U9XSMC 9-vXrZzWckLN 11월 1주에는 노래교실, 웃음치료, 민요, 숨은그림찾기, 인지활동, 풍선공예, 요가등의 다양한 프로그램과 11월 생신 맞으신 어르신들의 생신잔치 및 가을의 끝자락에 가을 단풍 나들이를 대청댐 로하스 공원으로 가서 맛있는 갈비탕도 드시며 즐거운 시간을 보내셨습니다.",
+},{
+    "id": "531",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_171",
+    "title": "11월_2주_주간보호_어르신들의_프로그램_활동_사진_입니다.",
+    "content":"1-HFHHg3cRev 10-1ciikMjiCs 2-OHsh6ymgNl 3-DBEBM2lAPY 4-s6vCJkkkwz 5-EV2lwEo9DJ 6-C6ZXvwMFNo 7-HOi8i3fuRg 8-2zFylCgsqI 9-_DMk6TicVD 11월 2주에는 노래교실, 다도, 맷돌체조, 미술활동, 웃음치료, 생활체육, 풍선공예, 봉사학생들의 발맛사지 등과 요리교실 시간에 맛있는 떡볶이도 만들어 드시며 즐거운 한 주를 보내셨습니다.",
+},{
+    "id": "532",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_170",
+    "title": "11월_3주_주간보호_어르신들의_프로그램_활동_사진_입니다.",
+    "content":"1-9GsTklRvLi 2-xKAZlgtvE2 3-5lFZe8YeIp 4-MPKLeaUdts 5-PlwbsMacZS 6-WnEewMVubf 7-4jjytZWr7U 8-SFQ5S2821j 9-yZI4CgwdeT 11월 3주에는 노래교실, 점선잇기, 풍선배구, 도미노, 숨은그림찾기, 인지활동, 풍선공예, 영화상영, 구슬꿰기, 낱말인지, 영화상영등의 다양한 프로그램과 어르신들에게 이,미용 서비스 및 소방교육등을 실시하였습니다.",
+},{
+    "id": "533",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_169",
+    "title": "11월_4주_주간보호_어르신들의_프로그램_활동_사진_입니다.",
+    "content":"1-2adTjGBwsR 2-tq7MPlpXft 3-ftPVLkkRN6 4-l9oJXNBnlA 5-BUAUgB3Pak 6-SBb1vTPpxk 7-5ftqtu7GFu 8-EmvTt8QI22 9-fPeWLONhRI 11월 4주에는 노래교실, 맷돌체조, 미술활동, 윷놀이, 생활체육, 웃음치료, 요가등의 다양한 프로그램으로 즐거운 한 주를 보내셨습니다.",
+},{
+    "id": "534",
+    "url": "/resource_room/religious-life/ceremony_11",
+    "title": "2015년 도솔산 화암사 연탄나누기 봉사활동",
+    "content":"1-dzTijqwrVY 2-4_DONH8C6Z",
+},{
+    "id": "535",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_168",
+    "title": "12월_1주_주간보호_어르신들의_프로그램_활동_사진_입니다.",
+    "content":"1-fWKJMzrugt 2-tpzVAtN8oF 3-SXt1kuIpLc 4-DEP1zRDvp2 5-af85AHvlsy 6-qXcpTg4x4h 7-Qa52wyt5a1 8-LNHJbQUDEi 12월 1주에는 민요, 웃음치료, 생활체육, 인지활동, 도미노, 미술활동, 콩고르기, 맷돌체조, 요가등의 다양한 프로그램으로 즐거운 한 주를 보내셨습니다.",
+},{
+    "id": "536",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_167",
+    "title": "12월_2주_주간보호_어르신들의_프로그램_활동_사진입니다.",
+    "content":"1-Nze9Iy6ju4 10-msGL5VCt5v 11-C5ZPmmHZFQ 12-rg91zKm2JT 2-CtVMwrZBFH 3-ZnVfym7pNL 4-FaiMFTxXhb 5-sat8oJ1zDp 6-U21ysTpX17 7-Pevch7wtjP 8-XGxduK6Bwx 9-59JFRQVzX7 12월 2주에는 노래교실, 다도, 민요, 숨은그림찾기, 생활체육, 미술활동, 요리교실등의 다양한 프로그램과 12월 생신 맞으신 어르신들의 생신잔치도 있었습니다.",
+},{
+    "id": "537",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_166",
+    "title": "12월_3주_주간보호_어르신들의_프로그램_활동_사진입니다.",
+    "content":"1-OVkngbvpCu 10-bxSWMxnyVJ 11-G8tQes5JWq 2-tw7Ii2ofXV 3-aia7RUcZN3 4-_tf7TKzbFN 5-ztkn5V2BRi 6-MUNDt7aZc1 7-6_KUhaeOZH 8-UOVyXCZp9T 9-jztlXgUTIY 12월 3주에는 노래교실, 컵쌓기, 풍선배구, 민요, 웃음치료, 건강체조, 인지활동, 풍선공예, 도미노, 미술활동, 윷놀이, 구슬꿰기, 낱말인지, 맷돌체조, 요가등의 다양한 프로그램으로 즐겁고 행복한 한 주를 보내셨습니다.",
+},{
+    "id": "538",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_165",
+    "title": "12월_4주_주간보호_어르신들의_프로그램_활동_사진_입니다.",
+    "content":"1-TSYAKnkIpf 2-JhBk52vwuh 3-P6xF5Gm4cz 4-YwmaM1XE8L 5-YMgzmBeSYZ 6-G5GZOGMDeC 7-3AFSbIPsYt 8-RBMXBM9Uiu 9-C17ZaOSkbp 12월 4주에는 노래교실, 오재미, 풍선배구, 민요, 웃음치료, 만다라, 풍선공예, 맷돌체조, 영화감상, 콩고르기등의 다양한 프로그램으로 즐겁고 행복한 한 주를 보내셨습니다.",
+},{
+    "id": "539",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_164",
+    "title": "2016년_1월_1주차_주간보호_어르신_활동_사진",
+    "content":"1-VRsXlllsiK 2-YtHHbMb23b 3-Ig2Bbox9Z8 4-IlFSlLq3ch 5-wqQjP637lW 구슬꿰기 전통민요수업 단어인지활동 도미노 게임 콩고르기 16년 새해가 밝았습니다. 올해도 어르신들 모두 건강하고 즐거운 시간을 보내실 수 있도록 진심을 다 하겠습니다.",
+},{
+    "id": "540",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_163",
+    "title": "2016년_1월_2주차_주간보호_어르신_활동_사진",
+    "content":"1-M1x6KdS4oi 2-O3Q8njR6R6 3-6nrFNfsc4Y 4-FboMx8LN6L 5-qekNEfaW1F 6-Ojg6DOifPL 1월 2주차 어르신들 활동 사진입니다. 다도 수업으로 마음을 진정시키고 체육활동을 통해 몸을 튼튼히 하여 심신의 건강을 균형있게 유지하실 수 있도록 노력합니다.",
+},{
+    "id": "541",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_162",
+    "title": "2016년_1월_3주차_주간보호_어르신_활동_사진",
+    "content":"1-JQqYxridK4 2-6Mv2czd9PQ 3-hzBZnycgEt 4-k2w4kjFMaB 이번 주에는 구슬꿰기, 맷돌체조, 생활체육, 인지활동과 이 밖에 다양한 프로그램으로 어르신들의 심신건강증진을 도모했습니다.",
+},{
+    "id": "542",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_161",
+    "title": "2016년_1월_4주차_주간보호_어르신_활동_사진",
+    "content":"1-trtTWhiZaB 2-qD4e6qtmyz 3-YIF7ZinJlP 4-O6UgoWXDGX 컵쌓기 멧돌체조 노래교실 전통어울림",
+},{
+    "id": "543",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_160",
+    "title": "2016년_2월_1주차_주간보호_어르신_활동_사진",
+    "content":"1-strM6A8SUB 2-4OoqFd5GJO 3-zPnBSikJjk 4-JtpPZVZBZy 콩고르기 오재미 숨은그림찾기 풍선공예",
+},{
+    "id": "544",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_159",
+    "title": "2016년_2월_2주차_주간보호_어르신_활동_사진",
+    "content":"1-bgfEskSQXA 2-9bHwZoaRvb 3-BueyzxKiKH 4-TWxCQb4Hna 손율동 실버요가 윷놀이 만다라",
+},{
+    "id": "545",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_158",
+    "title": "2016년_2월_3주차_주간보호_어르신_활동_사진",
+    "content":"1-L8eHmZw3HC 2-3ghS1yM61E 3-ITywUokfiA 4-NiDbBjwqtj 도미노 생신잔치 구슬꿰기 생활체육",
+},{
+    "id": "546",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_157",
+    "title": "2016년_2월_4주차_주간보호_어르신_활동_사진",
+    "content":"1-ALxSsarEzA 2-NBcLTSIXxD 3-RNeTb7dNzw 4-8bSL98Ze41 다도 퍼즐맞추기 이미용 생활체육",
+},{
+    "id": "547",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_156",
+    "title": "2016년_3월_1주차_주간보호_어르신_활동_사진",
+    "content":"1-z7FwhqxrAL 2-EwZLXrXvWD 3-QgMVx64KtZ 4-XgCzULMfkR 건강체조 인지활동 멧돌체조 노래교실",
+},{
+    "id": "548",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_155",
+    "title": "2016년_3월_2주차_주간보호_어르신_활동_사진",
+    "content":"1-n6SJZ9FO9p 2-L7zt1IhxWS 3-u5DXWCEzCT 4-Khb3l74gJc 낱말인지 다도 실버요가 오재미",
+},{
+    "id": "549",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_154",
+    "title": "2016년_3월_3주차_주간보호_어르신_활동_사진",
+    "content":"1-wHFWMfV1zx 2-APQnGJIDYu 3-qFwgRiqSWq 4-CzOswLEDdY 이미용 노래교실 만들기 완연히 찾아온 봄을 맞아 따뜻한 햇살을 만끽하러 어르신들과 함께 산책을 나왔습니다.",
+},{
+    "id": "550",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_153",
+    "title": "2016년_3월_4주차_주간보호_어르신_활동_사진",
+    "content":"1-4_UzsHEODC 2-HaiUcya3Co 3-KaJZJO5HDA 4-lSSqGsp1i8 5-npHsSD4p12 고리걸기 사천성 칠교놀이 백제군사박물관 화창하고 구름 한 점 없는 따사로운 3월의 봄날에 어르신들을 모시고 논산의 백제군사박물관에 나들이를 다녀왔습니다. 나들이에서 빼놓을 수 없는 것이 맛집 탐방이죠. 토종한방누룽지백숙과 매기매운탕으로 든든하게 배를 채웠습니다.",
+},{
+    "id": "551",
+    "url": "/resource_room/notices-hwaam/life20",
+    "title": "개원 10주년 기념 &#39;행복한 삶을 열어가는 마음치유 큰스님 초청 법회&#39;",
+    "content":"화암사/도솔노인복지센터 개원 10주년 기념 “행복한 삶을 열어가는 마음치유 큰스님 초청 법회” 일 시 : 4월 27일(수) - 혜국큰스님(충주 석종사 금봉선원장) 4월 28일(목) - 영진큰스님(백담사 무금선원 유나) 4월 29일(금) - 설정큰스님(덕승총림 수덕사 방장) 장 소 : 대전시청 강당 3층 시 간 : 오후 7시 30분(오후 7시~7시30분은 안현수 앙상블의 명상음악연주가 있어요)",
+},{
+    "id": "552",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_152",
+    "title": "2016년_4월_1주차_주간보호_어르신_활동_사진",
+    "content":"1-eRaK9Ut3CL 2-k4vMTjzfJq 3-Px7x7NgScS 4-yfQy6wx6Eh 오재미 탁구공놀이 윷놀이",
+},{
+    "id": "553",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_151",
+    "title": "2016년_4월_2주차_주간보호_어르신_활동_사진",
+    "content":"1-_6h5oJUoX3 2-TWeUZgKtGo 3-_lxtjlBAU8 4-KmtKgI8SKy 미술활동 실버요가 풍선공예 콩고르기",
+},{
+    "id": "554",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_150",
+    "title": "2016년_4월_3주차_주간보호_어르신_활동_사진",
+    "content":"1-MySMs8mGRj 2-q4Q6UKzUMR 3-b3nu5aK9ij 4-9Pcgdtzzsw 도림민요단 공연 생신잔치 실버요가 콩고르기",
+},{
+    "id": "555",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_149",
+    "title": "2016년_4월_4주차_주간보호_어르신_활동_사진",
+    "content":"1-GXWSwL6X6o 2-Ctil9glfKO 3-oYmD5ojvjn 4-e6pmfiAfja 윷놀이 미술활동 생활체육 손율동",
+},{
+    "id": "556",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_148",
+    "title": "2016년_5월_1주차_주간보호_어르신_활동_사진",
+    "content":"1-LIEPXgNXrk 2-mKnI6KYitF 3-7ZG8dI3pnx 4-LBKDpJanW2 실버요가 풍선공예 손재기 사천성",
+},{
+    "id": "557",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_147",
+    "title": "2016년_5월_2주차_주간보호_어르신_활동_사진",
+    "content":"1-2l23w2JfjL 2-cMhpP5cF73 3-OCVhDUO7g7 4-vcqvzhgO98 컵쌓기 한방진료 인지활동 윷놀이",
+},{
+    "id": "558",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_146",
+    "title": "2016년_5월_3주차_주간보호_어르신_활동_사진",
+    "content":"1-cpssCdcDf1 2-uwsVEwOWAi 3-V4OZ4a9EYC 4-VTtcvP5v9G 생활체육 손제기 풍선공예 컵쌓기",
+},{
+    "id": "559",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_145",
+    "title": "2016년_5월_4주차_주간보호_어르신_활동_사진",
+    "content":"1-gQxwBuAeOo 2-8BaW4oB4CJ 3-nDb3Wwps1p 4-eGG17o2u5L 이번 주에는 화창한 날씨에 어르신들을 모시고 대청댐 나들이를 다녀왔습니다. 신선한 공기와 쨍한 햇살을 맞으며 수려한 풍광을 누리자니 절로 기운이 샘솟는 듯 합니다.",
+},{
+    "id": "560",
+    "url": "/resource_room/religious-life/ceremony_12",
+    "title": "도솔산 화암사 10주년 기념 간화선 큰스님 초청법회",
+    "content":"1-mZ9rNRdugw 2-hDvNwQtVGd 3-9RZjl4RDaI 4-s3yPgfwJBh 5-Px5YoYSp7B 6-bcBxEoDAS9 7-eMHNEpezme 8-XRJOzBCF6b 9-4_eVR1pDkk",
+},{
+    "id": "561",
+    "url": "/resource_room/religious-life/ceremony_13",
+    "title": "2016년 제9회 도솔경로잔치",
+    "content":"1-4_Yumre84y 2-bHeUlWKp28 3-ukOq5YTuDC 4-DzymGsyAKE 5-n5s3BpJmzu 6-V5NUIqjMMN",
+},{
+    "id": "562",
+    "url": "/resource_room/religious-life/ceremony_14",
+    "title": "불기 2560년 부처님오신날",
+    "content":"1-pDY1AdM1TO 10-FDCXBid1r4 2-4_igzslxSI 3-r8Odyc7ZN1 4-tfA6C6kbAC 5-siuaJs1PXu 6-v9HlFToriS 7-NNzDBodsGn 8-4_N5PIacf3 9-KWPEJWgixM",
+},{
+    "id": "563",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_144",
+    "title": "2016년_6월_1주차_주간보호_어르신_활동_사진",
+    "content":"1-PhUZJGxoQW 2-HuEbjpbMI4 3-FCVXKto64l 4-4D7dFnGfOJ 인지활동 젠가 손제기 실버요가",
+},{
+    "id": "564",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_143",
+    "title": "2016년_6월_2주차_주간보호_어르신_활동_사진",
+    "content":"1-b7CqU96wKE 2-ISAB5ckirs 3-KYOdfJVT6I 4-Fi5L92suor 손율동 화재예방교육 전통어울림 생신잔치",
+},{
+    "id": "565",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_142",
+    "title": "2016년_6월_3주차_주간보호_어르신_활동_사진",
+    "content":"1-N6X5ozo1VN 2-IwE9ptWk2z 3-aXGXtIovEi 4-cdqU5EaIsU 컵쌓기 이미용 미술치료 사천성",
+},{
+    "id": "566",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_141",
+    "title": "2016년_6월_4주차_주간보호_어르신_활동_사진",
+    "content":"1-OWlKLKFpXE 2-IvLq5J1VRk 3-YZIL2k2odp 4-NKRvVxiOtb 건강교육 탁구공옮기기 낱말인지 풍선공예",
+},{
+    "id": "567",
+    "url": "/resource_room/notices-dosolnoin/life71",
+    "title": "2016년도 도솔노인복지센터 하계 사회복지사 실습생 모집 안내",
+    "content":"도솔노인복지센터 하계 실습생 모집 모집인원 : 5명 모집방법 : 선착순 접수 (1) 도솔노인복지센터 문의(전화: 528-1080) ⇒ (2) 학과 사무실 접수 및 신청, 도솔노인복지센터로 공문발송 ⇒ (3) 도솔노인복지센터 접수 ⇒ (4) 학과 및 학생에게 통보 실습기간 (1) 2016. 7. 4. ~ 7. 22. (3주간: 120시간) (2) 2016. 7. 4. ~ 7. 29. (4주간: 160시간) 실습기간 및 시간은 사전 조정 실습시간: 1일 8시간(주 5일) 실 습 비: 10만원(식비포함) 문의 (042) 528-1080",
+},{
+    "id": "568",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_140",
+    "title": "2016년_7월_1주차_주간보호_어르신_활동_사진",
+    "content":"1-v8rzXObjbC 2-evtvXZQaKj 3-TOi2pCwUE7 4-lv6lyQsNuR 다도 멧돌체조 전통어울림 생신잔치",
+},{
+    "id": "569",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_139",
+    "title": "2016년_7월_2주차_주간보호_어르신_활동_사진",
+    "content":"1-mtHSc4mygf 2-utsfrmkq5z 3-dvvehfkSNP 4-PAEteE8AM6 미술치료 풍선공예 노래교실 생활체육",
+},{
+    "id": "570",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_138",
+    "title": "2016년_7월_3주차_주간보호_어르신_활동_사진",
+    "content":"1-bfo5kstZ9d 2-_OrQOhgAw2 3-lr5TReXAl6 4-uTcQEsQnAt 인지활동 투호 손율동 컵쌓기",
+},{
+    "id": "571",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_137",
+    "title": "2016년_7월_4주차_주간보호_어르신_활동_사진",
+    "content":"1-43aGJXG5Oq 2-S5lnMwBDwv 3-jxLXC1OmjP 4-2VfKowoYxK 발마사지 발마사지 구슬꿰기 생활체육",
+},{
+    "id": "572",
+    "url": "/resource_room/religious-life/v4",
+    "title": "대전광역시 서구청 자원봉사",
+    "content":"20160721서구청-1 20160721서구청-2 20160721서구청-3 20160721서구청-4",
+},{
+    "id": "573",
+    "url": "/resource_room/religious-life/v5",
+    "title": "주간보호센터 자원봉사",
+    "content":"20160721주간보호-1 20160721주간보호-2 20160721주간보호-3 20160721주간보호-4",
+},{
+    "id": "574",
+    "url": "/resource_room/religious-life/v3",
+    "title": "한국조폐공사 봉사단 활동사진",
+    "content":"20160721서구청-1 20160721서구청-2 20160721서구청-3 20160721서구청-4 20160721주간보호-1 20160721주간보호-2 20160721주간보호-3 20160721주간보호-4 20160721-1 20160721-2 20160721-3",
+},{
+    "id": "575",
+    "url": "/resource_room/religious-life/v6",
+    "title": "둔산라이온스클럽",
+    "content":"20160725삼천원-1 20160725-1",
+},{
+    "id": "576",
+    "url": "/resource_room/religious-life/v7",
+    "title": "삼천원행복나눔",
+    "content":"20160725삼천원-1",
+},{
+    "id": "577",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_136",
+    "title": "2016년_8월_1주차_주간보호_어르신_활동_사진",
+    "content":"1-GpDidWNfVp 2-kfiLSEPZZ5 3-9Q3ygentv5 4-bICtfUt2qs 윷놀이 낱말인지 컵쌓기 미술치료",
+},{
+    "id": "578",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_135",
+    "title": "2016년_8월_2주차_주간보호_어르신_활동_사진",
+    "content":"1-uX1v1nO8En 2-4oW6i56nQD 3-Tp7S78RobS 4-W2AkbXolM2 낱말인지 다도 도미노 미술치료",
+},{
+    "id": "579",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_134",
+    "title": "2016년_8월_3주차_주간보호_어르신_활동_사진",
+    "content":"1-9R3V6ABSWU 2-vbJe4Rkzfk 3-OteQJfK8Ib 4-KQEuPi4ulx 고리던지기 칠교놀이 인지활동 퍼즐맞추기",
+},{
+    "id": "580",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_133",
+    "title": "2016년_8월_4주차_주간보호_어르신_활동_사진",
+    "content":"1-plAgQn167r 2-8uYnUQxWEG 3-HZzrVJ5PKK 4-6C4xYCVgey 전통어울림 고리던지기 콩고르기 노래교실",
+},{
+    "id": "581",
+    "url": "/resource_room/religious-life/v8",
+    "title": "도솔청소년문화의집",
+    "content":"2016년 7월 28일 청소년 여러분께서 어르신께 시원한 발마사지를 선사해드렸습니다. 20160809-1 20160809-2 20160809-3 20160809-4 20160809-5",
+},{
+    "id": "582",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_132",
+    "title": "2016년_9월_1주차_주간보호_어르신_활동_사진",
+    "content":"1-bgAjab2du5 2-flXjOlAziP 3-J4QraZolqw 4-0_vJzOh5dc 만다라 투호 맷돌체조 생신잔치",
+},{
+    "id": "583",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_131",
+    "title": "2016년_9월_2주차_주간보호_어르신_활동_사진",
+    "content":"1-P5nODIoO77 2-HuARsIPZ2R 3-r1kyUhqOza 4-WOx4TX2XX1 멧돌체조 전통어울림 오재미 인지활동",
+},{
+    "id": "584",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_130",
+    "title": "2016년_9월_3주차_주간보호_어르신_활동_사진",
+    "content":"1-BWS2PgHFS3 2-Mc6kaLH1dQ 3-hM13Y7nHRy 4-3TuUVUElxv 낱말인지 다도 미술치료 구슬꿰기",
+},{
+    "id": "585",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_129",
+    "title": "2016년_9월_4주차_주간보호_어르신_활동_사진",
+    "content":"1-8AVuCSV6RB 2-fWdUTx9vAa 3-RRAkSaI8da 4-vaQirKisBi 도미노 민요 생활체육 고리",
+},{
+    "id": "586",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_128",
+    "title": "2016년_10월_1주차_주간보호_어르신_활동_사진",
+    "content":"1-xHcDJc6CqC 2-waad1RQjy5 3-63TebS3zjf 전통어울림 노래교실 산책 윷놀이",
+},{
+    "id": "587",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_127",
+    "title": "2016년_10월_2주차_주간보호_어르신_활동_사진",
+    "content":"1-7h7bKgqUgv 2-4twzW87ZZJ 3-6JpzAHUYgr 4-DPklQdcc2F 민요공연 손율동 컵쌓기 탁구공옮기기",
+},{
+    "id": "588",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_126",
+    "title": "2016년_10월_3주차_주간보호_어르신_활동_사진",
+    "content":"1-Wlh7caUNML 2-yDxTwdH8FM 3-tteSWJ35rB 4-UQGEBDjAQ4 이미용 생신잔치 인지활동 소방교육",
+},{
+    "id": "589",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_125",
+    "title": "2016년_10월_4주차_주간보호_어르신_활동_사진",
+    "content":"1-N4SMvdqGms 2-aS7kTYNgBI 3-wxdrJDvk7L 4-Gbs5laXW26 이번 주에는 어르신들을 모시고 유림공원 국화꽃 축제 나들이를 다녀왔습니다.",
+},{
+    "id": "590",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_124",
+    "title": "2016년_11월_1주차_주간보호_어르신_활동_사진",
+    "content":"1-WDZbxOtYuU 2-637mrlT7ra 3-D5osKah7k5 4-EeYM2VMznt 만다라 큐브게임 볼링 구슬꿰기",
+},{
+    "id": "591",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_123",
+    "title": "2016년_11월_2주차_주간보호_어르신_활동_사진",
+    "content":"1-COMxuHK4Ff 2-gZwGNQbPyh 3-zmAzDQLQTy 4-5KNcFqvEQ5 도미노 민요 큐브게임 생활체육",
+},{
+    "id": "592",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_122",
+    "title": "2016년_11월_3주차_주간보호_어르신_활동_사진",
+    "content":"1-diti5OxEUh 2-mWk5xrYFnN 3-BtCaytNt5P 4-f788RKdA7m 생신잔치 멧돌체조 노래교실 컵쌓기",
+},{
+    "id": "593",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_121",
+    "title": "2016년_11월_4주차_주간보호_어르신_활동_사진",
+    "content":"1-gSIqSANrEb 2-rRtdamuCjk 3-7xVjT8wsF2 4-NH959PzYrh 큐브게임 미술치료 풍선공예 선잇기",
+},{
+    "id": "594",
+    "url": "/resource_room/religious-life/v9",
+    "title": "도솔산 화암사 청맥회 &#39;사랑의 연탄나누기&#39; 행사",
+    "content":"도솔산 화암사 청맥회에서는 연말연시를 맞이하여 관내 저소득층 세대에 연탄을 직접 배달해드렸습니다. 일시: 2016년 11월 20일 장소: 서구 변동 참여인원: 청맥회원 50명 대상: 저소득층 5가구(가구당 400개), 총 2,000개(120만 원 상당) 20161122-1 20161122-2 20161122김장나눔-1 20161122김장나눔-2 20161122김장나눔-3 20161122김장나눔-4 20161122김장나눔-5",
+},{
+    "id": "595",
+    "url": "/resource_room/religious-life/v10",
+    "title": "2016년 사랑의 김장 나누기",
+    "content":"도솔산 화암사에서는 2016년 겨울을 맞이하여 지역주민과 함께 하는 사랑의 김장 나눔 행사를 실시했습니다. 김치는 지역의 불우한 이웃 분들께 고루 나누어 드렸습니다. 20161122김장나눔-1 20161122김장나눔-2 20161122김장나눔-3 20161122김장나눔-4 20161122김장나눔-5",
+},{
+    "id": "596",
+    "url": "/resource_room/notices-dosolnoin/life72",
+    "title": "2016년도 도솔노인복지센터 동계 사회복지사 실습생 모집 안내",
+    "content":"도솔노인복지센터 동계 실습생 모집 모집인원 : 5명 모집방법 : 선착순 접수 (1) 도솔노인복지센터 문의(전화: 528-1080) ⇒ (2) 학과 사무실 접수 및 신청, 도솔노인복지센터로 공문발송 ⇒ (3) 도솔노인복지센터 접수 ⇒ (4) 학과 및 학생에게 통보 실습기간 (1) 2016. 12. 12. ~ 12. 30. (3주간: 120시간) (2) 2017. 1. 2. ~ 1. 31. (4주간: 160시간) 실습기간 및 시간은 사전 조정 실습시간: 1일 8시간(주 5일) 실 습 비: 10만원(식비포함) 문의 (042) 528-1080",
+},{
+    "id": "597",
+    "url": "/resource_room/notices-hwaam/life21",
+    "title": "도솔산 화암사 청맥회 &#39;사랑의 연탄나누기&#39; 행사",
+    "content":"도솔산 화암사 청맥회 ‘사랑의 연탄나누기’ 행사 도솔산 화암사 청맥회에서는 연말연시를 맞이하여 관내 저소득층 세대에 연탄을 직접 배달해드렸습니다. 일시: 2016년 11월 20일 장소: 서구 변동 참여인원: 청맥회원 50명 대상: 저소득층 5가구(가구당 400개), 총 2,000개(120만 원 상당) 64e49893580cff202e26abb75854ec1e_5Cvcqw8xvOqi4s9OQQ 64e49893580cff202e26abb75854ec1e_NvIYYiLJAvrWSkxh",
+},{
+    "id": "598",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_120",
+    "title": "2016년_12월_1주차_주간보호_어르신_활동_사진",
+    "content":"1-ketzpuPuVE 2-UvkQJ3KKh7 3-tjJWrFAxLj 4-LJgAfaYBvM 구슬꿰기 전래동화 생신잔치 건강체조",
+},{
+    "id": "599",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_119",
+    "title": "2016년_12월_2주차_주간보호_어르신_활동_사진",
+    "content":"1-H56W1zEJL2 2-dIIaFdXomf 3-S1tigtfaRx 4-2PGNahxSRc 구슬꿰기 전래동화 손율동 칠교놀이",
+},{
+    "id": "600",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_118",
+    "title": "2016년_12월_3주차_주간보호_어르신_활동_사진",
+    "content":"1-e_OwB3SCp1 2-qYJM34uHsn 3-vKgAiwaYUr 4-3p9tm7jO8n 노래교실 민요수업 손율동 윷놀이",
+},{
+    "id": "601",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_117",
+    "title": "2016년_12월_4주차_주간보호_어르신_활동_사진",
+    "content":"1-BYBEevL6Cx 2-ZAprNw5Dh3 3-e_7vc1LLvh 4-fGS5LpdJWN 나는누구 낱말인지 테트리스 도미노",
+},{
+    "id": "602",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_116",
+    "title": "2017년_1월_1주차_주간보호_어르신_활동_사진",
+    "content":"1-_6KzWGg5Ew 2-9wJZ7MpkZ8 3-XriszTEEqn 4-sa5SZCpnri 다도 도미노 노래교실 콩고르기",
+},{
+    "id": "603",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_115",
+    "title": "2017년_1월_2주차_주간보호_어르신_활동_사진",
+    "content":"1-hB9fqhhPJR 2-s3YeXzsWlR 3-JlKVtuwdiD 4-AAzPfgeamB 만다라 전통민요 칠교놀이 건강체조",
+},{
+    "id": "604",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_114",
+    "title": "2017년_1월_3주차_주간보호_어르신_활동_사진",
+    "content":"1-57t3y3Ciyr 2-z5Z4H6nTnE 3-fPNx8aIYd3 4-bTUmZNMvgF 인지활동 컵쌓기 구슬꿰기 점선잇기",
+},{
+    "id": "605",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_113",
+    "title": "2017년_1월_4주차_주간보호_어르신_활동_사진",
+    "content":"1-OP69NBjJjs 2-5GukHnfiYh 3-ClFv9BzSaO 4-lnqCVa6gJm 미술치료 큐브게임 낱말인지 생신잔치",
+},{
+    "id": "606",
+    "url": "/resource_room/religious-life/ceremony_15",
+    "title": "2016년 후원의 밤",
+    "content":"1-WiXUOK5Hlf 2-aOauZ64p6d 3-vqwSGaVAm4 4-lN6FDieETn 5-jRnRF7rMQ6 6-BDht9LDXiN 7-xAShcJGk24",
+},{
+    "id": "607",
+    "url": "/resource_room/notices-hwaam/ceremony_info15",
+    "title": "2017년_1월_1일_신축법당_상량식",
+    "content":"1-_3nBy8sg9Y 2-ZJv8N2ttXu 3-vjE4uoyeeK",
+},{
+    "id": "608",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_112",
+    "title": "2017년_2월_1주차_주간보호_어르신_활동_사진",
+    "content":"1-LcQsfmEygP 2-FcUGe7xRrx 3-oiqnYKznGG 4-57MUr4iGUw 손율동 컵쌓기 인지활동 미술치료",
+},{
+    "id": "609",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_111",
+    "title": "2017년_2월_2주차_주간보호_어르신_활동_사진",
+    "content":"1-ot6HfTlRI6 2-REI6q8zxsC 3-cqUaYuKAPX 4-6MHcKfWV7t 생활체육 인지활동 컵쌓기 구슬꿰기",
+},{
+    "id": "610",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_110",
+    "title": "2017년_2월_3주차_주간보호_어르신_활동_사진",
+    "content":"1-GFsF2DFXmu 2-LtJh8oSJhE 3-c6rXyLHOfq 4-JIUI4MAqT8 큐브게임 콩고르기 도미노 민요수업",
+},{
+    "id": "611",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_109",
+    "title": "2017년_2월_4주차_주간보호_어르신_활동_사진",
+    "content":"1-14CHc5IZWS 2-c7jEh7q4cq 3-fnYSPwDvJN 4-VKmDqr9DG3 다도수업 노래교실 미술치료 이미용",
+},{
+    "id": "612",
+    "url": "/resource_room/forest/flf_44",
+    "title": "2017-02-27-2017년 숲체험 강사 모집 공고 (안)",
+    "content":"전문강사 및 보조강사 모집 공고문 장애인 및 질환 어르신(경증치매, 노인성 질환 및 거동불편 어르신)을 대상으로 도솔노인복지센터와 도솔산, 사정공원 장태산 일원에서 프로그램을 진행할 전문 강사 및 보조강사를 모집합니다. 모집분야 : 숲해설가, 웃음치료사, 음악치료사, 보조강사 인 원 : 각 1 명 수업기간 : 2017. 4. 1. ~ 2017. 10. 31. 수업시간 : 60분/1회 강사료 : 협의후 결정(강사:40,000원/ 1시간, 보조강사 : 20,000원 / 1시간) 주요업무 : 숲해설 및 숲체험 활동 지도 및 그 수반업무 (1) 장애인(20명) 또는 질환어르신(경증치매, 노인성 질환 및 거동불편 어르신) 30명 을 대상으로 주 1회 해당 프로그램(웃음치료, 음악치료, 숲해설)진행 (2) 해당 프로그램 진행과 관련된 제반 수반업무의 지원 해당 강의에 대한 월간 강의 계획서 및 강의 운영일지 작성 수업 기자재 사전 협의(재료 구입등) 지원자격 (1) 전문강사 : 숲해설사, 웃음치료사, 음악치료사 해당 자격증 소지자 (2) 보조강사 : 숲해설사, 간호조무사 자격증 소지자 ※ 공통 우대사항 : 사회복지사 자격증 소지자, 요양보호사 자격증 소지자 등 (행정업무 및 운전가능자 우대) 제출기한 : 2017. 2. 27.(월)~ 3. 3.(금) 제출서류 (1) 이력서 - 숲체험 위주의 이력서 기재(구체적으로) (2) 자기소개서 (3) 자격증 사본 (4) 해당분야 근무한 경력을 입증하는 증명서(해당자에 한함) 접수방법 : 이메일 접수(hlog_d03348@naver.com), / 팩스 (042) 472-7209 전형방법 (1) 1차 : 서류전형(개별통보) (2) 2차 : 면접 숲해설 시연 - (서류전형 합격자에 한함) 문의 : 김경승 과장 010-2589-9256 / 기관 홈페이지 : www.dosolnoin.or.kr 기타사항 제출된 서류는 반환하지 않습니다. 이력서의 기재 사항이 실제와 다를 경우, 입사 후에도 임용이 취소될 수 있습니다. 이력서 및 자기소개서는 자유양식입니다.",
+},{
+    "id": "613",
+    "url": "/resource_room/forest/flf_43/resource_room/forest/files/%EC%88%B2%EC%B2%B4%ED%97%98%EC%B0%B8%EA%B0%80%EC%9E%90%EB%AA%A8%EC%A7%91%EA%B3%B5%EA%B3%A0.hwp",
+    "title": "2017-02-27-2017년 숲 체험 참여 단체 모집",
+    "content":"｢도담 도담 그대여, 솔 빛 길 걸어요｣ 숲 체험 참가자 모집 공고 숲 체험을 통해 어르신 및 장애인분들의 삶의 질 향상에 기여하고 생태교육 프로그램에 대한 체험 기회를 제공하고자 다음과 같이 숲체험 참가자를 모집하오니, 관심 있는 단체는 많은 지원 바랍니다. 2017년 2월 27일 도솔노인복지센터장 □ 사업개요 ❍ 사 업 명: 도담 도담 그대여, 솔 빛 길 걸어요! ❍ 사업장소: 도솔산, 장태산 자연휴양림, 보문산 사정공원 ❍ 운영기간: 2017년 4월 ∼ 10월 (7개월) ❍ 참 가 비: 참가비 지원(프로그램 참가비, 식비, 여행자보험 포함) ※ 교통비 미지원(각 지원 단체 자체 차량 이용 숲체험참가자모집공고",
+},{
+    "id": "614",
+    "url": "/resource_room/notices-dosolnoin/life73/resource_room/notices-dosolnoin/files/%EC%88%B2%EC%B2%B4%ED%97%98_%EC%B0%B8%EA%B0%80%EC%9E%90_%EB%AA%A8%EC%A7%91%EA%B3%B5%EA%B3%A0.hwp",
+    "title": "2017년 숲 체험 참여 단체 모집",
+    "content":"“도담 도담 그대여, 솔 빛 길 걸어요” 숲체험 참가자 모집 공고 숲 체험을 통해 어르신 및 장애인분들의 삶의 질 향상에 기여하고 생태교육 프로그램에 대한 체험 기회를 제공하고자 다음과 같이 숲체험 참가자를 모집하오니, 관심 있는 단체는 많은 지원 바랍니다. 2017년 2월 27일 도솔노인복지센터장 사업개요 사 업 명: 도담 도담 그대여, 솔 빛 길 걸어요! 사업장소: 도솔산, 장태산 자연휴양림, 보문산 사정공원 운영기간: 2017년 4월 ∼ 10월(7개월) 참 가 비: 참가비 지원(프로그램 참가비, 식비, 여행자보험 포함) 교통비 미지원(각 지원 단체 자체 차량 이용) 숲체험참가자모집공고",
+},{
+    "id": "615",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_108",
+    "title": "2017년_3월_1주차_주간보호_어르신_활동_사진",
+    "content":"1-SU7etgmfQG 2-UeCGC1GlnR 3-twZTg7X8Zl 4-DNGKRLSTPP 손율동 낚시 낱말인지 생활체육",
+},{
+    "id": "616",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_107",
+    "title": "2017년_3월_2주차_주간보호_어르신_활동_사진",
+    "content":"1-crIqCZlFct 2-bKHvuX1BCO 3-yKFUEuJR4Y 4-aunZoUwBmu 생신잔치 민요수업 칠교놀이 미술활동",
+},{
+    "id": "617",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_106",
+    "title": "2017년_3월_3주차_주간보호_어르신_활동_사진",
+    "content":"1-lU4wan1hmp 2-q6cUeAntJc 3-isz71QeULv 4-_xfMHNhyYC 다도수업 풍선배구 낱말인지 생활체육",
+},{
+    "id": "618",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_105",
+    "title": "2017년_3월_4주차_주간보호_어르신_활동_사진",
+    "content":"1-m1W51rCs1D 2-s2qyrWWUqn 3-gtMfAPFaFd 4-eLYnyoXnHU 실버요가 민속공연 점선잇기 미술활동",
+},{
+    "id": "619",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_104",
+    "title": "2017년_4월_1주차_주간보호_어르신_활동_사진",
+    "content":"1-QOqhXhiSLF 2-kJzAsiYRDh 3-blpzYmsLIx 4-MvnkATlu4T 전통어울림 숲체험 구슬꿰기 손율동",
+},{
+    "id": "620",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_103",
+    "title": "2017년_4월_2주차_주간보호_어르신_활동_사진",
+    "content":"1-e_4bG3oGHM 2-Y5fndcOBnd 3-tIs4mxMxv7 4-5wnhj3tkOU 숲체험 생신잔치 콩고르기 실버요가",
+},{
+    "id": "621",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_102",
+    "title": "2017년_4월_3주차_주간보호_어르신_활동_사진",
+    "content":"1-Xsd5jd7ZHk 2-BX2cGYvGkf 3-QOSmqwn2W5 4-5VxABJc9jw 이미용 만다라 숲체험 실버요가",
+},{
+    "id": "622",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_101",
+    "title": "2017년_4월_4주차_주간보호_어르신_활동_사진",
+    "content":"1-5kg4M8yQdn 2-e_67kodJPb 3-EbNdVvvJHa 4-hxHqxywI4o 숲체험 실버요가 민요공연 미술치료",
+},{
+    "id": "623",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_100",
+    "title": "2017년_5월_1주차_주간보호_어르신_활동_사진",
+    "content":"1-e_NCGWrKhb 2-DWqTMbI8UA 3-e_FWToA8Rf 4-I2ZnPpS15e 건강체조 숲체험 윷놀이 손율동",
+},{
+    "id": "624",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_99",
+    "title": "2017년_5월_2주차_주간보호_어르신_활동_사진",
+    "content":"1-NawdPhTNXX 2-5iJs7l3Zzw 3-pTZvYfNhnU 4-Pj64SHfIms 다도 숲체험 생활체육 인지활동",
+},{
+    "id": "625",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_98",
+    "title": "2017년_5월_3주차_주간보호_어르신_활동_사진",
+    "content":"1-HzEaksONiJ 2-6pZDfDtFWW 3-Ym4ObQYyI4 4-pvw8eNam3y 풍선배구 숲체험 recreation 소방교육",
+},{
+    "id": "626",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_97",
+    "title": "2017년_5월_4주차_주간보호_어르신_활동_사진",
+    "content":"1-DNbKt1UrtH 2-32mfXJ6X9Z 3-VfkKltCc5l 4-CGDssWLM8E 인지활동 실버요가 숲체험 이미용",
+},{
+    "id": "627",
+    "url": "/resource_room/notices-dosolnoin/life74",
+    "title": "2017년도 도솔노인복지센터 하계 사회복지사 실습생 모집 안내",
+    "content":"도솔노인복지센터 하계 실습생 모집 모집인원 : 5명 모집방법 : 선착순 접수 (1) 도솔노인복지센터 문의(전화: 528-1080) ⇒ (2) 학과 사무실 접수 및 신청, 도솔노인복지센터로 공문발송 ⇒ (3) 도솔노인복지센터 접수 ⇒ (4) 학과 및 학생에게 통보 실습기간 (1) 2017. 7. 3. ~ 7. 21. (3주간: 120시간) (2) 2017. 7. 3. ~ 7. 28. (4주간: 160시간) 실습기간 및 시간은 사전 조정 실습시간: 1일 8시간(주 5일) 실 습 비: 10만원(식비포함) 문의 (042) 528-1080",
+},{
+    "id": "628",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_96",
+    "title": "2017년_6월_1주차_주간보호_어르신_활동_사진",
+    "content":"1-KB8N2BChPx 2-U7K6pGtzsv 3-v1Y7VsuFmU 4-bwXsz8wAcD 손율동 실버요가 점선잇기 콩고르기",
+},{
+    "id": "629",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_95",
+    "title": "2017년_6월_2주차_주간보호_어르신_활동_사진",
+    "content":"1-PjbBOlIjvb 2-Hbq5B3R5IQ 3-VO5YNaomel 4-4yHjRaewK7 생활체육 숲체험 인지수업 구슬꿰기",
+},{
+    "id": "630",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_94",
+    "title": "2017년_6월_3주차_주간보호_어르신_활동_사진",
+    "content":"1-OazCgtlPqW 2-2XDWbCzMXE 3-e_qMgESigC 4-RHqQdBqLU3 이미용 전통어울림 만다라 다도",
+},{
+    "id": "631",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_93",
+    "title": "2017년_6월_4주차_주간보호_어르신_활동_사진",
+    "content":"1-gHG1wTmEgt 2-r63DiTTX8c 3-BaRBVX627A 4-EfuZf4mtfm 노래교실 2분기 보호자 간담회 레크리에이션 풍선배구",
+},{
+    "id": "632",
+    "url": "/resource_room/notices-hwaam/ceremony_info16",
+    "title": "2017년_4월_9일_낙성식",
+    "content":"1-IUpH3wcScz 10-Eh7rIwpgHl 11-h5NErVmcC8 12-9AI1J6ezWF 13-UYcwpfkKbo 2-eafn7wwxzP 3-6zDKaRYZtc 4-6zkgSungvS 5-_l2WNLL5oC 6-2V2aRVpwyj 7-bZviLxax9m 8-61pdAczE6F 9-pTMUAEfxTP",
+},{
+    "id": "633",
+    "url": "/resource_room/notices-hwaam/ceremony_info17",
+    "title": "윤달맞이_수륙대재_봉행안내",
+    "content":"불자님들 가정에 부처님의 가피가 충만하시길 축원드립니다. 아뢰올 말씀은 정유년 5월 윤달을 맞이하여 윤달에만 행해지는 수륙대재를 봉행합니다. 수륙재는 살아있는 사람과 돌아가신 영가님이 차별 없이 평등하게 불보살님께 공양 올리고 불공의식을 드리는 불교의 최대 큰 재의식입니다. 살아서는 원력을 성취하고 사후에는 극락왕생하기를 기원하고 육지와 물가에서 까지 돌아가신 영가들에게 까지 차별 없이 평등하게 공양 올리고 의식을 행해서 천도하는 아주 중요하고 일반사찰에서는 하기 힘든 재 이오니 많은 불자님들의 동참을 바랍니다. 저희 화암사에서 3번의 생전 예수재를 마치고 앞으로 윤달이 들은해에 3번의 수륙대재를 봉행해서 선업을 지을 수 있는 인연을 지어 사후에는 왕생극락 할 수 있도록 하고 고통을 여의고 즐거움을 나눌 수 있는 좋은 업을 짓도록 수륙대재를 봉행합니다. ◈ 행사 안내 ◈ ▶수륙재 봉행 큰스님 초청 법회 →7월 02일 : 해인사 백련암 원택큰스님 →7월 09일 : 법주사 무상큰스님 →7월 16일 : 전등선림 동명큰스님 ▶수륙재 기도 →입재 : 7월 02일(일요일) 음력(윤) 5월09일 →회향 : 7월 22일(토요일) 음력(윤) 5월29일(오전9시~ 오후5시까지) (회향일에는 인간문화재 스님 다섯분이 범폐의식으로 진행합니다) ▶동참금 : 1인당 5만원 / 영가 1인당 2만원 ▶준비물: 공양미 십대왕과 지장보살님께 쌀40kg 한가마씩 올립니다. (올린 공양미는 살아있는 분은 내세의 저승양식이 되오며 돌아가신 분에게도 저승에 올리는 양식이 됩니다) ※올린 공양미는 소외된 이웃과 독거노인분들께 전달됩니다. ※수륙재 기도중 과일,떡,꽃,큰스님여비등 공양 및 보시하실분은 미리 신청바랍니다. 수륙재(水陸齋)란? 우리나라 삼대조사 스님 중의 한 분인 고려시대 나옹 스님은 수륙무차평등대재(水陸無遮平等齋儀)에 대해 “어두운 세상, 밝은 세상의 큰 도량이며 티끌마다 세계마다 두루 미치는 것입니다.”라고 하였습니다. 수륙재의 설행공덕은 그만큼 크고 깊은 것이어서 고려와 조선시대에도 가장 큰 규모의 불교의례였습니다. 윤달이 든 해에 수륙재가 설행될 때에는 많은 분들이 깊은 신심으로 동참하여 큰 공덕으로 회향하는 모습들을 보아왔습니다. 수륙재는 불교의식들 중에 가장 드라마틱하여 장면마다 극적인 내용구성을 지니고 있는데, 부처님을 비롯한 성중과 고혼들을 예법에 따라 모시고 봉송하는 과정에서 밝은 세상, 어두운 세상의 모든 동참자들이 자연스럽게 법식을 나누는 모습은 오늘날 오페라 무대를 보는 것 같습니다. 수륙재를 “이승과 저승을 잇는 뛰어난 모임”이라 하고, “어두운 세상 밝은 세상의 큰 도량이며 티끌마다 세계마다 두루 미치는 것이다”라고 한 것에서, ‘이승과 저승에 크나큰 이익을 주는 모임’이라 정의할 수 있습니다. 수륙재의 설행이 궁극적으로는 설판재자(設辦齋者)와 동참대중들은 물론 유명세계까지 이익을 얻는 것이고, 이것이 수륙재 본연의 큰 공덕임을 밝히고 있는 것입니다. 입재 : 7월 02일 (음력 5월 09일) 일요일             장소 : 화암사 큰법당 회향 : 7월 22일 (음력 5월 29일) 토요일 【수륙재 기도 중 과일, 떡, 꽃, 큰스님여비 등 공양 및 보시 하실 분은 미리 신청바랍니다.】 ※ 입금계좌 : 국민은행740901-01-250239 (백창기) 농협 453011-56-1438332 (백창기) ☎ 문의전화 : 042) 488-7207 , 528-7209  대한불교조계종 도솔산 화암사 사문 혜광 합장",
+},{
+    "id": "634",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_92",
+    "title": "2017년_7월_1주차_주간보호_어르신_활동_사진",
+    "content":"1-ydpKVODuyz 2-GtpEzaNukf 3-CvrLFQIAtA 4-e_VvvKT8pl 생활체육 다도수업 인지활동 만다라",
+},{
+    "id": "635",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_91",
+    "title": "2017년_7월_2주차_주간보호_어르신_활동_사진",
+    "content":"1-31rHozUyDu 2-lqicriOsXI 3-xuJmC4Erwr 4-W8LnygnXBw 실버요가 민요수업 도미노 미술치료",
+},{
+    "id": "636",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_90",
+    "title": "2017년_7월_3주차_주간보호_어르신_활동_사진",
+    "content":"1-UPzTPojLjR 2-ZvdqfUMmyf 3-o5y2tkVl5E 4-fIMKWZw5jy 종이공예 노래교실 구슬꿰기 손율동",
+},{
+    "id": "637",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_89",
+    "title": "2017년_7월_4주차_주간보호_어르신_활동_사진",
+    "content":"1-8QtYKhvu4A 2-3dxkXdOaxj 3-e_Mu1CeLbJ 4-KJas7NtI6N 낚시 풍선배구 점선잇기 이미용",
+},{
+    "id": "638",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_88",
+    "title": "2017년_8월_1주차_주간보호_어르신_활동_사진",
+    "content":"1-FKm1opHcbh 2-8hGSsw383V 3-ud5wVw6cZH 4-itAYpuxLMW 만다라 실버요가 전통민요 도미노",
+},{
+    "id": "639",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_87",
+    "title": "2017년_8월_2주차_주간보호_어르신_활동_사진",
+    "content":"1-jPcABt1vRH 2-MWq9zFaDDU 3-YHZM3I2MZT 4-FzfLzYDF5b 미술치료 생활체육 콩고르기 점선잇기",
+},{
+    "id": "640",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_86",
+    "title": "2017년_8월_3주차_주간보호_어르신_활동_사진",
+    "content":"1-ay9b31vkZB 2-t4vrs64tNb 3-avMEnlpMp6 4-q39CGPie2X 종이접기 풍선배구 다도수업 윷놀이",
+},{
+    "id": "641",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_85",
+    "title": "2017년_8월_4주차_주간보호_어르신_활동_사진",
+    "content":"1-8xI93slSPt 2-e_ymM9DcUm 3-KWPa5hFpg4 4-Ge5c86AWKF 풍선공예 인지활동 노래교실 구슬꿰기",
+},{
+    "id": "642",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_84",
+    "title": "2017년_9월_1주차_주간보호_어르신_활동_사진",
+    "content":"1-_ZTFp73r8C 2-T7j3m9JFaz 3-6F1iT9sdAF 4-YsbTEBjc4f 건강체조 노래교실 종이접기 풍선배구",
+},{
+    "id": "643",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_83",
+    "title": "2017년_9월_2주차_주간보호_어르신_활동_사진",
+    "content":"1-hfZWkdGL3P 2-fjZQD2MTY3 3-_pu1E4XsvU 4-hAUVhumcgt 전통어울림 다도수업 윷놀이 인지활동",
+},{
+    "id": "644",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_82",
+    "title": "2017년_9월_3주차_주간보호_어르신_활동_사진",
+    "content":"1-mHgsqHdYrg 2-lqqFD4EG3I 3-zOmC2768Ul 4-Ug6ls7RFxt 만다라 실버요가 콩고르기 점선잇기",
+},{
+    "id": "645",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_81",
+    "title": "2017년_9월_4주차_주간보호_어르신_활동_사진",
+    "content":"1-_9ZtVa4Lup 2-7apRLLdm3a 3-e_lLq87IJN 4-wsIScwMnPg 구슬꿰기 생활체육 숲체험수업 민요공연",
+},{
+    "id": "646",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_80",
+    "title": "2017년_10월_1주차_주간보호_어르신_활동_사진",
+    "content":"1-qOMOqjIiNq 2-bDIwDYETBR 3-WduFA4ktNS 4-2nRCt7jJ1x 구슬꿰기 만다라 윷놀이 전통민요",
+},{
+    "id": "647",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_79",
+    "title": "2017년_10월_2주차_주간보호_어르신_활동_사진",
+    "content":"1-HgRv2gkFbL 2-CqT4Y3Uy34 3-MTz6MJqqg4 4-e_LcCY4Jby 실버요가 손율동 도미노 산책",
+},{
+    "id": "648",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_78",
+    "title": "2017년_10월_3주차_주간보호_어르신_활동_사진",
+    "content":"1-_aPbOY3JpJ 2-BWxr7zgJse 3-eUYxOHCclm 4-NroSjXpabP 미술활동 이미용 다도 소방교육",
+},{
+    "id": "649",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_77",
+    "title": "2017년_10월_4주차_주간보호_어르신_활동_사진",
+    "content":"1-LENpml5DHW 2-SH4gaPMthe 3-ruMyCymdgU 생신잔치 생활체육 인지활동",
+},{
+    "id": "650",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_76",
+    "title": "2017년_11월_1주차_주간보호_어르신_활동_사진",
+    "content":"1-foI9oVHE2Y 2-xtaeXi266X 3-zC2Jmtdeu7 4-Z3HJ4xFuri 도미노 미술활동 생활체육 점선잇기",
+},{
+    "id": "651",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_75",
+    "title": "2017년_11월_2주차_주간보호_어르신_활동_사진",
+    "content":"1-d7msxdKH4m 2-luPe3OQ7VF 3-eaF9bt3Hll 4-X7ynygmo6g 손율동 실버요가 구슬꿰기 종이접기",
+},{
+    "id": "652",
+    "url": "/resource_room/notices-hwaam/life22",
+    "title": "차담헌 개원",
+    "content":"차담헌 개원 차담헌(茶湛軒)에서 맑은 영혼을 위하여! 차담헌이란 즐겁게 담소 나누면서 차 마시는 집이란 뜻으로 현 조계종 총무원장이신 설정 큰스님께서 지어주신 이름입니다. 세상을 진솔하게 살고 싶은 이에게 이 세상에서 제일 소중한 일 한 가지를 손꼽으라고 한다면 물론 개인적 느낌은 사람마다 다르겠지만 아마 영혼을 맑히는 일이지 않을까요? 때가 되면 어쩔 수 없이 아침이 오듯 따뜻한 영혼을 위한 차 마시는 공간은 뜻있는 이들을 안온하게 하고 있습니다. 한 잔의 차 그것은 단순한 기호음식을 떠나 우리네 때묻어가는 영혼을 맑히는 감로수로서 생활에 찌든 감정을 씻을 수 있는 청량제, 삶의 피곤에 허덕이는 이에게 새로운 활력을 일으킬 수 있는 영양제가 될 수 있으므로 이 땅에 전통차의 새로움이 알려지면서 오늘을 사는 이의 영혼을 맑히고 마음을 치유할 수 있는 공간을 만들어 어두워지려는 사람들의 마음에 촛불 한 자루 밝히는 구실을 하였으면 하는 바램으로 차담헌의 문을 활짝 엽니다. 이 공간에 오시는 모든 분들이 차와 그림과 글씨를 감상해보시며 항상 감사하고 용서하며 사랑할 수 있는 치유의 공간이 되기를 서원합니다. 2017년 10월 어느 날에 도솔산 화암사 차담헌에서 혜광 두손모음.",
+},{
+    "id": "653",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_74",
+    "title": "2017년_11월_3주차_주간보호_어르신_활동_사진",
+    "content":"1-Zn2QGfrO64 2-ZDJ9rikwue 3-gTizAva3gs 4-_AqB9dJaOX 다도 생신잔치 윷놀이 만다라",
+},{
+    "id": "654",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_73",
+    "title": "2017년_11월_4주차_주간보호_어르신_활동_사진",
+    "content":"1-n7o1gXV7ik 2-Y8SJL4yzik 3-dOxWT7PCui 4-_6cg4FbadF 대전알기 볼링 퍼즐 풍선공예",
+},{
+    "id": "655",
+    "url": "/resource_room/notices-hwaam/ceremony_info18",
+    "title": "오백나한대재_및_동안거_백일기도",
+    "content":"【오백나한대재 및 동안거 백일기도 안내문】 귀의 삼보 하옵고, 불자님 각 가정에 부처님의 자비광명이 충만하시길 기원드리며, 금번 화암사 에서는 오백나한조성 불사후 처음으로 일년에 한번씩 오백나한대재를 봉행합니다,‘오백나한대재는 일년에 한번씩 오백나한님께 1주일간 기도하고 여러 가지 공양물을 올려 불공드리고 축원 올리는날’입니다.오백나한대재와 아울러 불기 2561년 동안거 백일기도를 봉행합니다. 결재란 100일간 모든 삿된 마음과 탐․진․치 삼독심을 버리고 오로지 깨달음의 수행정진을 통하여 부처님의 혜명을 잇고 대자유의 해탈을 향하여 가는 것입니다. 이러한 불사는 모든 불사중에 가장 수승한 것이며,마땅히 불자로서 닦아야 할 덕목인 것입니다. 백년동안 때 묻은 옷이라도 하루동안에 씻어서 깨끗하게 하는것과 같이 백 천겁 동안에 지은 모든 불선업(不善業)도 불법의 힘으로 잘 수순해서 닦으면 일시에 소멸하는 것입니다. ◆ 오백나한대재 및 혜국 큰스님 초청 법회 ◆ ● 오백나한대재 기도 입재일: 불기2561년 (양)11월19일(일요일) 오전10시30분 ※기도 입재일에는 혜국 큰스님 초청법회가 있으니 많은 참석바랍니다※ ● 기도 회양일: 불기2561년 (양)11월26일(일요일) 오전10시30분 ● 오백나한대재 기도비: 한가족당 5만원 ● 오백나한대재 공양물: 오백나한 조성하신 분은 1인당 공양미 20kg 한포씩을 올립니다(올린 공양미는 연말에 독거노인에게 전달할 예정입니다)   ◎ 동안거 결재일: 불기2561년 (양)12월 2일(음력10.15일/토요일) 오전10시30분 ◎ 동안거결재 법문: (양)12월 3일(일요일) 오전10시30분에는 법주사 무상 큰스님의 법문이 있으니 많은 참석바랍니다 ◎ 동안거 회향일: 불기2562년 (양)3월 2일(음.1.15) 오전10시30분 ◎ 기도비: 일십만원 ◎ 영가위패비: 일위당 오천원 ◎ 기도접수 : 042) 488-7209, 528-7209(법당직통번호) ◆ 입금계좌 : 농 협 453011-56-138332 백창기 국민은행 740901-01-250239 백창기(화암사) 대한불교 조계종 도솔산 화암사 사문 혜광 합장",
+},{
+    "id": "656",
+    "url": "/resource_room/religious-life/ceremony_16",
+    "title": "오백나한대재 입재 및 혜국 큰스님 초청법회",
+    "content":"1-e_qmgUfkrt 10-AlqCnKABAk 11-mZVJygFi4I 12-Aj7jRITTuo 2-ulcXxYlivu 3-JdoctvDgnq 4-1jEsje8LmD 5-AG1T2SdykU 6-MdiZ7VIMW9 7-4zVNBTLaYk 8-PMDrhNB4qV 9-mbr8Gffval",
+},{
+    "id": "657",
+    "url": "/resource_room/notices-hwaam/ceremony_info19",
+    "title": "마음_치유_행복_명상_아카데미_개설",
+    "content":"도솔산 화암사 행복명상 아카데미   힐링 명상 1주차 | 명상원리/미소명상 | 명상원리에 대한 이해, 이완효과 | 2주차 | 심장명상 | 몸과 마음의 힐링 | 3주차 | 자애명상/용서, 감사 | 마음의 평화, 관계 스트레스 해소 | 자각 명상 4주차 |호흡명상 | 알아차림, 마음의 근육 강화, 집중력, 안정성 | 5주차 | 듣기명상/경청 | 알아차림, 받아들임 | 6주차 |걷기명상 | 알아차림, 깨어있음 | 7주차 | 감정, 생각 지켜보기 | 알아차림, 받아들임| 내려놓음 명상 8주차 |생각 내려놓기 | 생각으로부터의 자유 | 9주차 | 분노, 불안 내려놓기 | 번뇌, 스트레스 관리, 마음의 평화 | 10주차 | 아상, 에고 내려놓기, 내면의 빛 명상 | 참 본성 구현, 행복감 증진 |   일시 : 2017년 12월 15일(금요일) 오후 7시30분~9시 ⇨ 10주 장소 : 화암사 마음치유학교(신관 2층) 인원 : 1기 20명 참가비 : 25만원 목표 및 기대효과 : 명상의 원리와 방법에 대한 이해와 실천을 통하여 번뇌, 스트레스를 관리하고 참된 행복 구현하기",
+},{
+    "id": "658",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_72",
+    "title": "2017년_12월_1주차_주간보호_어르신_활동_사진",
+    "content":"1-SUrPna2iK6 2-DdJLwEtnzn 3-l2ssBB8P8n 4-leTdeBTch7 칠교놀이 모자이크 테트리스 종이접기",
+},{
+    "id": "659",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_71",
+    "title": "2017년_12월_2주차_주간보호_어르신_활동_사진",
+    "content":"1-93QJJppgY3 2-cGLVPDHEzX 3-9bon9Ohrog 건강체조 인지활동 콩고르기 미술활동",
+},{
+    "id": "660",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_70",
+    "title": "2017년_12월_3주차_주간보호_어르신_활동_사진",
+    "content":"1-RgOLFQb2Sj 2-zEu6lDduLV 3-kTMLM1WUua 4-O6ba2AHV24 이미용 노인학대예방교육 퍼즐 모자이크",
+},{
+    "id": "661",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_69",
+    "title": "2017년_12월_4주차_주간보호_어르신_활동_사진",
+    "content":"1-Z39SL2AIlC 2-Tw4svCCFln 3-e_j1zz6pWh 4-tXh8w72GGX 손율동 구슬꿰기 급여제공교육 오락",
+},{
+    "id": "662",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_68",
+    "title": "2018년_1월_1주차_주간보호_어르신_활동_사진",
+    "content":"1-uxfacLLBYk 2-2CXwDqs3tQ 3-bBZ4ojpet8 4-b6t7Ldsf24 만다라 칠교 풍물놀이 모자이크",
+},{
+    "id": "663",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_67",
+    "title": "2018년_1월_2주차_주간보호_어르신_활동_사진",
+    "content":"1-z7a8QTZktI 2-27xfSBdqSD 3-PnTfHCoXPd 4-1bjpIcnABY 테트리스 미술치료 윷놀이 노래교실",
+},{
+    "id": "664",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_66",
+    "title": "2018년_1월_3주차_주간보호_어르신_활동_사진",
+    "content":"1-JXxBvokApO 2-6WowpN4ef6 3-CRj5HV8Zbh 4-m4KM3erDDc 생활체육 다도 종이접기 목걸이",
+},{
+    "id": "665",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_65",
+    "title": "2018년_1월_4주차_주간보호_어르신_활동_사진",
+    "content":"1-crNpKA44Mn 2-W98CUylENA 3-yj1PMH9tfS 4-p45J5QXkG4 이미용 치매예방체조 손율동 구슬꿰기",
+},{
+    "id": "666",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_64",
+    "title": "2018년_2월_1주차_주간보호_어르신_활동_사진",
+    "content":"1-byDkefCrTu 2-qSREuCMe9M 3-CvsZhcJNnM 4-WEHT9e8axa 손율동 실버요가 점선잇기 노래교실",
+},{
+    "id": "667",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_63",
+    "title": "2018년_2월_2주차_주간보호_어르신_활동_사진",
+    "content":"1-JgZNyXBOvw 2-YtEDR5Z6cD 3-LwDfTmPAw9 4-hsPtKHcjOd 건강체조 종이접기 테트리스 만다라",
+},{
+    "id": "668",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_62",
+    "title": "2018년_2월_3주차_주간보호_어르신_활동_사진",
+    "content":"1-dlYdH8Tk4k 2-6nXq339PD3 3-ePyN6ebHhT 4-UBJ59Z7pmJ 다도 생신잔치 풍물놀이 미술활동",
+},{
+    "id": "669",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_61",
+    "title": "2018년_2월_4주차_주간보호_어르신_활동_사진",
+    "content":"1-aMvvVjsGIE 2-d_7t6R1cAN 3-dZnLZIHXnz 4-f8S6MLwtvm 윷놀이 도미노 인지활동 구슬꿰기",
+},{
+    "id": "670",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_60",
+    "title": "2018년_3월_1주차_주간보호_어르신_활동_사진",
+    "content":"1-b5wHqB5GrY 2-QBI7G31bDB 3-KpSsPDtmIe 4-wri6eD8byk 생활체육 노래교실 종이접기 테트리스",
+},{
+    "id": "671",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_59",
+    "title": "2018년_3월_2주차_주간보호_어르신_활동_사진",
+    "content":"1-Bmcx7wU2sh 2-86D1BoNNFe 3-UWSbNTUr4B 4-vZqpQBS5mU 다도수업 생신잔치 실버요가 인지활동",
+},{
+    "id": "672",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_58",
+    "title": "2018년_3월_3주차_주간보호_어르신_활동_사진",
+    "content":"1-tBl5MdkCuR 2-DmfTXXVQii 3-KpNW9lewDV 4-tdIehSqurB 칠교놀이 만다라 풍물놀이 콩고르기",
+},{
+    "id": "673",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_57",
+    "title": "2018년_3월_4주차_주간보호_어르신_활동_사진",
+    "content":"1-VKN8iO1gEH 2-e_kzH3HP4v 3-apfLxNPSmS 4-lUNvyCiqKT 손율동수업 도미노 산책 미술활동",
+},{
+    "id": "674",
+    "url": "/resource_room/notices-hwaam/life23",
+    "title": "마음치유 행복명상 아카데미 제2기 3월9일 개강",
+    "content":"마음치유 행복명상 아카데미 제2기 3월9일 개강 마음치유 행복명상의 특징 불교 명상과 인도 명상의 현대적 해석 프로그램 청바지를 입은 명상 마음치유 행복명상이란? 마음의 근육을 키우는 운동 에고의 한계를 넘어 내면의 본성을 찾아가는 깨달음의 여행 마음치유 행복명상 원리 에너지 원리(온 우주는 하나의 에너지다) 마음 원리(나의 내면에는 에고를 넘어서는 무한 본성의 마음공간이 있다) 불교 공사상, 인도 상케아 철학, 현대물리학 양자이론 등 기대효과 스트레스 치유와 관리 방법 이해 몸과 마음의 힐링 삶의 경험적 질 향상과 행복감 증진 깨달음을 통한 내면의 평화, 자유, 기쁨, 행복 구현 명상하는 마음 열린 마음 / 천천히 꾸준히 거문고를 연주하듯이 판단하지 않는 마음 / 그저 지켜보고 받아들임 순간 순간 깨어있음 / 지금 여기 프로그램 진행 제2기 3월 9일(금) 부터 10주 간 매주 금요일 힐링 명상 1주차 : 자율이완 / 미소명상 2주차 : 심장명상 3주차 : 자애명상 / 용서, 감사 자각 통찰 명상 4주차 : 호흡명상 5주차 : 듣기명상 / 경청 6주차 : 걷기명상 7주차 : 감정, 생각 지켜보기 내려놓음 명상 8주차 : 분노 내려놓기 9주차 : 불안 내려놓기 10주차 : 에고 내려놓기 / 내면의 빛 명상",
+},{
+    "id": "675",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_56",
+    "title": "2018년_4월_1주차_주간보호_어르신들의_활동_사진",
+    "content":"1-7PMvpIiwNd 2-PXjCKCbuSC 3-l3XZ4e8Emu 4-yhN8J2p3vz 5-FSd6qOALcW 생신잔치 생활체육 미술활동 윷놀이 구슬꿰기",
+},{
+    "id": "676",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_55",
+    "title": "2018년_4월_2주차_주간보호_어르신들의_활동_사진",
+    "content":"1-KjFAflwGvK 2-rMTLuBOfap 3-R1dQHHBo9b 4-e_NpfAO912 5-jmHBDywUat 6-hh1ggb4Xbt 7-yHbQlW5sQ5 8-FZq4tjy6Lk 실버요가 인지활동 현충원 나들이 현충원 나들이 칠교놀이 소방교육 도솔산 산책 점선잇기",
+},{
+    "id": "677",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_54",
+    "title": "2018년_4월_3주차_주간보호_어르신들의_활동_사진",
+    "content":"1-jZ9elCp3bd 2-uHRP4XHSg7 3-vq5dqyjdZM 4-JMe52rUlsd 5-J6Y6CsTvJk 미술활동( 머리핀 만들기) 민요공연 수저로 탁구공 옮기기 만들기(오려 붙이기) 생활체육",
+},{
+    "id": "678",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_53",
+    "title": "2018년_4월_4주차_주간보호_어르신들의_활동_사진",
+    "content":"1-9Cvnx5xhMs 2-27tQjKlJID 3-7tXYhdw6oI 4-gDSCDN6LHr 5-IVjnwo1KBh 6-buR3vRGara 웃음치료 전통민요 미술활동( 색종이 찢어 붙이기) 손율동 레크레이션 노래교실 만다라",
+},{
+    "id": "679",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_52",
+    "title": "2018년_5월_1주차_주간보호_어르신들의_활동_사진",
+    "content":"1-e_D4X8LlQQ 2-cCMmNvfiM2 3-74ahQyWbxd 4-e_PyVVNk6P 5-hXioiwurQo 6-krxSdaCGjZ 큐브놀이 미술활동( 화병 꾸미기 ) 점선잇기 윷놀이 콩고르기 칠교놀이",
+},{
+    "id": "680",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_51",
+    "title": "2018년_5월_2주차_주간보호_어르신들의_활동_사진",
+    "content":"1-ALZSKIYBnD 2-lGEmQOaa5C 3-dOwCyeIRkQ 4-2VYSVRU9L7 5-MqSyjLt1ua 6-8dAKSGjDbh 생활체육 미술활동( 입체 도형 만들기 ) 손율동 레크레이션 웃음치료 노래교실 구슬꿰기",
+},{
+    "id": "681",
+    "url": "/resource_room/notices-hwaam/life24",
+    "title": "부처님 오신 날 법요식 및 하안거 백일기도 안내",
+    "content":"부처님 오신 날 법요식 및 하안거 백일기도 안내 귀의삼보 하옵고, 불자님 가정에 부처님의 자비광명이 충만하시길 기원 드리며 금번 화암사에서는 불기2562년 부처님 오신 날을 맞이하여 부처님의 탄생을 봉축하고 가르침을 찬탄하는 연등 공양을 올리어 무릇 불자들은 정성이 가득한 마음, 나보다 남을 위하는 마음으로 헛된 욕심일 랑 버리고 등불을 밝혀 이 인연공덕으로 자손만대 무궁한 복락과 번영을 누리시기 바랍니다. 아울러 양력 5월 22일(음력 4월15일)부터 양력 8월 25일(음력 7월15일 백중)까지 하안거 백일 지장 기도를 봉행 할 예정입니다. 하안거 백일기도 중에는 지장경 산림 및 큰스님 초청 법회가 있을 예정이오니 많은 동참 바랍니다. 불자님들께서는 두루 동참하시어 선망 부모 및 인연 있는 영가들이 부처님의 가피력으로 왕생극락 하도록 지극한 마음과 정성으로 하루하루 간절히 기도해야겠습니다. 지극한 정성과 기도의 힘만이 지혜를 얻어가는 길이 됨을 잊지 마시고 어렵고 고통스러울수록 믿음으로 버텨 나가시기 바랍니다. 봉축 법요식 : 불기2562년 (양)5월 22일 / (음)4월 8일 오전10시30분 봉축 경로잔치 일 시 : 불기2562년 (양)5월 12일 토요일 오전10시30분 대 상 : 인근 지역 어르신 (500명) 후 원 : 화암사 신도회 (청맥회, 무량수회, 도솔합창단) 봉축 음악회 일 시 : 불기2562년 (양)5월 22일 오후7시30분 장 소 : 신관3층 큰 법당 출 연 : 로맨틱 앙상블 외 테너 김성래, 바리톤 오현승 연등 접수비(1년 기준) 가족등 : 10만원 / 일인등 : 5만원 / 영가등 : 5만원 / 삼성각등 : 5만원 치유등 : 20만원 / 사업자등 : 30만원, 100만원 올해는 법당 대작 불사 관계로 재정이 어려우니 주위에 인연 있는 분들께 등 공양을 권선하여 십시일반 동참 해 주시길 바랍니다. 백일기도 입제일 : 불기2562년 (양)5월 29일 / (음)4월 15일 오전10시30분 백일기도 회향일 : 불기2562년 (양)8월 25일 / (음)7월 15일 오전10시30분 백중일 백일기도비 : 십만원 / 영가 위패 접수비 : 일위 오천원 영가 접수는 백일기도 입제일 (양)5월 29일 까지 접수 바랍니다. 접수 문의 : 042) 488-7209, 528-7209 (화암사법당 직통전화) 입금 계좌 : 국민은행 740901-01-250239 (백창기)화암사 농협 453011-56-138332 (백창기) 대한불교 조계종 도솔산 화암사 사문 혜광 합장",
+},{
+    "id": "682",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_50",
+    "title": "2018년_5월_3주차_주간보호_어르신들의_활동_사진",
+    "content":"1-dicfV7ZOBo 2-PGPgT2FHBi 3-e_d6cTJKKU 4-U2n9n6lFqe 5-dwpnW6Vg7z 6-3BIS6dkhqV 7-Yqo2HXk2vp 도미노 민요공연 건강체조 미술활동( 종이컵으로 꽃 만들기 ) 웃음치료 손율동 레크레이션 구슬꿰기",
+},{
+    "id": "683",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_49",
+    "title": "2018년_5월_4주차_주간보호_어르신들의_활동_사진",
+    "content":"1-_gRPaSg9p3 2-2SxshUpJve 3-YScvukWJln 4-AwXtIbz1Tx 5-vc7KxxqA7i 6-5wAaBwjgTq 인지활동 생활체육 점선잇기 노래교실 콩고르기 웃음치료",
+},{
+    "id": "684",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_48",
+    "title": "2018년_5월_5주차_주간보호_어르신들의_활동_사진",
+    "content":"1-tr27JErfqD 2-jBhP5yaaYa 3-YGz42cPAJI 4-IYO7DIoA8K 5-e_iyHnMiOe 6-Zj7Sx7qt9n 7-ylKow1haML 생신잔치 생신잔치 민요공연 만다라 생활체육 손율동 레크레이션 웃음치료",
+},{
+    "id": "685",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_47",
+    "title": "2018년_6월_1주차_주간보호_어르신들의_활동_사진",
+    "content":"1-jrvBHERoaY 2-W3NeSP6l9y 3-Ya1oJcYusm 4-T1NkrN2qyY 5-hmgdgUsZBS 생활체육 도미노 큐브놀이 웃음치료 웃음치료",
+},{
+    "id": "686",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_46",
+    "title": "2018년_6월_2주차_주간보호_어르신들의_활동_사진",
+    "content":"1-UU89OdKECO 2-_IitWbOlYW 3-UAjrObcSLx 4-qgIEvJZrzs 5-BnYGeISz7E 6-WE5Q16JZex 인지활동 칠교놀이 손율동 웃음치료 윷놀이 노래교실",
+},{
+    "id": "687",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_45",
+    "title": "2018년_6월_3주차_주간보호_어르신들의_활동_사진",
+    "content":"1-_4MOvuk7F3 2-P93QDkgkBL 3-4xhYfSLX4e 4-qPNmq3r8ox 5-_tNPzczbT7 웃음치료 민요공연 민요공연 미술활동( 색종이로 꽃 만들기 ) 손율동 레크레이션",
+},{
+    "id": "688",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_44",
+    "title": "2018년_6월_4주차_주간보호_어르신들의_활동_사진",
+    "content":"1-sPUxtrnR4k 2-Kw8DZ3gI2c 3-mdm5YkC3qV 4-3yowZJkhDo 5-ba3sSYMFWg 6-_9VL8GIwAv 7-azMaLeCakq 도미노 민요공연 민요공연 미술활동 (부채 만들기 ) 미술활동 ( 부채 만들기 ) 웃음치료 손율동 레크레이션",
+},{
+    "id": "689",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_43",
+    "title": "2018년_7월_1주차_주간보호_어르신들의_활동_사진",
+    "content":"1-LRVwwXwZ3O 2-K1WCgKMuh9 3-3JEAldr2TG 4-hI1gmprLVe 웃음치료 놀이치료 ( 오재미 던지기 ) 미술활동 ( 수수깡 꾸미기 ) 노래교실",
+},{
+    "id": "690",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_42",
+    "title": "2018년_7월_2주차_주간보호_어르신들의_활동_사진",
+    "content":"1-e_uGUn1jpG 2-KxQqFS7Fgh 3-aJDyrtTxkq 4-unvLxXbKkt 5-AlGuLpSLIB 6-3EPRdnJpEI 7-e_d5GLf3Yw 윷놀이 놀이치료 ( 투호 던지기 ) 미술활동 ( 나비 오려 붙이기 ) 종이접기 ( 크로바 만들기) 종이접기 ( 크로바 만들기) 손율동 레크레이션 노래교실",
+},{
+    "id": "691",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_41",
+    "title": "2018년_7월_3주차_어르신들의_프로그램_활동_사진",
+    "content":"1-avs3wxDEeN 2-CRYr27bQT8 3-vAXvtDfv5s 4-KnCCHf4THC 5-fNZhbG2Stu 6-g2ZFPNmN46 7-kseDQ5lZFe 8-yUzop9QQRe 9-1rQphCAMBi 웃음치료 웃음치료 민요공연 민요공연 민요공연 건강체조 미술활동 ( 토끼 만들기 ) 미술활동 ( 토끼 만들기 ) 도미노",
+},{
+    "id": "692",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_40",
+    "title": "2018년_7월_4주차_어르신들의_프로그램_활동_사진",
+    "content":"1-KlT97GY8ik 10-iEPsOvJt8p 11-xaXo6y3kBu 2-ARYLK8Y3Uw 3-Du3I6zC97w 4-IVn6Rq73mk 5-ukoHY8LKXr 6-YHeNrvVptt 7-iOyDqyo53y 8-uJJ72btegN 9-e_E24XxD9k 어르신들의 만다라 작품 웃음치료 민요공연 민요공연 콩고르기 생활체육 손율동 레크레이션 맛사지 봉사 ( 도솔 청소년 문화원 ) 맛사지 봉사 ( 도솔 청소년 문화원 ) 맛사지 봉사 ( 도솔 청소년 문화원 ) 맛사지 봉사 ( 도솔 청소년 문화원 )",
+},{
+    "id": "693",
+    "url": "/resource_room/religious-life/ceremony_17",
+    "title": "현각스님  초청법회 2018년 7월 22일 화암사 일요법회",
+    "content":"1-fDttRit7pV 2-e7GgjdoCFj 3-9A6N8xWDmO 4-b69VtHcNJN 5-mvvZIczzzJ",
+},{
+    "id": "694",
+    "url": "/resource_room/religious-life/ceremony_18",
+    "title": "지장보살 삼존불 점안식 초파일 2주일전",
+    "content":"1-RwJo3yNcRh 2-QH4LEinw36 3-Hmp3uOBu6g",
+},{
+    "id": "695",
+    "url": "/resource_room/religious-life/ceremony_19",
+    "title": "2018년 부처님오신날 (1)",
+    "content":"1-GTXZjl2lpq 10-JN4GmrLeJh 11-b1M2IrOoUP 12-KvEvByATcO 2-l2RxhqwxUE 3-5as8sjlw8e 4-z3Kh2woaPi 5-d1MAy4VkLP 6-BEcVOKm6Es 7-uRYkKzzCDt 8-dwOQZxv5pB 9-cQZLYse6Zj",
+},{
+    "id": "696",
+    "url": "/resource_room/religious-life/ceremony_20",
+    "title": "2018년 부처님오신날 (2)",
+    "content":"1-SslJ7QWNMD 10-WQfActjcbo 11-pp8rGMpVdU 12-e_LLDekDAh 2-ODpgQmTrrK 3-PDq4dmxwAt 4-e_7OhvFeil 5-HyfWDCPMLz 6-9XWsOrjKIG 7-3EfFqHIqIj 8-NtUqERFYqm 9-pKotHLbQNF",
+},{
+    "id": "697",
+    "url": "/resource_room/religious-life/ceremony_21",
+    "title": "2018년 부처님오신날 (3)",
+    "content":"1-BKsy4UajEX 2-nqgbGprCOf 3-KQLYoV9BST 4-v2WNib1vDo 5-bF5c129BoV 6-dxwhfUrVna 7-e_l4Up2lHd 8-e_8JOVv4gn 9-f8XEbdTOwA",
+},{
+    "id": "698",
+    "url": "/resource_room/notices-hwaam/life25",
+    "title": "7일간 칠석기도 및 백일간 백중 지장기도 회향 안내",
+    "content":"7일간 칠석기도 및 백일간 백중 지장기도 회향 안내 찌는 듯한 무더위에 불자님들 건강하시고,가정에 불은이 충만하시길 축원합니다. 아뢰올 말씀은 칠석불공 및 백중 영가천도 기도 회향에 많은 분들이 동참 하시어 무량 복덕을 지으시길 바랍니다. 칠석불공은 칠원성군(칠성님)께 불공을 드려 자손의 명과 복을 짓고자 기도 드리는 날이며, 백중은 지장기도로써 삼생의 모든 부모님과 누세종친, 원근친척 등 일체 인연 있는 영가님들의 극락왕생을 기원 하고자 천도재를 올리는 날입니다. 금월 다가오는 칠석불공과 100일간의 백중기도 회향에 불자님들께서 많이 동참 해 주시기 바라며, 하안거 백일기도 회향 법어는 8월 25일 토요일에 법주사 무상큰스님께서 해주십니다. ———–《 기 도 안 내 》———– ▶ 7일간 칠석기도일 입재 8월 11일 (음력 7월 1일) 오전 10시 30분 회향 8월 17일 (음력 7월 7일) 오전 10시 30분 ▶ 7일간 칠석기도 동참금 : 5만원 ― 국민은행 : 740901 – 01 - 250239 백창기 화암사 ― 농 협 : 453011 - 56 – 138332 백창기 화암사 ◆ 백중일 기도 회향일 : 8월 25일 토요일 (음력 7월15일) 오전 10시 30분 ◆ 하안거 해제 법어일 : 8월 25일 토요일 오전 10시 30분 ◆ 설법 : 법주사 무상 큰스님 백중기도 한가족당 백미 40kg, 칠석기도 백미 20Kg 씩 올립니다. (올린 쌀은 무료급식에 쓰여집니다.) 칠석기도 및 백중기도에 과일이나 떡, 꽃 공양을 올리실 분은 미리 말씀하시길 바랍니다. 종무소: 042-528-7209 (무우수보살) 대한불교 조계종 도솔산 화암사 사문 혜광 합장",
+},{
+    "id": "699",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_39",
+    "title": "2018년_8월_1주차_주간보호_어르신들의_활동_사진",
+    "content":"1-6uttGbnveY 2-LaSFSP4HpK 3-Tkzfoj3b3L 4-p5DcPsgOW2 5-vSMZs4xeva 6-bbNXgycf2x 7-e_1jlQLapT 8-eqBY4I3Eq9 9-e_Fll2r4PZ 브로치 만들기 어르신들이 만드신 브로치 놀이치료 ( 볼링 ) 놀이치료 ( 볼링 ) 생활체육 웃음치료 미술치료 ( 색종이 찢어 붙이기 ) 도미노 노래교실",
+},{
+    "id": "700",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_38",
+    "title": "2018년_8월_2주차_주간보호_어르신들의_활동_사진",
+    "content":"1-ZyA2KFmCjz 10-rIbPShUc7Q 2-m7lLW9hgF4 3-OdySd6n8Kg 4-BWaxPb2UmR 5-pmYyP119DQ 6-EGA1A2JgsD 7-1379YbRwlt 8-PS9ANN6Ddv 9-6kNwOpK2G6 웃음치료 인지활동 볼링놀이 퍼즐맞추기 생활체육 큐브놀이 미술활동 ( 액자 만들기 ) 손율동 노래교실 구슬꿰기",
+},{
+    "id": "701",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_37",
+    "title": "2018년_8월_3주차_주간보호_어르신들의_활동_사진",
+    "content":"1-hpQGa1jygx 10-JcrqLGh3D5 2-6mSRfDWe2V 3-HZtzklAXUI 4-xwCoffxe7v 5-q6NvW63D35 6-DI3bp92n6c 7-gIsShr32I7 8-MY7PqmSh2A 9-3ZAGQwbnxW 건강체조 콩고르기 만다라 칠교놀이 퍼즐맞추기 점선잇기 손율동 노래교실 도미노 구슬꿰기",
+},{
+    "id": "702",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_36",
+    "title": "2018년_8월_4주차_주간보호_어르신들의_활동_사진",
+    "content":"1-3vzXjJQ422 2-BJKXMwaciZ 3-LvxePoNExh 4-l9eqfEKhqy 5-K66xG9cRHU 6-5ZnyCVDCBR 7-ICdJFbh66l 8-e_Q37nseXK 9-hXbnVXBsjH 웃음치료 윷놀이 인지활동 젠가놀이 큐브놀이 구슬꿰기 노래교실 이, 미용 서비스 미술활동 ( 솟대 만들기 )",
+},{
+    "id": "703",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_35",
+    "title": "2018년_8월_5주차_주간보호_어르신들의_활동_사진",
+    "content":"1-G5DZlXYjwW 2-dIiE97wKk7 3-_ePA3D5xXT 4-YdTHXBUQK2 5-UOcCY7CRea 6-QZQJxfoBoo 7-EL6CwGTSBQ 8-41gftMTDsW 웃음치료 윷놀이 인지활동 젠가 큐브놀이 콩고르기 미술활동  (집게 장식 하기) 도미노",
+},{
+    "id": "704",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_34",
+    "title": "2018년_9월_1주차_주간보호_어르신들의_활동_사진",
+    "content":"1-OMIPb8eMXA 2-nCB7kouDYl 3-WLaa91Qu9o 4-QUBzociNit 5-dd3QvFHcnK 6-xMBOXtoZS5 7-cqzmnUxELx 8-usMrPqwyIR 9-UVmYjzzCmK 미술활동 ( 연필꽂이 만들기 ) 큐브놀이 웃음치료 낱말꿰기 볼링놀이 생활체육 산책 산책 산책",
+},{
+    "id": "705",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_33",
+    "title": "2018년_9월_2주차_주간보호_어르신들의_활동_사진",
+    "content":"1-DYkw8H1UyB 10-z3pV63yr2z 11-Idy8AxnVcW 12-IJRYuimcXV 13-t4FaVCHoWj 14-ZSNKxaPf6h 15-dm9K44wqMW 2-6k7G75LRNG 3-_tek2ZnBzP 4-WJsv76Vb5j 5-Ac1Mv32OIN 6-U8xCGoc8oE 7-rd1LmYKSes 8-Mf3V9TLOFD 9-hIbxe7eAF6 맛집탐방 (계룡시 콩밭가인) 송편빚기 웃음치료 퍼즐맞추기 민요공연 괴목정 나들이",
+},{
+    "id": "706",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_32",
+    "title": "2018년_9월_3주차_주간보호_어르신들의_활동_사진",
+    "content":"1-e_mjGxaPbN 10-iitYdpTRn3 11-M7a65ejbBo 2-DWX9I4T1Ts 3-_qbXpG1WBU 4-rUsIhcWLcp 5-L3kQCCvDES 6-BpJDhGxC2e 7-SP2xJabSgX 8-XZqOkAJlzi 9-ADdXyFvC7t 투호놀이 웃음치료 음식 나들이 ( 닭 백숙) 장태산 산책 민요공연 대청댐 산책 미술활동",
+},{
+    "id": "707",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_31",
+    "title": "2018년_9월_4주차_주간보호_어르신들의_생활_사진",
+    "content":"1-676WpKUugX 2-6eaPKX8okL 3-yUpVwSnpjf 4-d5HcjduLRk 5-yR4a5JfKDS 6-H7x5FnM5J3 7-jlP18fXaZY 8-KElq9iKp6d 미술활동 미술호할동 (오려 붙이기) 손율동 레크레이션 노래교실 도미노 생활체육 외식 나들이 외식 나들이",
+},{
+    "id": "708",
+    "url": "/resource_room/religious-life/ceremony_22",
+    "title": "2018년 백중 회향 기도 ( 2018. 08. 25  )",
+    "content":"1-fIGzLfehkJ 10-Ir79PBarZj 11-oqfsJRU7Pw 12-qmlf1norUh 13-e_MEKzPgVj 14-vh8aHWEvmZ 15-So2uiz6UCu 16-BPoz8Y4OXd 17-Dag8ckHcmf 18-QfqanmhVCI 19-x9UuzVEFZB 2-8F4m2an1u7 20-LQvwq3gy9Q 21-FbvbqCRjpA 22-ljOK35al2e 23-UbbaHj28XL 24-WbgzKfkH4E 25-CyGwbp6yX6 26-nBenZrSLJW 27-DvxytERvgE 28-yh4I7C19Hv 3-miZaPFN1DK 4-i1V6jLtvUY 5-7ut56rY71M 6-EnFogRwmLl 7-p9qiSbYuLO 8-2XVmQAWZ86 9-RqfIUxaDjl",
+},{
+    "id": "709",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_30",
+    "title": "2018년_10월_1주차_주간보호_어르신들의_활동_사진",
+    "content":"1-sv6Nf5I8YR 2-pPqrEF8yif 3-lQC4Tpwg5g 4-2jOJpICKjn 5-3JzVf5FJS7 6-WdCTFSF5Lp 7-gcDfGeuvxW 8-wybMGyEXGY 9-Jdr5YnxsFM 웃음치료 윷놀이 만다라 젠가놀이 고리던지기 고리 던지기 숫자에 맞게 색칠하기 구슬꿰기 도미노",
+},{
+    "id": "710",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_29",
+    "title": "2018년_10월_2주차_주간보호_어르신들의_활동_사진",
+    "content":"1-EHwy7sYAwz 2-S7F2DIbYq9 3-U5pf4o6b12 4-Ww2R4Ldxs6 5-4ERUhBcOlZ 6-s8Z1Mqs1i7 웃음치료 인지활동 큐브놀이 생활체육 손율동 레크레이션 점선잇기",
+},{
+    "id": "711",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_28",
+    "title": "2018년_10월_3주차_주간보호_어르신들의_활동_사진",
+    "content":"1-zoBI12Nhmt 10-LPLLrlwpYU 2-TgQ3OCaact 3-cK8OpvEA8N 4-Q73UgG5t8e 5-3Zdx7tYt5Q 6-noIee8qk8X 7-H1MGlTVGAF 8-e3M5LZCIq6 9-MbJfQff3zA 다도교실 다도교실 윷놀이 민요공연 민요공연 퍼즐맞추기 손율동 레크레이션 노래교실 콩고르기 생활체육",
+},{
+    "id": "712",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_10",
+    "title": "2018년_10월_3주차_주간보호_어르신들의_활동_사진",
+    "content":"1-poGfOdulRM 2-WHcWXf7dhS 3-rYRxQSZtck 4-BOqtyqTX3n 5-qkVdgKmw4J 6-urq4Csc3AW 7-DGsrBAGMBx 숫자색칠 칠교놀이 만다라 콩고르기 건강체조 도미노 고리던지기",
+},{
+    "id": "713",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_27",
+    "title": "2018년_10월_4주차_주간보호_어르신들의_활동_사진",
+    "content":"1-B32yE7siCw 2-8137c1h7rk 3-9P1JW9mTET 4-rqWb94bg55 5-3EStxxy8AU 6-NIqoFIshOf 7-esVQiNYH4D 8-gTivfNWH83 9-M8N93Jt6Uv 윷놀이 인지활동 민요공연 숫자색칠 큐브놀이 콩고르기 미술활동(입체 인형 만들기) 손율동 레크레이션 구슬꿰기",
+},{
+    "id": "714",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_26",
+    "title": "2018년_10월_5주차_주간보호_어르신들의_활동_사진",
+    "content":"1-lJ2gKkOlBf 2-LI2dXgdi4r 3-RSomFZ76Ia 4-Um3HXTuvSz 다도교실 생활체육 생신잔치 젠가놀이",
+},{
+    "id": "715",
+    "url": "/resource_room/notices-hwaam/life27",
+    "title": "성지순례 안내",
+    "content":"성지순례 안내 안 내 : 10월 28일 일요일 법회는 쉽니다. 장 소 : 문경 봉암사 &amp; 안동 봉정사 일 시 : 2018년 10월 28일 (일요일) 아침 6시 참 가 비 : 30,000원 대 상 : 화암사 신도 및 지인 “누구나”참여 접수문의 : 화암사 종무소 042-528-7209",
+},{
+    "id": "716",
+    "url": "/resource_room/notices-hwaam/life26",
+    "title": "오백나한대재 및 동안거 백일기도 안내문",
+    "content":"오백나한대재 및 동안거 백일기도 안내문 귀의 삼보 하옵고, 불자님 각 가정에 부처님의 자비광명이 충만하시길 기원드리며,금번 화암사 에서는 오백나한조성 불사후 두번째 오백나한대재를 봉행합니다. 오백나한대재는 일 년에 한 번씩 오백나한님께 1주일 간 기도하고, 여러 가지 공양물을 올려 불공드리고 축원 올리는 날입니다. 오백나한대재와 아울러 불기 2562년 동안거 백일기도를 봉행합니다.결재란 100일간 모든 삿된 마음과 탐․진․치 삼독심을 버리고 오로지 깨달음의 수행정진을 통하여 부처님의 혜명을 잇고 대자유의 해탈을 향하여 가는 것입니다. 이러한 불사는 모든 불사중에 가장 수승한 것이며, 마땅히 불자로서 닦아야 할 덕목인 것입니다. 백년동안 때 묻은 옷이라도 하루동안에 씻어서 깨끗하게 하는것과 같이 백 천겁 동안에 지은 모든 불선업(不善業)도 불법의 힘으로 잘 수순해서 닦으면 일시에 소멸하는 것입니다. 오백나한대재 및 큰스님 초청 법회 ● 오백나한대재 기도 입재일: 불기2562년 (양)11월 11일(일요일) 오전10시30분 기도 입재일에는 동명큰스님 초청법회가 있으니 많은 참석바랍니다 ● 기도 회양일: 불기2562년 (양)11월 18일(일요일) 오전10시30분 ● 오백나한대재 기도비: 한가족당 5만원 ● 오백나한대재 공양물: 오백나한 조성하신 분은 1인당 공양미 20kg 한포씩을 올립니다(올린 공양미는 연말에 독거노인에게 전달할 예정입니다) ▣ 동안거 결재일: 불기2562년 (양)11월 22일(음.10.15일/목요일) 오전10시30분 ▣ 동안거결재 법문: (양) 11월18 일(일요일) 오전10시30분에는 법주사 무상 큰스님의 법문이 있으니 많은 참석바랍니다 ▣ 동안거 회향일: 불기2563년 (양) 2월 19일(음.1.15일/화요일) 오전10시30분 ▣ 기도비: 일십만원 ▣ 영가위패비: 일위당 오천원 ▣ 기도접수 : 042) 528-7209(법당 직통), 488-7209 ◆ 입금계좌 : 농 협 453011-56-138332 백창기 국민은행 740901-01-250239 백창기(화암사) 종무소: 042-528-7209 (무우수보살) 대한불교 조계종 도솔산 화암사 사문 혜광 합장",
+},{
+    "id": "717",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_25",
+    "title": "2018년_11월_1주차_주간보호_어르신들의_활동_사진",
+    "content":"1-VHBCFcyS9P 2-wLlmADGr7n 3-dkiEVrQ89v 4-wozPewR1E9 5-VIPblnmJFV 6-KpN5UMVGZu 7-xjt2cvAehY 미술활동(입체도형 오려 붙이기) 손율동 레크레이션 점선잇기 노래교실 도미노 생활체육 만다라",
+},{
+    "id": "718",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_24",
+    "title": "2018년_11월_2주차_주간보호_어르신들의_생활_사진",
+    "content":"1-M8nLCm2niM 10-zmsB3xceyu 2-9mIa6i15Ng 3-AcZrbX7QWB 4-9KH64C6Wgr 5-jrPF3dEUiC 6-qcp9hx779z 7-_ULQB8SzPB 8-e_5xqiQW4l 9-MpDDG11Xwf 다도교실 윷놀이 미로찾기 퍼즐맞추기 생활체육 큐브놀이 미술활동 (입체 인형 맞추기) 손율동 레크레이션 노래교실 만다라",
+},{
+    "id": "719",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_23",
+    "title": "2018년_11월_3주차_주간보호_어르신들의_활동_사진",
+    "content":"1-4V4Qw7R1NJ 10-Y6JLIYr1cu 2-lGAA9UF9ZT 3-u8Ty8mpcVV 4-wcSFh3fG75 5-wuqhUYiJla 6-e_b4sfaRA7 7-KvljX8rLZY 8-ltP7ChVhKf 9-AN1uqjWFFz 종이접기 (모빌 만들기) 다도교실 윷놀이 낱말꿰기 생활체육 숫자색칠 구슬꿰기 도미노 노래교실 만다라",
+},{
+    "id": "720",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_22",
+    "title": "2018년_11월_4주차_주간보호_어르신들의_활동_사진",
+    "content":"1-iLU6DgURvM 2-NYDtc4IfUF 3-p5mEhr2wfO 4-SECWaLiAq1 5-DP6Fx5mNwl 6-bFKeAMeP5k 7-wzKH6cBbiv 8-HzAHVmNKOd 문인화 문인화 웃음치료 치매교육 미술활동 (입체도형 만들기) 손율동 레크레이션 생활체육 만다라",
+},{
+    "id": "721",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_21",
+    "title": "2018년_11월_5주차_주간보호_어르신들의_활동_사진",
+    "content":"1-7werkzEKC8 2-EENIJtxWrn 3-KtKAlH5HUf 4-tXufYA4Ysp 5-PW3zuJjH1n 6-F1du8wg2sM 7-3pyJ6cNfmW 다도교실 윷놀이 노래교실 생활체육 미술활동 (나뭇가지로 꾸미기) 미술활동 (나뭇가지로 꾸미기) 칠교놀이",
+},{
+    "id": "722",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_20",
+    "title": "2018년_12월_1주차_주간보호_어르신들의_활동_사진",
+    "content":"1-e_LhO1rYgR 10-add1oJGfme 2-UosgLL4hA3 3-oMpTmWs93Q 4-6xFfiH1XWw 5-GuWZuyGGKQ 6-KdPLvKJSIP 7-YK6BeVECA8 8-GtnOLGGpDS 9-lGdoh4CoCA 다도교실 노래교실 윷놀이 만다라 치매교육 치매교육 손율동 레크레이션 구슬꿰기 생활체육 도미노",
+},{
+    "id": "723",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_19",
+    "title": "2018년_12월_2주차_주간보호_어르신들의_생활_사진",
+    "content":"1-ovT1EOIA4h 10-8kzVbyD8HG 11-_YHj2msyTE 12-CdGeTZHa6V 2-XiBhrROZbo 3-96exMolOLp 4-JHkY7SNqRW 5-9yR2ui5poj 6-iRQRINIORd 7-BTvkWbBoIj 8-GXHZERzd1H 9-RzITSZgULy 다도교실 윷놀이 낱말찾기 생활체육 손율동레크레이션 퍼즐맞추기 플롯연주 플롯연주 미술활동 ( 나비만들기) 미술활동 ( 나비만들기 ) 실버들 공연단의 공연 실버들 공연단의 공연",
+},{
+    "id": "724",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_18",
+    "title": "2018년_12월_3주차_주간보호_어르신들의_생활_사진",
+    "content":"1-2R5oJEI8LC 2-vyv8VFsX7d 3-M2njQleFpY 4-UeA38H5xGu 5-kbZF47YlTT 6-fngV9XY2Rm 7-bNhluUulcY 8-cycsiZ6X6E 생신잔치 소방교육 소방교육 다도교실 손율동 레크레이션 큐브놀이 미술활동 ( 산타 할아버지 접기 ) 점선잇기",
+},{
+    "id": "725",
+    "url": "/resource_room/notices-dosolnoin/life75",
+    "title": "2018년도 도솔노인복지센터 동계 사회복지사 실습생 모집 안내",
+    "content":"도솔노인복지센터 동계 실습생 모집 모집인원 : 5명 모집방법 : 선착순 접수 (1) 도솔노인복지센터 문의(전화: 528-1080) ⇒ (2) 학과 사무실 접수 및 신청, 도솔노인복지센터로 공문발송 ⇒ (3) 도솔노인복지센터 접수 ⇒ (4) 학과 및 학생에게 통보 실습기간 (1) 2018. 12. 10. ~ 12. 31. (3주간: 120시간) (2) 2019. 1. 2. ~ 1. 31. (4주간: 160시간) 실습기간 및 시간은 사전 조정 실습시간: 1일 8시간(주 5일) 실 습 비: 10만원(식비포함) 문의 (042) 528-1080",
+},{
+    "id": "726",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_17",
+    "title": "2018년_12월_4주차_주간보호_어르신들의_생활_사진",
+    "content":"1-TfbLzNRQOQ 2-V6dV4URpyR 3-PylHH1VBkT 4-Zgc9EfTxFY 5-6bMBaKdhAd 6-p9NjYfCyZs 7-C2PgCyo5n8 8-WFkTGQAy8e 윷놀이 인지활동 숫자색칠하기 콩고르기 큐브놀이 미술활동 (  감 만들기 ) 미술활동 ( 감 만들기 ) 손율동 레크레이션",
+},{
+    "id": "727",
+    "url": "/resource_room/notices-hwaam/ceremony_info21",
+    "title": "20181216_일요법회",
+    "content":"2018년 12월 16일 일요법회 1 2",
+},{
+    "id": "728",
+    "url": "/resource_room/notices-hwaam/life28",
+    "title": "3일 간 동지기도 안내",
+    "content":"3일 간 동지기도 안내 삼재가 드는 뱀띠,소띠,닭띠와 나가는 말띠, 개띠, 범띠는 삼재 소멸하는 팥을 신중님께 올리면 삼재가 소멸되고 삼재가 들지 않은 분들도 팥 공양을 올리면 재난과 재앙이 새해에 없어지기를 기원 드리는 불공입니다. 올해도 화암사에서는 동지 불공을 봉행 하오니, 두루 동참하시어 지난 업장과 액난을 소멸하시고 마음속으로 염원하는 일들을 모두 성취하시기 바랍니다. 　 입 재 일 : 2018년 12월 20일, 목요일 (음력 11월 14일) 회 향 일 : 2018년 12월 22일, 토요일 (음력 11월 16일) 시 간 : 오전 10시/오후 2시/ 삼재 소멸 저녁기도 오후 7시 ~ 9시 동 지 시 : 2018년 12월 22일, 오전 7시23분 기도 동참금 : 5만원 과일 / 떡 / 꽃 / 팥 공양 하실 분은 미리 접수 바랍니다. 기도접수 : 042) 488-7209, 528-7209 종무소 입금계좌 : 농협 453011-56-138332 / 국민 740901-01-250239 (백창기)화암사",
+},{
+    "id": "729",
+    "url": "/resource_room/notices-hwaam/life29",
+    "title": "목종스님 초청 법회",
+    "content":"목종스님 초청 법회 목종스님 법문을 통해 미혹의 중생 세계에서 깨달음의 부처의 세계로 나가시길 바랍니다. 일 시 : 2018년 12월 30일 일요일 (오전10시30분) 설 법 : 목종스님 (부산 대광명사 주지) 목종스님 약력 : 대한불교 조계종 대광명사 주지, 대한불교 조계종 부산연합회 사무총장, 달라 이라마 방한 추진위원회, (사)생명나눔실천 부산 부본부장, BBS불교부산방송”월요법문”진행자 등 송구영신 법회 : 12월 31일 저녁 8시부터 윷놀이 및 새벽 예불",
+},{
+    "id": "730",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_16",
+    "title": "2019년_1월_1주차_주간보호_어르신들의_활동_사진",
+    "content":"1-C9s69C9r9F 10-ZB6azOBuAH 2-9MEQE2ShDj 3-xHWw8a6JuM 4-kACkDmoAXn 5-k7t2ea1Hd6 6-V8HIq1ptl3 7-IQXDN6R5dr 8-nXEZOTk1nd 9-zjVDoaejLM 건강체조 숫자색칠 큐브놀이 미술활동 (색종이 찢어 붙이기 ) 미술활동 ( 색종이 찢어 붙이기 ) 손율동 레크레이션 점선잇기 구슬꿰기 낱말찾기 노래교실",
+},{
+    "id": "731",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_15",
+    "title": "2019년_1월_2주차_주간보호_어르신들의_활동_사진",
+    "content":"1-ZChJroPH2s 10-Bv19Qjs3V1 11-DBINRS3iBH 2-XBynbdxcMs 3-mvU6wZPmAZ 4-fLb2xRYdCz 5-ey6moKfzq9 6-IaILSR7iwN 7-W5OhninKrR 8-b7DU5cZr6R 9-V9rR2dL6La 미숧활동 ( 입체 오뚜기 원숭이 인형 만들기 )미숧활동 ( 입체 오뚜기 원숭이 인형 만들기 ) 다도교실 윷놀이 가사쓰기 만다라 만다라 작품 콩고르기 손율동 레크레이션 건강체조 낱말찾기",
+},{
+    "id": "732",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_14",
+    "title": "2019년_1월_3주차_주간보호_어르신들의_활동_사진",
+    "content":"1-3NUr8R1HVR 10-6CjMbYPMdU 2-MVjopE34QO 3-wWtWH4TtIY 4-q5wZAXIham 5-NwKzsF7Iiv 6-xRIQrogwJM 7-z7PjmXcQFk 8-KWm2QbkzOs 9-kYWIxN8z15 인지활동 다도교실 윷놀이 가사쓰기 퍼즐맞추기 콩고르기 큐브놀이   생활체육 미술활동 (입체 인형 만들기) 낱말찾기",
+},{
+    "id": "733",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_13",
+    "title": "2019년_1월_4주차_주간보호_어르신들의_생활_사진",
+    "content":"1-_T4p9YJTp7 2-kGDYZsDoia 3-sc9HOyjY5f 4-kpxpJYvWNK 5-4FJTmSQlZS 6-pX6evaYb35 7-KSD1zLjJkd 8-bnftlcozRg 9-VCKGWrYFXU 고리 던지기 인지활동 가사쓰기 만다라 생활체육 미술활동 ( 입체 인형 만들기 ) 실버들 공연단의 공연 실버들 공연단의 공연 실버들 공연단의 공연",
+},{
+    "id": "734",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_12",
+    "title": "2019년_1월_5주차_주간보호_어르신들의_생활_사진",
+    "content":"1-619OAjlE9R 2-XPusQyqvDk 3-_KBceNKEjw 4-pnH7NapZw6 5-_CxE6j25pe 6-lOMFlWF1OT 7-SBH6L6gfRA 8-OSqcD2fdoc 도미노 도미노 윷놀이 퍼즐맞추기 생활체육 큐브놀이 미술활동 ( 색종이 찢어 붙이기 ) 손율동 레크레이션",
+},{
+    "id": "735",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_11",
+    "title": "2019년_2월_1주차_주간보호_어르신들의_생활_사진",
+    "content":"1-ecJugCsGAV 2-en6sTPgAhZ 3-iBzbhtSp6o 4-8qoxTBRIhD 5-VulNQJFZwU 6-fISZ1QiOl9 7-LBfrWkuzhS 8-rgLZyQRuKj 미술활동 ( 입체 인형 만들기  ) 미술활동 ( 입체 인형 만들기  ) 점선잇기 생활체육 노래교실 낱말찾기 미술활동 ( 모자이크 ) 인지활동",
+},{
+    "id": "736",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_10",
+    "title": "2019년_2월2주차_주간보호_어르신들의_생활_사진",
+    "content":"1-e_i8iv1oLp 2-2Aur43g1C2 3-WRjOYiIfqT 4-CWvra88PLI 5-4K5LtzFyPe 6-2NcQrfeA3o 7-Kwb9IP6aSD 8-6zjQCwBM1j 9-SOv17Db1MT 오재미 던지기 윷놀이 칠교놀이 생활체욱 큐브놀이 손율동 레크레이션 구슬꿰기 만다라 모자이크",
+},{
+    "id": "737",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_9",
+    "title": "2019년_2월_3주차_주간보호_어르신들의_생활_사진",
+    "content":"1-dPPWw8EeNm 10-HWJ5ZyKUew 2-AJV4KT478f 3-NuXHBgKz38 4-xYRpTSk6ph 5-UJIDImcgvR 6-e_FyIZhakT 7-X38EttwqCU 8-QjLJmUFsKU 9-sfbhYHJiim 생신잔치 투호던지기 퍼즐맞추기 만다라 생활체육 큐브놀이 손율동 레크레이션 미술활동 ( 입체인형 만들기) 구슬꿰기 모자이크",
+},{
+    "id": "738",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_8",
+    "title": "2019년_2월_4주차_주간보호_어르신들의_생활_사진",
+    "content":"1-uNXImula9a 2-xsEFEmFjMy 3-wjqFiMNkuA 4-xTIjpLpy7Y 5-Spd7Ng8wxi 6-O6xwCZ1Wnn 7-tq3KXMniPJ 8-gtEilscotf 볼링놀이 인지활동 가사쓰기 숫자색칠 콩고르기 미술활동  ( 입체 인형 만들기 ) 손율동 레크레이션 점선잇기",
+},{
+    "id": "739",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_7",
+    "title": "2019년_3월_1주차_주간보호_어르신들의_생활_사진",
+    "content":"1-pXDqE4ZxRh 2-LMrSNMVMcI 3-YNmm3ldCDI 4-Qw6ipzdJxs 5-oIFxbpXJrG 6-V4DI8ovSQQ 7-e_VxD8d9fL 8-ES9MUXLjjf 9-bO4cbYW4ZU 투호던지기 칠교놀이 모자이크 어르신들의 모자이크 작품 큐브놀이 손율동 레크레이션 실버들 공연단의 공연 공연단과 어르신의 즐거운 시간 실버들 공연단의 공연",
+},{
+    "id": "740",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_6",
+    "title": "2019년_3월_2주차_주간보호_어르신들의_생활_사진",
+    "content":"1-scXV2Ztfsa 2-sL73uR2wHH 3-_lE1uHTH5X 4-IhV9zoXkbv 5-yOThtmnR9d 6-VZnhNQBzyD 7-vNjPsHxha8 8-7smuFNIHus 9-MCdJSpvebi 생신잔치 풍선배구 칠교놀이 만다라 생활체육 구슬꿰기 노래교실 콩고르기 큐브놀이",
+},{
+    "id": "741",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_5",
+    "title": "2019년_3월_3주차_주간보호_어르신들의_활동_사진",
+    "content":"1-W8I28N5Vi3 10-3TN6uwQAT7 2-63jOBMk7RM 3-qJz5hjLhi1 4-8ObFY66AFW 5-hmt29AALtV 6-IbkK7u2iIK 7-e_7jNZwzm2 8-cJLaodPXse 9-amJC2Q47JC 윷놀이 풍선배구 만다리 칠교놀이 노래교실 노래교실 큐브놀이 손율동 레크레이션 미술활동 ( 입체 인형 만들기 ) 생활체육",
+},{
+    "id": "742",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_4",
+    "title": "2019년_3월_4주차_주간보호_어르신들의_활동_사진",
+    "content":"1-fMFaiFY6XM 2-vdDCpkDMsy 3-_Bixj6kMQh 4-q1CmFUNj6p 5-1u6E5neEnv 6-qqHEuKAJ1u 7-VgIjPHIbWF 8-CabA3ZUIi4 풍선배구 가사쓰기 만다라 생활체육 콩고르기 손율동 레크레이션 미술활동 노래교실",
+},{
+    "id": "743",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_3",
+    "title": "2019년_4월_1주차_주간보호_어르신들의_생활_사진",
+    "content":"1-xmxBtEVICo 10-qe6EB9SsIX 11-RdkCO5NRNt 12-Ji8yTplPCb 2-41BZmE4Obr 3-QGeOutNeyA 4-q7pDphisNf 5-rXVl6tULkb 6-eobzEoxqL4 7-EmhPuUUvOt 8-FGmMuPu5Wt 9-wwE9wBKb53 윷놀이 풍선배구 인지활동 노래교실 생신잔치 생활체육 콩고르기 큐브놀이 미술활동 손율동레크레이션 구슬꿰기 만다라",
+},{
+    "id": "744",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2",
+    "title": "2019년_4월_2주차_주간보호_어르신들의_활동_사진",
+    "content":"1-vaAZxMbk9U 10-_hSb6FMSLc 2-rPfxyvK885 3-MKKsaVBEKk 4-WJX47EgpOr 5-ocqSylwRQu 6-9EvlCTZrt8 7-Ri7xhIyX88 8-2aEPXQfLHr 9-UhUhpuVHCk 윷놀이 가사쓰기 칠교놀이 노래교실 생활체육 큐브놀이 만다라 손율동레크레이션 구슬꿰기 숫자색칠",
+},{
+    "id": "745",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1",
+    "title": "2019년_4월_3주차_주간보호_어르신들의_활동_사진",
+    "content":"1-ymLojHPK8c 10-8pRBmr8yaD 2-em81QhhjNA 3-8nry1LWVL6 4-PvwfHTkE7q 5-Laj1ebuuTq 6-uKZ58sStJx 7-2nt3iBSc3d 8-SGHFEb3jYL 9-h7hDrRBDQA 인지활동 풍선배구 생활체육 노래교실 콩고르기 점선잇기 손율동 레크레이션 실버들공연 실버들공연 실버들공연",
+},{
+    "id": "746",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_0",
+    "title": "2019년_4월_4주차_주간보호_어르신들의_활동_사진",
+    "content":"1-jxtonvILPU 2-e_5fCCOZi8 3-xuG3dGKEEU 4-SlkOkmgL6n 5-o9p36PdAg7 6-O2MNfplSwf 7-RCl2IMLIRW 8-_u5mrfmqDP 9-e_3RNiySxr 풍선배구 칠교놀이 노래교실 큐브놀이 미술활동 손율동 레크레이션 생활체육 만다라 구슬꿰기",
+},{
+    "id": "747",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_84",
+    "title": "2019년_5월_1주차_주간보호_어르신들의_생활_사진",
+    "content":"1-5jDc9tHw4r 2-tBcujPe5dP 3-uUf9jFMtZD 4-Lyd9uUB5IG 5-Qa4cIhX8jv 6-ExsVQsKWDJ 7-_vmTH7xE87 8-B2At3kONfa 윷놀이 손율동 레크레이션 인지활동 가사쓰기 노래교실 미술활동 (수박접기) 풍선배구 노래교실",
+},{
+    "id": "748",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_83",
+    "title": "2019년_5월_2주차_주간보호_어르신들의_생활_사진",
+    "content":"1-bRLzCX45H3 2-_1LnXc712Q 3-rgnYagmeJk 4-Ze8LJrtgjn 5-7JEW8hzaQG 6-_woTVTzCeg 7-AxrdImR8aq 8-e_CeZBYd4d 노래교실 콩고르기 큐브놀이 미술활동 미술활동 손율동 레크레이션 생활체육 구슬꿰기",
+},{
+    "id": "749",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_82",
+    "title": "2019년_5월_3주차_주간보호_어르신들의_생활_사진",
+    "content":"1-_FWHjXI5Ax 2-h8i24mmf5v 3-PKaQuEvyHU 4-xEZMxqnKWh 5-girRvhMRFf 6-KS7Rs5asrw 7-itghPyhG2p 8-poeHn8nmRp 9-zTSSHKqffd 만다라 칠교놀이 노래교실 생활체육 종이접기 꽃 먼들기 손율동 레크레이션 노래교실",
+},{
+    "id": "750",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_81",
+    "title": "2019년_5월_4주차_주간보호_어르신들의_생활_사진",
+    "content":"1-13g12yazIu 2-t5xaPWtS4e 3-yqMPw5q9TY 4-JxKVv6TGvE 5-rTdFFS4Fav 6-4Q4YLpzfMV 7-zL65NUt7Tg 8-2vA5JjzKJi 생신잔치 풍선배구 인지활동 만다라 칠교놀이 노래교실 선율동 레크레이션 숫자색칠",
+},{
+    "id": "751",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_80",
+    "title": "2019년_5월_5주차_주간보호_어르신들의_활동_사진",
+    "content":"1-Xlitw5FKYT 2-D4feJInzbw 3-KyNhTrAiAh 4-WxiMzTpypA 5-oMyMRJEVGo 6-zMIpATAUXL 7-AHd44x1WmI 8-zUzV6bnJii 9-6HUuodT2Ix 윷놀이 인지활동 칠교놀이 만다라 콩고르기 큐브놀이 미숧활동 손율동 레크레이션 생활체육",
+},{
+    "id": "752",
+    "url": "/resource_room/religious-life/life9",
+    "title": "2019년 5월 12일 부처님 오신날(1)",
+    "content":"2019부처님오신날1-1 2019부처님오신날1-10 2019부처님오신날1-11 2019부처님오신날1-12 2019부처님오신날1-2 2019부처님오신날1-3 2019부처님오신날1-4 2019부처님오신날1-5 2019부처님오신날1-6 2019부처님오신날1-7 2019부처님오신날1-8 2019부처님오신날1-9",
+},{
+    "id": "753",
+    "url": "/resource_room/religious-life/life8",
+    "title": "2019년 5월 12일 부처님 오신날(2)",
+    "content":"201905부처님오신날2-1 201905부처님오신날2-2 201905부처님오신날2-3 201905부처님오신날2-4 201905부처님오신날2-5 201905부처님오신날2-6 201905부처님오신날2-7 201905부처님오신날2-8 201905부처님오신날2-9",
+},{
+    "id": "754",
+    "url": "/resource_room/religious-life/life7",
+    "title": "2019년 5월 12일 부처님 오신날(3)",
+    "content":"201905부처님오신날3-1 201905부처님오신날3-2 201905부처님오신날3-3 201905부처님오신날3-4 201905부처님오신날3-5 201905부처님오신날3-6 201905부처님오신날3-7 201905부처님오신날3-8 201905부처님오신날3-9",
+},{
+    "id": "755",
+    "url": "/resource_room/religious-life/ceremony_24",
+    "title": "2019년 5월 4일 경로잔치 1",
+    "content":"1-k7UTl9Kgrx 10-LJoY4Yx1mF 11-yw7rnTPSvm 12-W5Sq8u9nNJ 2-2rgVYFvfEZ 3-e_bDLHqMKc 4-wO1vR7hKdU 5-sGfCsSeYGV 6-AqBloPWAF2 7-_E3tydpBzU 8-jsvVZjsxvA 9-XcUpVIiI6T",
+},{
+    "id": "756",
+    "url": "/resource_room/religious-life/ceremony_25",
+    "title": "2019년 5월 4일 경로잔치 2",
+    "content":"1-5SSfp2NvJ1 10-eVjtNkmpx1 11-iOFgkh4Sr5 12-fdVmfqgfmE 2-mfiBjJUsJk 3-cPgGaBgqZV 4-_CoVzYNIPQ 5-8vNt9b2AE6 6-bh6nNNNXXg 7-xSutaUh6qp 8-KUoPRzODgD 9-VYOswS48Uz",
+},{
+    "id": "757",
+    "url": "/resource_room/religious-life/ceremony_26",
+    "title": "2019년 5월 4일 경로잔치 3",
+    "content":"1-r7LsN4rJ9A 10-oYrnzBcuXF 2-CTUcSLUFkE 3-bhKcgeqwQo 4-HC6JCSqOzn 5-AqgBAOhKpc 6-tmhGFlhkzp 7-OctadmG3fp 8-uRyzFGOJTC 9-bpRgc61yui",
+},{
+    "id": "758",
+    "url": "/resource_room/religious-life/ceremony_27",
+    "title": "2019년 5월 12일 부처님 오신날 꽃꽂이 1",
+    "content":"1-X8PavManRN 10-e_HUmF9ygj 11-mjzx6iUPsx 2-IDxzsUrrxG 3-gOj3WKhLLA 4-7QjzUgK73t 5-7aRgND3hSl 6-i8RjXT6T5R 7-HYQCZ7HcHz 8-HzdWtIhJQE 9-6FHeWU9gld",
+},{
+    "id": "759",
+    "url": "/resource_room/religious-life/ceremony_28",
+    "title": "2019년 5월 12일 부처님 오신날 꽃꽂이 2",
+    "content":"1-QOxVvDR5z3 2-8dW3kogZmr 3-fNziUpe6mJ 4-9vntjMUChl 5-AD6sdGn63U 6-JERGGhqcAv 7-xMkE5eyMDA 8-GMqb1MlVfq 9-RMMtoh9Ghe",
+},{
+    "id": "760",
+    "url": "/resource_room/religious-life/ceremony_29",
+    "title": "2019년 5월 12일 부처님오신날 꽃꽂이 3",
+    "content":"",
+},{
+    "id": "761",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_79",
+    "title": "2019년_6월_1주차_주간보호_어르신들의_활동_사진",
+    "content":"1-_wbtIbm97q 2-x8eYotiJNE 3-SvTmD4ojnX 4-ErrrRV6SzZ 5-3PbrLFnap2 6-jXpbdlpmfh 7-lLSn5SxlJL 8-Pwa8UsaLys 칠교놀이 낱말찾기 만다라 풍선배구 노래교실 생활체육 구슬꿰기 숫자색칠",
+},{
+    "id": "762",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_78",
+    "title": "2019년_6월_2주차_주간보호_어르신들의_활동_사진",
+    "content":"1-MgZzHMcHEE 2-ER3wfWRntq 3-IJYgz4rRi6 4-zDqVIMh5Rk 5-TjNcB8hzE5 6-PJ6Kzgeebj 7-GRqBZdZM7W 인지활동 노래교실 생활체육 소방교육 소방교육 손율동레크레이션 숫자색칠",
+},{
+    "id": "763",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_77",
+    "title": "2019년_6월_3주차_주간보호_어르신들의_활동_사진",
+    "content":"1-oqaBjtA1Qq 2-ZsxnI9ZuwO 3-frHSG4g5Ed 4-6Otgeqtnjl 5-ixfKcqNLEo 6-e_nt2GWBFf 7-UZX3mdPZFY 칠교놀이 인지활동 낱말찾기 콩고르기 손율동 레크레이션 점선잇기 생활체육",
+},{
+    "id": "764",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_76",
+    "title": "2019년_6월_4주차_주간보호_어르신들의_활동_사진",
+    "content":"1-Ll44uMQ9li 2-Db7YnyPufr 3-WmtfMzr4PR 4-SI9haCNzgs 5-UOpKeythsv 6-Kr4xCSZaZQ 7-7JDvigH76K 8-A6ot9i5uoM 칠교놀이 만다라 노래교실 노래교실 손율동 레크레이션 미술활동 구슬꿰기",
+},{
+    "id": "765",
+    "url": "/resource_room/notices-dosolnoin/life76",
+    "title": "2019년도 도솔노인복지센터 하계 사회복지사 실습생 모집 안내",
+    "content":"도솔노인복지센터 하계 실습생 모집 모집인원 : 5명 모집방법 : 선착순 접수 (1) 도솔노인복지센터 문의(전화: 528-1080) ⇒ (2) 학과 사무실 접수 및 신청, 도솔노인복지센터로 공문발송 ⇒ (3) 도솔노인복지센터 접수 ⇒ (4) 학과 및 학생에게 통보 실습기간 (1) 2019. 7. 1. ~ 7. 19. (3주간: 120시간) (2) 2019. 7. 22. ~ 8. 9. (3주간: 120시간) 실습기간 및 시간은 사전 조정 실습시간: 1일 8시간(주 5일) 실 습 비: 10만원(식비포함) 문의 (042) 528-1080",
+},{
+    "id": "766",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_75",
+    "title": "2019년_7월_1주차_주간보호_어르신들의_활동_사진",
+    "content":"1-_kHwkzwUQN 2-rha9EA2Srb 3-F4uL976EUe 4-6eJdfQumYx 5-5iLSiGHj5E 6-yCY4LtNz6h 7-26iYhI1yge 8-e_YR4Fqj3a 9-KXERhwz7eS 가사쓰기 윷놀이 낱말칮기 노래교실 노래교실 생활체육 미술활동 미술활동 구슬꿰기",
+},{
+    "id": "767",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_74",
+    "title": "2019년_7월_2주차_주간보호_어르신들의_활동_사진",
+    "content":"1-e_IcjURNXp 10-_XqzdnDQrO 11-g2WT67OwYa 2-XcSvlsZKGH 3-J4GqyubNra 4-iJtATGt5gP 5-Etz3ASrzht 6-e69aTyv1hA 7-dmHegNoPP9 8-fHU1j3P2OG 9-fgz4gwqmdm 윷놀이 만다라 낱말찾기 풍선배구 노래교실 생활체육 큐브놀이 손율동 레크레이션 미술활동 구슬꿰기 숫자색칠",
+},{
+    "id": "768",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_73",
+    "title": "2019년_7월_3주차_주간보호_어르신들의_활동_사진",
+    "content":"1-GaLgX9kYKg 10-51lrH2V5OV 11-fhtYyRbRwQ 12-APLoXCCpDF 2-KyyfD5GSCQ 3-GM29zUUuEo 4-EQXcmlJnKH 5-R8IbfvVALb 6-_zNerP3bz3 7-OxCpB6fV5l 8-MWA81xOJe5 9-e_P9vGYmeS 가사쓰기 생신잔치 생신잔치 인지활동 만다라 고리던지기 노래교실 생활체육 모자이크 볼링놀이 실버들 공연 실버들공연",
+},{
+    "id": "769",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_72",
+    "title": "2019년_7월_4주차_주간보호_어르신들의_활동_사진",
+    "content":"1-ln8RIdvH7f 2-nN7hUD2yfC 3-dbuLWFVpCu 4-ovvk9ADcoW 5-bdvYdmzPId 6-lTjQhTXpwO 7-tkne1WrbXj 8-9SkDoxb8hb 윷놀이 낱말찾기 미술활동 손율동 레크레이션 점선잇기 노래교실 숫자색칠 구슬꿰기",
+},{
+    "id": "770",
+    "url": "/resource_room/notices-hwaam/life30",
+    "title": "성오 큰스님 초청 법회",
+    "content":"성오 큰스님 초청 법회 씨앗을 뿌려야 싹이열려 열매를 거두는 세상의 이치와 같이 수행에도 시간을 투자해야 성취가 있습니다. 일 시 : 2019년 7월 28일 일요일 (오전10시30분) 설 법 : 성오큰스님 (홍원사 주지)",
+},{
+    "id": "771",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_70",
+    "title": "2019년_8월_2주차_주간보호_어르신들의_활동_사진",
+    "content":"1-hsTLlcjnmD 10-HtRcrc5krg 11-Qzq9ZDV88W 2-Y54FXO6hyx 3-RRXUrgoPgT 4-teQqiDLt14 5-e_OisJFKXj 6-TRWZKFP5VA 7-XpaPnNvpJY 8-v7HAMT82aR 9-_BYoQ2j6KA 가사쓰기 윷놀이 인지활동 풍선배구 생활체조 표현놀이 칠교놀이 손율동 레크레이션 큐브놀이 노래교실 점선그리기",
+},{
+    "id": "772",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_69",
+    "title": "2019년_8월_3주차_주간보호_어르신들의_활동_사진",
+    "content":"1-AlBDsIPQYq 10-9XpbQ6MCA5 11-Ucvzl8ZkmI 2-gbpcfJdlma 3-YQyGlDSwbn 4-4nEc7krMbC 5-e_CftHiXyc 6-avOMB9nkWq 7-pWhcLy2hyY 8-hl2oJBGwdW 9-bx35U53F78 윷놀이 가사쓰기 구슬꿰기 만다라 풍선배구 노래교실 표현놀이 칠교놀이 생활체육 점선그리기 낱말찾기",
+},{
+    "id": "773",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_68",
+    "title": "2019년_8월_4주차_주간보호_어르신들의_활동_사진",
+    "content":"1-HhjatsMPkE 2-TAr9hWW1L1 3-_hMyIpvne5 4-Z3BcJXK3O8 5-uNNU6lCYu4 6-GVAJ4jv6UN 7-r52FckGpTK 8-Tc4jFVHL72 인지활동 건강체조 풍선배구 노래교실 미술활동 손율동 레크레이션 큐브놀이 점선그리기",
+},{
+    "id": "774",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_67",
+    "title": "2019년_8월_5주차_주간보호_어르신들의_활동_사진",
+    "content":"1-UFVleG4Y8I 2-e_T7GxDqIk 3-5IiM9VKkOQ 4-H9PwVE8hpD 5-LCUrTmMRjz 6-XGcAxPIvxp 7-TiH7BCwCvR 민요교실 건강체조 구슬꿰기 생활체육 표현놀이 손율동 레크레이션 미술활동",
+},{
+    "id": "775",
+    "url": "/resource_room/religious-life/life6",
+    "title": "2019년 8월 15일 백중기도 회향",
+    "content":"201908백중기도회향-1 201908백중기도회향-10 201908백중기도회향-11 201908백중기도회향-12 201908백중기도회향-2 201908백중기도회향-3 201908백중기도회향-4 201908백중기도회향-5 201908백중기도회향-6 201908백중기도회향-7 201908백중기도회향-8 201908백중기도회향-9",
+},{
+    "id": "776",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_66",
+    "title": "2019년_9월_1주차_주간보호_어르신들의_활동_사진",
+    "content":"1-cQuR46g4ES 2-eqcU3FwcuC 3-zs8ghKKW9u 4-Wg5rBW7Znf 5-iK9pLO8OER 6-NCKhClMIIR 7-dk9HxVVonx 8-8qysOXlc7c 9-JzWEM8Fdw1 민요교실 구슬꿰기 풍선배구 만다라 생활체육 콩고르기 미술활동 손율동 레크레이션 윷놀이",
+},{
+    "id": "777",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_65",
+    "title": "2019년_9월_2주차_주간보호_어르신들의_활동_사진",
+    "content":"1-2xsV3YzziB 2-Zca1C9qiNG 3-exxIvjZIsS 4-EVgyloBcll 5-_l4PiTR2Xh 6-5tusklIbEm 7-9QSCjLfdVd 8-vMLpMaWn3M 숫자색칠 민요교실 가사쓰기 풍선배구 구슬꿰기 생활체육 윷놀이 콩고르기",
+},{
+    "id": "778",
+    "url": "/resource_room/religious-life/life5",
+    "title": "2019년 8월 31일 마음치유 야외 음악회",
+    "content":"201908마음치유음악회-1 201908마음치유음악회-10 201908마음치유음악회-11 201908마음치유음악회-12 201908마음치유음악회-2 201908마음치유음악회-3 201908마음치유음악회-4 201908마음치유음악회-5 201908마음치유음악회-6 201908마음치유음악회-7 201908마음치유음악회-8 201908마음치유음악회-9",
+},{
+    "id": "779",
+    "url": "/resource_room/religious-life/life4",
+    "title": "2019년 8월 31일 마음치유 야외 음악회 동영상",
+    "content":"",
+},{
+    "id": "780",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_64",
+    "title": "2019년_9월3주차_주간보호_어르신들의_활동_사진",
+    "content":"1-8jP6DoKg37 2-a5l9GvzkUW 3-aX5phI5m9C 4-asXLNREBeI 5-erT5xspJB7 6-SFmOLh6YJk 7-8gbMeJ9C5J 8-vsknVZ5ShB 9-_bmSXZYNvH 민요교실 인지활동 만다라 미술활동 (퍼즐맞추기) 큐브놀이 손율동 레크레이션 생활체육 낱말찾기 만다라",
+},{
+    "id": "781",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_63",
+    "title": "2019년_9월_4주차_주간보호_어르신들의_활동_사진",
+    "content":"1-oI6IUdqkkL 2-Dxt4jU2chP 3-T8pvBBLxQ2 4-1qedVMQWVH 5-wiGIUAk91M 6-ymDGr9ECvZ 7-c9dpwWlcje 8-2ZPCtmWkzq 민요교실 건강체조 생활체육 미술활동 손율동 레크레이션 점선 그리기 윷놀이 칠교놀이",
+},{
+    "id": "782",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_62",
+    "title": "2019년_10월_1주차_주간보호_어르신들의_활동_사진",
+    "content":"1-e_vFdHUDIl 2-zlM3uoHMbH 3-wEtrgT8g7D 4-EVCGohU1T6 5-Gi3YLRMgFR 6-jaxO35OCPz 7-nsyBfnULUt 구슬꿰기 풍선배구 숫자색칠 생활체육 민요교실 점선잇기 만다라",
+},{
+    "id": "783",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_61",
+    "title": "2019년_10월_2주차_주간보호_어르신들의_활동_사진",
+    "content":"1-eBourwn2sL 2-wK8Upto7iq 3-GWzFBfZGKo 4-yOiiom39OA 5-qctKMoQp5V 6-WIfR4w9iCf 7-2YdA3LYPRR 8-8jowb1YnDV 9-Brhz43qpJM 가사쓰기 민요교실 인지활동 건강체조 큐브게임 손율동 레크레이션 생활체육 윷놀이 낱말찾기",
+},{
+    "id": "784",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_60",
+    "title": "2019년_10월_3주차_주간보호_어르신들의_활동_사진",
+    "content":"1-JyvbYJxfnt 2-5nlvtnQSNa 3-LMgAaCrVXE 4-jtVSgk2JKg 5-OHJqvwa8Rs 6-wnMjLInldc 7-VOxsbnKICm 8-9eUWJBVGv5 9-9loGgLlNDa 민요교실 풍선배구 건강체조 콩고르기 숫자색칠 손율동 레크레이션 미술활동 (퍼즐맞추기) 큐브게임 윷놀이",
+},{
+    "id": "785",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_59",
+    "title": "2019년_10월4주차_주간보호_어르신들의_활동_사진",
+    "content":"1-PK9FNPE2YI 10-LxNkU8D8cy 2-je7p1JPw7f 3-29WKRODIiT 4-AuGfHCiuqm 5-AuqHPtsetq 6-xTzQfKxjoF 7-8mr8pqpmwj 8-MTSzqnHnsV 9-N68vFkIjiD 가사쓰기 민요교실 구슬꿰기 숨은 그림 색칠 만다라 생활체육 콩고르기 손율동 레크레이션 큐브놀이 윷놀이",
+},{
+    "id": "786",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_58",
+    "title": "2019년_10월5주차_주간보호_어르신들의_활동_사진",
+    "content":"1-eawUMs1F1M 2-e_sx7MOwFJ 3-deXhzdKUiU 4-vvty55AJrr 5-lA2LpV46x8 6-8rNme7Ydi6 7-cqzjEdNeO9 8-GjtHx3QRVs 민요교실 인지활동 건강체조 생활체육 숫자색칠 미술활동 (단풍 나무 꾸마기) 미술활동 (단풍나무 꾸미기) 손율동 레크레이션",
+},{
+    "id": "787",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_57",
+    "title": "2019년_11월_1주차_주간보호_어르신들의_활동_사진",
+    "content":"1-y8TY6J78aN 10-vXazgjnpoS 2-H15O4e8xSS 3-e_PE4dwPcY 4-lRzOPRZvIH 5-jJqKW7I2bo 6-T5MFkPQZVb 7-HRUx8Vfkxc 8-DWmXe9y2Mi 9-YCRicCIAoG 윷놀이 건강체조 민요교실 숫자색칠 표현놀이 미술활동 손율동 레크레이션 큐브놀이 낱말찾기 생활체육",
+},{
+    "id": "788",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_56",
+    "title": "2019년_11월_2주차_주간보호_어르신들의_활동_사진",
+    "content":"1-_ehphaL41e 2-usnRjHLKeE 3-NSw81TmAM2 4-5ucKrBpX3U 5-GB6cpbVHIs 6-GLekRGq249 7-fp3NzwOzPq 8-9KGsLN4tnK 9-UbdiiIjg2v   만다라   민요교실 가사쓰기 구슬꿰기 콩고르기 생활체육 점선잇기 윷놀이 낱말칮기",
+},{
+    "id": "789",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_55",
+    "title": "2019년_11월_3주차_주간보호_어르신들의_활동_사진",
+    "content":"1-Ow3NDHUG6c 10-O8XsdxqYmc 2-dDuRHk6aNL 3-w4oHM9aS78 4-xV6VA17WNs 5-3sMmwYemxB 6-FeTHDqxiaR 7-KPQwuhZYDs 8-9wyIVyHMx1 9-1ggLCG8AWu 인지활동 구슬꿰기 표현놀이 미술활동 미술활동 작품 큐브놀이 손율동 레크레이션 생활체육 윷놀이 만다라",
+},{
+    "id": "790",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_54",
+    "title": "2019년_11월_4주차_주간보호_어르신들의_활동_사진",
+    "content":"1-SQIsru1JF2 2-XatQ2HUw6r 3-qegVPR5LaU 4-_dr27cIxa5 5-t6xQYaNMPL 6-5puJz3CAsP 7-oWYTk2Yjr8 8-59u6v94V79 민요교실 풍선배구 생활체육 표현놀이 콩고르기 미술활동 칠교놀이 생신잔치",
+},{
+    "id": "791",
+    "url": "/resource_room/religious-life/life3",
+    "title": "2019년 사랑의 김장 나누기(2019.11.27)",
+    "content":"2019김장나누기-1 2019김장나누기-10 2019김장나누기-11 2019김장나누기-12 2019김장나누기-2 2019김장나누기-3 2019김장나누기-4 2019김장나누기-5 2019김장나누기-6 2019김장나누기-7 2019김장나누기-8 2019김장나누기-9",
+},{
+    "id": "792",
+    "url": "/resource_room/notices-dosolnoin/life77",
+    "title": "2019년도 도솔노인복지센터 동계 사회복지사 실습생 모집 안내",
+    "content":"도솔노인복지센터 동계 실습생 모집 모집인원 : 5명 모집방법 : 선착순 접수 (1) 도솔노인복지센터 문의(전화: 528-1080) ⇒ (2) 학과 사무실 접수 및 신청, 도솔노인복지센터로 공문발송 ⇒ (3) 도솔노인복지센터 접수 ⇒ (4) 학과 및 학생에게 통보 실습기간 (1) 2019. 12. 2. ~ 12. 31. (4주간: 160시간) (2) 2020. 1. 2. ~ 1. 31. (4주간: 160시간) 실습기간 및 시간은 사전 조정 실습시간: 1일 8시간(주 5일) 실 습 비: 10만원(식비포함) 문의 (042) 528-1080",
+},{
+    "id": "793",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_53",
+    "title": "2019년_12월_1주차_주간보호_어르신들의_활동_사진",
+    "content":"1-qmsS5XNUQZ 2-XBT5XP3tcx 3-vLVk6uSFca 4-rVathOxB7V 5-88DWRn5MVJ 6-r6e5WsFjuQ 7-fix5x7P4kj 8-e_F835onQh 9-LVBNTc3nFg 민요교실 인지활동 만다라 숫자색칠 생활체육 미술활동 손율동 레크레이션 큐브놀이 낱말찾기",
+},{
+    "id": "794",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_52",
+    "title": "2019년_12월_2주차_주간보호_어르신들의_활동_사진",
+    "content":"1-KQ4tWb5oz4 10-nFA9c5v4IU 11-BrcbNkCgzG 2-UYvY6DIAfK 3-SLDGMw4PzB 4-I3A8fatLM9 5-oKe5QxM5Vc 6-2Aj49qEQup 7-FEYQtf7sNY 8-ZIFWL8GckJ 9-LokkzaHH9Z 가사쓰기 모자이크 낱말찾기 풍선배구 만다라 구슬꿰기 노래교실 콩고르기 ㅅ 손율동 레크레이셪 윷놀이",
+},{
+    "id": "795",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_51",
+    "title": "2019년_12월_3주차_주간보호_어르신들의_활동_사진",
+    "content":"1-9GRmAG5YWf 2-FyxJ5mBGdl 3-p6lurmVKSP 4-pwbi5K2LeW 5-WrQifyZuwl 6-_6ik3pvZiH 구슬꿰기 만 다 라 콩고르기 손율동 레크레이션 미술활동 큐브놀이",
+},{
+    "id": "796",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_50",
+    "title": "2019년_12월_4주차_주간보호_어르신들의_활동_사진",
+    "content":"1-KdWbMXYOH9 2-mpFp2UXf9O 3-LTVA6OvsTM 4-2vp6MiJmUG 5-GKMJ2aQ2sA 6-_wE4PQTA8x 7-5ae9w6ZLtf 만 다 라 미술활동 손율동 레크레이션 낱말찾기 점선잇기 윷 놀 이 12월 생신잔치",
+},{
+    "id": "797",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_49",
+    "title": "2020년_1월_1주차_주간보호_어르신들의_활동_사진",
+    "content":"1-qN1LWXqHDr 2-sHLYPkbQoO 3-k1doLVxd2E 4-y4TfPYeqeA 5-COoXxX9Yt9 6-M3B3XBOrTi 7-mSJW1xzFbI 8-zwKPKEzyWZ 칠교놀이 미술활동 (달력 만들기) 모자이크 인지활동 손율돌 레크레이션 풍선배구 노래교실 큐브게임",
+},{
+    "id": "798",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_48",
+    "title": "2020년_1월_2주차_주간보호_어르신들의_활동_사진",
+    "content":"1-e_vrHnGU8Z 2-oAncgRCAnB 3-VcQhUdObPo 4-jKMahomcrj 5-W4nn4wgzBH 6-AgvSjYSDFq 7-pDzlHhI5M2 가사쓰기 구슬꿰기 손율동 레크레이션 콩고르기 건강체조 칠교놀이 균형감각 안전도 검사",
+},{
+    "id": "799",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_47",
+    "title": "2020년_1월_3주차_주간보호_어르신들의_활동_사진",
+    "content":"1-Kbe3YsFXe9 2-i6kHC7sRI9 3-toW9KnNQkF 4-1QZqBmejCP 5-LSE78TizXO 6-e_eHZEmDOh 7-vdPilcpOOt 건강체조 모자이크 퍼즐 맞추기 손율동 레크레이션 고리 만들기 볼링놀이 미술활동",
+},{
+    "id": "800",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_46",
+    "title": "2020년_1월_4주차_주간보호_어르신들의_활동_사진",
+    "content":"1-Jsn1SkqUdi 2-9iE4qYalA6 3-dSGCxw8HQ4 4-2QN1AKwryh 5-za2zPSvUlc 6-wuByMjlHjH 7-PgkjAuJXCj 8-FCOsDX9rAH 손율동 레크레이션 노래교실 콩고르기 만다라 풍선배구 칠교놀이 미술활동 윷놀이",
+},{
+    "id": "801",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_45",
+    "title": "2020년_2월_1주차_주간보호_어르신들의_활동_사진",
+    "content":"1-d25k64WBWS 2-uNevIgOtM3 3-3BF1J7cCkv 4-7CV4KuDauS 5-fwhtmH5lLy 6-Sin1CPEjig 7-e_GPZ8dThj 가사쓰기 모자이크 손율동레크레이션 구슬꿰기 노래교실 만다라 퍼즐 맞추기",
+},{
+    "id": "802",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_44",
+    "title": "2020년_2월_2주차_주간보호_어르신들의_활동_사진",
+    "content":"1-NP4M7ogty8 2-qvbFjaXZyt 3-liExVuCE9L 4-m43314tPpi 5-FzN7O4qeHm 6-297i9xi8Ej 7-da7goOPrU3 8-achbwQs3m5 만다라 손율동 레크레이션 건강체조 노래교실 풍선배구 큐브놀이 낱말칮기 미술활동",
+},{
+    "id": "803",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_43",
+    "title": "2020년_2월_3주차_주간보호_어르신들의_활동_사진",
+    "content":"1-Sr67GvsaQ5 2-oR5HujRvXD 3-NMf739ncIN 4-_r78SMeJ6a 5-LKgkuw7KG4 6-Wrqmisz2qn 손률동레크레이션 인지활동 노래교실 콩고르기 소방 안전 교육 윷놀이",
+},{
+    "id": "804",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_42",
+    "title": "2020년_2월_4주차_주간보호_어르신들의_활동_사진",
+    "content":"1-BzdCGZKGKr 2-4CgBtoBup6 3-fgIyGOmXOs 4-qC1iBPinQj 5-e_XIggZRU9 6-bbesjws9Mx 7-HJhStMNWKy 8-xTntAhCZO8 9-yz1rCXkGxz 생신잔치 모자이크 칠교졸이 노래교실 콩고르기 풍선배구 미술활동 퍼즐맞추기",
+},{
+    "id": "805",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_41",
+    "title": "2020년_3월_1주차_주간보호_어르신들의_활동_사진",
+    "content":"1-qQAY6VZkmF 2-3jQBU3d2uf 3-FAKuptWv9m 4-EAI2I7k3Lv 5-2GBRF9qajS 6-ltZKbIGCqu 7-rC1FNYjWhI 8-BS8Er49nDy 가사쓰기 인지활동 점선잇기 도미노 미술활동 윷놀이 낱말찾기 구슬꿰기",
+},{
+    "id": "806",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_40",
+    "title": "2020년_3월_2주차_주간보호_어르신들의_활동_사진",
+    "content":"1-LTlsZ9JqGU 2-YyG3lLLpDi 3-DWRoarPNTU 4-MaZAGzUhuL 5-qNM4IMs7II 6-ExghBJTZmL 7-X3qEWcBIa1 8-VfnTzdzvvG 인지활동 만다라 구슬꿰기 퍼즐맞추기 콩고르기 미술활동 ( 꽃다발 만들기) 큐브놀이 퍼즐맞추기",
+},{
+    "id": "807",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_39",
+    "title": "2020년_3월_3주차_주간보호_어르신들의_활동_사진",
+    "content":"1-2VvqQioBg4 2-e_CUkP9xgQ 3-H6yLVnUhhK 4-U4QrbiZlU1 5-J3xQKfbA4j 6-2eyQ9hWemP 7-Xow9uhYtpB 8-CrGBRrFFsZ 모자이크 풍선배구 점선잇기 건강체조 미술활동 (튜울립 만들기) 미술활동 작품 도미노 윷놀이",
+},{
+    "id": "808",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_38",
+    "title": "2020년_3월_4주차_주간보호_어르신들의_활동_사진",
+    "content":"1-KXNWQvDGnV 2-1iLKjLsVWn 3-A2XEAfH17t 4-yYNZCu8cq3 5-IfNP2CGtj5 6-Ug9IybIyQ3 7-_gCEHYLXlz 가사쓰기 모자이크 풍선배구 칠교놀이 도미노 윷놀이 생신잔치",
+},{
+    "id": "809",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_37",
+    "title": "2020년_4월_1주차_주간보호_어르신들의_활동_사진",
+    "content":"1-RZlI9ytlaq 2-D28dwCCtVK 3-xEblMadGso 4-4NDrtKevKE 5-GGnrEpMPRL 건강체조 칠교놀이 도미노 윷놀이 퍼즐맞추기",
+},{
+    "id": "810",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_36",
+    "title": "2020년_4월_2주차_주간보호_어르신들의_활동_사진",
+    "content":"1-S1MgmnO1GN 2-szWq2WjwG2 3-BAxOou3CoK 4-9m9y1o5m1i 5-XqajMEJ7Qw 6-PCHWMbafEt 모자이크 가사쓰기 구슬꿰기 점선잇기 큐브게임 낱말찾기",
+},{
+    "id": "811",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_35",
+    "title": "2020년_4월_3주차_주간보호_어르신들의_활동_사진",
+    "content":"1-rr7FK26s3g 2-sDBtlnZvMw 3-ar92GMy7YN 4-Myw9W2Prp4 5-x34epoHb7C 6-NJlwqaaX7k 인지활동 앞마당 산첵 산책 미술활동 건강체조 구슬꿰기",
+},{
+    "id": "812",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_34",
+    "title": "2020년_4월_4주차_주간보호_어르신들의_활동_사진",
+    "content":"1-CUrEDtQmYZ 2-hVyLvDzUvD 3-OrPJJFBaLF 4-VliXqBKWvT 5-_G2EvPhI7d 6-_Cmxl6Faw7 건강체조 모자이크 생신잔치 퍼즐맞추기 도미노 콩고르기",
+},{
+    "id": "813",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_33",
+    "title": "2020년_5월_1주차_주간보호_어르신들의_활동_사진",
+    "content":"1-U7bewzkh2f 2-oPUumzRSbF 3-meQZ3oi2cI 4-38SjM8ucE8 5-s7LpMZwkwr 6-e_6W9s4sCf 7-INoEycDe88 가사쓰기 숫자색칠 건강체조 퍼즐게임 미술활동 풍선배구 만다라",
+},{
+    "id": "814",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_32",
+    "title": "2020년_5월_2주차_주간보호_어르신들의_활동_사진",
+    "content":"1-_XWUcW1y2b 2-Mz4toOLbLd 3-ttFkr8efiz 4-nLGj8wu2h1 5-f9dQZVCBwf 6-JdYrm6jAFi 7-_kavpttwWe 8-lNc9jVltpV 인지활동 구슬꿰기 산책 산책 점선잇기 퍼즐맞추기 만다라",
+},{
+    "id": "815",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_31",
+    "title": "2020년_5월_3주차_주간보호_어르신들의_활동_사진",
+    "content":"1-Tl4KKKUFv7 2-Pm2AoZK9EO 3-_aJjezhvJV 4-gn22hdQFoo 5-4q2LIGIpjh 6-V3H2lTF7ek 7-6lhIyoxJY7 8-qszc6KZUXh 건강체조 구슬꿰기 풍선배구 콩고르기 산책 미술활동 낱말찾기 윷놀이",
+},{
+    "id": "816",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_30",
+    "title": "2020년_5월_4주차_주간보호_어르신들의_활동_사진",
+    "content":"1-e_UGB4MHZf 2-e_G17u7ZlL 3-kmwzyWKWIc 4-dnJh3cBQkS 5-aSbL2hM3rt 6-WTh6ClScJA 인지활동 산책 소방교육 점선잇기 도미노 낱말찾기",
+},{
+    "id": "817",
+    "url": "/resource_room/religious-life/life1",
+    "title": "2020년 5월 30월 부처님 오신날 꽃꽃이 1",
+    "content":"20200530-1 20200530-2 20200530-3 20200530-4 20200530-5 20200530-6 20200530-1 20200530-10 20200530-11 20200530-12 20200530-2 20200530-3 20200530-4 20200530-5 20200530-6 20200530-7 20200530-8 20200530-9",
+},{
+    "id": "818",
+    "url": "/resource_room/religious-life/life2",
+    "title": "2020년 5월 30월 부처님 오신날 꽃꽃이 2",
+    "content":"20200530-1 20200530-2 20200530-3 20200530-4 20200530-5 20200530-6",
+},{
+    "id": "819",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_29",
+    "title": "2020년_6월_1주차_주간보호_어르신들의_활동_사진",
+    "content":"1-XeLQTnnAW2 2-TksszBWezY 3-aVPGSVMr15 4-VAGpz9aJ7x 5-WAbZIpbziM 6-epf8h4JapC 낱말찾기 인지활동 만다라 콩고르기 생신잔치 도미노",
+},{
+    "id": "820",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_28",
+    "title": "2020년_6월_2주차_주간보호_어르신들의_활동_사진",
+    "content":"1-m1uDv4qeqr 2-SQ7Kbc9XF9 3-_FZ3Je6FOU 4-9BoipvQPkF 건강체조 만다라 큐브놀이 미술활동",
+},{
+    "id": "821",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_27",
+    "title": "2020년_6월_3주차_주간보호_어르신들의_활동_사진",
+    "content":"1-YKBi3QGBhD 2-3y38pnneFY 3-GiXXJUjQ2h 4-tJd4Bz5kC4 5-zJGCDbEOHK 6-fd1iUWU83I 낱말찾기 인지활동 건강체조 미술활동 퍼즐맞추기 윷놀이",
+},{
+    "id": "822",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_26",
+    "title": "2020년_6월_4주차_주간보호_어르신들의_활동_사진",
+    "content":"1-UOHC24XeHD 2-SRAkQiaZFz 3-fVGaujXCI7 4-imOYFzFeNN 5-yBhncc5Xti 가사쓰기 구슬꿰기 점선잇기 미로찾기 건강체조",
+},{
+    "id": "823",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_25",
+    "title": "2020년_7월_1주차_주간보호_어르신들의_활동_사진",
+    "content":"1-KMqTEg9k3V 2-NtcqlRBS4v 3-MfghRY7Jhk 4-fkVWCc333T 5-CjlTF8Nhn1 6-Voth7IkovT 건강체조 퍼즐게임 점선잇기 생신잔치 퍼즐게임 숨은그림찾기",
+},{
+    "id": "824",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_24",
+    "title": "2020년_7월_2주차_주간보호_어르신들의_활동_사진",
+    "content":"1-8j6cYIMvID 2-KyNQCKoMwz 3-3qXTotFN3B 4-m1cKv34KQe 5-JJetHBMKyG 6-PIZ5jFCqIz 7-kY2hbZRAqm 8-a5SNS6pV52 윷놀이 인지활동 칠교놀이 만다라 콩고르기 건강체조 도미노 숨은 그림 찾기",
+},{
+    "id": "825",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_23",
+    "title": "2020년_7월_3주차_주간보호_어르신들의_활동_사진",
+    "content":"1-IoJHXqfllO 2-EkrdqGLWyo 3-85Fbhyvvr9 4-_DlNW1pUl2 5-RYQzppTaMP 6-RBNlqIUWln 7-ImrdYXjtjy 윷놀이 칠교놀이 건강체조 큐브놀이 숨은 그림 찾기 미술활동 도미노",
+},{
+    "id": "826",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_22",
+    "title": "2020년_7월_4주차_주간보호_어르신들의_활동_사진",
+    "content":"1-saJSRDn7jv 2-m5ziMGuJNn 3-68DDf9pRMu 4-52KIaOh1lt 5-RTeVDwxCGv 6-iGHyvJyF9P 숫자색칠 인지활동 색칠하기 미로찾기 건강체조 점선잇기",
+},{
+    "id": "827",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_21",
+    "title": "2020년_7월_5주차_주간보호_어르신들의_활동_사진",
+    "content":"1-e_bbBwFLpK 2-2i7JDaA7aS 3-g8EgMTfhNu 4-cPpkNlHeZy 5-zDUKvH1uVq 6-NwKThftKhS 구슬꿰기 큐브놀이 퍼즐맞추기 미술활동 낱말찾기 숨은그림찾기",
+},{
+    "id": "828",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_20",
+    "title": "2020년_8월_1주차_주간보호_어르신들의_활동_사진",
+    "content":"1-WGQL82ojrM 2-Vmj8bem9EQ 3-nMrrmtDysG 4-SyKGSApErc 5-eJQnnleham 윷놀이 인지활동 건강체조 만다라 도미노",
+},{
+    "id": "829",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_19",
+    "title": "2020년_8월_2주차_주간보호_어르신들의_활동_사진",
+    "content":"1-2IE7cXaiLB 2-MinGGTjipd 3-8lrte1UfE9 4-9spo4tucpv 5-zrJdh3PC7L 6-5OoeOsLUbh 건강체조 퍼즐맞추기 솟자색칠 칠교놀이 같은 그림 찾기 미술활동",
+},{
+    "id": "830",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_18",
+    "title": "2020년_8월_3주차_주간보호_어르신들의_활동_사진",
+    "content":"1-qjvOwIhWcQ 2-Ixd3PxWHad 3-gnR3bmgcLM 4-VYnk4ChToL 5-gkS1mlOqHm 6-ifBrrh27ba 7-e_6Dkg8TOf 만다라 건강체조 큐브게임 틀린그림 찾기 미술활동 도미노 모자이크",
+},{
+    "id": "831",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_17",
+    "title": "2020년_8월_4주차_주간보호_어르신들의_활동_사진",
+    "content":"1-GzV8o4tYFc 2-OX9gAfQZmj 3-psk5bUA3j9 4-oYHnbpwITJ 5-MgttjuVbkI 6-cfikqSaFwd 7-G6zpteugIJ 낱말찾기 윷놀이 칠교놀이 점선잇기 미로찾기 미술활동(집만들기) 퍼즐맞추기",
+},{
+    "id": "832",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_16",
+    "title": "2020년_9월_1주차_주간보호_어르신들의_활동_사진",
+    "content":"1-yi3WC3CfXT 2-zwEzJZXJue 3-69ahJvd9lV 4-BcuQ3MWjmW 5-fq7E76sxwF 건강체조 콩고르기 젠가놀이 고리던지기 미술활동 (와이셔츠 꾸미기)",
+},{
+    "id": "833",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_15",
+    "title": "2020년_9월_2주차_주간보호_어르신들의_활동_사진",
+    "content":"1-HnXewAHPkF 2-ji6CQZJpjg 3-e_3iJlRuQ4 4-r3P17alK6U 5-a8euMCo29A 숫자색칠 만다라 미술활동 (카드 꾸미기) 투호던지기 가사쓰기",
+},{
+    "id": "834",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_14",
+    "title": "2020년_9월_3주차_주간보호_어르신들의_활동_사진",
+    "content":"1-o6szxiix8N 2-EpOl24DMQl 3-TzZFH6QvMb 4-HKPUBByyVv 5-bz2LE7yfkx 6-ulTja42djA 7-e_vCOt1Kz4 윷놀이 숫자색칠 건강체조 큐브놀이 콩고르기 젠가놀이 오재미 던지기",
+},{
+    "id": "835",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_13",
+    "title": "2020년_9월_4주차_주간보호_어르신들의_활동_사진",
+    "content":"1-frkRXFE9GZ 2-fvlJ99lUlp 3-e_fDz15AEO 4-6aeG87Akru 5-EJm7CCu4dB 6-rtWpr3wjMW 7-f5mtfoaiLf 8-2WUC4xCyYN 9-JKizSkgcQv 인지활동 건강체조 칠교놀이 만다라 점선잇기 미술활동 가사쓰기 퍼즐맞추기 모자이크",
+},{
+    "id": "836",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_12",
+    "title": "2020년_10월_1주차_주간보호_어르신들의_활동_사진",
+    "content":"1-SWXGLLoFsp 2-WRpNucGBEH 3-slZNwCFVt7 4-6cQPTP1PVl 5-JWjJINAXwU 6-_ceRRtV5NW 윷놀이 구슬쒜기 건강체조 큐브게임 도미노 미술활동",
+},{
+    "id": "837",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_11",
+    "title": "2020년_10월_2주차_주간보호_어르신들의_활동_사진",
+    "content":"1-JJDnDZVXFO 2-1SPlmn3c6g 3-ZvueYUPi4N 4-_NVUNT1Em8 5-hK4JatRbj3 6-ZBgUn9NzgF 인지활동 건강체조 콩고르기 미술활동 생신잔치 낱말찾기",
+},{
+    "id": "838",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_9",
+    "title": "2020년_10월_4주차_주간보호_어르신들의_활동_사진",
+    "content":"1-IAAWJMCiAd 2-cSde5lfFm9 3-14s79YuaeP 4-JHV6ephDlR 5-_Nnzfj6yjy 6-JrnX42yODA 숫자색칠 민요교실 미술활동 토호 던지기 도미노",
+},{
+    "id": "839",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_8",
+    "title": "2020년_11월_1주차_주간보호_어르신들의_활동_사진",
+    "content":"1-zYQspZp5jR 2-WW4rFFMdnF 3-wxwYUZ3CKt 4-P6ObbGjcUu 5-OKiEj4ZZ3l 6-J3gnyKae3X 7-nICf7wBjQu 웃음치료 민요교실 구슬꿰기 미술활동 낱말찾기 퍼즐맞추기 건강체조",
+},{
+    "id": "840",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_7",
+    "title": "2020년_11월_2주차_주간보호_어르신들의_활동_사진",
+    "content":"1-OnvCfDa5gP 2-9s29x3mjd9 3-oso1C9BP6b 4-r9AuKyBvsN 5-VetDH681jQ 6-_g69XPxDTT 생신잔치 웃음치료 색칠하기 점선잇기 건강체조 큐브놀이",
+},{
+    "id": "841",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_6",
+    "title": "2020년_11월_3주차_주간보호_어르신들의_활동_사진",
+    "content":"1-GkRSuqXg9U 2-4LbLtwmPQA 3-JJ4KZ9ocDB 4-HHqyr2apdP 5-gcxE7qkQk2 6-2eapTh9qkX 7-_KLwSRSiWe 민요교실 건강체조 미술활동 미술활동 작품 윷놀이 만다라",
+},{
+    "id": "842",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_5",
+    "title": "2020년_11월_4주차_주간보호_어르신들의_활동_사진",
+    "content":"1-4l97SodIJl 2-UbMBGN8HjP 3-zGlOnRLWZz 4-4lbTRFovzO 5-NdzxUrKzYB 6-4JBKXPlQmq 7-FbguKX9Jgd 웃음치료 칠교놀이 인지활동 미술활동 큐브게임 민요교실 윷놀이",
+},{
+    "id": "843",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_4",
+    "title": "2020년_12월_1주차_주간보호_어르신들의_활동_사진",
+    "content":"1-YzRdpV9tAA 2-vxVmQNWdhC 3-PzvqZJ75gP 4-gUdUluYUVR 5-t87CUgPwc6 6-YabjMJ5Tqe 7-hkMENPhSOf 8-WGxpK36APh 색칠하기 구슬꿰기 건강체조 웃음치료 미술활동 낱말찾기 민요교실 퍼즐맞추기",
+},{
+    "id": "844",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_3",
+    "title": "2020년_12월_2주차_주간보호_어르신들의_활동_사진",
+    "content":"1-_JOxjGUo6x 2-aUbxgZQ6JB 3-3eVi87j6W4 4-acMPOzQ9CF 5-K92YTIAk1h 6-ZsyZTzbKK2 7-5vgQGGeOgo 8-Pg2KTIaurE 건강체조 민요교실 웃음치료 점선잇기 미술활동 미술활동 작품 생신잔치 모자이크",
+},{
+    "id": "845",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_2",
+    "title": "2020년_12월_3주차_주간보호_어르신들의_활동_사진",
+    "content":"1-UYwY3PWSsE 2-TxcuhHgJNx 3-uRrRPT4kVV 4-XUAs7WME5g 5-rtQX5Bs3Qr 6-Ew3hnq11XX 7-gebsw5Qg7g 콩고르기 고리던지기 도미노 미술활동 가사쓰기 윷놀이 인지활동",
+},{
+    "id": "846",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_1",
+    "title": "2020년_12월_4주차_주간보호_어르신들의_활동_사진",
+    "content":"1-Coki2ldcRY 2-Iyq9isNUFr 3-dtxztvhkja 4-6aRWqx9pT5 5-mFyPOVZkaT 투호 던지기 구슬꿰기 미술활동 미술활동 작품 모자이크",
+},{
+    "id": "847",
+    "url": "/2_dosolnoin_part/daycare/four/daycare-life/dlife_0",
+    "title": "2020년_12월_5주차_주간보호_어르신들의_활동_사진",
+    "content":"1-jCcRELT5X6 2-ugOeL9VKOT 3-C7p7vdFilr 4-NzEHtd9QRH 5-HrmZeK7dQ3 6-FP3rKTTnZp 7-EnKGIlSChD 건강체조 오재미 던지기 만다라 칠교놀이 인지활동 점선잇기 낱말찾기",
+},{
+    "id": "848",
+    "url": "/resource_room/notices-dosolnoin/78",
+    "title": "무료급식/한방치료 안내",
+    "content":"무료급식 안내 매주 수요일/토요일 10시 ~ 12시 무료한방치료 매주 일요일 10시 ~ 12시 도솔산 화암사 (042)528-7209, (042)488-7209",
+},{
+    "id": "849",
+    "url": "/resource_room/notices-hwaam/ceremony_info",
+    "title": "도솔산화암사 기도 및 법회안내",
+    "content":"기도 및 법회안내 구분 일자 초하루기도(3일간 신중기도) 매월 음력 1일 칠성기도 매월 음력 7일 나한기도 매월 음력 15일 산신기도 매월 음력 16일 지장기도 매월 음력 18일 관음기도 매월 음력 24일 독성기도 매월 음력 그믐 기도는 4층 법당에서 오전 10시 30분에 시작됩니다. 철야기도: 연 6회(대비주 108독 독송) 기도시간: 오후 9시 ~ 익일 오전 4시 기도일자: 경신일(境申日) 철야기도 일요법회: 매주 일요일(오전 10시 30분) 수요법회: 매월 2, 4주 수요일(오후 7시) 조폐공사불자회, 서구청불자회 도솔산 화암사 (042)528-7209, (042)488-7209",
+},{
+    "id": "850",
+    "url": "/resource_room/notices-hwaam/life31",
+    "title": "동안거 백일기도 회향 및 정월 방생",
+    "content":"◈ 동안거 백일기도 회향 2021년 2월 26일 (음1월15일) 10시 30분 / 금요일 ◈ 정월방생 백일기도 회향 후 절에서 출발 방생 동참금 : 2만원 농협 453011-56-138332 (백창기) 코로나19로 인해 미참석 하시더라도 두루 동참하시어 신축년 불자님들의 가정에 건강과 1년간 무장무애 하시길 축원합니다.",
+},{
+    "id": "851",
     "url": "/data-gov-sg/",
     "title": "Data.gov.sg Search",
     "content":"",
 },{
-    "id": "27",
+    "id": "852",
     "url": "/database-search/",
     "title": "Database Search",
     "content":"",
 },{
-    "id": "28",
+    "id": "853",
+    "url": "/resource_room/daycare-life/",
+    "title": "주간보호생활현장",
+    "content":"",
+},{
+    "id": "854",
     "url": "/digital-transformation/",
     "title": "Digital Transformation",
     "content":"From delivering digital services to developing Singapore into a Smart Nation, GovTech advocates innovative technology to shape the way business is done in the government. Leading Digital Transformation The world has become so fast paced that people don’t want to stand by reading a page of information, they would much rather look at a presentation and understand the message. It has come to a point where images and videos are used more to promote a product or service and this has extended from businesses to our daily routine. We are all in such a hurry that we wave bye instead of saying “goodbye”, show the watch to point to the time and so on. It is a healthy habit considering how we use our hands and motions to indicate what we are upto or capable of. The Government is in the process of crystallising the next phase of Strategic National Project, and will seek views and perspectives from different sources.",
 },{
-    "id": "29",
+    "id": "855",
     "url": "/get-involved/",
     "title": "Get Involved",
     "content":"Use technology to make an impact, inspire change. We have programmes for citizens, businesses and government agencies to get on board. Be involved now. Co-creation In an inter-connected world where data is open and available to all, citizens and businesses can do a lot to shape how Singapore develops into a Smart Nation. Indeed, it is through your engagement and co-creation that a Smart Nation becomes truly smart. Today, there are several resources to get involved in a digital Singapore. By discovering new insights, sharing feedback and developing apps, many ground-up efforts of users are already shaping Singapore for the future. Tech Kaki Community We want to solve problems. In fact, we want to solve problems with you! At GovTech Singapore, we transform the delivery of Government digital services by taking an “outside-in” view, and put users first for our work. Tech Kaki is a community set up by GovTech for citizen participation. As part of this community, you will get first dibs on new tech products before they go live and be part of the development team to make them better. We will publish quick polls and mini surveys regularly. All you have to do is to take a few minutes to answer them. Join us at https://www.facebook.com/TechKaki today! Bug Bounty Program At GovTech, we embrace this “outside-in approach”. Only when we have taken in the views and preferences of citizens and stakeholders can a digital service be considered user-centric. This, we believe, is the way to develop high-quality digital services that matter. This is also why we are asking people to be our Tech Kaki. By joining the community, you get to try out our new tech products and services before they are available. Too many government apps today? That’s alright, we will evaluate the landscape of apps as we move towards addressing the various Moments of Life for citizens. As a user, your insights are valuable in creating digital offerings that are useful to citizens.",
 },{
-    "id": "30",
+    "id": "856",
+    "url": "/resource_room/notices-hwaam/",
+    "title": "참여마당",
+    "content":"",
+},{
+    "id": "857",
+    "url": "/resource_room/references/",
+    "title": "참여마당",
+    "content":"",
+},{
+    "id": "858",
+    "url": "/resource_room/religious-life/",
+    "title": "참여마당",
+    "content":"",
+},{
+    "id": "859",
+    "url": "/resource_room/",
+    "title": "참여마당",
+    "content":"",
+},{
+    "id": "860",
+    "url": "/resource_room/forest/",
+    "title": "참여마당",
+    "content":"",
+},{
+    "id": "861",
+    "url": "/resource_room/notices-dosolnoin/",
+    "title": "참여마당",
+    "content":"",
+},{
+    "id": "862",
     "url": "/",
     "title": "도솔산화암사",
     "content":"홈페이지 리뉴얼중입니다. 최신공지는 다음 링크에서 확인해주세요. [링크바로가기]",
 },{
-    "id": "31",
+    "id": "863",
     "url": "/search/",
     "title": "Search",
     "content":"",

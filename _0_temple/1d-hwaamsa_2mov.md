@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 permalink: /0_temple/hwaamsa_info/movie1/
 breadcrumb: 사찰안내
-title: 사찰전경(동영상)
+title: 사찰전경(영상)
 collection_name: 0_temple
 second_nav_title: "사찰안내"
 
