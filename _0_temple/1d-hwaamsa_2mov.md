@@ -13,7 +13,7 @@ second_nav_title: "사찰안내"
 * **외관**
 <iframe width="500"
         height="300"
-        src="https://youtu.be/PuJxzhJwnZk"
+        src="https://youtube.com/embed/PuJxzhJwnZk"
         frameborder="0"
         allow="autoplay; encrypted-media"
         allowfullscreen></iframe>

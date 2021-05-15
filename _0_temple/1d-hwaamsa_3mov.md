@@ -21,9 +21,8 @@ second_nav_title: "사찰안내"
 * **차담원**
 <iframe width="500"
         height="300"
-        src="https://youtu.be/eLLwpnl7vKI?t=16"
-        frameborder="0"
-        allow="autoplay; encrypted-media"
+        src="https://youtube.com/embed/eLLwpnl7vKI?t=16"
+        frameborder="0"        
         allowfullscreen></iframe>
 
 * **차담원내부**
@@ -37,7 +36,7 @@ second_nav_title: "사찰안내"
 * **갤러리**
 <iframe width="500"
         height="300"
-        src="https://youtu.be/wKjkdmNswZ0?t=12"
+        src="https://youtube.com/embed/wKjkdmNswZ0?t=12"
         frameborder="0"
         allow="autoplay; encrypted-media"
         allowfullscreen></iframe>
