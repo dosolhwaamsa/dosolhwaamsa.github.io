@@ -6513,7 +6513,7 @@ a.navbar-link.is-active {
     .navbar {
         min-height: 6.25rem;
     }
-    .navbar.is-transparent a.navbar-item:hover,
+    /* .navbar.is-transparent a.navbar-item:hover, */
     .navbar.is-transparent a.navbar-item.is-active,
     .navbar.is-transparent a.navbar-link:hover,
     .navbar.is-transparent a.navbar-link.is-active {
@@ -10432,7 +10432,7 @@ h6 center {
     color: #b7b7b7;
     font-size: 17px;
     padding-right: 12px;
-    line-height: 20px !important;
+    line-height: 15px !important;
 }
 .bp-footer a:hover {
     color: white;
@@ -10442,7 +10442,7 @@ h6 center {
 }
 .bp-footer p {
     color: #b7b7b7;
-    line-height: 25px !important;
+    line-height: 15px !important;
 }
 .bp-footer p + p {
     margin-top: 15px;
@@ -10491,7 +10491,7 @@ h6 center {
 }
 
 .bp-footer.bottom-section {
-    padding-bottom: 24px;
+    padding-bottom: 20px;
 }
 .bp-footer.bottom-section a,
 .bp-footer.bottom-section p {

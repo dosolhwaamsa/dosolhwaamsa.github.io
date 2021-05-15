@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+
+
 {%- if page.url == "/" -%}
 	{%- assign notification_content = content | strip_html | strip -%}
 	{%- if notification_content != "" -%}
@@ -25,8 +28,12 @@ layout: default
 	{%- endif -%}
 {%- endif -%}
 
-<!-- Hero mandatory -->
-{%- include homepage/hero.html -%}
+{%- include homepage/test.html -%}
+
+{%-comment-%}
+	<!-- Hero mandatory -->
+	<!-- {%- include homepage/hero.html -%}-->
+{%-endcomment-%}
 
 <!-- Information sections -->
 {%- if site.data.homepage.info-sections -%}
@@ -41,9 +48,9 @@ layout: default
 {%- endif -%}
 
 <!-- Resources homepage toggle -->
-{%- if site.homepage_resources == true -%}
+<!-- {%- if site.homepage_resources == true -%}
 	{%- include homepage/resources-homepage.html -%}
-{%- endif -%}
+{%- endif -%} -->
 
 <!-- Careers homepage toggle -->
 {%- if site.homepage_careers == true -%}
