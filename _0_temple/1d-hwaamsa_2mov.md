@@ -34,7 +34,7 @@ second_nav_title: "사찰안내"
         allow="autoplay; encrypted-media"
         allowfullscreen></iframe>
 
-* **지장전**
+* **명부전**
 <iframe width="500"
         height="300"
         src="https://youtu.be/FjwN0NoSBVQ"
