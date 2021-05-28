@@ -7,11 +7,13 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <meta property="og:title" content="주간보호 프로그램"><meta property="og:description" content="주간보호 프로그램 계획(안) 요일시간 월 화 수 목 금 토 08:00~09:40 오전이송 서비스 09:40~09:50 ADL/IADL(일상생활능력) 기능회복훈련 / 찜질팩(동절기) 09:50~10:00 아침인사(인지교육)..."> 
     <meta name="Description" CONTENT="주간보호 프로그램 계획(안) 요일시간 월 화 수 목 금 토 08:00~09:40 오전이송 서비스 09:40~09:50 ADL/IADL(일상생활능력) 기능회복훈련 / 찜질팩(동절기) 09:50~10:00 아침인사(인지교육)..."><meta property="og:image" content="http://localhost:4000/images/dosol-pages-logo.gif">
-    <meta property="og:url" content="http://localhost:4000/2_dosolnoin_part/daycare/one/">
+    <meta property="og:url" content="http://localhost:4000/2_dosolnoin_part/daycare/one/" charset = "utf-8">
     <link rel="canonical" href="http://localhost:4000/2_dosolnoin_part/daycare/one/" /><link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon"><link rel="stylesheet" href="/assets/css/blueprint.css">
     <link rel="stylesheet" href="/do-not-touch/theme-colors/custom.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,600" crossorigin="anonymous">
 
+    <script src="/assets/js/lunr.min.js" charset="utf-8"></script>
+    <script src="/assets/js/lunr.js" charset="utf-8"></script>
 
 
 
@@ -57,9 +59,11 @@
                             </div>
                         </div>
                     </form>
-                </div><div class="navbar-item has-dropdown is-hoverable"><a class="navbar-link is-uppercase" href="/0_temple/hwaamsa_info/">화암사소개</a><div class="navbar-dropdown"><a class="navbar-item sub-link " href="/0_temple/hwaamsa_info/">도솔산화암사</a><a class="navbar-item sub-link " href="/0_temple/hwaamsa_greet/">주지스님 인사말</a><a class="navbar-item sub-link " href="/0_temple/religious_life/">신행생활</a><a class="navbar-item sub-link " href="/0_temple/hwaamsa_info/gallery/">사찰안내</a></div>
+                </div><div class="navbar-item has-dropdown is-hoverable"><a class="navbar-link is-uppercase" href="/0_temple/hwaamsa_info/">화암사소개</a><div class="navbar-dropdown"><a class="navbar-item sub-link " href="/0_temple/hwaamsa_info/">도솔산화암사</a><a class="navbar-item sub-link " href="/0_temple/hwaamsa_greet/">주지스님 인사말</a><a class="navbar-item sub-link " href="/0_temple/religious_life/">신행생활</a><a class="navbar-item sub-link " href="/0_temple/hwaamsa_info/gallery/">사찰안내</a><a class="navbar-item sub-link " href="/0_temple/zen_gallery/">선갤러리(고승선서)</a><a class="navbar-item sub-link " href="/0_temple/chadam/">차담원</a><a class="navbar-item sub-link " href="/0_temple/dosolwon/">도솔원</a><a class="navbar-item sub-link " href="/0_temple/outdoor_concert/">미륵전 야외음악당</a><a class="navbar-item sub-link " href="/0_temple/temple_office/organize/">종무소안내</a><a class="navbar-item sub-link " href="/0_temple/address/">화암사오시는길</a></div>
                         <div class="selector  is-hidden-touch is-hidden-desktop-only"></div>
-                    </div><div class="navbar-item has-dropdown is-hoverable"><a class="navbar-link is-uppercase" href="/1_religious_part/ceremony_info/one/">기도·법회</a><div class="navbar-dropdown"><a class="navbar-item sub-link " href="/1_religious_part/ceremony_info/one/">기도법회의미</a><a class="navbar-item sub-link " href="/1_religious_part/ceremony_info/">기도법회안내</a><a class="navbar-item sub-link " href="/1_religious_part/zen_cure/two/">마음치유명상아카데미</a><a class="navbar-item sub-link " href="/1_religious_part/temple_stay/three/">템플스테이</a></div>
+                    </div><div class="navbar-item has-dropdown is-hoverable"><a class="navbar-link is-uppercase" href="/1_religious_part/ceremony_info/one/">화암사소식</a><div class="navbar-dropdown"><a class="navbar-item sub-link " href="/1_religious_part/ceremony_info/one/">기도법회의미</a><a class="navbar-item sub-link " href="/1_religious_part/ceremony_info/">기도법회안내</a><a class="navbar-item sub-link " href="/1_religious_part/zen_cure/two/">마음치유명상아카데미</a><a class="navbar-item sub-link " href="/1_religious_part/temple_stay/three/">템플스테이</a></div>
+                        <div class="selector  is-hidden-touch is-hidden-desktop-only"></div>
+                    </div><div class="navbar-item has-dropdown is-hoverable"><a class="navbar-link is-uppercase" href="/1_religious_part/ceremony_info/one/">법회·기도</a><div class="navbar-dropdown"><a class="navbar-item sub-link " href="/1_religious_part/ceremony_info/one/">기도법회의미</a><a class="navbar-item sub-link " href="/1_religious_part/ceremony_info/">기도법회안내</a><a class="navbar-item sub-link " href="/1_religious_part/zen_cure/two/">마음치유명상아카데미</a><a class="navbar-item sub-link " href="/1_religious_part/temple_stay/three/">템플스테이</a></div>
                         <div class="selector  is-hidden-touch is-hidden-desktop-only"></div>
                     </div><div class="navbar-item has-dropdown is-hoverable"><a class="navbar-link is-uppercase" href="/2_dosolnoin_part/dosolnoin_info/">도솔노인복지센터</a><div class="navbar-dropdown"><a class="navbar-item sub-link " href="/2_dosolnoin_part/dosolnoin_info/">인사말</a><a class="navbar-item sub-link " href="/2_dosolnoin_part/history/">설립목적 및 연혁</a><a class="navbar-item sub-link " href="/2_dosolnoin_part/socialwelfare/">대전불교사회복지회</a><a class="navbar-item sub-link " href="/2_dosolnoin_part/daycare/">주간보호센터안내</a><a class="navbar-item sub-link " href="/2_dosolnoin_part/forest/">숲체험교육</a></div>
                         <div class="selector  is-hidden-touch is-hidden-desktop-only"></div>
@@ -85,14 +89,14 @@
                 <form action="/search/" method="get">
                   <div class="field has-addons">
                       <div class="control has-icons-left is-expanded">
-                          <input class="input is-fullwidth is-large" id="search-box" type="text" placeholder="검색어를 입력해주세요." name="query" autocomplete="off">
+                          <input class="input is-fullwidth is-large" id="search-box" type="text" placeholder="검색어를 입력해주세요." name="query" autocomplete="off" accept-charset="UTF-8">
                           <span class="is-large is-left">
                             <i class="sgds-icon sgds-icon-search is-size-5 search-bar"></i>
                           </span>
 
                       </div>
                       <div class="control">
-                          <button type="submit" class="bp-button is-secondary is-medium has-text-white search-button">SEARCH</button>
+                          <button type="submit" class="bp-button is-secondary is-medium has-text-white search-button" accept-charset="UTF-8">SEARCH</button>
                       </div>
                   </div>
                 </form>
@@ -380,26 +384,31 @@
                   </a><a href="https://pf.kakao.com/_cBGaK" target="_blank" class="social-link padding--bottom is-inline-block" rel="noreferrer">
                     <img src="/assets/img/kakaoch_icon.png" width= 18em margin-right=10px></img>
                   </a>
-                    <!-- <span class="sgds-icon sgds-icon-linkedin is-size-4" title="Kakao channel"></span></a> --><a href="https://www.youtube.com/channel/UC-jSXljSXFgrJb-q_G14dRg" target="_blank" class="social-link padding--right padding--bottom is-inline-block" rel="noreferrer"><span class="sgds-icon sgds-icon-youtube is-size-4" title="YouTube"></span></a></div><div class="col is-one-quarter is-hidden-mobile is-hidden-desktop" id="social-link-tablet"><a href="https://cafe.naver.com/hwaamsa" target="_blank" class="social-link padding--bottom is-inline-block" rel="noreferrer">
+                    <!-- <span class="sgds-icon sgds-icon-linkedin is-size-4" title="Kakao channel"></span></a> --><a href="https://www.youtube.com/channel/UC-jSXljSXFgrJb-q_G14dRg" target="_blank" class="social-link padding--right padding--bottom is-inline-block" rel="noreferrer"><span class="sgds-icon sgds-icon-youtube is-size-4" title="YouTube"></span></a></div>
+              <br>
+              <div class="row is-vcentered is-four-fifths is-multiline is-hidden-mobile">
+                <a class ="has-text-gray"> &copy; 2021
+                  도솔산화암사<!-- <class="last-updated">Last Updated 28 May 2021</class> </a> -->
+              </div><div class="col is-one-quarter is-hidden-mobile is-hidden-desktop" id="social-link-tablet"><a href="https://cafe.naver.com/hwaamsa" target="_blank" class="social-link padding--bottom is-inline-block" rel="noreferrer">
                     <img src="/assets/img/naver_icon.png" width= 18em margin-right=10px></img>
                   </a><a href="https://pf.kakao.com/_cBGaK" target="_blank" class="social-link padding--bottom is-inline-block" rel="noreferrer">
                     <img src="/assets/img/kakaoch_icon.png" width= 18em margin-right=10px></img>
                   </a><div class="row">
                     <a href="https://www.youtube.com/channel/UC-jSXljSXFgrJb-q_G14dRg" target="_blank" class="social-link margin--bottom" title="YouTube" rel="noreferrer"><span class="sgds-icon sgds-icon-youtube is-size-4"></span></a>
                   </div></div><div class="col is-hidden-tablet is-hidden-desktop"><p><a href="/0_temple/hwaamsa_info/">화암사소개</a></p><p><a href="/1_religious_part/ceremony_info/one/">기도·법회</a></p><p><a href="/2_dosolnoin_part/dosolnoin_info/">도솔노인복지센터</a></p><p><a href="/3_volunteers_part/committee_info/">포교·신도회</a></p></div>
-
+          
+          
         </div>
-        <div class="row">
+        <div class="row ">
           <!-- <div class="col padding--top--sm padding--bottom--sm is-right-desktop-only">
             <ul><li class="is-inline-block-desktop-only">
                    <p><a href="/contact-us/">Contact Us</a></p>
                </li></ul>
           </div> -->
-          <div class="col padding--top--sm padding--bottom--sm is-right-desktop-only">
+          <!-- <div class="col padding--top--none padding--bottom--none is-right-desktop-only">
                 <a class ="has-text-gray"> &copy; 2021
-                  도솔산화암사<br>
-                <class="last-updated">Last Updated 15 May 2021</class> </a>
-          </div>
+                  도솔산화암사<class="last-updated">Last Updated 28 May 2021</class> </a>
+          </div> -->
           <div class="col is-hidden-tablet is-hidden-desktop padding--top--lg padding--bottom--none"><a href="https://cafe.naver.com/hwaamsa" target="_blank" class="social-link padding--bottom is-inline-block" rel="noreferrer">
                   <img src="/assets/img/naver_icon.png" width= 18em margin-right=10px></img>
                 </a><a href="https://pf.kakao.com/_cBGaK" target="_blank" class="social-link padding--bottom is-inline-block" rel="noreferrer">
@@ -426,7 +435,7 @@
             <div class="col is-one-third has-text-right-desktop has-text-right-tablet has-text-left-mobile">
                 <p>&copy; 2021
                   도솔산화암사</p>
-                <p class="last-updated">Last Updated 15 May 2021</p>
+                <p class="last-updated">Last Updated 28 May 2021</p>
             </div>
 
         </div>

@@ -22,7 +22,7 @@ var runSearch = function runSearch(json_data, posts_data) {
     document.getElementById('search-box-search').value = searchTerm;
     // Load the pre-built lunr index
     var idx = lunr.Index.load(JSON.parse(json_data));
-
+    
     // Get lunr to perform a search
     results = idx.search(searchTerm);
     pageResults = splitPages(results, RESULTS_PER_PAGE);
@@ -184,7 +184,7 @@ function changePage(curr, index) {
 function getQueryVariable(variable) {
   var query = window.location.search.substring(1);
   var vars = query.split('&');
-
+  
   for (var i = 0; i < vars.length; i++) {
     var pair = vars[i].split('=');
 

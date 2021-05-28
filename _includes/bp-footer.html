@@ -76,7 +76,21 @@
                 {%- if social.linkedin -%}
                   <a href="{{- social.linkedin -}}" target="_blank" class="social-link padding--bottom is-inline-block" rel="noreferrer"><span class="sgds-icon sgds-icon-linkedin is-size-4" title="LinkedIn"></span></a>
                 {%- endif -%}
+
+                                                            
               </div>
+              <br>
+              <div class="row is-vcentered {{navClass}} is-multiline is-hidden-mobile">
+                <a class ="has-text-gray"> &copy; {{ site.time | date: "%Y" -}}
+                {%- if site.copyright_agency %}
+                  {{ site.copyright_agency -}}
+                {%- else %}
+                  {{ site.title -}}
+                {%- endif -%}
+                                                                    
+                <!-- <class="last-updated">Last Updated {{site.time | date_to_string -}}</class> </a> -->
+              </div>
+              
               
               {%- comment -%} Social links for tablet {%- endcomment -%}
               <div class="col is-one-quarter is-hidden-mobile is-hidden-desktop" id="social-link-tablet">
@@ -115,6 +129,15 @@
                     <a href="{{- social.linkedin -}}" target="_blank" class="social-link margin--bottom" title="LinkedIn" rel="noreferrer"><span class="sgds-icon sgds-icon-linkedin is-size-4"></span></a>
                   </div>
                 {%- endif -%}
+                
+                {%- if site.copyright_agency -%}
+                <div class="row">
+                  <a class ="has-text-gray"> &copy; {{ site.time | date: "%Y" -}}                  
+                    {{ site.copyright_agency -}}
+                                                                      
+                  <class="last-updated">Last Updated {{site.time | date_to_string -}}</class> </a>
+                </div>
+                {%- endif -%}
               </div>
             {%- endif -%}
 
@@ -132,9 +155,10 @@
                 {%- endif -%}
               {%- endfor -%}
             </div>
-
+          
+          
         </div>
-        <div class="row">
+        <div class="row ">
           <!-- <div class="col padding--top--sm padding--bottom--sm is-right-desktop-only">
             <ul>
                {%- unless site.no_contact -%}
@@ -166,16 +190,16 @@
                {%- endunless -%}
            </ul>
           </div> -->
-          <div class="col padding--top--sm padding--bottom--sm is-right-desktop-only">
+          <!-- <div class="col padding--top--none padding--bottom--none is-right-desktop-only">
                 <a class ="has-text-gray"> &copy; {{ site.time | date: "%Y" -}}
                 {%- if site.copyright_agency %}
                   {{ site.copyright_agency -}}
                 {%- else %}
                   {{ site.title -}}
                 {%- endif -%}
-                <br>
+               
                 <class="last-updated">Last Updated {{site.time | date_to_string -}}</class> </a>
-          </div>
+          </div> -->
           <div class="col is-hidden-tablet is-hidden-desktop padding--top--lg padding--bottom--none">
               {%- if social.naver -%}
                 <a href="{{- social.naver -}}" target="_blank" class="social-link padding--bottom is-inline-block" rel="noreferrer">

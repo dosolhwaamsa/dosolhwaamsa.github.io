@@ -27,7 +27,7 @@
     {%- else -%}
         {{- homepage.agency-logo | absolute_url -}}
     {%- endif -%}">
-    <meta property="og:url" content="{{- page.permalink | absolute_url -}}">
+    <meta property="og:url" content="{{- page.permalink | absolute_url -}}" charset = "utf-8">
     <link rel="canonical" href="{{- page.url | absolute_url -}}" />
     
     {%- assign homepage = site.data.homepage -%}
@@ -41,6 +41,8 @@
     <link rel="stylesheet" href="{{- site.baseurl -}}{{- site.custom_css_path -}}">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,600" crossorigin="anonymous">
 
+    <script src="/assets/js/lunr.min.js" charset="utf-8"></script>
+    <script src="/assets/js/lunr.js" charset="utf-8"></script>
 
 
 

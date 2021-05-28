@@ -17,8 +17,34 @@
       url: /0_temple/religious_life/
     - title: 사찰안내
       url: /0_temple/hwaamsa_info/gallery/
+    - title: 선갤러리(고승선서)
+      url: /0_temple/zen_gallery/
+    - title: 차담원
+      url: /0_temple/chadam/
+    - title: 도솔원
+      url: /0_temple/dosolwon/
+    - title: 미륵전 야외음악당
+      url: /0_temple/outdoor_concert/
+    - title: 종무소안내
+      url: /0_temple/temple_office/organize/
+    - title: 화암사오시는길
+      url: /0_temple/address/
 
-- title: 기도·법회
+- title: 화암사소식
+  url: /1_religious_part/ceremony_info/one/
+  sub-links:
+  - title: 기도법회의미
+    url: /1_religious_part/ceremony_info/one/
+  - title: 기도법회안내
+    url: /1_religious_part/ceremony_info/
+  - title: 마음치유명상아카데미
+    url: /1_religious_part/zen_cure/two/
+  - title: 템플스테이
+    url: /1_religious_part/temple_stay/three/
+
+
+
+- title: 법회·기도
   url: /1_religious_part/ceremony_info/one/
   sub-links:
   - title: 기도법회의미
