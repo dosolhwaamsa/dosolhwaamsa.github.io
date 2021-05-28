@@ -19,6 +19,8 @@
 <script src="{{- "/assets/js/jquery.sticky-sidebar.js" | relative_url -}}" crossorigin="anonymous"></script>
 <script src="{{- "/assets/js/common.js" | relative_url -}}" crossorigin="anonymous"></script>
 
+{{ page.calendar_css | replace: "!PATH_TO_COMPONENTS!", "/components" | prepend: site.baseurl }}
+
 
 {%- if page.url == "/" -%}
 <script src="{{- "/assets/js/home.js" | relative_url -}}" crossorigin="anonymous"></script>

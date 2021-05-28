@@ -117,7 +117,7 @@ posts_json=[{
     "id": "23",
     "url": "/1_religious_part/schedule_year/",
     "title": "연중행사",
-    "content":"연중행사 불기2565(2021)년 부처님오신날 ** 문의 및 안내 바로가기**",
+    "content":"연중행사 불기2565(2021)년 부처님오신날",
 },{
     "id": "24",
     "url": "/1_religious_part/schedule_main/",
