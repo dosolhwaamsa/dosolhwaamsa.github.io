@@ -31,17 +31,20 @@
       url: /0_temple/address/
 
 - title: 화암사소식
-  url: /1_religious_part/ceremony_info/one/
+  url: /1_0_templeNews/hwaamsa_news/
   sub-links:
-  - title: 기도법회의미
-    url: /1_religious_part/ceremony_info/one/
-  - title: 기도법회안내
-    url: /1_religious_part/ceremony_info/
-  - title: 마음치유명상아카데미
-    url: /1_religious_part/zen_cure/two/
-  - title: 템플스테이
-    url: /1_religious_part/temple_stay/three/
-
+  - title: 화암사공지사항
+    url: /1_0_templeNews/hwaamsa_news/
+  - title: 복지센터공지사항
+    url: /1_0_templeNews/dosolnoin_news/
+  - title: 스님과의대화
+    url: /1_0_templeNews/conversations/
+  - title: 화암사일상
+    url: /1_0_templeNews/hwaam_daylife/
+  - title: 미디어속화암사
+    url: /1_0_templeNews/hwaam_media/
+  - title: 봉사안내·신청
+    url: /1_0_templeNews/volunteer/
 
 
 - title: 법회·기도
@@ -77,8 +80,7 @@
     url: /3_volunteers_part/committee_info/
   - title: 합창단
     url: /3_volunteers_part/choir_info/
-  - title: 문의하기
-    url: /3_volunteers_part/volunteer-info/
+  
 
 - title: (구)화암사안내
   url: /resource_room/

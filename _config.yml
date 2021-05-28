@@ -44,7 +44,7 @@ breadcrumbs:
 collections:
   0_temple:
     output: true
-  0_1_templeNews:
+  1_0_templeNews:
     output: true
   1_religious_part:
     output: true
