@@ -15,18 +15,52 @@
       url: /0_temple/religious_life/
     - title: 사찰안내
       url: /0_temple/hwaamsa_info/gallery/
+    - title: 선갤러리(고승선서)
+      url: /0_temple/zen_gallery/
+    - title: 차담원
+      url: /0_temple/chadam/
+    - title: 도솔원
+      url: /0_temple/dosolwon/
+    - title: 미륵전 야외음악당
+      url: /0_temple/outdoor_concert/
+    - title: 종무소안내
+      url: /0_temple/temple_office/organize/
+    - title: 화암사오시는길
+      url: /0_temple/address/
 
-- title: 기도·법회
+- title: 화암사소식
+  url: /1_0_templeNews/hwaamsa_news/
+  sub-links:
+  - title: 화암사공지사항
+    url: /1_0_templeNews/hwaamsa_news/
+  - title: 복지센터공지사항
+    url: /1_0_templeNews/dosolnoin_news/
+  - title: 스님과의대화
+    url: /1_0_templeNews/conversations/
+  - title: 화암사일상
+    url: /1_0_templeNews/hwaam_daylife/
+  - title: 미디어속화암사
+    url: /1_0_templeNews/hwaam_media/
+  - title: 봉사안내·신청
+    url: /1_0_templeNews/volunteer/
+
+
+- title: 법회·기도
   url: /1_religious_part/ceremony_info/one/
   sub-links:
-  - title: 기도법회의미
+  - title: 법회·기도의미
     url: /1_religious_part/ceremony_info/one/
-  - title: 기도법회안내
+  - title: 법회·행사
+    url: /1_religious_part/schedule_year/
+  - title: 불사안내·접수
+    url: /1_religious_part/temple_mod/
+  - title: 기도안내·접수
     url: /1_religious_part/ceremony_info/
-  - title: 마음치유명상아카데미
-    url: /1_religious_part/zen_cure/two/
-  - title: 템플스테이
-    url: /1_religious_part/temple_stay/three/
+  - title: 연등·인등안내·접수
+    url: /1_religious_part/lamp_info/
+  - title: 공양안내·접수
+    url: /1_religious_part/offering_info/
+
 
 - title: 도솔노인복지센터
   url: /2_dosolnoin_part/dosolnoin_info/
@@ -43,11 +77,32 @@
     url: /2_dosolnoin_part/forest/
 
 - title: 포교·신도회
-  url: /3_volunteers_part/committee_info/
+  url: /3_mission_part/etiquette/
   sub-links:
-  - title: 청년회
-    url: /3_volunteers_part/committee_info/
-  - title: 합창단
-    url: /3_volunteers_part/choir_info/
-  - title: 문의하기
-    url: /3_volunteers_part/volunteer-info/
+  - title: 사찰예절및기초교리
+    url: /3_mission_part/etiquette/
+  - title: 화암사방송
+    url: /3_mission_part/broadcasting/
+  - title: 마음치유명상아카데미
+    url: /3_mission_part/zen_cure/
+  - title: 템플스테이
+    url: /3_mission_part/temple_stay/  
+  - title: 신도회
+    url: /3_mission_part/community/info/
+  
+
+- title: (구)화암사안내
+  url: /resource_room/
+  sub-links:
+  - title: All
+    url: /resource_room/
+  - title: 화암사 공지사항
+    url: /resource_room/notices-hwaam/
+  - title: 복지센터 공지사항
+    url: /resource_room/notices-dosolnoin/
+  - title: 숲체험현장  
+    url: /resource_room/forest/
+  - title: 신행생활 및 자원봉사
+    url: /resource_room/religious-life/
+  - title: 자료실
+    url: /resource_room/references/

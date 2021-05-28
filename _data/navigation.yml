@@ -50,14 +50,19 @@
 - title: 법회·기도
   url: /1_religious_part/ceremony_info/one/
   sub-links:
-  - title: 기도법회의미
+  - title: 법회·기도의미
     url: /1_religious_part/ceremony_info/one/
-  - title: 기도법회안내
+  - title: 법회·행사
+    url: /1_religious_part/schedule_year/
+  - title: 불사안내·접수
+    url: /1_religious_part/temple_mod/
+  - title: 기도안내·접수
     url: /1_religious_part/ceremony_info/
-  - title: 마음치유명상아카데미
-    url: /1_religious_part/zen_cure/two/
-  - title: 템플스테이
-    url: /1_religious_part/temple_stay/three/
+  - title: 연등·인등안내·접수
+    url: /1_religious_part/lamp_info/
+  - title: 공양안내·접수
+    url: /1_religious_part/offering_info/
+
 
 - title: 도솔노인복지센터
   url: /2_dosolnoin_part/dosolnoin_info/
@@ -74,12 +79,18 @@
     url: /2_dosolnoin_part/forest/
 
 - title: 포교·신도회
-  url: /3_volunteers_part/committee_info/
+  url: /3_mission_part/etiquette/
   sub-links:
-  - title: 청년회
-    url: /3_volunteers_part/committee_info/
-  - title: 합창단
-    url: /3_volunteers_part/choir_info/
+  - title: 사찰예절및기초교리
+    url: /3_mission_part/etiquette/
+  - title: 화암사방송
+    url: /3_mission_part/broadcasting/
+  - title: 마음치유명상아카데미
+    url: /3_mission_part/zen_cure/
+  - title: 템플스테이
+    url: /3_mission_part/temple_stay/  
+  - title: 신도회
+    url: /3_mission_part/community/info/
   
 
 - title: (구)화암사안내

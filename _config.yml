@@ -50,7 +50,7 @@ collections:
     output: true
   2_dosolnoin_part:
     output: true  
-  3_volunteers_part:  
+  3_mission_part: 
     output: true
   # application-guidelines:
   #   output: true
