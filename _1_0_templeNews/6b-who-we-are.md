@@ -9,4 +9,4 @@ second_nav_title: "봉사안내·신청"
 
 ### **신청 및 참여방법 안내** 
 
-##### [** <span style="color:blue"> 문의 및 안내 바로가기</span>**](/0_temple/address)
+##### [** <span style="color:blue"> 문의 및 안내 바로가기</span>**](/1_0_templeNews/volunteer)
