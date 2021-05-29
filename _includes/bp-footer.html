@@ -3,10 +3,10 @@
     <div class="bp-container ">
         <div class="row">
             <div class="col header padding--top--xs padding--bottom--xs">
-                <h5 class="sub-header has-text-white"><b>{{site.title}}</b></h5>
+                <h6 class="sub-header has-text-white"><b>{{site.title}}</b></h6>
             </div>
         </div>
-        <div class="row is-top">
+        <div class="row is-top ">
             {%- if site.data.footer -%}
                 {%- assign links = site.data.footer -%}
             {%- else -%}
@@ -32,7 +32,7 @@
                   {%- if base-url == "" and link.external == true -%}
                     <p class="sub-header"><b><a class="has-text-white" href="{{- base-url -}}{{- link.url -}}" target="_blank" rel="noreferrer">{{link.title}}</a></b></p>
                   {%- else -%}
-                    <p class="sub-header"><b><a class="has-text-white" href="{{- base-url -}}{{- link.url -}}">{{link.title}}</a></b></p>
+                    <p class="sub-header"><b><h6><a class="has-text-white" href="{{- base-url -}}{{- link.url -}}">{{link.title}}</a></h6></b></p>
                   {%- endif -%}
                   {%- for sublink in link.sub-links -%}
                     {%- include sublinks-baseurl.html -%}
@@ -45,11 +45,13 @@
                 </div>
             {%- endif -%}
             {%- endfor -%}
-            </div>
+            </div>       
+
+
 
             {%- if social -%}
               <!-- Social links for desktop -->
-              <div class="col is-one-fifth is-hidden-mobile is-hidden-tablet-only" id="social-link-desktop">
+            <div class="col is-one-quarter is-hidden-mobile is-hidden-tablet-only" id="social-link-desktop">
                 {%- if social.naver -%}
                   <a href="{{- social.naver -}}" target="_blank" class="social-link padding--bottom is-inline-block" rel="noreferrer">
                     <img src="/assets/img/naver_icon.png" width= 18em margin-right=10px></img>
@@ -79,30 +81,24 @@
 
                                                             
               </div>
-              <br>
-              <div class="row is-vcentered {{navClass}} is-multiline is-hidden-mobile">
-                <a class ="has-text-gray"> &copy; {{ site.time | date: "%Y" -}}
-                {%- if site.copyright_agency %}
-                  {{ site.copyright_agency -}}
-                {%- else %}
-                  {{ site.title -}}
-                {%- endif -%}
-                                                                    
-                <!-- <class="last-updated">Last Updated {{site.time | date_to_string -}}</class> </a> -->
-              </div>
+              
               
               
               {%- comment -%} Social links for tablet {%- endcomment -%}
               <div class="col is-one-quarter is-hidden-mobile is-hidden-desktop" id="social-link-tablet">
                 {%- if social.naver -%}
+                <div class="row">
                   <a href="{{- social.naver -}}" target="_blank" class="social-link padding--bottom is-inline-block" rel="noreferrer">
                     <img src="/assets/img/naver_icon.png" width= 18em margin-right=10px></img>
                   </a>
+                </div>
                 {%- endif -%}
                 {%- if social.kakaoch -%}
+                <div class="row">
                   <a href="{{- social.kakaoch -}}" target="_blank" class="social-link padding--bottom is-inline-block" rel="noreferrer">
                     <img src="/assets/img/kakaoch_icon.png" width= 18em margin-right=10px></img>
-                  </a>                    
+                  </a>           
+                </div>         
                 {%- endif -%}
                 {%- if social.facebook -%}
                   <div class="row">
@@ -129,20 +125,12 @@
                     <a href="{{- social.linkedin -}}" target="_blank" class="social-link margin--bottom" title="LinkedIn" rel="noreferrer"><span class="sgds-icon sgds-icon-linkedin is-size-4"></span></a>
                   </div>
                 {%- endif -%}
-                
-                {%- if site.copyright_agency -%}
-                <div class="row">
-                  <a class ="has-text-gray"> &copy; {{ site.time | date: "%Y" -}}                  
-                    {{ site.copyright_agency -}}
-                                                                      
-                  <class="last-updated">Last Updated {{site.time | date_to_string -}}</class> </a>
-                </div>
-                {%- endif -%}
+                                
               </div>
             {%- endif -%}
 
             {%- comment -%} Footer links for mobile {%- endcomment -%}
-            <div class="col is-hidden-tablet is-hidden-desktop">
+            <div class="col is-two-thirds is-hidden-tablet is-hidden-desktop">
               {%- for link in links -%}
                 {%- include links-baseurl.html -%}
                 {%- assign linkTitle = link.title | downcase -%}
@@ -150,10 +138,11 @@
                   {%- if base-url == "" and link.external == true -%}
                     <p><a href="{{- base-url -}}{{- link.url -}}" target="_blank" rel="noreferrer">{{link.title}}</a></p>
                   {%- else -%}
-                    <p><a href="{{- base-url -}}{{- link.url -}}">{{link.title}}</a></p>
+                    <a href="{{- base-url -}}{{- link.url -}}">{{link.title}}</a>
                   {%- endif -%}
                 {%- endif -%}
               {%- endfor -%}
+              
             </div>
           
           
@@ -227,7 +216,20 @@
                 <a href="{{- social.linkedin -}}" target="_blank" class="social-link padding--right" title="LinkedIn" rel="noreferrer"><span class="sgds-icon sgds-icon-linkedin is-size-4"></span></a>
               {%- endif -%}
             </div>
+        
+            <p>
+            <h6><a class ="has-text-white is-left"> 대전 서구 변동서로27번길 20-3 &nbsp; (Tel) 042.488.7209 &nbsp;&nbsp;&nbsp; </a>
+            
+            <a class ="has-text-white is-left"> Copyright &copy; {{ site.time | date: "%Y" -}}
+              {%- if site.copyright_agency %}
+                {{ site.copyright_agency -}} 
+              {%- else %}
+                {{ site.title -}} &nbsp; All rights reserved.
+              {%- endif -%}
+            </a> </h6>
+          </p>
         </div>
+
     </div>
 </footer>
 <!-- {%- comment -%} onclick at body tag is needed for iOS Safari to treat stuff other than <a> tags etc (e.g. div) as clickable {%- endcomment -%}

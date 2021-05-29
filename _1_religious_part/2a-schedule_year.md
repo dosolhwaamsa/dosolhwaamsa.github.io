@@ -7,7 +7,7 @@ collection_name: 1_religious_part
 second_nav_title: "법회·행사" #좌측 레벨1 메뉴제목
 ---
 
-### **연중행사**
+#### **연중행사**
 > 불기2565(2021)년 부처님오신날
 
 

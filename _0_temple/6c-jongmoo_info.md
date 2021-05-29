@@ -10,5 +10,5 @@ second_nav_title: "종무소안내"
 
 ### **종무원소개**
 
-{% include image-gallery.html folder="/images/religious_part/overview" %}
+
 
