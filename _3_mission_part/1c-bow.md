@@ -29,11 +29,11 @@ second_nav_title: "사찰예절및기초교리"
 부처님께 예경하는 방법 중 가장 경건한 예법이다. 보통 큰절이라고 하는데, 땅바닥에 바싹 엎드려 자신을 바닥까지 낮추면서 상대방에게 최대의 존경을 표하는 동작이다. 인도에서는 오체투지를 접족례라하여, 온몸을 던져 절을 하면서 공경하는 이의 발을 두 손으로 떠받들었다고 한다.
 
 - 오체투지 자세 순서
-![](http://images.weserv.nl/?url={{site.url}}{{site.baseurl}}/images/mission_part/fig1.jpg&w=1.5&h=1.5&output=jpg&q=80&t=square)
+![]({{site.url}}{{site.baseurl}}/images/mission_part/fig1.jpg){: .fig1}
 
 ##### **고두례**
 
 절을 아무리 많이 한다 해도 삼보님에 대한 존경의 마음을 다 담아낼 수 없다. 그래서 절을 다 마치고 일어서기전에 부처님의 한량없는 공덕을 생각하며 지극한 마음 으로 한 번 더 머리를 조아리는 것
 
 - 고두례 옆모습
-![](http://images.weserv.nl/?url={{site.url}}{{site.baseurl}}/images/mission_part/fig2.jpg&w=1.5&h=1.5&output=jpg&q=80&t=circle)
+![]({{site.url}}{{site.baseurl}}/images/mission_part/fig2.jpg){: .fig2}
