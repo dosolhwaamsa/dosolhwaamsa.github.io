@@ -16,13 +16,15 @@ second_nav_title: "사찰안내"
         src="https://youtube.com/embed/uTilytb2--E?t=16"
         frameborder="0"
         allow="autoplay; encrypted-media"
+        controls="1"
         allowfullscreen></iframe>
 
 * **차담원**
 <iframe width="100%"
         height="300"
         src="https://youtube.com/embed/eLLwpnl7vKI?t=16"
-        frameborder="0"        
+        frameborder="0"      
+        controls="1"  
         allowfullscreen></iframe>
 
 * **차담원내부**
