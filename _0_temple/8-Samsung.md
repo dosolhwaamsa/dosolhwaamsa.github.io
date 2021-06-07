@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-permalink: /0_temple/dosolwon/
+permalink: /0_temple/samsung/
 title: 삼성각
 breadcrumb: 삼성각
 # last_updated: 01-04-2018 
