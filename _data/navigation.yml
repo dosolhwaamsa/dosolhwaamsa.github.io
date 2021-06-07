@@ -17,6 +17,8 @@
       url: /0_temple/religious_life/
     - title: 사찰안내
       url: /0_temple/hwaamsa_info/gallery/
+    - title: 삼성각
+      url: /0_temple/samsung/
     - title: 선갤러리(고승선서)
       url: /0_temple/zen_gallery/
     - title: 차담원
@@ -29,8 +31,6 @@
       url: /0_temple/temple_office/organize/
     - title: 화암사오시는길
       url: /0_temple/address/
-    - title: 삼성각
-      url: /0_temple/samsung/
 
 - title: 화암사소식
   url: /1_0_templeNews/hwaamsa_news/
