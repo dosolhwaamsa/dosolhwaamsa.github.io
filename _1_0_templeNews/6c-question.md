@@ -4,10 +4,20 @@ title: 문의·신청하기
 permalink: /1_0_templeNews/questions/
 breadcrumb: 문의·신청하기
 collection_name: 1_0_templeNews
-second_nav_title: "봉사안내·신청"
+second_nav_title: "문의·안내·신청"
 ---
 
-> ##### **화암사 소식**
+> ##### **문의·신청하기**
+
+* **기도 문의·신청**
+---
+---
+
+### **도솔산화암사**
+- 대전 서구 변동서로27번길 20-3 
+- +82 042-488-7209
+- [kakotalk문의](https://pf.kakao.com/_cBGaK/chat)
+- 
 
 * **자원봉사 문의·신청**
 ---
