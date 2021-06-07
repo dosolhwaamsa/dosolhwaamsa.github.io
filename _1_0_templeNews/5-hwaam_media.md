@@ -6,7 +6,7 @@ breadcrumb: 미디어속화암사
 collection_name: 1_0_templeNews
 ---
 
-> ##### **화암사 일상**
+> ##### **화암사 소식**
 
 * **미디어 속 화암사**
 ---
