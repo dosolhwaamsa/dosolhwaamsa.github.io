@@ -8,7 +8,9 @@ collection_name: 0_temple
 ---
 
 > ##### **주지스님 인사말**
+
 ---
+
 * **인사말**
 
 ![](/images/religious_part/greet.jpg){: .img2}
