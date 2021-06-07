@@ -10,7 +10,7 @@ second_nav_title: "봉사안내·신청"
 > ##### **문의·신청하기**
 
 * **기도 문의·신청**
----
+
 ---
 
 ### **도솔산화암사**
@@ -18,9 +18,10 @@ second_nav_title: "봉사안내·신청"
 - +82 042-488-7209
 - [kakotalk문의](https://pf.kakao.com/_cBGaK/chat)
 
+---
 
 * **자원봉사 문의·신청**
----
+
 ---
 
 ### **도솔산화암사**
@@ -41,6 +42,7 @@ Mon - Fri <br>
 8.30am - 6.00pm <br>
 Closed on Weekends and Public Holidays <br>
 
+---
 
 * **후원 문의·신청**
 ---
