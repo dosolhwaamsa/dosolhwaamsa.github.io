@@ -8,5 +8,16 @@ collection_name: 0_temple
 # second_nav_title: "화암사소개" #좌측 레벨1 메뉴제목
 ---
 
-
 ##### **미륵전 야외음악당**
+
+---
+
+* **야외음악 가는 길**
+<iframe width="100%"
+        height="300"
+        src="https://youtube.com/embed/6Qj1Mk6YbmE?t=15"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen></iframe>
+        
+----
