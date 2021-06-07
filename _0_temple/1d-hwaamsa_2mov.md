@@ -5,10 +5,11 @@ breadcrumb: 사찰안내
 title: 사찰전경(영상)
 collection_name: 0_temple
 second_nav_title: "사찰안내"
-
 ---
 
-### **화암사 소개(영상)**
+> ##### **화암사안내**
+---
+### * **화암사 소개(영상)**
 
 * **외관**
 <iframe width="100%"
