@@ -20,4 +20,4 @@ collection_name: 0_temple
         controls="1"  
         allowfullscreen></iframe>
 ---
-{% include image-gallery.html folder="/images/overview/samsunggak.jpg" %}
+{% include image-gallery.html folder="/images/religious_part/overview/samsunggak.jpg" %}
