@@ -20,4 +20,7 @@ collection_name: 0_temple
         allowfullscreen></iframe>
 
 ---
-{% include image-gallery.html folder="/images/overview/outdoormusic.png" %}
+
+{% include image-gallery.html folder="/images/religious_part/overview/outdoormusic.png" %}
+
+---
