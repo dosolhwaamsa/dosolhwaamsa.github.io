@@ -1,15 +1,15 @@
 ---
 layout: leftnav-page-content
-title: 문의하기
+title: 문의·신청하기
 permalink: /1_0_templeNews/questions/
-breadcrumb: 문의하기
+breadcrumb: 문의·신청하기
 collection_name: 1_0_templeNews
 second_nav_title: "봉사안내·신청"
 ---
 
 > ##### **화암사 소식**
 
-* **자원봉사 신청**
+* **자원봉사 문의·신청**
 ---
 ---
 
@@ -32,7 +32,7 @@ Mon - Fri <br>
 Closed on Weekends and Public Holidays <br>
 
 
-* **후원 신청**
+* **후원 문의·신청**
 ---
 ---
 - **CMS후원**: (출금이체)로 후원을 신청하시면 약정일에 후원금이 출금됩니다. (지로, 자동이체신청, 은행에서 송금의 번거로움 없이 매월 차질없이 후원됩니다.)
