@@ -19,7 +19,7 @@ second_nav_title: "법회·행사" #좌측 레벨1 메뉴제목
 * 법회시간: 매주 음력 초하루(1일), 오전 10시 30분
 * 법회장소: 큰법당
 
-#### **지장재일**
+#### **지장재일법회**
 * 법회시간: 매월 음력 18일, 오전 10시 30분
 * 법회장소: 큰법당
 
@@ -40,12 +40,12 @@ second_nav_title: "법회·행사" #좌측 레벨1 메뉴제목
 |:-:|:-:|
 | **일요법회** | 매주 일요일 **<span style="color:red;">일요</span>**일|
 | **초하루기도** | 매월 음력 **<span style="color:red;">1</span>**일|
-| **칠성기도** | 매월 음력 **<span style="color:red;"> 7  </span>**일|
+| **칠성기도** | 매월 음력 **<span style="color:red;"> 7  </span>**일(삼성각)|
 | **오백나한기도** | 매월 음력 **<span style="color:red;"> 15 </span>**일|
 | **산신기도** | 매월 음력 **<span style="color:red;"> 16 </span>**일|
 | **지장기도** | 매월 음력 **<span style="color:red;"> 18 </span>**일|
 | **관음기도** | 매월 음력 **<span style="color:red;"> 24 </span>**일|
-| **독성기도** | 매월 음력 **<span style="color:red;"> 그믐 </span>**|
+| **독성기도** | 매월 음력 **<span style="color:red;"> 그믐 </span>**(삼성각)|
 | **조왕기도** | 매월 음력 **<span style="color:red;"> 그믐 </span>**(공양간)|
 |||
 
