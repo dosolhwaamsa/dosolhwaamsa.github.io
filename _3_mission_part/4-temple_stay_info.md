@@ -6,7 +6,11 @@ title: 템플스테이
 collection_name: 3_mission_part
 ---
 
-### 템플스테이 
+> ##### **포교·신도회>화암사방송**
+
+* **템플스테이**
+---
+
 ![image]({{site.baseurl}}/images/religious_part/sub02_textual_06.jpg)
 
 
