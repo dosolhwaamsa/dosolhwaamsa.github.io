@@ -13,6 +13,7 @@ second_nav_title: "사찰안내"
 ---
 ---
 * **외관**
+
 ---
 <iframe width="100%"
         height="300"
@@ -22,6 +23,7 @@ second_nav_title: "사찰안내"
         allowfullscreen></iframe>
 
 * **현관**
+
 ---
 <iframe width="100%"
         height="300"        
@@ -31,6 +33,7 @@ second_nav_title: "사찰안내"
         allowfullscreen></iframe>
 
 * **큰법당**
+
 ---
 <iframe width="100%"
         height="300"
@@ -40,6 +43,7 @@ second_nav_title: "사찰안내"
         allowfullscreen></iframe>
 
 * **명부전**
+
 ---
 <iframe width="100%"
         height="300"
