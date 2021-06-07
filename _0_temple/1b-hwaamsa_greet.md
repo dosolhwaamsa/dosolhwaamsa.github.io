@@ -9,21 +9,20 @@ collection_name: 0_temple
 
 > ##### **화암사소개>주지스님 인사말**
 
-* **인사말**
----
-
 ![](/images/religious_part/greet.jpg){: .img2}
 
-* **주지스님 소개**
+> **주지스님 소개**
 
-> 원중 혜광스님
+**원중 혜광스님**
 
 * **대한불교 조계종 도솔산 화암사 주지** <br>
 * **도솔노인복지센터 관장** <br>
 * **(사) 대전불교 사회복지회 대표이사** <br>
 * **동국대학교 행정대학원 사회복지학과(석사)** <br>
 
+---
 
+> **인사말**
 <!-- ![](http://images.weserv.nl/?url={{site.url}}{{site.baseurl}}/images/religious_part/dosolnoin_sub.gif&w=1.5&h=1.5&output=jpg&q=80&t=circle) -->
 
 <!-- <a href="{{ file.path | relative_url }}" title="{{ filename }}"><img src="//images.weserv.nl/?url={{site.url}}{{site.baseurl}}/images/religious_part/dosolnoin_sub.gif&w=1.5&h=1.5&output=jpg&q=80&t=circle" alt="{{ filename }}" /></a> -->
