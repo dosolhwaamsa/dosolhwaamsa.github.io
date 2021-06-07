@@ -19,7 +19,7 @@ collection_name: 0_temple
         allow="autoplay; encrypted-media"
         allowfullscreen></iframe>
 
-> #### **조선 시대 서산대사, 초의선사 부터 근대의 고스님들의 서화가 전시 되어 있습니다.**
+> ##### **조선 시대 서산대사, 초의선사 부터 근대의 고스님들의 서화가 전시 되어 있습니다.**
 
 ---
 
