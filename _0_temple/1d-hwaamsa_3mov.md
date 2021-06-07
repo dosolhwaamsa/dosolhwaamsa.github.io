@@ -35,7 +35,7 @@ second_nav_title: "사찰안내"
         allow="autoplay; encrypted-media"
         allowfullscreen></iframe>
 
-* **갤러리**
+* **선갤러리**
 <iframe width="100%"
         height="300"
         src="https://youtube.com/embed/wKjkdmNswZ0?t=12"
