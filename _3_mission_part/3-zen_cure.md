@@ -4,9 +4,12 @@ permalink: /3_mission_part/zen_cure/
 breadcrumb: 마음치유행복명상아카데미
 title: 마음치유행복명상아카데미
 collection_name: 3_mission_part
-
 ---
-### **마음치유행복명상아카데미**
+
+> ##### **포교·신도회>화암사방송**
+
+* **마음치유행복명상아카데미**
+---
 
 ![image]({{site.baseurl}}/images/religious_part/s08_img_01.jpg)
 
