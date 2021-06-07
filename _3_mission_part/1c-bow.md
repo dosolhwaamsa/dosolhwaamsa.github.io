@@ -38,3 +38,5 @@ second_nav_title: "사찰예절및기초교리"
 
 - 고두례 옆모습
 ![]({{site.url}}{{site.baseurl}}/images/mission_part/fig2.jpg){:width="3px"}
+- 고두례 정면모습
+![]({{site.url}}{{site.baseurl}}/images/mission_part/fig3.jpg){:width="3px"}
