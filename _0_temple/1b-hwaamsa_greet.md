@@ -24,7 +24,7 @@ collection_name: 0_temple
 
 ---
 
-> ### **인사말**
+> ### **주지스님 인사말**
 <!-- ![](http://images.weserv.nl/?url={{site.url}}{{site.baseurl}}/images/religious_part/dosolnoin_sub.gif&w=1.5&h=1.5&output=jpg&q=80&t=circle) -->
 
 <!-- <a href="{{ file.path | relative_url }}" title="{{ filename }}"><img src="//images.weserv.nl/?url={{site.url}}{{site.baseurl}}/images/religious_part/dosolnoin_sub.gif&w=1.5&h=1.5&output=jpg&q=80&t=circle" alt="{{ filename }}" /></a> -->
