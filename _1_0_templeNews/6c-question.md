@@ -7,7 +7,7 @@ collection_name: 1_0_templeNews
 second_nav_title: "봉사안내·신청"
 ---
 
-##### **화암사 소식**
+> ##### **화암사 소식**
 
 * **자원봉사 신청**
 ---
