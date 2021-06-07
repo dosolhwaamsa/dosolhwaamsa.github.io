@@ -28,5 +28,3 @@ collection_name: 0_temple
         allowfullscreen></iframe>
         
 ----
-
-> <h5> 차담원 </h5>
