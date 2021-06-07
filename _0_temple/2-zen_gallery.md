@@ -10,8 +10,8 @@ collection_name: 0_temple
 
 > ##### **선갤러리**
 
----
 * **선갤러리**
+---
 <iframe width="100%"
         height="300"
         src="https://youtube.com/embed/wKjkdmNswZ0?t=12"
