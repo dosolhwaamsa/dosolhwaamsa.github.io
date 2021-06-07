@@ -16,6 +16,14 @@ second_nav_title: "화암사방송"
         frameborder="0"
         allow="autoplay; encrypted-media"
         allowfullscreen></iframe>
+        
+* **2020 오백나한대재&동안거 100일기도**
+<iframe width="100%"
+        height="400"
+        src="https://www.youtube.com/embed/videoseries?list=PLFUlmugaN5WyvFVZ8ccWfnxVssL8AojDW"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen></iframe>
 
 * **2019 법문 영상 리스트**
 <iframe width="100%"
@@ -24,7 +32,15 @@ second_nav_title: "화암사방송"
         frameborder="0"
         allow="autoplay; encrypted-media"
         allowfullscreen></iframe>     
-
+        
+* **2016 BTN(특집)간화선**
+<iframe width="100%"
+        height="400"
+        src="https://www.youtube.com/embed/videoseries?list=PLFUlmugaN5WzWRJDMwMpn4qnNy_wYrO9E"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen></iframe>  
+        
 * **2014 생전 예수제**
 <iframe width="100%"
         height="400"
