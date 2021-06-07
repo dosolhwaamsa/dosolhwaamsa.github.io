@@ -109,4 +109,4 @@ collection_name: 3_mission_part
 </table>
 
 
-[** <span style="color:blue"> 문의 및 안내 바로가기</span>**](/1_0_templeNews/volunteer)
+[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)
