@@ -6,7 +6,11 @@ title: 스님소개
 collection_name: 0_temple
 second_nav_title: "종무소안내"
 
+
 ---
 
-### **스님소개**
+> ##### **종무소안내**
+
+* **스님소개**
+---
 
