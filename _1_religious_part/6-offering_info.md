@@ -24,6 +24,8 @@ collection_name: 1_religious_part
 
 [[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)
 
+---
+
 ##### **쌀공양**
 
 |**쌀 종류**|**20Kg**| **40Kg**|
@@ -36,6 +38,8 @@ collection_name: 1_religious_part
 ||||
 
 [[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)
+
+---
 
 ##### **떡공양**
 
@@ -53,6 +57,8 @@ collection_name: 1_religious_part
 
 [[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)
 
+---
+
 #####  > *떡 공양 접수는 전날 오후 1시30분까지 입니다.*
 
 ##### **과일공양**
@@ -67,3 +73,5 @@ collection_name: 1_religious_part
 ||||
 
 [[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)
+
+---
