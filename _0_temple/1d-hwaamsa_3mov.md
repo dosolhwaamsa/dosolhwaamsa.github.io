@@ -5,10 +5,11 @@ breadcrumb: 사찰내시설
 title: 사찰내시설소개(영상)
 collection_name: 0_temple
 second_nav_title: "사찰안내"
-
 ---
 
-### **화암사 내 시설 소개(영상)**
+> ##### **화암사안내**
+---
+### * **화암사 내 시설 소개(영상)**
 
 * **도솔원**
 <iframe width="100%"
