@@ -22,6 +22,7 @@ collection_name: 0_temple
         allowfullscreen></iframe>
 
 ---
-{% include image-gallery.html folder="/images/religious_part/overview/samsunggak.jpg" %}
+
+{% include image-gallery.html folder="/images/religious_part/overview/outdoormusic.png" %}
 
 ---
