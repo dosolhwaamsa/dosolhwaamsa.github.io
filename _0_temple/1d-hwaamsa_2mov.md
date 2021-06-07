@@ -11,7 +11,7 @@ second_nav_title: "사찰안내"
 
 * **화암사 소개(영상)**
 ---
----
+
 * **외관**
 
 <iframe width="100%"
@@ -20,7 +20,9 @@ second_nav_title: "사찰안내"
         frameborder="0"
         allow="autoplay; encrypted-media"
         allowfullscreen></iframe>
+
 ---
+
 * **현관**
 
 <iframe width="100%"
@@ -29,7 +31,9 @@ second_nav_title: "사찰안내"
         frameborder="0"
         allow="autoplay; encrypted-media"
         allowfullscreen></iframe>
+
 ---
+
 * **큰법당**
 
 <iframe width="100%"
@@ -38,7 +42,9 @@ second_nav_title: "사찰안내"
         frameborder="0"
         allow="autoplay; encrypted-media"
         allowfullscreen></iframe>
+
 ---
+
 * **명부전**
 
 <iframe width="100%"
