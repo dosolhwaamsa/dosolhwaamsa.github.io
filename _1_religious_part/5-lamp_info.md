@@ -25,6 +25,7 @@ collection_name: 1_religious_part
 |**도량등(1인 1등)**|	초파일까지| |	3만원|	2월 초|
 |**치유등(속득쾌차)(1인 1등)**|	1년등| 명부전|	10만원|	2월 초|
 
+[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)
 
 <!-- ##### 인등
 
