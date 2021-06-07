@@ -7,7 +7,7 @@ collection_name: 3_mission_part
 second_nav_title: "화암사방송"
 ---
 
-### **법문영상**
+### **법문영상** (연속재생)
 
 * **2020 법문 영상 리스트**
 <iframe width="100%"
@@ -17,7 +17,7 @@ second_nav_title: "화암사방송"
         allow="autoplay; encrypted-media"
         allowfullscreen></iframe>
         
-* **2020 오백나한대재&동안거 100일기도**
+* **2020 오백나한대재&동안거 100일기도 리스트**
 <iframe width="100%"
         height="400"
         src="https://www.youtube.com/embed/videoseries?list=PLFUlmugaN5WyvFVZ8ccWfnxVssL8AojDW"
