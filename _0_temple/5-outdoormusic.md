@@ -9,8 +9,9 @@ collection_name: 0_temple
 ---
 
 > ##### **미륵전 야외음악당**
----
+
 * ** 화암사 야외 음악당 가는 길**
+---
 <iframe width="100%"
         height="300"
         src="https://youtube.com/embed/6Qj1Mk6YbmE?t=15"
