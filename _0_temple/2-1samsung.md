@@ -11,9 +11,8 @@ collection_name: 0_temple
 
 > ##### **상성각**
 
----
-
 * **화암사 삼성각 가는 길**
+---
 <iframe width="100%"
         height="300"        
         src="https://youtube.com/embed/YQHywMpCJAo"
