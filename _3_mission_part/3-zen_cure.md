@@ -15,7 +15,7 @@ collection_name: 3_mission_part
 ![image]({{site.baseurl}}/images/religious_part/s08_img_03.jpg)
 
 
-[** <span style="color:blue"> 문의 및 안내 바로가기</span>**](/3_volunteers_part/contact-us)
+[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)
 
 <!-- please email [dosol-hwaam@naver.com](mailto:dosol-hwaam@naver.com).      -->
 
