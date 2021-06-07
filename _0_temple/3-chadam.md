@@ -19,5 +19,5 @@ collection_name: 0_temple
         frameborder="0"      
         controls="1"  
         allowfullscreen></iframe>
-
 ---
+![]("/images/outdoormusic.png" %){: .img2}
