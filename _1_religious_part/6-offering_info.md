@@ -22,6 +22,8 @@ collection_name: 1_religious_part
 | **오백나한님전** | 5만원  | 10만원  |
 ||||
 
+[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)
+
 ##### **쌀공양**
 
 |**쌀 종류**|**20Kg**| **40Kg**|
@@ -32,6 +34,8 @@ collection_name: 1_religious_part
 | **삼성각** | 6만원  | 12만원  |
 | **오백나한님전** | 6만원  | 12만원  |
 ||||
+
+[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)
 
 ##### **떡공양**
 
@@ -47,6 +51,8 @@ collection_name: 1_religious_part
 | **백설기** | 6만원   | 3만원  |
 ||||
 
+[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)
+
 #####  > *떡 공양 접수는 전날 오후 1시30분까지 입니다.*
 
 ##### **과일공양**
@@ -58,6 +64,6 @@ collection_name: 1_religious_part
 | **명부전** | 계절과일10만원 | 계절과일20만원 |
 | **삼성각** |  계절과일10만원 | 계절과일20만원 |
 | **오백나한님전** |  계절과일10만원 | 계절과일20만원 |
-
-종무소 문의(+82 042-488-7209)
 ||||
+
+[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)
