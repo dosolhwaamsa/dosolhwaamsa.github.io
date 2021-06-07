@@ -7,7 +7,10 @@ collection_name: 3_mission_part
 second_nav_title: "화암사방송"
 ---
 
-### **화암사 Live TV (YouTube Live)**
+> ##### **포교·신도회>화암사방송**
+
+* **화암사 Live TV (YouTube Live)**
+---
 
 
 <iframe width="100%"
