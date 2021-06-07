@@ -20,4 +20,5 @@ collection_name: 0_temple
         allow="autoplay; encrypted-media"
         allowfullscreen></iframe>
 
----
+----
+![](/images/samsunggak.jpg){: .img2}
