@@ -10,4 +10,3 @@ collection_name: 1_0_templeNews
 
 * **도솔노인 복지센터 공지사항**
 ---
----
