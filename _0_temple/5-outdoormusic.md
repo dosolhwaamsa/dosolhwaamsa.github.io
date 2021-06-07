@@ -20,4 +20,4 @@ collection_name: 0_temple
         allowfullscreen></iframe>
         
 ----
-![](/images/outdoormusic.png){: .img2}
+![]("/images/outdoormusic.png" %){: .img2}
