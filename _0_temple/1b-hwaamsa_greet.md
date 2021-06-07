@@ -10,6 +10,9 @@ collection_name: 0_temple
 > ##### **화암사소개>주지스님 인사말**
 
 > ### **주지스님 소개**
+
+---
+
 ![](/images/religious_part/greet.jpg){: .img2}
 
 **원중 혜광스님**
