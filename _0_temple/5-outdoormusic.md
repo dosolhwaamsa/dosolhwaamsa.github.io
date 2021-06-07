@@ -18,9 +18,6 @@ collection_name: 0_temple
         frameborder="0"
         allow="autoplay; encrypted-media"
         allowfullscreen></iframe>
-        
----
-![](/images/outdoormusic.png){: .img2}
 
 ---
 {% include image-gallery.html folder="/images/outdoormusic.png" %}
