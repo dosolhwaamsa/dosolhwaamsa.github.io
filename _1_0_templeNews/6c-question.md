@@ -12,6 +12,7 @@ second_nav_title: "봉사안내·신청"
 * **자원봉사 신청**
 ---
 ---
+
 ### **도솔산화암사**
 - 대전 서구 변동서로27번길 20-3 
 - +82 042-488-7209
@@ -29,6 +30,7 @@ second_nav_title: "봉사안내·신청"
 Mon - Fri <br>
 8.30am - 6.00pm <br>
 Closed on Weekends and Public Holidays <br>
+
 
 * **후원 신청**
 ---
