@@ -10,6 +10,8 @@ collection_name: 3_mission_part
 ![image]({{site.baseurl}}/images/religious_part/sub02_textual_06.jpg)
 
 
+[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)
+
 ##### **세부일정**
 
 
