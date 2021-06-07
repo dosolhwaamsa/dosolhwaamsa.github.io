@@ -7,7 +7,7 @@ collection_name: 3_mission_part
 second_nav_title: "신도회"
 ---
 
-> ##### **신도회** 
+> ##### **포교·신도회>신도회**
 
 * **화암사 운영위원회**
 ---
