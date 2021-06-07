@@ -7,7 +7,10 @@ collection_name: 3_mission_part
 second_nav_title: "신도회"
 ---
 
-### **도솔합창단** 
+> ##### **포교·신도회>신도회**
+
+* **도솔합창단**
+---
 
 
 
