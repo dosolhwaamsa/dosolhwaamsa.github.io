@@ -10,5 +10,5 @@ second_nav_title: "사찰안내"
 
 ### **화암사 둘러보기**
 
-{% include image-gallery.html folder="/images/religious_part/overview" %}
+{% include image-gallery.html folder="/images/religious_part/화암사 사진" %}
 
