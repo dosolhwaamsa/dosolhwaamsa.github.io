@@ -13,7 +13,7 @@ second_nav_title: "사찰안내"
 ---
 ---
 
-* **외관**
+* **화암사 전경*
 
 <iframe width="100%"
         height="300"
@@ -24,7 +24,7 @@ second_nav_title: "사찰안내"
 
 ---
 
-* **현관**
+* **화암사 현관 계단 걷기**
 
 <iframe width="100%"
         height="300"        
@@ -35,7 +35,7 @@ second_nav_title: "사찰안내"
 
 ---
 
-* **큰법당**
+* **화암사 큰법당**
 
 <iframe width="100%"
         height="300"
@@ -46,7 +46,7 @@ second_nav_title: "사찰안내"
 
 ---
 
-* **명부전**
+* **화암사 명부전**
 
 <iframe width="100%"
         height="300"
