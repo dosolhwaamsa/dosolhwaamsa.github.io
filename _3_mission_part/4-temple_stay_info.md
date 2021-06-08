@@ -10,6 +10,7 @@ collection_name: 3_mission_part
 
 * **템플스테이**
 ---
+---
 
 ![image]({{site.baseurl}}/images/religious_part/sub02_textual_06.jpg)
 
