@@ -10,3 +10,4 @@ collection_name: 1_0_templeNews
 
 * **화암사 공지사항**
 ---
+---
