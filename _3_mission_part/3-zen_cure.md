@@ -10,6 +10,7 @@ collection_name: 3_mission_part
 
 * **마음치유행복명상아카데미**
 ---
+---
 
 ![image]({{site.baseurl}}/images/religious_part/s08_img_01.jpg)
 
