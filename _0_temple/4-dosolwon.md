@@ -27,3 +27,5 @@ collection_name: 0_temple
 {% include image-gallery.html folder="/images/religious_part/overview/sosolhouse.png" %}
 
 ---
+
+> **지친사람들의 삶을 위로 해주고 마음을 치유해 주는 명상센터**
