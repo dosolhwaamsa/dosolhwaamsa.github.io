@@ -13,6 +13,7 @@ support: [jquery, gallery]
 
 * **시설안내**
 ---
+---
 
 photos:
     set: dosolnoin
