@@ -25,3 +25,4 @@ collection_name: 0_temple
 {% include image-gallery.html folder="/images/religious_part/overview/outdoormusic.png" %}
 
 ---
+> **도솔산 화암사 미륵전 야외음악당은 음악과 예술을 통한 문화포교 공간 **
