@@ -11,6 +11,7 @@ collection_name: 2_dosolnoin_part
 
 * **인사말**
 ---
+---
 
 ![]({{site.url}}/images/contact-us.jpg){: .img2}
 
