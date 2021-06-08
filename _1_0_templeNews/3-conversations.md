@@ -10,3 +10,4 @@ collection_name: 1_0_templeNews
 
 * **스님과의 대화**
 ---
+---
