@@ -13,7 +13,7 @@ second_nav_title: "사찰안내"
 ---
 ---
 
-* **도솔원**
+* **화암사 도솔원**
 
 <iframe width="100%"
         height="300"
@@ -25,7 +25,7 @@ second_nav_title: "사찰안내"
 
 ---
 
-* **차담원**
+* **화암사 차담원**
 
 <iframe width="100%"
         height="300"
@@ -36,7 +36,7 @@ second_nav_title: "사찰안내"
 
 ---
 
-* **차담원내부**
+* **화암사 차담원 계단을 걷다**
 
 <iframe width="100%"
         height="300"
@@ -47,7 +47,7 @@ second_nav_title: "사찰안내"
 
 ---
 
-* **선갤러리**
+* **화암사 선갤러리(고승선서)**
 
 <iframe width="100%"
         height="300"
