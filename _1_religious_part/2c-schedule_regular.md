@@ -62,7 +62,7 @@ second_nav_title: "법회·행사" #좌측 레벨1 메뉴제목
 | **조왕기도** | 매월 음력 **<span style="color:red;"> 그믐 </span>**(공양간)|
 |||
 
-[** <span style="color:blue"> 문의 및 안내 바로가기</span>**](/1_0_templeNews/volunteer)
+[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)
 
 
 <!-- #### **수요법회**
