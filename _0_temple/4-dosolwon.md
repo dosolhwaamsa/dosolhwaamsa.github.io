@@ -24,6 +24,6 @@ collection_name: 0_temple
 
 ---
 
-{% include image-gallery.html folder="/images/religious_part/overview/ᄃsosolhouse.png" %}
+{% include image-gallery.html folder="/images/religious_part/overview/sosolhouse.png" %}
 
 ---
