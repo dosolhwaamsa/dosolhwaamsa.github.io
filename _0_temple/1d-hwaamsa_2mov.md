@@ -13,7 +13,7 @@ second_nav_title: "사찰안내"
 ---
 ---
 
-* **화암사 전경*
+* **화암사 전경**
 
 <iframe width="100%"
         height="300"
