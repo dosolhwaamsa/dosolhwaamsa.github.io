@@ -4,9 +4,13 @@ permalink: /3_mission_part/zen_cure/
 breadcrumb: 마음치유행복명상아카데미
 title: 마음치유행복명상아카데미
 collection_name: 3_mission_part
-
 ---
-### **마음치유행복명상아카데미**
+
+> ##### **포교·신도회>마음치유행복명상아카데미**
+
+* **마음치유행복명상아카데미**
+---
+---
 
 ![image]({{site.baseurl}}/images/religious_part/s08_img_01.jpg)
 
@@ -15,7 +19,7 @@ collection_name: 3_mission_part
 ![image]({{site.baseurl}}/images/religious_part/s08_img_03.jpg)
 
 
-[** <span style="color:blue"> 문의 및 안내 바로가기</span>**](/3_volunteers_part/contact-us)
+[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)
 
 <!-- please email [dosol-hwaam@naver.com](mailto:dosol-hwaam@naver.com).      -->
 

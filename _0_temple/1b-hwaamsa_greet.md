@@ -7,10 +7,24 @@ collection_name: 0_temple
 # second_nav_title: "화암사소개"
 ---
 
-### **인사말**
+> ##### **화암사소개>주지스님 인사말**
+
+> ### **주지스님 소개**
+
+---
 
 ![](/images/religious_part/greet.jpg){: .img2}
 
+**원중 혜광스님**
+
+* **대한불교 조계종 도솔산 화암사 주지** <br>
+* **도솔노인복지센터 관장** <br>
+* **(사) 대전불교 사회복지회 대표이사** <br>
+* **동국대학교 행정대학원 사회복지학과(석사)** <br>
+
+---
+
+> ### **주지스님 인사말**
 <!-- ![](http://images.weserv.nl/?url={{site.url}}{{site.baseurl}}/images/religious_part/dosolnoin_sub.gif&w=1.5&h=1.5&output=jpg&q=80&t=circle) -->
 
 <!-- <a href="{{ file.path | relative_url }}" title="{{ filename }}"><img src="//images.weserv.nl/?url={{site.url}}{{site.baseurl}}/images/religious_part/dosolnoin_sub.gif&w=1.5&h=1.5&output=jpg&q=80&t=circle" alt="{{ filename }}" /></a> -->
@@ -25,7 +39,8 @@ collection_name: 0_temple
 
 아울러 화암사는 끊임없는 기도와 정진을 생명으로 하는 수행의 요람입니다. 저희 화암사에 오시는 모든 분들이 보현보살의 눈과 관세음보살의 손과 지장보살의 마음으로 정진하시길 축원합니다. 
 
-*-- 덕향 혜광 합장*
+*-- 원중 혜광 합장*
+
 
 <figure class="bp-youtube">
   <iframe src="https://www.youtube.com/embed/czEKeXx5Nsw" frameborder="0" allowfullscreen="true"> </iframe>

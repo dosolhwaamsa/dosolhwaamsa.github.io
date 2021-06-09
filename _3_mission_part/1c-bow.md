@@ -7,7 +7,11 @@ collection_name: 3_mission_part
 second_nav_title: "사찰예절및기초교리"
 ---
 
-#### **절의 의미**
+> ##### **포교·신도회>사찰예절및기초교리**
+
+* **절의 의미**
+---
+---
 
 > <h5> 절은 삼보예경과 상대방에 대한 존경의 마음 표현, 하심의 수행 방법입니다. </h5>
 
@@ -37,4 +41,6 @@ second_nav_title: "사찰예절및기초교리"
 절을 아무리 많이 한다 해도 삼보님에 대한 존경의 마음을 다 담아낼 수 없다. 그래서 절을 다 마치고 일어서기전에 부처님의 한량없는 공덕을 생각하며 지극한 마음 으로 한 번 더 머리를 조아리는 것
 
 - 고두례 옆모습
-![]({{site.url}}{{site.baseurl}}/images/mission_part/fig2.jpg){:width="3px"}
+![]({{site.url}}{{site.baseurl}}/images/mission_part/fig2.png){:width="3px"}
+- 고두례 정면모습
+![]({{site.url}}{{site.baseurl}}/images/mission_part/fig3.png){:width="3px"}
