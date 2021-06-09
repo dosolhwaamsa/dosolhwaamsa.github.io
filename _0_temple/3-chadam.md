@@ -1,16 +1,16 @@
 ---
 layout: leftnav-page-content
 permalink: /0_temple/chadam/
-title: 차담원 # 좌측 레벨2 메뉴제목
-breadcrumb: 차담원 
+title: 차담헌 # 좌측 레벨2 메뉴제목
+breadcrumb: 차담헌 
 # last_updated: 01-04-2018 
 collection_name: 0_temple
 # second_nav_title: "화암사소개" #좌측 레벨1 메뉴제목
 ---
 
-> ##### **화암사소개>차담원**
+> ##### **화암사소개>차담헌**
 
-* **차담원**
+* **차담헌**
 ---
 ---
 <iframe width="100%"
@@ -22,14 +22,13 @@ collection_name: 0_temple
 
 ---
 
-{% include image-gallery.html folder="/images/religious_part/overview/차담원.png" %}
+{% include image-gallery.html folder="/images/religious_part/overview/차담헌.png" %}
 
 ---
 
 > **차담헌에서 맑은 영혼을 위하여!**<br><br>
 차담헌 이란 즐겁게 담소 나누면서 차 마시는<br>
-집이란 뜻으로 현 조계종 총무원장 이신<br>
-설정큰스님  께서 지어주신 이름입니다.<br>
+집이란 뜻으로 설정큰스님께서 지어주신 이름입니다.<br>
 세상을 진솔하게 살고 싶은 이에게 이 세상에서<br>
 제일 소중한일 한가지를 손꼽으라고 한다면<br>
 물론 개인적 느낌은 사람마다 다르겠지만 아마<br>
