@@ -25,7 +25,7 @@ second_nav_title: "사찰안내"
 
 ---
 
-* **화암사 차담원**
+* **화암사 차담헌**
 
 <iframe width="100%"
         height="300"
@@ -36,7 +36,7 @@ second_nav_title: "사찰안내"
 
 ---
 
-* **화암사 차담원 계단 걷기**
+* **화암사 차담헌 계단 걷기**
 
 <iframe width="100%"
         height="300"
