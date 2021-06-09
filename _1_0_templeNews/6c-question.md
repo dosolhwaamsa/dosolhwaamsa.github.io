@@ -22,7 +22,7 @@ second_nav_title: "봉사안내·신청"
 
 - 대전 서구 변동서로27번길 20-3 
 - +82 042-488-7209
-- [kakotalk문의](https://pf.kakao.com/_cBGaK/chat)
+- [kakaotalk문의](https://pf.kakao.com/_cBGaK/chat)
 - **접수계좌**: 국민은행 740901-01-330625, 농협 453011-56-138332, 예금주: 백창기(도솔산 화암사)
 
 ---
@@ -34,7 +34,7 @@ second_nav_title: "봉사안내·신청"
 ### **도솔산화암사**
 - 대전 서구 변동서로27번길 20-3 
 - +82 042-488-7209
-- [kakotalk문의](https://pf.kakao.com/_cBGaK/chat)
+- [kakaotalk문의](https://pf.kakao.com/_cBGaK/chat)
 
 
 ### **도솔노인복지센터**
