@@ -8,10 +8,8 @@ collection_name: 0_temple
 # second_nav_title: "화암사소개" #좌측 레벨1 메뉴제목
 ---
 
-> ##### **화암사소개>선갤러리**
-
 * **선갤러리**
----
+
 ---
 <iframe width="100%"
         height="300"
