@@ -22,7 +22,7 @@ collection_name: 0_temple
 
 ---
 
-{% include image-gallery.html folder="/images/religious_part/overview/삼성각.JPG" %}
+{% include image-gallery.html folder="/images/religious_part/overview/5samsung" %}
 
 ---
 
