@@ -24,7 +24,6 @@ collection_name: 0_temple
 
 {% include image-gallery.html folder="/images/religious_part/tea_house" %}
 
-
 ---
 
 > **차담헌에서 맑은 영혼을 위하여!**<br>
