@@ -7,10 +7,6 @@ collection_name: 0_temple
 second_nav_title: "사찰안내"
 ---
 
-* **화암사 내 시설 소개(영상)**
----
----
-
 * **화암사 도솔원 둘러보기**
 
 <iframe width="100%"
