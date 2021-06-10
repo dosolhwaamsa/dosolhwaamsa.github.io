@@ -7,8 +7,6 @@ collection_name: 0_temple
 # second_nav_title: "화암사소개"
 ---
 
-> ##### **화암사소개>주지스님 인사말**
-
 > ### **주지스님 소개**
 
 ---
