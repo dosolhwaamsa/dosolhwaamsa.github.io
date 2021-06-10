@@ -7,12 +7,10 @@ breadcrumb: 화암사오는길
 collection_name: 0_temple
 ---
 
-> #### **화암사소개>화암사 찾아오시는 길**
-
 * **위치안내** 
+
 ---
----
-[[카카오맵바로가기]](http://kko.to/8Kb5LDXD0){:target="_blank"}  
+**[[카카오맵바로가기]](http://kko.to/8Kb5LDXD0){:target="_blank"}**
 
 <!-- * 카카오맵 - 지도퍼가기 -->
 <!-- 1. 지도 노드 -->
