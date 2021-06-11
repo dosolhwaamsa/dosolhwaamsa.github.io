@@ -7,7 +7,6 @@ collection_name: 0_temple
 second_nav_title: "사찰안내"
 ---
 
----
 > ### **화암사 전경 둘러보기**
 
 <iframe width="100%"
