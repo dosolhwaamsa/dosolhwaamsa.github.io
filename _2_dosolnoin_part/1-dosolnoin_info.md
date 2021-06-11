@@ -7,10 +7,8 @@ breadcrumb: 복지센터 인사말
 collection_name: 2_dosolnoin_part
 ---
 
-> ##### **도솔노인복지센터>인사말**
+> ### **인사말**
 
-* **인사말**
----
 ---
 
 ![]({{site.url}}/images/contact-us.jpg){: .img2}
