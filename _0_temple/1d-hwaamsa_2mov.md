@@ -7,7 +7,8 @@ collection_name: 0_temple
 second_nav_title: "사찰안내"
 ---
 
-* **화암사 전경 둘러보기**
+---
+> ### **화암사 전경 둘러보기**
 
 <iframe width="100%"
         height="300"
@@ -18,7 +19,7 @@ second_nav_title: "사찰안내"
 
 ---
 
-* **화암사 현관에서 삼성각까지 계단 걷기**
+> ### **화암사 현관에서 삼성각까지 계단 걷기**
 
 <iframe width="100%"
         height="300"        
@@ -29,7 +30,7 @@ second_nav_title: "사찰안내"
 
 ---
 
-* **화암사 큰법당 부처님전**
+> ### **화암사 큰법당 부처님전**
 
 <iframe width="100%"
         height="300"
@@ -40,7 +41,7 @@ second_nav_title: "사찰안내"
 
 ---
 
-* **화암사 명부전**
+> ### **화암사 명부전**
 
 <iframe width="100%"
         height="300"
