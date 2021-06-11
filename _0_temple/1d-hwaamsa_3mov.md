@@ -7,7 +7,8 @@ collection_name: 0_temple
 second_nav_title: "사찰안내"
 ---
 
-* **화암사 도솔원 둘러보기**
+---
+> ### **화암사 도솔원 둘러보기**
 
 <iframe width="100%"
         height="300"
@@ -19,7 +20,7 @@ second_nav_title: "사찰안내"
 
 ---
 
-* **화암사 차담헌**
+> ### **화암사 차담헌**
 
 <iframe width="100%"
         height="300"
@@ -30,7 +31,7 @@ second_nav_title: "사찰안내"
 
 ---
 
-* **화암사 차담헌에서 야외음악당 계단 걷기**
+> ### **화암사 차담헌에서 야외음악당 계단 걷기**
 
 <iframe width="100%"
         height="300"
@@ -41,7 +42,7 @@ second_nav_title: "사찰안내"
 
 ---
 
-* **화암사 선갤러리(고승선서)**
+> ### **화암사 선갤러리(고승선서)**
 
 <iframe width="100%"
         height="300"
