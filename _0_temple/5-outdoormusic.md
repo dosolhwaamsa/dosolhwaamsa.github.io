@@ -8,7 +8,7 @@ collection_name: 0_temple
 # second_nav_title: "화암사소개" #좌측 레벨1 메뉴제목
 ---
 
-* **화암사 야외 음악당 가는 길**
+> ### **화암사 야외 음악당 가는 길**
 
 ---
 <iframe width="100%"
