@@ -7,7 +7,7 @@ breadcrumb: 화암사오는길
 collection_name: 0_temple
 ---
 
-* **위치안내** 
+> ### **위치안내** 
 
 ---
 **[[카카오맵바로가기]](http://kko.to/8Kb5LDXD0){:target="_blank"}**
