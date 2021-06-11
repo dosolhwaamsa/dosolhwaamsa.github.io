@@ -6,10 +6,8 @@ title: 마음치유행복명상아카데미
 collection_name: 3_mission_part
 ---
 
-> ##### **포교·신도회>마음치유행복명상아카데미**
+> ### **마음치유행복명상아카데미**
 
-* **마음치유행복명상아카데미**
----
 ---
 
 ![image]({{site.baseurl}}/images/religious_part/s08_img_01.jpg)
