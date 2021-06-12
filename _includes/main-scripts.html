@@ -73,8 +73,23 @@
 {%- endif -%}
 
 <!-- lightbox -->
-<script type="text/javascript" src="/assets/js/lightbox.js"></script>
+<!-- <script type="text/javascript" src="/assets/js/lightbox.js"></script>
 <link rel="stylesheet" href="/assets/css/lightbox.css">
+<script type="text/javascript" src="/assets/dist/js/lightbox-plus-jquery.js"></script> 
+
+https://lokeshdhakar.com/projects/lightbox2/#options -->
+
+
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/css/lightbox.min.css" />
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/js/lightbox-plus-jquery.min.js"></script>
+
+<script>
+  lightbox.option({
+    'resizeDuration': 100,
+    'wrapAround': true
+  })
+</script>
+
 
 {%- include chatbot-scripts.html -%}
 

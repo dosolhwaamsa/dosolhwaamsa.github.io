@@ -8,6 +8,7 @@
 
 - title: 화암사소개
   url: /0_temple/hwaamsa_info/  
+  cols: 0_temple
   sub-links:
     - title: 도솔산화암사
       url: /0_temple/hwaamsa_info/
@@ -34,6 +35,7 @@
 
 - title: 화암사소식
   url: /1_0_templeNews/hwaamsa_news/
+  cols: 1_0_templeNews
   sub-links:
   - title: 화암사공지사항
     url: /1_0_templeNews/hwaamsa_news/
@@ -51,6 +53,7 @@
 
 - title: 법회·기도
   url: /1_religious_part/ceremony_info/one/
+  cols: 1_religious_part
   sub-links:
   - title: 법회·기도의미
     url: /1_religious_part/ceremony_info/one/
@@ -68,6 +71,7 @@
 
 - title: 도솔노인복지센터
   url: /2_dosolnoin_part/dosolnoin_info/
+  cols: 2_dosolnoin_part
   sub-links:
   - title: 인사말
     url: /2_dosolnoin_part/dosolnoin_info/
@@ -82,6 +86,7 @@
 
 - title: 포교·신도회
   url: /3_mission_part/etiquette/
+  cols: 3_mission_part
   sub-links:
   - title: 사찰예절및기초교리
     url: /3_mission_part/etiquette/
@@ -97,6 +102,7 @@
 
 - title: (구)화암사안내
   url: /resource_room/
+  cols: resource_room
   sub-links:
   - title: All
     url: /resource_room/
