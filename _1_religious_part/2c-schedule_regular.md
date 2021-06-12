@@ -45,17 +45,17 @@ second_nav_title: "법회·행사" #좌측 레벨1 메뉴제목
 
 ---
 
-|**구분**|**일자**|
-|:-:|:-:|
-| **초하루기도** | 매월 음력 **<span style="color:red;">1</span>**일|
-| **칠성기도** | 매월 음력 **<span style="color:red;"> 7  </span>**일(삼성각)|
-| **오백나한기도** | 매월 음력 **<span style="color:red;"> 15 </span>**일|
-| **산신기도** | 매월 음력 **<span style="color:red;"> 16 </span>**일|
-| **지장기도** | 매월 음력 **<span style="color:red;"> 18 </span>**일|
-| **관음기도** | 매월 음력 **<span style="color:red;"> 24 </span>**일|
-| **독성기도** | 매월 음력 **<span style="color:red;"> 그믐 </span>**(삼성각)|
-| **조왕기도** | 매월 음력 **<span style="color:red;"> 그믐 </span>**(공양간)|
-|||
+|**구분**|**일자**|**기도비**|
+|:-:|:-:|:-:|
+| **초하루기도** | 매월 음력 **<span style="color:red;">1</span>**일|성의 것|
+| **칠성기도** | 매월 음력 **<span style="color:red;"> 7  </span>**일(삼성각)|성의 것|
+| **오백나한기도** | 매월 음력 **<span style="color:red;"> 15 </span>**일| 1만원|
+| **산신기도** | 매월 음력 **<span style="color:red;"> 16 </span>**일|성의 것|
+| **지장기도** | 매월 음력 **<span style="color:red;"> 18 </span>**일|성의 것|
+| **관음기도** | 매월 음력 **<span style="color:red;"> 24 </span>**일|성의 것|
+| **독성기도** | 매월 음력 **<span style="color:red;"> 그믐 </span>**(삼성각)|성의 것|
+| **조왕기도** | 매월 음력 **<span style="color:red;"> 그믐 </span>**(공양간)|성의 것|
+||||
 
 [[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)
 
