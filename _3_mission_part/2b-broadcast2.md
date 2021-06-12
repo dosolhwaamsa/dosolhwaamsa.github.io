@@ -13,7 +13,7 @@ second_nav_title: "화암사방송"
 
 > ###### *(연속재생 : 각 영상 우측상단에 재생리스트 표시를 누르시면 시청을 원하시는 영상을 찾아 보실수 있습니다.)*
 
-* **2021 부처님 오신 날 봉축 법요식/원중혜광스님 대전KBS 인터뷰 리스트**
+* **2021 부처님 오신 날 봉축 법요식/원중혜광스님 대전KBS1 시사라디오  인터뷰 리스트**
 <iframe width="100%"
         height="400"
         src="https://www.youtube.com/embed/videoseries?list=PLFUlmugaN5WzpuC-U5Y2O1PQ035G9DOq8"
