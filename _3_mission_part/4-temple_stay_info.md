@@ -10,10 +10,24 @@ collection_name: 3_mission_part
 
 ---
 
+> #### *도솔산 화암사에서 월 1회 마음치유 템플스테이를 진행하고 있습니다.*
+
+* 진행 : 혜광스님
+* 일자 : 일정문의
+* 장소 : 도솔산 화암사
+* 참가비 : 학생 5만워, 일반 7만원
+* 문의/접수 : 보리수 보살(+82 042-488-7209)
+* 입금안내 : 농협 301-0111-1430-31 (도솔산 화암사 백창기)
+
+##### *참가비의 일부는 무료급식 및 한방진료 봉사에 사용됩니다.*
+* 홈페이지([[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/))를 통해 문의/접수 합니다.
+
+<!--
 ![image]({{site.baseurl}}/images/religious_part/sub02_textual_06.jpg)
 
 
 [[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)
+-->
 
 ##### **세부일정**
 
