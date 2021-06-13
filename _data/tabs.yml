@@ -1,0 +1,304 @@
+##################################
+#                                #
+# Edit this file carefully.      #
+#                                #
+##################################
+
+
+tabs-current:  
+  source: tab01
+  name: 만공스님
+  port-url: /images/religious_part/portrait/greet.jpg
+  image-url: /images/religious_part/zen_gallery/mankong.png
+  content: >
+    조선 후기와 일제강점기의 선승(禪僧)이다. 주로 덕숭산에 머물며 선불교의 진흥을 위해 힘썼고, 마곡사 주지를 지냈다. <br>
+    
+    조선과 일제강점기의 승려이자, 독립운동가이다. 경허-만공-전강으로 그 법맥이 이어지는 한국불교의 대선사이다. 속성은 여산 송씨(礪山宋氏), 만공(滿空)은 법호이다. 1871년 3월 7일 전북 태인에서 출생했고, 아명은 바우였으며, 행자시절에는 도암(道巖)으로도 불렸다. 14세에 출가를 결심하고 충청도 계룡산 동학사의 진암(眞巖) 밑에서 행자 생활을 하다가 같은 해 충청도 서산 천장사(天藏寺)에서 태허(泰虛)를 은사로 모시고 경허(鏡虛)를 계사(戒師)로 받들어 사미계(沙彌戒)를 받았다. 이때 받은 법명이 ‘월면(月面)’이다. 이후 10년간 천장사에서 공양주를 보다가 1893년 절에 들른 어떤 소년의 질문에 답하지 못하자 이에 충격을 받아 ‘모든 법이 하나로 돌아가니 그 하나는 어디로 돌아가는가(萬法歸一一歸何處)’라는 화두(話 頭)를 들고 참선에 몰두했다. <br> 
+    
+    1895년 충남 아산 봉곡사에서 문득 깨우침을 얻었으나 다음해 경허로부터 다시 조주(趙州)의 ‘무자(無字)’ 화두를 들고 참 선하라는 가르침을 받았다. 1901년 경남 양산 통도사에서 다시 개오(開悟)하고 1904년 경허로부터 ‘만공’이라는 호와 전법게(傳法偈)를 받았다. 1905년 충청도 덕숭산(德崇山)에 금선대(金仙臺)를 짓고 보림(保任)에 힘쓰다가 찾아오는 수행승 들의 지도에 전념했다. 이후 금강산 마하연사(摩訶衍寺)에서 선(禪) 지도와 1937년 마곡사(麻谷寺) 주지 기간을 빼고는 덕 숭산에 머물며 40년간 선불교(禪佛敎)의 진흥에 힘썼다. 1937년 본산(本山) 주지회의에서 총독부에 의한 조선불교의 일본 불교화를 공박한 사실은 유명한 일화로 남아 있다. 1946년 전월사(轉月舍)에서 입적했다. 저서에는 사후 편찬된 《만공어록(滿空語錄)》이 있다. 
+  
+  sub-tabs:
+    - source: tab02 
+      name: 경봉스님
+      port-url: /images/religious_part/portrait/greet.jpg
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg     
+      content: >
+        경봉 정석(鏡峰靖錫 1892-1982) 스님은 근현대의 고승으로서 광주 김씨이며, 속명은 용국(鏞國), 호는 경봉(鏡峰), 시호는 원광(圓光)이다. 경상남도 밀 양 출신으로 아버지는 영규(榮奎)이며, 어머니는 안동 권씨이다. 7세 때 밀양의 한학자 강달수(姜達壽)에게 사서삼경을 배웠으며, 15세 되던 해 모친상을 겪고 인생의 무상함을 깨닫고, 16세때 양산 통도사의 성해(聖海) 선사를 찾아가 출가했다. <br>
+      
+        1908년 3월 통도사에서 설립한 명신학교(明新學校)에 입학하였으며, 그해 9월 통도사 금강계단(金剛戒壇)에서 청호(淸湖) 스님을 계사(戒師)로 사미계를 받았다. 1912년 4월 해담(海曇) 스님으로부터 비구계와 보살계를 받은 뒤 통도사 불교 전문강원에 입학하여 불경연구에 몰두하였다. <br> 
+        
+        강원을 졸업 후, 하루는 경을 보다가 "종일토록 남의 보배를 세어도 본디 반 푼 어치의 이익도 없다[終日數他寶, 自無半錢 分]"는 경구를 보고 커다란 충격을 받고 참선공부를 하기 위해 내원사(內院寺)의 혜월(慧月) 스님을 찾아 법을 물었으나 마 음속의 의문을 해결할 수 없었다. 이에 해인사 퇴설당(堆雪堂)으로 가서 정진한 뒤, 금강산 마하연(摩訶衍)ᆞ석왕사(釋王 寺) 등 이름난 선원을 찾아다니면서 공부하였다. 이때 김천 직지사에서 만난 만봉(萬峰) 스님과의 선담(禪談)에 힘입어 ‘자 기를 운전하는 소소영영(昭昭靈靈)한 주인’을 찾을 것을 결심하고, 통도사 극락암으로 자리를 옮겨 3개월 동안 장좌불와(長 坐不臥)하면서 정진을 계속하였다. <br>
+        
+        1927년에 통도사 화엄산림법회(華嚴山林法會)에서 법주(法主) 겸 설주(說主)를 맡아 밤낮을 가리지 않고 정진하던 중, 4 일 만에 천지간에 오롯한 일원상(一圓相)이 나타나는 경지에 이르렀다. 그러나 일물(一物)에 얽힌 번뇌가 완전히 없어지지 않았음을 스스로 점검하고 다시 화두를 들어 정진하다가 1927년 11월 20일 새벽에 방안의 촛불이 출렁이는 것을 보고 크 게 깨달았다. 그날 새벽 두시 반 경 바람도 없는 데 촛불이 흔들리는 소리를 내며 춤추는 것을 보는 순간 의문 덩어리가 일 순간에 녹아내린 것이다. 뜨겁게 타오르던 불길 같은 마음이 식어버리자 이렇게 게송을 읊었다. <br>
+        
+        <br>
+        我是訪吾物物頭(아시방오물물두) 내가 나를 바깥 것에서 찾았는데 <br> 
+        目前卽見主人樓(목전즉견주인루) 눈앞에 바로 주인공이 나타났도다. <br>
+        呵呵逢着無疑惑(가가봉착무의혹) 하하 이제 만나야 할 의혹 없으니 <br> 
+        優鉢花光法界流(우발화광법계류) 우담발라 꽃빛이 온 누리에 흐르는구나. <br>
+        <br> 
+        
+        이후, 한암, 제산, 용성, 전강 스님등과 교류하면서 친분을 두터이 한다. 1932년 통도사 불교전문강원장에 취임한 뒤부터 50여 년 동안 한결같이 중생교화의 선구적 소임을 다하였다. 1935년 통도사 주지, 1941년 조선불교중앙선리참구원(朝鮮 佛敎中央禪理參究院 지금의 선학원) 이사장을 거쳐 1949년 4월에 다시 통도사 주지에 재임되다. 1953년 극락호국선원 (極樂護國禪院) 조실(祖室)에 추대되어 입적하던 날까지 이곳에서 설법과 선문답으로 법을 구하러 찾아오는 불자들을 지도 하였고, 동화사(桐華寺)ᆞ내원사(內院寺) 등 여러 선원의 조실도 겸임하여 후학들을 지도하였다. 언제나 온화함과 자상함 을 잃지 않았고, 청렴하고 검소한 생활을 하였으며, 꾸밈없는 활달한 경지에서 소요자재하였으므로 항상 열려진 문호에는 구도자들이 가득하였다. <br> 
+        
+        1967년 서울탑골공원에 '만해선사기념비'를 세우고 '경봉장학회'를 설립하기도 하였다. 한시와 묵필에도 뛰어났으며 선지 식으로는 드물게도 70여년 동안 계속 日記를 남기기도 하였고, 지금 흔히 쓰는 해우소(解憂所)라는 말도 경봉스님이 지은 것이다. <br>
+        
+        82세부터는 매월 첫째 일요일에 극락암에서 정기법회를 열었다. 90세의 노령에도 시자의 부축을 받으며 법좌에 올라 설법 하였는데, 매 회마다 1천여 명 이상의 대중들이 참여하였다. 또한 가람수호에도 힘을 기울여 통도사의 삼성반월교(三星半 月橋)와 장엄석등(莊嚴石燈) 18좌(座)를 세웠고, 극락암 조사당의 탱화조성 및 추모봉행, 특별정진처인 아란야(阿蘭惹)의 창건, 극락호국선원 정수보각(正受寶閣) 신축 및 무량수각(無量壽閣)의 중창 등을 주관하였다. 이밖에도 경봉장학회를 설 립하였으며, 탑골공원 안에 만해선사기념비 건립도 추진하였다. 또 18세 때부터 85세까지 67년 동안 매일의 중요한 일을 기록한 일지를 남겼는데, 이 일지에는 당시의 사회상과 한국불교 최근세 역사가 그대로 담겨 있다. <br>
+        
+        1982년 7월 17일(음 5월 27일)임종이 가까워 왔음을 느낀 시자 명정(明正)스님은 "스님 가시고 나면 스님의 모습을 어떻 게 뵙겠습니까?"하고 물었다. 잠시 침묵이 흐른 후 스님은 좌우로 돌아보고 입을 열었다. "야반삼(夜半三更)에 대문 빗장을 만져보거라!"는 말을 남기시고 열반에 드시니 세수 91세, 법납 75세 였다. 저서로는 법어집인 『법해(法海)』,『속법해(續法 海)』와 시조집인 『원광한화(圓光閒話)』, 유묵집인 『선문묵일점(禪門墨一點)』, 서간집인 『화중연화소식(火中蓮花消息)』 등이 있다. 
+
+    - source: tab03 
+      name: 구산스님
+      port-url: /images/religious_part/portrait/greet.jpg
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg     
+      content: >
+            ## Headline
+
+            This is the content of the second tab, it is defined in the frontmatter as **markdown**.
+
+            A Link: [link](https://foo.bar.org)
+    - source: tab04
+      name: 해안스님
+      port-url: /images/religious_part/portrait/greet.jpg
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg
+      content: > 
+        4
+
+    - source: tab05
+      name: 환경스님
+      port-url: /images/religious_part/portrait/greet.jpg
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg
+      content: > 
+        5
+
+    - source: tab06
+      name: 석주스님
+      port-url: /images/religious_part/portrait/greet.jpg
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg
+      content: > 
+        6
+
+    - source: tab07
+      name: 서암스님
+      port-url: /images/religious_part/portrait/greet.jpg
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg
+      content: > 
+        7
+
+    - source: tab08
+      name: 일타스님
+      port-url: /images/religious_part/portrait/greet.jpg
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg
+      content: > 
+        8
+
+    - source: tab09
+      name: 한용운스님
+      port-url: /images/religious_part/portrait/greet.jpg
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg
+      content: > 
+        9
+
+    - source: tab10
+      name: 관응스님
+      port-url: /images/religious_part/portrait/greet.jpg
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg
+      content: > 
+        10
+
+    - source: tab11 
+      name: 대은스님
+      port-url: ""
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg     
+      content: >
+        11
+
+    - source: tab12 
+      name: 청화스님
+      port-url: ""
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg     
+      content: >
+        12
+
+    - source: tab13
+      name: 탄허스님
+      port-url: ""
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg
+      content: > 
+        13
+
+    - source: tab14
+      name: 춘담스님
+      port-url: ""
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg
+      content: > 
+        14
+
+    - source: tab15
+      name: 기현스님
+      port-url: ""
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg
+      content: > 
+        15
+
+    - source: tab16
+      name: 혜인스님
+      port-url: ""
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg
+      content: > 
+        16
+
+    - source: tab17
+      name: 용봉스님
+      port-url: ""
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg
+      content: > 
+        17
+
+    - source: tab18
+      name: 서운스님
+      port-url: ""
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg
+      content: > 
+        18
+
+    - source: tab19
+      name: 성우스님
+      port-url: ""
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg
+      content: > 
+        19
+
+    - source: tab20
+      name: 법정스님
+      port-url: ""
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg
+      content: > 
+        20
+
+
+    - source: tab21 
+      name: 석정스님
+      port-url: ""
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg     
+      content: >
+        21 
+    - source: tab22 
+      name: 원담스님
+      port-url: ""
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg     
+      content: >
+            22
+    - source: tab23
+      name: 권상로스님
+      port-url: ""
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg
+      content: > 
+        23
+
+    - source: tab24
+      name: 중광스님
+      port-url: ""
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg
+      content: > 
+        24
+
+    - source: tab25
+      name: 백학명스님
+      port-url: ""
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg
+      content: > 
+        25
+
+    - source: tab26
+      name: 만봉스님
+      port-url: ""
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg
+      content: > 
+        26
+
+    - source: tab27
+      name: 혜암스님
+      port-url: ""
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg
+      content: > 
+        27
+
+    - source: tab28
+      name: 동헌스님
+      port-url: ""
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg
+      content: > 
+        28
+
+    - source: tab29
+      name: 정광스님
+      port-url: ""
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg
+      content: > 
+        29
+
+    - source: tab30
+      name: 서옹스님
+      port-url: ""
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg
+      content: > 
+        30
+
+    - source: tab31 
+      name: 옥봉스님
+      port-url: ""
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg     
+      content: >
+        31  
+    - source: tab32 
+      name: 월하스님
+      port-url: ""
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg     
+      content: >
+            ## Headline
+
+            This is the content of the second tab, it is defined in the frontmatter as **markdown**.
+
+            A Link: [link](https://foo.bar.org)
+    - source: tab33
+      name: 청담스님
+      port-url: ""
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg
+      content: > 
+        content 33
+
+    - source: tab34
+      name: 일장스님
+      port-url: ""
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg
+      content: > 
+        content 34
+
+    - source: tab35
+      name: 수안스님
+      port-url: ""
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg
+      content: > 
+        content 35
+
+    - source: tab36
+      name: 원광스님
+      port-url: ""
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg
+      content: > 
+        content36
+
+    - source: tab37
+      name: 송담스님
+      port-url: ""
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg
+      content: > 
+        content37
+
+    - source: tab38
+      name: 설정스님
+      port-url: ""
+      image-url: /images/religious_part/zen_gallery/govtech-hive.jpg
+      content: > 
+        content38
+    

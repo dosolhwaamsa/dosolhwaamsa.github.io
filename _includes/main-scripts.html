@@ -67,29 +67,34 @@
 <script src="https://printjs-4de6.kxcdn.com/print.min.js" crossorigin="anonymous"></script>
 <script src="{{- "/assets/js/floating-buttons.js" | relative_url -}}" crossorigin="anonymous"></script>
 <script src="{{- "/assets/js/left-nav-interaction.js" | relative_url -}}" crossorigin="anonymous"></script>
+
+
   {%- if site.recommender == true -%}
   <script src="{{- "/assets/js/recommender.js" | relative_url -}}" crossorigin="anonymous"></script>
   {%- endif -%}
 {%- endif -%}
 
+<!-- Tab -->
+<link rel="stylesheet" type="text/css" href="{{- "/assets/css/tabs.css" | relative_url -}}" crossorigin="anonymous"/>
+<script src="{{- "/assets/js/tabs.js" | relative_url -}}" crossorigin="anonymous"></script>
+
+
 <!-- lightbox -->
 <!-- <script type="text/javascript" src="/assets/js/lightbox.js"></script>
 <link rel="stylesheet" href="/assets/css/lightbox.css">
 <script type="text/javascript" src="/assets/dist/js/lightbox-plus-jquery.js"></script> 
-
 https://lokeshdhakar.com/projects/lightbox2/#options -->
 
-
-<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/css/lightbox.min.css" />
+<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/css/lightbox.min.css" crossorigin="anonymous"/>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/js/lightbox-plus-jquery.min.js"></script>
 
 <script>
   lightbox.option({
-    'resizeDuration': 100,
-    'wrapAround': true
+    'resizeDuration': 10,
+    'wrapAround': true,
+    'fitImagesInViewport': true    
   })
 </script>
-
 
 {%- include chatbot-scripts.html -%}
 

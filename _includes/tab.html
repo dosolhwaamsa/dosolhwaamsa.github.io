@@ -1,0 +1,55 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script type="text/javascript" src="https://code.jquery.com/jquery-1.12.4.min.js" ></script>
+    <title>Document</title>
+    <style>
+        *{margin:0;padding:0}
+        .allWrap{width: 800px;margin:0 auto;}
+        .tabBox{margin:20px 0}
+        .tab-link{width: 47%;display: inline-block;padding:10px;text-align: center;background-color:#929090;border-radius: 20px;color:#fff;cursor: pointer;
+        }
+        .tab-link.current{
+            background-color: #de4c4c;
+            font-weight: 600;
+        }
+        .tab-content{
+            display: none;
+        }
+        .tab-content.current{
+            display: block;
+            width: 100%;
+            height: 300px;
+            background-color:#d5d8d7;
+            font-size: 30px;
+            text-align: center;
+            line-height: 250px;
+        }
+    </style>
+</head>
+<body>
+<div class="allWrap">     
+<div class="tabBox">
+            <p class="tab-link current" data-tab="tab-1"><span><img src="http://mmctxt.com/link/img/icon01.png" alt="icon"></span> Setting01</p>
+            <p class="tab-link"  data-tab="tab-2"><span><img src="http://mmctxt.com/link/img/icon02.png" alt="icon"></span> Setting02</p>
+        </div>
+<div  id="tab-1" class="tab-content current">contents01</div>
+<div  id="tab-2" class="tab-content">contents02</div>
+</div>
+<script>
+        $('.tab-link').click(function () {
+        var tab_id = $(this).attr('data-tab');
+
+        $('.tab-link').removeClass('current');
+        $('.tab-content').removeClass('current');
+
+        $(this).addClass('current');
+        $("#" + tab_id).addClass('current');
+
+    });
+</script>
+</body>
+</html>

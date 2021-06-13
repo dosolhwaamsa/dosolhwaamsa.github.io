@@ -1,5 +1,6 @@
 ---
-layout: leftnav-page-content
+# layout: leftnav-page-content
+layout: tabs
 permalink: /0_temple/zen_gallery/
 title: 선갤러리(고승선서) # 좌측 레벨2 메뉴제목
 breadcrumb: 선갤러리
@@ -34,10 +35,50 @@ collection_name: 0_temple
 
 <!--  1. 스님 사진 (또는 초상화) 2. 스님 소개 3. 선갤러리 서화 사진 4. 서화 설명 ....아래 페이지와 같이 구성되면 어떨까? 합니다. -->
 
----
-{% include image-gallery.html folder="/images/religious_part/zen_gallery/mankong.png" %}
 
+<!-- {% tabs log %}
 
+{% tab log 만공 %}
+
+> test
+
+{% endtab %}
+
+{% tab log js %}
+```javascript
+console.log('hello');
+```
+{% endtab %}
+
+{% tab log ruby %}
+```javascript
+pputs 'hello'
+```
+{% endtab %}
+
+{% endtabs %}
+
+### Second tabs
+
+{% tabs data-struct %}
+
+{% tab data-struct yaml %}
+```yaml
+hello:
+  - 'whatsup'
+  - 'hi'
+```
+{% endtab %}
+
+{% tab data-struct json %}
+```json
+{
+    "hello": ["whatsup", "hi"]
+}
+```
+{% endtab %}
+
+{% endtabs %} -->
 
 <!-- <table class="table-v">
 	<tr>
@@ -63,3 +104,5 @@ collection_name: 0_temple
 A sample download file can be found [here]({{site.baseurl}}/files/guides/guide-new-application.pdf)
 
 For further clarification, please email [dummy_email@dummy.com](mailto:dummy_email@dummy.com).       -->
+
+
