@@ -20,7 +20,7 @@ collection_name: 3_mission_part
 * 입금안내 : 농협 301-0111-1430-31 (도솔산 화암사 백창기)
 
 > ##### *참가비의 일부는 무료급식 및 한방진료 봉사에 사용됩니다.*
-* 홈페이지 [[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)
+* 홈페이지(https://www.dosolnoin.or.kr/) [[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)
 * 카카오톡 문의 [kakaotalk문의](https://pf.kakao.com/_cBGaK/chat)
 
 <!--
