@@ -12,6 +12,7 @@ collection_name: 0_temple
 > ### **선갤러리(고승선서)**
 
 ---
+
 <iframe width="100%"
         height="300"
         src="https://youtube.com/embed/wKjkdmNswZ0?t=12"
@@ -23,7 +24,9 @@ collection_name: 0_temple
 
 ---
 
-|**선갤러리**|||||||||
+**선갤러리**
+
+||||||||||
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |만공스님|경봉스님|구산스님|해안스님|환경스님|석주스님|서암스님|일타스님|한용운스님|
 |관응스님|대은스님|청화스님|탄허스님|춘담스님|기현스님|혜인스님|용봉스님|서운스님|
@@ -35,50 +38,6 @@ collection_name: 0_temple
 
 <!--  1. 스님 사진 (또는 초상화) 2. 스님 소개 3. 선갤러리 서화 사진 4. 서화 설명 ....아래 페이지와 같이 구성되면 어떨까? 합니다. -->
 
-
-<!-- {% tabs log %}
-
-{% tab log 만공 %}
-
-> test
-
-{% endtab %}
-
-{% tab log js %}
-```javascript
-console.log('hello');
-```
-{% endtab %}
-
-{% tab log ruby %}
-```javascript
-pputs 'hello'
-```
-{% endtab %}
-
-{% endtabs %}
-
-### Second tabs
-
-{% tabs data-struct %}
-
-{% tab data-struct yaml %}
-```yaml
-hello:
-  - 'whatsup'
-  - 'hi'
-```
-{% endtab %}
-
-{% tab data-struct json %}
-```json
-{
-    "hello": ["whatsup", "hi"]
-}
-```
-{% endtab %}
-
-{% endtabs %} -->
 
 <!-- <table class="table-v">
 	<tr>
