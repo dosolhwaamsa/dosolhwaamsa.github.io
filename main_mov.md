@@ -1,5 +1,5 @@
 ---
-layout: test
+layout: main_movie
 permalink: /main/
 breadcrumb: main
 # title: 사찰내시설소개(영상)

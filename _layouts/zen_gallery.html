@@ -1,0 +1,93 @@
+---
+layout: leftnav-page
+---
+
+{{- content -}}
+
+{%- assign tabs = site.data.zen_gallery -%}
+{%- assign curr = tabs.tabs-current -%}
+
+<div class="allWrap">     
+    <div class="tabBox">
+
+        <p class="tab-link current" data-tab="{{- curr.source -}}"> {{- curr.name -}}</p>            
+        {%- for t in curr.sub-tabs -%}
+            <p class="tab-link is-multiline" data-tab="{{- t.source -}}"> {{- t.name -}}</p>            
+        {% endfor %}
+    </div>
+    
+    <div id="{{- curr.source -}}" class="tab-content current">
+        {%- if curr.port-url -%}
+            <img class="margin--right--none" src="//images.weserv.nl/?url={{- site.url -}}{{- curr.image-url -}}&w=300&h=300&output=jpg&q=50&t=square"/> <br>
+        {%- endif -%}
+        {{- curr.content -}}
+        {%- if curr.image-url -%}
+            <img src="{{- site.url -}}{{- curr.image-url -}}"/>
+        {%- endif -%}
+    </div>
+
+    {%- for t in curr.sub-tabs  -%}        
+        <div id="{{- t.source -}}" class="tab-content">
+            {%- if t.port-url -%}
+                <img class="margin--right--none" src="//images.weserv.nl/?url={{- site.url -}}{{- t.image-url -}}&w=300&h=300&output=jpg&q=50&t=square"/> <br>
+            {%- endif -%}    
+            {{- t.content -}}
+            {%- if t.image-url -%}
+                <img src="{{- site.url -}}{{- t.image-url -}}"/>
+            {%- endif -%}  
+        </div>
+    {% endfor %}
+</div>
+
+
+
+<!-- <span><img src="http://mmctxt.com/link/img/icon01.png" alt="icon"></span>
+<span><img src="http://mmctxt.com/link/img/icon02.png" alt="icon"></span> 
+
+<div class="allWrap">     
+    <div class="tabBox">
+        <p class="tab-link current" data-tab="tab-1"> 만공스님</p>
+        <p class="tab-link"  data-tab="tab-2"> Setting02</p>
+        <p class="tab-link"  data-tab="tab-3"> Setting03</p>
+    </div>
+    <div id="tab-1" class="tab-content current">contents01</div>
+    <div id="tab-2" class="tab-content">contents02</div>
+    <div id="tab-3" class="tab-content">contents03</div>
+</div>
+-->
+
+<!-- <div class="tabmenu">
+    <div class="big_tab">
+      <ul>
+        <li><a href="#tab01">tab1</a></li>
+        <li><a href="#tab02">tab2</a></li>
+        <li><a href="#tab03">tab3</a></li>
+        <li><a href="#tab04">tab4</a></li>
+      </ul>
+    </div>
+    <div class="sm_select">
+      <select name="" id="tabmenu">
+        <option value="#tab01">test</option>
+        <option value="#tab02">tab2</option>
+        <option value="#tab03">tab3</option>
+        <option value="#tab04">tab4</option>
+      </select>
+    </div>
+</div>
+
+  <div id="tab01" class="tab-contents">
+    <h2>Tab 1</h2>
+  </div>
+  <div id="tab02" class="tab-contents">
+    <h2>Tab 2</h2>
+  </div>
+  <div id="tab03" class="tab-contents">
+    <h2>Tab 3</h2>
+  </div>
+  <div id="tab04" class="tab-contents">
+    <h2>Tab 4</h2>
+  </div>
+  <div id="tab05" class="tab-contents">
+    <h2>Tab 5</h2>
+  </div> -->
+
