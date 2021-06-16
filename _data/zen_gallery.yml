@@ -8,8 +8,8 @@
 tabs-current:  
   source: tab01
   name: 서산대사
-  port-url: /images/religious_part/portrait/greet.jpg
-  image-url: /images/religious_part/zen_gallery/mankong.png
+  port-url: /images/religious_part/portrait/1 서산대사.jpg
+  # image-url: /images/religious_part/zen_gallery/mankong.png
   content: >
     <b>휴정</b>(休靜, 1520년 3월 26일~1604년 1월 23일)은 조선 중기의 고승, 승장(僧將)이다. 속성은 최(崔), 본관은 완산, 이름은 여신(汝 信), 아명은 운학(雲鶴), 자는 현응(玄應), 호는 청허(淸虛)·서산(西山), 별호는 백화도인(白華道人) 또는 서산대사(西山大師)·풍악산 인(楓岳山人)·두류산인(頭流山人)·묘향산인(妙香山人)·조계퇴은(曹溪退隱)·병로(病老)이다[1]. 휴정은 법명. 제63대 조사이다. 임진왜란 당시 제자인 사명당 유정과 함께 승병(僧兵)을 일으켜서 크게 전공을 세웠다. <br><br>
     
@@ -33,25 +33,24 @@ tabs-current:
     <b>임진왜란 이후</b> <br>
     묘향산 원적암(圓寂菴)에 제자들을 모아 설법을 하고 글을 그 영정(影幀) 뒤에 써서 유정·처영에게 주고 85 세에 사망했다. <br><br>
 
-    <table class="table-v">
-        <tr>
-          <td>법명</td>
-          <td>휴정(休靜)</td>
-        </tr>
-        <tr>
-          <td>출생</td>
-          <td>1520년 03월 26일 <br>조선 평안도 안주</td>
-        </tr>
-        <tr>
-          <td>Some content</td>
-          <td><b>Certificate of Registration</b> <br>(i) Dummy content - blah <br>(ii) More dummy content - bleh <br> (iii) Some more dummy content - blub <br><br> **Last bit of dummy content** - gah</td>
-        </tr>
+    <table class="table-h">
+        <tr>  <td>법명</td> <td>휴정(休靜)</td> </tr>
+        <tr>  <td>출생</td> <td>1520년 03월 26일 <br>조선 평안도 안주</td> </tr>      
+        <tr> <td> 입적 </td>  <td> 1604년 01월 23일 (83세) <br> 조선 평안도 묘향산 원적암(圓寂庵) </td> </tr>
+        <tr> <td> 속명 </td>  <td> 최여신(崔汝信)  </td> </tr>
+        <tr> <td> 종파 </td>  <td> 선종 </td> </tr>
+        <tr> <td> 출가 </td>  <td> 1538년 </td> </tr>
+        <tr> <td> 저작 </td>  <td> 《선가귀감(禪家龜鑑)》 <br> 《유가귀감(儒家龜鑑)》 <br> 《도가귀감(道家龜鑑)》 <br> 《선교석(禪敎釋)》 <br> 《선교결(禪敎訣)》 <br> 《심법요초(心法要抄)》 <br> 《운수단(雲水壇)》 <br> 《설선의(說禪儀)》 <br> 《삼로행적(三老行蹟)》 <br> 《청허당집(淸虛堂集)》 외 </td> </tr>
+        <tr> <td> 칭호 </td>  <td> 청허(淸虛)·서산(西山) </td> </tr>
+        <tr> <td> 스승 </td>  <td> 숭인장로(崇仁長老) </td> </tr>
+        <tr> <td> 제자 </td>  <td> 유정, 처영, 영규, 의엄 </td> </tr>
+        <tr> <td> 부모 </td>  <td> 아버지 최세창(崔世昌), 어머니 김씨(金氏) </td> </tr>
       </table>
   
   sub-tabs:
     - source: tab02 
-      name: 경봉스님
-      port-url: /images/religious_part/portrait/greet.jpg
+      name: 초의선사
+      port-url: /images/religious_part/portrait/2 초의선사.jpg
       image-url: /images/religious_part/zen_gallery/govtech-hive.jpg     
       content: >
         경봉 정석(鏡峰靖錫 1892-1982) 스님은 근현대의 고승으로서 광주 김씨이며, 속명은 용국(鏞國), 호는 경봉(鏡峰), 시호는 원광(圓光)이다. 경상남도 밀 양 출신으로 아버지는 영규(榮奎)이며, 어머니는 안동 권씨이다. 7세 때 밀양의 한학자 강달수(姜達壽)에게 사서삼경을 배웠으며, 15세 되던 해 모친상을 겪고 인생의 무상함을 깨닫고, 16세때 양산 통도사의 성해(聖海) 선사를 찾아가 출가했다. <br>
@@ -81,7 +80,7 @@ tabs-current:
 
     - source: tab03
       name: 만공스님
-      port-url: /images/religious_part/portrait/greet.jpg
+      port-url: /images/religious_part/portrait/3 만공스님.jpg
       image-url: /images/religious_part/zen_gallery/mankong.png
       content: >
         조선 후기와 일제강점기의 선승(禪僧)이다. 주로 덕숭산에 머물며 선불교의 진흥을 위해 힘썼고, 마곡사 주지를 지냈다. <br>
