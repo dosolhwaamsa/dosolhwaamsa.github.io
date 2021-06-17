@@ -51,7 +51,7 @@ tabs-current:
   sub-tabs:
     - name: 초의선사 
       source: tab02
-      port-url: /images/religious_part/portrait/2_초의선사.jpg
+      port-url: /images/religious_part/zen_gallery/portrait/2_초의선사.jpg
       img-num: 0
       image-url: /images/religious_part/zen_gallery/govtech-hive.jpg     
       content: > 
