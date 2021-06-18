@@ -7,34 +7,97 @@ layout: leftnav-page
 {%- assign tabs = site.data.zen_gallery -%}
 {%- assign curr = tabs.tabs-current -%}
 
+<style>
+.pics-x{
+  object-fit: cover;
+  width: 70%;
+  /* height: 250px; */
+  height: 80%;
+}
+
+
+/* Default table styles for this demo */
+.table-x {
+    border-collapse: collapse;
+    text-align: left;
+    width: 40%;
+    font-size: 80%;
+}
+.table-x tr {
+    background: rgb(231, 231, 231);
+    border-bottom: 1px solid
+}
+.table-x th, table td {
+    padding: 10px 20px;
+}
+
+/* Simple CSS for scrollable table on mobile */
+.table-x {
+    min-width: 600px;
+}
+
+</style>
+
 <div class="allWrap">     
     <div class="tabBox">
 
-        <p class="tab-link current" data-tab="{{- curr.source -}}"> {{- curr.name -}}</p>            
+        <p class="tab-link current" data-tab="{{curr.source}}"> {{curr.name}}</p>   
         {%- for t in curr.sub-tabs -%}
-            <p class="tab-link is-multiline" data-tab="{{- t.source -}}"> {{- t.name -}}</p>            
+            <p class="tab-link is-multiline" data-tab="{{t.source}}"> {{t.name}}</p>            
         {% endfor %}
     </div>
     
-    <div id="{{- curr.source -}}" class="tab-content current">
-        {%- if curr.port-url -%}
-            <img class="margin--right--none" src="//images.weserv.nl/?url={{- site.url -}}{{- curr.image-url -}}&w=300&h=300&output=jpg&q=50&t=square"/> <br>
+<!-- show content     -->
+    <div id="{{curr.source}}" class="tab-content current">
+      <h4 class="has-text-secondary"> <b>| {{curr.name}} </b></h4> 
+        <br>
+
+        {%- for i in (1..curr.img-num) -%}
+          {%- if  curr.image-url != nil  -%}
+              <img class="margin--right--none"  src="{{- site.url -}}{{- curr.image-url -}}/{{curr.name}}-{{ i }}.png" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}">
+          {%- endif -%}
+          <br> <br>                  
+        {%- endfor -%}
+        {%- if curr.img-desc == true or curr.img-num>0 -%}
+          {{- curr.img-desc -}}
+          <br><br>
         {%- endif -%}
-        {{- curr.content -}}
-        {%- if curr.image-url -%}
-            <img src="{{- site.url -}}{{- curr.image-url -}}"/>
+        
+        <hr style="margin-top: 28px">
+
+        {%- if curr.port-url != nil -%}
+        <img class="margin--right--none"  src="{{- curr.url -}}{{- curr.port-url -}}" alt="{{ page.photos.set | capitalize }}">
+            <!-- <img class="margin--right--none" src="//images.weserv.nl/?url={{- site.url -}}{{- curr.port-url -}}&output=jpg&q=50&t=square" /><br> -->
         {%- endif -%}
+        <br><br>
+        {{curr.port-desc}}        
     </div>
 
-    {%- for t in curr.sub-tabs  -%}        
-        <div id="{{- t.source -}}" class="tab-content">
-            {%- if t.port-url -%}
-                <img class="margin--right--none" src="//images.weserv.nl/?url={{- site.url -}}{{- t.image-url -}}&w=300&h=300&output=jpg&q=50&t=square"/> <br>
-            {%- endif -%}    
-            {{- t.content -}}
-            {%- if t.image-url -%}
-                <img src="{{- site.url -}}{{- t.image-url -}}"/>
+    {%- for t in curr.sub-tabs -%}        
+        <div id="{{t.source}}" class="tab-content">
+          <h4 class="has-text-secondary"> <b>| {{t.name}} </b></h4> 
+          <br>
+            {%- for i in (1.. t.img-num) -%}
+              {%- if t.image-url -%}
+                <img class="margin--right--none" src="{{- site.url -}}{{- t.image-url -}}/{{t.name}}-{{ i }}.png"  alt="Photo {{ i }} from {{ page.photos.set | capitalize }}" >
+              {%- endif -%}  
+              
+              <br><br>                             
+            {%- endfor -%}       
+            
+            {%- if t.img-desc == true or t.img-num >0  -%}
+                {{t.img-desc}}
+              <br><br>
             {%- endif -%}  
+            
+            <hr style="margin-top: 28px">
+
+            {%- if t.port-url != nil -%}
+                <img class="pics-x"  src="{{- t.url -}}{{- t.port-url -}}" alt="{{ page.photos.set | capitalize }}">
+                <!-- <img class="margin--right--none" src="//images.weserv.nl/?url={{- site.url -}}{{- t.port-url -}}&output=jpg&q=50&t=square"/> <br> -->
+            {%- endif -%}                
+            <br><br>
+            {{t.port-desc}}   
         </div>
     {% endfor %}
 </div>
