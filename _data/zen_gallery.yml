@@ -206,7 +206,8 @@ tabs-current:
       source: tab05
       port-url: /images/religious_part/zen_gallery/portrait/5_퇴경권상로스님.jpg
       img-num: 2
-      image-url: /images/religious_part/zen_gallery/arts/5_퇴경권상로스님
+      # img-url: {{ include image-gallery.html folder="/images/religious_part/overview" }}
+      image-url: /images/religious_part/zen_gallery/arts/5_퇴경권상로스님      
       img-desc: >
         갤러리설명1 <br>
         갤러리설명2 <br>
@@ -1251,7 +1252,7 @@ tabs-current:
     - name: 법정스님 
       source: tab23
       port-url: /images/religious_part/zen_gallery/portrait/23_법정스님.jpg
-      img-num: 0
+      img-num: 1
       image-url: /images/religious_part/zen_gallery/arts/23_법정스님
       img-desc: >
           갤러리설명
@@ -2043,11 +2044,12 @@ tabs-current:
     - name: 월주덕문 
       source: tab38
       port-url: /images/religious_part/zen_gallery/portrait/38_월주덕문.png
-      img-num: 2
+      img-num: 3
       image-url: /images/religious_part/zen_gallery/arts/38_월주덕문
       img-desc: >
           갤러리설명
       port-desc: >  
+      
 
         부산 지역에서 활동한 승려이자 불교 미술가.
 
@@ -2244,7 +2246,7 @@ tabs-current:
     - name: 기현스님 
       source: tab40
       port-url: /images/religious_part/zen_gallery/portrait/40_기현스님.jpg
-      img-num: 0
+      img-num: 1
       image-url: /images/religious_part/zen_gallery/arts/40_기현스님
       img-desc: >
           갤러리설명

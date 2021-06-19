@@ -54,7 +54,8 @@ layout: leftnav-page
 
         {%- for i in (1..curr.img-num) -%}
           {%- if  curr.image-url != nil  -%}
-              <img class="margin--right--none"  src="{{- site.url -}}{{- curr.image-url -}}/{{curr.name}}-{{ i }}.png" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}">
+              <!-- <img class="margin--right--none"  src="{{- site.url -}}{{- curr.image-url -}}/{{curr.name}}-{{ i }}.png" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}"> -->
+              <a href="{{- site.url -}}{{- curr.image-url -}}/{{curr.name}}-{{ i }}.png" data-lightbox="image-1" title="{{curr.name}}"> <img class="img-gallery" src="//images.weserv.nl/?url={{- site.url -}}{{- curr.image-url -}}/{{curr.name}}-{{ i }}.png&w=300&h=300&output=jpg&q=50&t=square" alt="{{curr.name}}{{ i }} from {{ curr.img-num | capitalize }}"></a>   
           {%- endif -%}
           <br> <br>                  
         {%- endfor -%}
@@ -79,7 +80,8 @@ layout: leftnav-page
           <br>
             {%- for i in (1.. t.img-num) -%}
               {%- if t.image-url -%}
-                <img class="margin--right--none" src="{{- site.url -}}{{- t.image-url -}}/{{t.name}}-{{ i }}.png"  alt="Photo {{ i }} from {{ page.photos.set | capitalize }}" >
+                <!-- <img class="margin--right--none" src="{{- site.url -}}{{- t.image-url -}}/{{t.name}}-{{ i }}.png"  alt="Photo {{ i }} from {{ page.photos.set | capitalize }}" > -->
+                <a href="{{- site.url -}}{{- t.image-url -}}/{{t.name}}-{{ i }}.png" data-lightbox="image-1" title="{{t.name}}"> <img class="img-gallery" src="//images.weserv.nl/?url={{- site.url -}}{{- t.image-url -}}/{{t.name}}-{{ i }}.png&w=300&h=300&output=jpg&q=50&t=square" alt="{{t.name}}{{ i }} from {{ t.img-num | capitalize }}"></a>      
               {%- endif -%}  
               
               <br><br>                             
