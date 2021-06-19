@@ -206,7 +206,6 @@ tabs-current:
       source: tab05
       port-url: /images/religious_part/zen_gallery/portrait/5_퇴경권상로스님.jpg
       img-num: 2
-      # img-url: {{ include image-gallery.html folder="/images/religious_part/overview" }}
       image-url: /images/religious_part/zen_gallery/arts/5_퇴경권상로스님      
       img-desc: >
         갤러리설명1 <br>
