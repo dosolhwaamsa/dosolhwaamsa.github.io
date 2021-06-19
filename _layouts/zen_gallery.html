@@ -81,9 +81,9 @@ layout: leftnav-page
             {%- if t.image-url != nil -%}
               {%- for i in (1.. t.img-num) -%}
                 
-                  <!-- <img class="margin--right--none"  src="{{- site.url -}}{{- t.image-url -}}/{{t.name}}-{{i}}.png" alt="{{t.name}}-{{i}}"/><br> <span>{{ t.name }}-{{i}}</span> -->
+                  <img class="margin--right--none"  src="{{- site.url -}}{{- t.image-url -}}/{{t.name}}-{{i}}.png" alt="{{t.name}}-{{i}}"/><br> <span>{{ t.name }}-{{i}}</span>
                                             
-                  <ul class="image-gallery"><li><a href="{{site.url}}{{t.image-url}}/{{t.name}}-{{i}}.png" data-lightbox="image-1" title="{{ t.name }}-{{i}}"><img src="//images.weserv.nl/?url={{site.url}}{{t.image-url}}/{{t.name}}-{{i}}.png&w=300&h=300&output=jpg&q=50&t=square" alt="{{ t.name }}-{{i}}"></a></li></ul>
+                  <!-- <ul class="image-gallery"><li><a href="{{site.url}}{{t.image-url}}" data-lightbox="image-1" title="{{ t.name }}-{{i}}"><img src="//images.weserv.nl/?url={{site.url}}{{t.image-url}}/{{t.name}}-{{i}}.png&w=300&h=300&output=jpg&q=50&t=square" alt="{{ t.name }}-{{i}}"></a></li></ul> -->
                 <br><br>                             
               {%- endfor -%}       
             {%- endif -%}  
