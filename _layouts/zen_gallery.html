@@ -78,7 +78,7 @@ layout: leftnav-page
         <div id="{{t.source}}" class="tab-content">
           <h4 class="has-text-secondary"> <b>| {{t.name}} </b></h4> 
           <br>
-            {%- if t.image-url != nil -%}
+            {%- if t.image-url != nil or t.img-num > 0 -%}
               {%- for i in (1.. t.img-num) -%}
                 
                   <img class="margin--right--none"  src="{{- site.url -}}{{- t.image-url -}}/{{t.name}}-{{i}}.png" alt="{{t.name}}-{{i}}"/><br> <span>{{ t.name }}-{{i}}</span>
