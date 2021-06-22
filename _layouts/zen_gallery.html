@@ -59,7 +59,7 @@ layout: leftnav-page
         {%- for i in (1..curr.img-num) -%}
           {%- if curr.image-url -%}
               <!-- <img class="margin--right--none"  src="{{- site.url -}}{{link}}arts{{- curr.image-url -}}/{{curr.name}}-{{ i }}.png" > -->
-              <a href="{{- site.url -}}{{link}}arts{{curr.image-url}}{{link}}arts{{curr.img-url}}/{{curr.name}}-{{ i }}.png" data-lightbox="image-1" title="{{curr.name}}"> <img class="img-gallery" src="//images.weserv.nl/?url={{- site.url -}}{{link}}arts{{- curr.image-url -}}/{{curr.name}}-{{ i }}.png&w=300&h=300&output=jpg&q=50&t=square" alt="{{curr.name}}{{ i }} from {{ curr.img-num | capitalize }}"></a>   
+              <a href="{{- site.url -}}{{link}}arts{{curr.image-url}}{{link}}arts{{curr.img-url}}/{{curr.name}}-{{ i }}.png" data-lightbox="image-1" title="{{curr.name}}"> <img class="img-gallery" src="//images.weserv.nl/?url={{- site.url -}}{{link}}arts{{- curr.image-url -}}/{{curr.name}}-{{ i }}.png&output=jpg&q=50&t=square" alt="{{curr.name}}{{ i }} from {{ curr.img-num | capitalize }}"/></a>   
           {%- endif -%}
           <br> <br>                  
         {%- endfor -%}
@@ -88,7 +88,7 @@ layout: leftnav-page
             
               <!-- <img class="margin--right--none"  src="{{- site.url -}}{{- t.image-url -}}/{{t.name}}-{{i}}.png" alt="{{t.name}}-{{i}}"/><br> <span>{{ t.name }}-{{i}}</span> -->
                                         
-              <ul class="image-gallery"><li><a href="{{- site.url -}}{{link}}arts{{t.image-url}}/{{t.name}}-{{i}}.png" data-lightbox="image-1" title="{{ t.name }}-{{i}}"><img src="//images.weserv.nl/?url={{site.url}}{{link}}arts{{t.image-url}}/{{t.name}}-{{i}}.png&w=300&h=300&output=jpg&q=50&t=square" alt="{{ t.name }}-{{i}}"></a></li></ul>
+              <ul class="image-gallery"><li><a href="{{- site.url -}}{{link}}arts{{t.image-url}}/{{t.name}}-{{i}}.png" data-lightbox="image-1" title="{{ t.name }}-{{i}}"><img src="//images.weserv.nl/?url={{site.url}}{{link}}arts{{t.image-url}}/{{t.name}}-{{i}}.png&output=jpg&q=50&t=square" alt="{{ t.name }}-{{i}}"/></a></li></ul>
             <br><br>                             
           <!-- {%- endfor -%}   -->
 
@@ -101,7 +101,7 @@ layout: leftnav-page
         <hr style="margin-top: 28px">
 
         {%- if t.port-url  -%}            
-        <img class="pmargin--right--none" src="{{- site.url -}}{{link}}portrait{{ t.port-url}}" />
+        <img class="pmargin--right--none" src="{{- site.url -}}{{link}}portrait{{ t.port-url }}" />
           <!-- <img class="margin--right--none" src="//images.weserv.nl/?url={{- site.url -}}{{- t.port-url -}}&w=300&h=400&output=jpg&q=50&t=square"/> <br> --> 
         {%- endif -%}                        
         <br><br>
