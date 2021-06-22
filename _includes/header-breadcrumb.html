@@ -18,7 +18,7 @@
         {%- endfor-%}   
 
         {%- comment -%} Special breadcrumb case for leftnav pages {%- endcomment -%}
-        {%- if page.layout == "leftnav-page-content" or page.layout == "our-journey" or page.layout == "leftnav-page" or page.layout == "our-team" or page.layout == "board-of-directors-leftnav" -%}
+        {%- if page.layout == "leftnav-page-content" or page.layout == "our-journey" or page.layout == "leftnav-page" or page.layout == "our-team" or page.layout == "board-of-directors-leftnav" or page.layout == "calendar" or page.layout == "zen_gallery"-%}
             
             <li><a href="{{- address -}}"><small>{{prime_title | upcase}}</small></a></li>
             {%- for leftnav_header in site.data.navigation -%}                    

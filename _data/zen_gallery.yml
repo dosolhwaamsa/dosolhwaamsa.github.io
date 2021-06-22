@@ -4,13 +4,14 @@
 #                                #
 ##################################
 
+main-url: /images/religious_part/zen_pics/
 
 tabs-current:  
   name: 서산대사
   source: tab01  
-  port-url: /images/religious_part/zen_gallery/portrait/1_서산대사.jpg
+  port-url: /1_서산대사.jpg
   img-num: 0
-  image-url: #/images/religious_part/zen_gallery/arts/1_서산대사
+  image-url: /1_
   img-desc: >
       갤러리설명
   port-desc: >    
@@ -54,9 +55,9 @@ tabs-current:
   sub-tabs:
     - name: 초의선사 
       source: tab02
-      port-url: /images/religious_part/zen_gallery/portrait/2_초의선사.jpg
+      port-url: /2_초의선사.jpg
       img-num: 0
-      image-url: /images/religious_part/zen_gallery/arts/2_초의선사
+      image-url: /2_
       img-desc: >
         갤러리설명
       port-desc: >
@@ -102,9 +103,9 @@ tabs-current:
 
     - name: 만공스님 
       source: tab03
-      port-url: /images/religious_part/zen_gallery/portrait/3_만공스님.jpg
+      port-url: /3_만공스님.jpg
       img-num: 0
-      image-url: /images/religious_part/zen_gallery/arts/3_만공스님
+      image-url: /3_
       img-desc: >
         갤러리설명
       port-desc: >
@@ -169,9 +170,9 @@ tabs-current:
 
     - name: 경봉스님
       source: tab04
-      port-url: /images/religious_part/zen_gallery/portrait/4_경봉스님.png
+      port-url: /4_경봉스님.png
       img-num: 0
-      image-url: /images/religious_part/zen_gallery/arts/4_경봉스님
+      image-url: /4_
       img-desc: >
         갤러리설명
       port-desc: >
@@ -204,9 +205,9 @@ tabs-current:
 
     - name: 퇴경권상로스님 
       source: tab05
-      port-url: /images/religious_part/zen_gallery/portrait/5_퇴경권상로스님.jpg
+      port-url: /5_퇴경권상로스님.jpg
       img-num: 2
-      image-url: /images/religious_part/zen_gallery/arts/5_
+      image-url: /5_
       img-desc: >
         갤러리설명1 <br>
         갤러리설명2 <br>
@@ -219,7 +220,7 @@ tabs-current:
         이후 중앙불교전문학교 교수로 재직하고 있던 태평양 전쟁 시기에 시국 강연과 기고 등을 통한 노골적인 친일 행각으로 전쟁에 적극 협력했다. 예를 들어 그는 《불교시보》에 실린 〈승려 지원병에 대하야〉(1940)에서는 임진왜란 때의 승병 등을 예로 들면서 청년 승려들이 전쟁이 지원병으로 참전해야 한다며 역설했고, 전쟁 승리가 곧 성불이라는 친일 논리의 집대성격인 단행본 《임전의 조선불교》(1943)를 간행했다. 1940년 국민총력조선연맹의 참사관을 맡기도 했다.
         광복 후에도 불교계의 원로로 활동하면서 1953년 동국대학교 초대 총장을 맡았고 1962년에는 문화훈장을 수여 받았다.<br><br>
 
-        port-url- /images/religious_part/zen_gallery/portrait/5-1_퇴경권상로스님.png<br><br>
+        port-url- /5-1_퇴경권상로스님.png<br><br>
 
         2002년 민족정기를 세우는 국회의원모임이 발표한 친일파 708인 명단과 2008년 민족문제연구소에서 친일인명사전에 수록하기 위해 정리한 친일인명사전 수록예정자 명단, 2009년 친일반민족행위진상규명위원회가 발표한 친일반민족행위 705인 명단에 모두 선정되었다.
         근대 한국 불교학의 여명을 연 무수한 별중에서도 단연 "뛰어나 거성"으로평가받는 사람이 바로 퇴경 권상노스님이다. 타고난 총명함, 끊임없는 노력, 쉼없는 수행.정진의 삼박자를 고루 갖춘 스님은 지금도 불교학계 뿐 아니라 전학계의 炬火로 추앙받고 있다.그렇다고 학문에만 출중한 것은 아니었다 . 불화.단청.산수.묵화까지 일가를이루었고 문장 또한 뛰어났다. 글씨도 보 통필가를 초월하여 해.행.초.예.전서에 이르기까지 못 쓰는게 없었다."<통감>을 읽으며 하루에 3백줄을외웠다"는 스님은 1879년(고종 16) 경북 문경에서 태어났다.일곱살에 향리 학당에 취학해 經子史書를 모두 통달한다. 그러 나 이에만족치 않고 심오한 佛學을 연구할 뜻을 품고 18세되던 1896년에 김용사月明禪師께 출가한다. 이때부터 새로이 불전을 공부해 대승사 용문사해인사 등 여러 강원에서 사집.사교의 전과정을 끝낸다.당시 스님과 친한친구로는 안진호스님이 있었다.스님의 이름은 夢讚이요 안진호스님은 錫讚이 었는데 이 양讚이 가는곳에는 학인들이 머리를 들지 못했다 한다. 다음의 일화에서도 스님의 뛰어남을 엿볼수 있다.학인들이 스님보고 "재주가 있다" 하길래 도대체 얼마나있는가를 스스로 시험해 볼려고 봉암사 지증대사적조 탑비를 찾았다.최치원이 쓴 이 비는 해독하기 어려운 것으로 소문나 있었다 .스님은 비문을 단 두번 읽고는 한자도 틀리지 않고 암송했다 한다.이렇게돋보인 실력을 가졌던 스님은 먼저 후학 교육에 투신했다. 강원에서 학인들을 제접한 것은 물론이고 1905년부터는 김용사가 세운 경흥학교를 시작으로성의.화산.보광학교에서 지방의 발전을 위해 선구자적인 역할을 수행 하였다.그러다 1923년 불교중앙총무원의 기관지인 <불교월보> 사장에 취임해언론 발전을 위해서도 노력했다. <불교월보>를 계속 간행하다가 1924년<불교>지로 제호를 고치고 9년동안 재임하였다. 여기서 불교의 교리와사상을 선양하고 대중화하려는 운동을 일으킨다.1930년에는 마침내 중앙불교전문학교(동국대 전신) 교수로 취임해 불교사와 佛典을 강의하면서<조선불교사> <한국사 찰전서>등 30여종 90여책을 집필했다.이때 저술한 책들은 "스님이외에는 그 누구도 손댈수 없는 것들"이라고평가된다.이런 수많은 업적과 함께 스님에게 따라 다니는 것 중 하나가소위 친일문제다. 1938년부터 총독부 시국강연반 연사로 활동했기 때문이다.일제치하에서 어쩔 수 없었다해도 이 일은 스님에게 짐이 되었다.<br><br>
@@ -231,7 +232,7 @@ tabs-current:
 
         그 후 경흥학교(慶興學校)·성의학교(聖義學校) 등 불교 계통의 학교에서 교편을 잡다가, 1909년(융희 3) 불교 원종종무원(佛敎圓宗宗務院) 찬집부장(纂輯部長), 1911년 조선불교월보(朝鮮佛敎月報) 사장이 되었다. 1918년부터 수년간 다시 교편 생활을 하다가 1923년 불교사(佛敎社) 사장에 취임하였고, 1926년 중앙교무원 사무원을 거쳐 이듬해 월정사(月精寺) 감무가 되었다.<br><br>
 
-        port-url- /images/religious_part/zen_gallery/portrait/5-2_퇴경권상로스님.png<br><br>
+        port-url- /5-2_퇴경권상로스님.png<br><br>
 
         1937년에는 부민관(府民館) 대강당에서 '선각자로서'라는 제목으로 친일 강연을 하고, 1940년에는 신문에 응징성전(應懲聖戰)과 불교라는 친일 시사문을 발표하였다. 같은 해 10월 국민정신총동원조선연맹의 후신인 국민총력조선연맹 참사가 되어 일제의 황민화운동에 참여하는 한편, 1941년에는 승려들에게 '국민총력운동과 승려의 각오', '시국과 조선불교' 등의 제목으로 친일 강연을 하기도 하였다.<br><br>
 
@@ -256,9 +257,9 @@ tabs-current:
 
     - name: 백학명스님 
       source: tab06
-      port-url: /images/religious_part/zen_gallery/portrait/6_백학명스님.jpg
+      port-url: /6_백학명스님.jpg
       img-num: 0
-      image-url: /images/religious_part/zen_gallery/arts/6_백학명스님
+      image-url: /6_
       img-desc: >
         갤러리설명1 <br>
         갤러리설명2 <br>
@@ -295,7 +296,7 @@ tabs-current:
       source: tab07
       port-url: 
       img-num: 0
-      image-url: /images/religious_part/zen_gallery/arts/7_춘담스님 
+      image-url: /7_
       img-desc: >
         갤러리설명1 <br>
         갤러리설명2 <br>
@@ -306,9 +307,9 @@ tabs-current:
        
     - name: 대은스님 
       source: tab08
-      port-url: /images/religious_part/zen_gallery/portrait/8_대은스님.jpg
+      port-url: /8_대은스님.jpg
       img-num: 0
-      image-url: /images/religious_part/zen_gallery/arts/8_대은스님
+      image-url: /8_
       img-desc: >
         갤러리설명1 <br>
         갤러리설명2 <br>
@@ -335,9 +336,9 @@ tabs-current:
 
     - name: 한용운스님
       source: tab09
-      port-url: /images/religious_part/zen_gallery/portrait/9_만해한용운스님.jpg
+      port-url: /9_만해한용운스님.jpg
       img-num: 0
-      image-url: /images/religious_part/zen_gallery/arts/9_만해한용운스님
+      image-url: /9_
       img-desc: >
         갤러리설명1 <br>
         갤러리설명2 <br>
@@ -379,9 +380,9 @@ tabs-current:
 
     - name: 환경스님  
       source: tab10
-      port-url: /images/religious_part/zen_gallery/portrait/10_환경스님.png
+      port-url: /10_환경스님.png
       img-num: 0
-      image-url: /images/religious_part/zen_gallery/arts/10_환경스님
+      image-url: /10_
       img-desc: >
         갤러리설명1 <br>
         갤러리설명2 <br>
@@ -446,9 +447,9 @@ tabs-current:
 
     - name: 청담스님 
       source: tab11
-      port-url: /images/religious_part/zen_gallery/portrait/11_청담스님.jpg
+      port-url: /11_청담스님.jpg
       img-num: 0
-      image-url: /images/religious_part/zen_gallery/arts/11_청담스님
+      image-url: /11_
       img-desc: >
         갤러리설명1 <br>
         갤러리설명2 <br>
@@ -493,9 +494,9 @@ tabs-current:
 
     - name: 구산스님 
       source: tab12
-      port-url: /images/religious_part//zen_gallery/portrait/12_구산스님.jpg
+      port-url: /12_구산스님.jpg
       img-num: 0
-      image-url: /images/religious_part/zen_gallery/arts/12_구산스님
+      image-url: /12_
       img-desc: >
         갤러리설명
       port-desc: >  
@@ -554,9 +555,9 @@ tabs-current:
 
     - name: 해안스님 
       source: tab13
-      port-url: /images/religious_part/zen_gallery/portrait/13_해안스님.jpg
+      port-url: /13_해안스님.jpg
       img-num: 0
-      image-url: /images/religious_part/zen_gallery/arts/13_해안스님
+      image-url: /13_
       img-desc: >
         갤러리설명
       port-desc: >  
@@ -648,9 +649,9 @@ tabs-current:
 
     - name: 석주스님  
       source: tab14
-      port-url: /images/religious_part/zen_gallery/portrait/14_석주스님.jpg
+      port-url: /14_석주스님.jpg
       img-num: 0
-      image-url: /images/religious_part/zen_gallery/arts/14_석주스님
+      image-url: /14_
       img-desc: >
           갤러리설명
       port-desc: >  
@@ -730,9 +731,9 @@ tabs-current:
 
     - name: 서암스님  
       source: tab15
-      port-url: /images/religious_part/zen_gallery/portrait/15_서암스님.jpg
+      port-url: /15_서암스님.jpg
       img-num: 0
-      image-url: /images/religious_part/zen_gallery/arts/15_서암스님
+      image-url: /15_
       img-desc: >
           갤러리설명
       port-desc: >  
@@ -868,9 +869,9 @@ tabs-current:
 
     - name: 일타스님
       source: tab16
-      port-url: /images/religious_part/zen_gallery/portrait/16_일타스님.jpg
+      port-url: /16_일타스님.jpg
       img-num: 0
-      image-url: /images/religious_part/zen_gallery/arts/16_일타스님
+      image-url: /16_
       img-desc: >
           갤러리설명
       port-desc: >  
@@ -955,9 +956,9 @@ tabs-current:
     
     - name: 관응스님 
       source: tab17
-      port-url: /images/religious_part/zen_gallery/portrait/17_관응스님.jpg 
+      port-url: /17_관응스님.jpg 
       img-num: 0
-      image-url: /images/religious_part/zen_gallery/arts/17_관응스님
+      image-url: /17_
       img-desc: >
           갤러리설명
       port-desc: >  
@@ -1018,9 +1019,9 @@ tabs-current:
 
     - name: 청화스님
       source: tab18
-      port-url: /images/religious_part/zen_gallery/portrait/18_청화스님.jpg
+      port-url: /18_청화스님.jpg
       img-num: 0
-      image-url: /images/religious_part/zen_gallery/arts/18_청화스님
+      image-url: /18_
       img-desc: >
           갤러리설명
       port-desc: >  
@@ -1073,9 +1074,9 @@ tabs-current:
 
     - name: 탄허스님  
       source: tab19
-      port-url: /images/religious_part/zen_gallery/portrait/19_탄허스님.png
+      port-url: /19_탄허스님.png
       img-num: 0
-      image-url: /images/religious_part/zen_gallery/arts/19_탄허스님
+      image-url: /19_
       img-desc: >
           갤러리설명
       port-desc: >  
@@ -1238,7 +1239,7 @@ tabs-current:
       source: tab20
       port-url: 
       img-num: 0
-      image-url: /images/religious_part/arts/    
+      image-url: /20_
       img-desc: >
           갤러리설명
       port-desc: >  
@@ -1247,9 +1248,9 @@ tabs-current:
 
     - name: 서운스님 
       source: tab21
-      port-url: /images/religious_part/zen_gallery/portrait/21_서운스님.jpg 
+      port-url: /21_서운스님.jpg 
       img-num: 0
-      image-url: /images/religious_part/zen_gallery/arts/21_서운스님 
+      image-url: /21_
       img-desc: >
           갤러리설명
       port-desc: >  
@@ -1288,16 +1289,16 @@ tabs-current:
       source: tab22
       port-url: 
       img-num: 0
-      image-url: /images/religious_part/zen_gallery/arts/22_성우스님
+      image-url: /22_
       img-desc: >
           갤러리설명
       port-desc: >  
 
     - name: 법정스님 
       source: tab23
-      port-url: /images/religious_part/zen_gallery/portrait/23_법정스님.jpg
+      port-url: /23_법정스님.jpg
       img-num: 1
-      image-url: /images/religious_part/zen_gallery/arts/23_
+      image-url: /23_
       img-desc: >
           갤러리설명
       port-desc: >  
@@ -1307,7 +1308,7 @@ tabs-current:
         1954년 승려 효봉의 제자로 출가하였고 1970년대 후반에 송광사 뒷산에 손수 불일암(佛日庵)을 지어 지냈다.<br><br>
         2010년 3월 11일에 서울특별시 성북구 성북2동에 위치한 길상사에서 지병인 폐암으로 인해 세수 79세, 법랍 56세로 입적(入寂)하였다. 기일은 불교식 전통에 따라 매년 음력 1월 26일로 지낸다.<br><br>
 
-        port-url /images/religious_part/zen_gallery/portrait/23-1_법정스님.jpg<br><br>
+        port-url /23-1_법정스님.jpg<br><br>
 
 
         1932년 11월 5일(음력 10월 8일)에 전라남도 해남군 우수영(문내면)에서 태어나 우수영 초등학교를 졸업한 뒤 당시 6년제 였던 목포상업중학교에 진학했고 이후 전남대 상대에 입학하여 3년을 수료 및 중퇴하였다. 그는 당시에 일어난 한국 전쟁을 겪으며 인간의 존재에 대해 의문을 가지게 되었고, 대학교 3학년 중퇴하던 때인 1954년에 출가를 결심하게 된다. 그리고 오대산으로 떠나기로 했던 그는 눈길로 인해 차가 막혀 당시 서울 안국동에 있던 효봉 스님을 만나게 된다. 효봉 스님과 대화를 나눈 그는 그 자리에서 머리를 깎고 행자 생활을 시작했다. 그리고 그는 바로 다음 해에 사미계를 받은 후 지리산 쌍계사에서 정진했다. 1959년 3월에 양산 통도사에서 자운 율사를 계사로 비구계를 받았으며, 1959년 4월에 해인사 전문 강원에서 명봉 스님을 강주로 대교과를 졸업했다.<br><br>
@@ -1345,9 +1346,9 @@ tabs-current:
 
     - name: 석정스님
       source: tab24
-      port-url: /images/religious_part/zen_gallery/portrait/24_석정스님.jpg
+      port-url: /24_석정스님.jpg
       img-num: 0
-      image-url: /images/religious_part/zen_gallery/arts/24_석정스님
+      image-url: /24_
       img-desc: >
           갤러리설명
       port-desc: >  
@@ -1445,9 +1446,9 @@ tabs-current:
 
     - name: 원담스님 
       source: tab25
-      port-url: /images/religious_part/zen_gallery/portrait/25_원담스님.jpg
+      port-url: /25_원담스님.jpg
       img-num: 0
-      image-url: /images/religious_part/zen_gallery/arts/25_원담스님
+      image-url: /25_
       img-desc: >
           갤러리설명
       port-desc: >  
@@ -1473,9 +1474,9 @@ tabs-current:
 
     - name: 중광스님 
       source: tab26
-      port-url: /images/religious_part/zen_gallery/portrait/26_중광스님.jpg
+      port-url: /26_중광스님.jpg
       img-num: 0
-      image-url: /images/religious_part/zen_gallery/arts/26_중광스님
+      image-url: /26_
       img-desc: >
           갤러리설명
       port-desc: >  
@@ -1554,9 +1555,9 @@ tabs-current:
 
     - name: 혜암스님
       source: tab27
-      port-url: /images/religious_part/zen_gallery/portrait/27_혜암스님.jpg
+      port-url: /27_혜암스님.jpg
       img-num: 0
-      image-url: /images/religious_part/zen_gallery/arts/27_혜암스님
+      image-url: /27_
       img-desc: >
           갤러리설명
       port-desc: >  
@@ -1639,9 +1640,9 @@ tabs-current:
 
     - name: 동헌스님
       source: tab28
-      port-url: /images/religious_part/zen_gallery/portrait/28_동헌스님.jpg
+      port-url: /28_동헌스님.jpg
       img-num: 0
-      image-url: /images/religious_part/zen_gallery/arts/28_동헌스님
+      image-url: /28_
       img-desc: >
           갤러리설명
       port-desc: >  
@@ -1709,7 +1710,7 @@ tabs-current:
       source: tab29
       port-url: 
       img-num: 0
-      image-url: /images/religious_part/zen_gallery/arts/29_정광스님     
+      image-url: /29_
       img-desc: >
           갤러리설명
       port-desc: >  
@@ -1719,9 +1720,9 @@ tabs-current:
 
     - name: 서옹스님 
       source: tab30
-      port-url: /images/religious_part/zen_gallery/portrait/30_서웅스님.jpg
+      port-url: /30_서웅스님.jpg
       img-num: 0
-      image-url: /images/religious_part/zen_gallery/arts/30_서웅스님
+      image-url: /30_
       img-desc: >
           갤러리설명
       port-desc: >  
@@ -1813,9 +1814,9 @@ tabs-current:
 
     - name: 옥봉스님 
       source: tab31
-      port-url: /images/religious_part/zen_gallery/portrait/31_옥봉스님.jpg
+      port-url: /31_옥봉스님.jpg
       img-num: 0
-      image-url: /images/religious_part/zen_gallery/arts/31_옥봉스님
+      image-url: /31_
       img-desc: >
           갤러리설명
       port-desc: >  
@@ -1909,9 +1910,9 @@ tabs-current:
 
     - name: 월하스님  
       source: tab32
-      port-url: /images/religious_part/zen_gallery/portrait/32_월하스님.jpg
+      port-url: /32_월하스님.jpg
       img-num: 0
-      image-url: /images/religious_part/zen_gallery/arts/32_월하스님
+      image-url: /32_
       img-desc: >
           갤러리설명
       port-desc: >  
@@ -1961,9 +1962,9 @@ tabs-current:
 
     - name: 일장스님 
       source: tab33
-      port-url: /images/religious_part/zen_gallery/portrait/33_일장스님.png
+      port-url: /33_일장스님.png
       img-num: 0
-      image-url: /images/religious_part/zen_gallery/arts/33_일장스님
+      image-url: /33_
       img-desc: >
           갤러리설명
       port-desc: >  
@@ -2019,9 +2020,9 @@ tabs-current:
 
     - name: 수안스님 
       source: tab34
-      port-url: /images/religious_part/zen_gallery/portrait/34_수안스님.jpg
+      port-url: /34_수안스님.jpg
       img-num: 0
-      image-url: /images/religious_part/zen_gallery/arts/34_수안스님
+      image-url: /34_
       img-desc: >
           갤러리설명
       port-desc: >  
@@ -2096,9 +2097,9 @@ tabs-current:
 
     - name: 송담스님 
       source: tab35
-      port-url: /images/religious_part/zen_gallery/portrait/35_송담스님.jpg
+      port-url: /35_송담스님.jpg
       img-num: 0
-      image-url: /images/religious_part/zen_gallery/arts/35_송담스님
+      image-url: /35_
       img-desc: >
           갤러리설명
       port-desc: >  
@@ -2130,9 +2131,9 @@ tabs-current:
 
     - name: 설정스님 
       source: tab36
-      port-url: /images/religious_part/zen_gallery/portrait/36_설정스님.jpg
+      port-url: /36_설정스님.jpg
       img-num: 0
-      image-url: /images/religious_part/zen_gallery/arts/36_설정스님
+      image-url: /36_
       img-desc: >
           갤러리설명
       port-desc: >  
@@ -2161,7 +2162,7 @@ tabs-current:
       source: tab37
       port-url: 
       img-num: 0
-      image-url: /images/religious_part/zen_gallery/arts/37_원광스님
+      image-url: /37_
       img-desc: >
           갤러리설명
       port-desc: >  
@@ -2171,9 +2172,9 @@ tabs-current:
 
     - name: 월주덕문 
       source: tab38
-      port-url: /images/religious_part/zen_gallery/portrait/38_월주덕문.png
+      port-url: /38_월주덕문.png
       img-num: 3
-      image-url: /images/religious_part/zen_gallery/arts/38_
+      image-url: /38_
       img-desc: >
           갤러리설명
       port-desc: >  
@@ -2207,7 +2208,7 @@ tabs-current:
         https://blog.naver.com/evergreen122/220941792475
         부산역사문화대전  http://busan.grandculture.net/Contents?local=busan&dataType=01&contents_id=GC04200651<br><br>
 
-        port-url /images/religious_part/zen_gallery/portrait/38-1_월주덕문.png<br><br>
+        port-url /38-1_월주덕문.png<br><br>
 
         먹선 한 척 긋는 힘은 천리길 걷는 힘과 같다<br><br>
 
@@ -2224,7 +2225,7 @@ tabs-current:
 
 
 
-        port-url /images/religious_part/zen_gallery/portrait/38-2_월주덕문.png<br><br>
+        port-url /38-2_월주덕문.png<br><br>
 
 
         <사진설명>통도사 독성탱. 1937년 월주 덕문 作.<br><br>
@@ -2242,7 +2243,7 @@ tabs-current:
 
 
 
-        port-url /images/religious_part/zen_gallery/portrait/38-3_월주덕문.png<br><br>
+        port-url /38-3_월주덕문.png<br><br>
 
 
 
@@ -2262,9 +2263,9 @@ tabs-current:
 
     - name: 만봉스님 
       source: tab39
-      port-url: /images/religious_part/zen_gallery/portrait/39_만봉스님.jpg
+      port-url: /39_만봉스님.jpg
       img-num: 0
-      image-url: /images/religious_part/zen_gallery/arts/39_만봉스님
+      image-url: /39_
       img-desc: >
           갤러리설명
       port-desc: >  
@@ -2374,9 +2375,9 @@ tabs-current:
 
     - name: 기현스님 
       source: tab40
-      port-url: /images/religious_part/zen_gallery/portrait/40_기현스님.jpg
+      port-url: /40_기현스님.jpg
       img-num: 1
-      image-url: /images/religious_part/zen_gallery/arts/40_
+      image-url: /40_
       img-desc: >
           갤러리설명
       port-desc: >  
@@ -2395,7 +2396,7 @@ tabs-current:
          기현 스님은 다양한 불교경전을 탐독한 후 참선이라는 불교적 수행을 기반으로 書寫하여 일반인들 에게 공개한다. 그야말로 평생의 오롯한 수행의 결과물로서 전시 내용은 모든 작품을 망라하고 있는 서에작품과 사경이다. 스님은 자신이 소유한 소양과 기능을 최대한으로 확대하여 많은 사람들로 하여금 정갈하게 보아주기를 바라는 마음이 작품 전체에 깔려있다.<br><br>
 
 
-        port-url /images/religious_part/zen_gallery/portrait/40-1_기현스님_사경.jpg<br><br>
+        port-url /40-1_기현스님_사경.jpg<br><br>
 
 
          우리나라에서도 한때 사경이 큰 유행을 했다. 바로 팔만대장경이다. 그러나 이번의 경우는 새김질이 아니라 서사이다.  이번 전시에는 화엄경, 법화경 등 대작들이 수두룩하다. 화엄경은 금니작품으로 쓴 것인데 약 70만자에 해당하고, 그 횡축의 길이만도 1.2킬로미터에 달한다고 한다. 같은 법화경은 약 7만자인데, 경면주사로 서사한 것이다. 이것이 모두 감지에 쓴 것이라서 더욱 경이롭다. 이는 우리나라의 서가들 중에서 몇 사람이나 시도했느냐는 사실이 중요하다. 다음으로 화엄경의 약찬게이다. 이것은 먹으로 한지에 쓴 것으로, 가로 11미터의 대작이다. 글씨의 웅장함과 수려함은 온몸으로 느낄 수 있을 것이다.<br><br>
@@ -2410,9 +2411,9 @@ tabs-current:
 
     - name: 혜인스님
       source: tab41
-      port-url: /images/religious_part/zen_gallery/portrait/41_혜인스님.jpg
+      port-url: /41_혜인스님.jpg
       img-num: 0
-      image-url: /images/religious_part/zen_gallery/arts/41_혜인스님
+      image-url: /41_
       img-desc: >
           갤러리설명
       port-desc: >  
