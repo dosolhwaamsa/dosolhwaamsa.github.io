@@ -67,13 +67,14 @@ layout: leftnav-page
         <hr style="margin-top: 28px">
 
         {%- if curr.port-url != nil -%}
-        <img class="margin--right--none"  src="{{- site.url -}}{{- curr.port-url -}}" alt="{{ page.photos.set | capitalize }}">
+        <img class="margin--right--none"  src="{{- site.url -}}{{- curr.port-url -}}"/>
             <!-- <img class="margin--right--none" src="//images.weserv.nl/?url={{- site.url -}}{{- curr.port-url -}}&output=jpg&q=50&t=square" /><br> -->
         {%- endif -%}
         <br><br>
         {{curr.port-desc}}        
     </div>
-           
+    
+    <p>{{curr.sub-tabs}}</p>
     {%- for t in curr.sub-tabs -%} 
     <div id="{{t.source}}" class="tab-content">      
       <h4 class="has-text-secondary"> <b>| {{t.name}} </b></h4> 
@@ -95,12 +96,12 @@ layout: leftnav-page
         
         <hr style="margin-top: 28px">
 
-        {%- if t.port-url != nil -%}
+        
             <!-- <img class="pics-x"  src="{{- site.url -}}{{- t.port-url -}}" > -->
-            <img class="margin--right--none"  src="{{- site.url -}}{{- t.port-url -}}" alt="{{ page.photos.set | capitalize }}">
+            <img class="margin--right--none"  src="{{- site.url -}}{{- t.port-url -}}" />
             <!-- <img class="margin--right--none" src="//images.weserv.nl/?url={{- site.url -}}{{- t.port-url -}}&w=300&h=400&output=jpg&q=50&t=square"/> <br> -->
             
-        {%- endif -%}                
+        
         <br><br>
         {{t.port-desc}}          
     </div>
