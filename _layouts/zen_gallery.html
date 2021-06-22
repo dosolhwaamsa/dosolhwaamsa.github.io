@@ -2,11 +2,6 @@
 layout: leftnav-page
 ---
 
-{{- content -}}
-
-{%- assign tabs = site.data.zen_gallery -%}
-{%- assign curr = tabs.tabs-current -%}
-
 <style>
 .pics-x{
   object-fit: cover;
@@ -38,6 +33,12 @@ layout: leftnav-page
 
 </style>
 
+
+{{- content -}}
+
+{%- assign tabs = site.data.zen_gallery -%}
+{%- assign curr = tabs.tabs-current -%}
+
 <div class="allWrap">     
     <div class="tabBox">
 
@@ -53,20 +54,20 @@ layout: leftnav-page
         <br>
 
         {%- for i in (1..curr.img-num) -%}
-          {%- if  curr.image-url != nil  -%}
+          {%- if curr.image-url -%}
               <!-- <img class="margin--right--none"  src="{{- site.url -}}{{- curr.image-url -}}/{{curr.name}}-{{ i }}.png" alt="Photo {{ i }} from {{ page.photos.set | capitalize }}"> -->
               <a href="{{- site.url -}}{{- curr.image-url -}}/{{curr.name}}-{{ i }}.png" data-lightbox="image-1" title="{{curr.name}}"> <img class="img-gallery" src="//images.weserv.nl/?url={{- site.url -}}{{- curr.image-url -}}/{{curr.name}}-{{ i }}.png&w=300&h=300&output=jpg&q=50&t=square" alt="{{curr.name}}{{ i }} from {{ curr.img-num | capitalize }}"></a>   
           {%- endif -%}
           <br> <br>                  
         {%- endfor -%}
-        {%- if curr.img-desc == true or curr.img-num>0 -%}
+        {%- if curr.img-num > 0 -%}
           {{- curr.img-desc -}}
           <br><br>
         {%- endif -%}
         
         <hr style="margin-top: 28px">
 
-        {%- if curr.port-url != nil -%}
+        {%- if curr.port-url -%}
         <img class="margin--right--none"  src="{{- site.url -}}{{- curr.port-url -}}"/>
             <!-- <img class="margin--right--none" src="//images.weserv.nl/?url={{- site.url -}}{{- curr.port-url -}}&output=jpg&q=50&t=square" /><br> -->
         {%- endif -%}
@@ -88,7 +89,7 @@ layout: leftnav-page
             <br><br>                             
           {%- endfor -%}  
 
-          {%- if t.img-desc == true -%}
+          {%- if t.img-desc -%}
             {{t.img-desc}}
             <br><br>
           {%- endif -%}  
@@ -96,14 +97,12 @@ layout: leftnav-page
         
         <hr style="margin-top: 28px">
 
-        {%- if t.port-url != nil -%}
-            <!-- <img class="pics-x"  src="{{- site.url -}}{{- t.port-url -}}" > -->
-            <img class="margin--right--none"  src="{{- t.port-url -}}" />
-            <!-- <img class="margin--right--none" src="//images.weserv.nl/?url={{- site.url -}}{{- t.port-url -}}&w=300&h=400&output=jpg&q=50&t=square"/> <br> -->
-            
-        {%- endif -%}                
+        {%- if t.port-url  -%}            
+        <img class="pics-x" src="{{ t.port-url | relative_url }}" />
+          <!-- <img class="margin--right--none" src="//images.weserv.nl/?url={{- site.url -}}{{- t.port-url -}}&w=300&h=400&output=jpg&q=50&t=square"/> <br> --> 
+        {%- endif -%}                        
         <br><br>
-        {{t.port-desc}}          
+        {{t.port-desc}}   
     </div>
     {% endfor %} 
 </div>
