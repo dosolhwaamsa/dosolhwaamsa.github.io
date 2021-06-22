@@ -9,12 +9,12 @@ main-url: /images/religious_part/zen_pics/
 tabs-current:  
   name: 서산대사
   source: tab01  
-  port-url: /1_서산대사.jpg
   img-num: 0
   image-url: /1_
   img-desc: >
       갤러리설명
-  port-desc: >    
+  port-url: /1_서산대사.jpg
+  port-desc: > 
     
     <b>휴정</b>(休靜, 1520년 3월 26일~1604년 1월 23일)은 조선 중기의 고승, 승장(僧將)이다. 속성은 최(崔), 본관은 완산, 이름은 여신(汝 信), 아명은 운학(雲鶴), 자는 현응(玄應), 호는 청허(淸虛)·서산(西山), 별호는 백화도인(白華道人) 또는 서산대사(西山大師)·풍악산 인(楓岳山人)·두류산인(頭流山人)·묘향산인(妙香山人)·조계퇴은(曹溪退隱)·병로(病老)이다[1]. 휴정은 법명. 제63대 조사이다. 임진왜란 당시 제자인 사명당 유정과 함께 승병(僧兵)을 일으켜서 크게 전공을 세웠다. <br><br>
     
@@ -54,12 +54,12 @@ tabs-current:
   
   sub-tabs:
     - name: 초의선사 
-      source: tab02
-      port-url: /2_초의선사.jpg
+      source: tab02      
       img-num: 0
       image-url: /2_
       img-desc: >
         갤러리설명
+      port-url: /2_초의선사.jpg
       port-desc: >
 
         <b>초의선사</b>(1786∼1866)는 조선후기의 고승이자 다도(茶道)의 정립자이다. 법명은 의순(意恂)이며 법호는 초의(草衣), 당호는 일지암(一枝庵)이다. 불도에 정진함은 물론이거니와 다산ㆍ완당 등의 유자들과의 교류를 통해 다양한 사상을 섭렵했다.<br><br>
@@ -102,12 +102,12 @@ tabs-current:
         출처  한국콘텐츠진흥원<br><br>
 
     - name: 만공스님 
-      source: tab03
-      port-url: /3_만공스님.jpg
+      source: tab03      
       img-num: 0
       image-url: /3_
       img-desc: >
         갤러리설명
+      port-url: /3_만공스님.jpg
       port-desc: >
         송만공[ 宋滿空 ]
 
@@ -256,13 +256,13 @@ tabs-current:
         https://blog.daum.net/leepansoo/8626304<br>
 
     - name: 백학명스님 
-      source: tab06
-      port-url: /6_백학명스님.jpg
+      source: tab06      
       img-num: 0
       image-url: /6_
       img-desc: >
         갤러리설명1 <br>
         갤러리설명2 <br>
+      port-url: /6_백학명스님.jpg
       port-desc: >
 
         禪農불교’ 백학명 스님 재조명<br>
