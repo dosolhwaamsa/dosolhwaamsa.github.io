@@ -1297,7 +1297,7 @@ tabs-current:
       source: tab23
       port-url: /images/religious_part/zen_gallery/portrait/23_법정스님.jpg
       img-num: 1
-      image-url: /images/religious_part/zen_gallery/arts/23_법정스님
+      image-url: /images/religious_part/zen_gallery/arts/23_
       img-desc: >
           갤러리설명
       port-desc: >  
@@ -2173,7 +2173,7 @@ tabs-current:
       source: tab38
       port-url: /images/religious_part/zen_gallery/portrait/38_월주덕문.png
       img-num: 3
-      image-url: /images/religious_part/zen_gallery/arts/38_월주덕문
+      image-url: /images/religious_part/zen_gallery/arts/38_
       img-desc: >
           갤러리설명
       port-desc: >  
@@ -2376,7 +2376,7 @@ tabs-current:
       source: tab40
       port-url: /images/religious_part/zen_gallery/portrait/40_기현스님.jpg
       img-num: 1
-      image-url: /images/religious_part/zen_gallery/arts/40_기현스님
+      image-url: /images/religious_part/zen_gallery/arts/40_
       img-desc: >
           갤러리설명
       port-desc: >  
