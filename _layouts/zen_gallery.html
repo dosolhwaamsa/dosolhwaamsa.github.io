@@ -100,15 +100,15 @@ layout: leftnav-page
         
         <hr style="margin-top: 28px">
 
-        {%- if t.port-url  -%}         
-          <img class="margin--right--none" src="//images.weserv.nl/?url={{- site.url -}}{{link}}portrait{{- t.port-url -}}&w=300&h=400&output=jpg&q=50&t=square"/> 
+        {%- if t.port-url -%}                   
+          <img class="margin--right--none" src="{{- site.url -}}{{link}}portrait{{- t.port-url -}}" />
 
-          <!-- <img class="pics-x" src="{{- site.url -}}{{link}}portrait{{- t.port-url -}}" /> -->
-        {%- endif -%}                        
+          <!-- <img class="margin--right--none" src="//images.weserv.nl/?url={{- site.url -}}{{link}}portrait{{- t.port-url -}}&w=300&h=400&output=jpg&q=50&t=square"/> <br>  -->
+        {%- endif -%} 
         <br><br>
-        {{t.port-desc}}   
+        {{t.port-desc}}
     </div>
-    {% endfor %} 
+    {% endfor %}
 </div>
 
 
