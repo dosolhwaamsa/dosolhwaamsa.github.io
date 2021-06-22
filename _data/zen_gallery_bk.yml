@@ -296,12 +296,12 @@ tabs-current:
 
     - name: 춘담스님 
       source: tab07
+      port-url: 
       img-num: 0
       image-url: /7_
       img-desc: >
         갤러리설명1 <br>
         갤러리설명2 <br>
-      port-url: 
       port-desc: >
 
         호- 송천, 법명 춘담, 본명  류재환<br>
@@ -309,12 +309,12 @@ tabs-current:
        
     - name: 대은스님 
       source: tab08
+      port-url: /8_대은스님.jpg
       img-num: 0
       image-url: /8_
       img-desc: >
         갤러리설명1 <br>
         갤러리설명2 <br>
-      port-url: /8_daeun.jpg      
       port-desc: >
 
         1989년 4월 13일 세수 91세, 법납 84세로 열반한 대은스님(大隱) (1899~1989). 스님은 일생을 대중포교와 후학양성에 진력했던 당대의 고승이었다. 6살의 나이로 강원도 철원 심원사에서 동진출가한 스님은 평생 수행자로 살았던 천진불(天眞佛)이었다. 늘 동심을 잃지 않았으며, 대중들을 만날 때 미소를 지었던 스님이다. 그런 까닭에 스님을 따르는 후학과 제자들이 많았다.<br><br>
@@ -338,12 +338,12 @@ tabs-current:
 
     - name: 한용운스님
       source: tab09
+      port-url: /9_만해한용운스님.jpg
       img-num: 0
       image-url: /9_
       img-desc: >
         갤러리설명1 <br>
         갤러리설명2 <br>
-      port-url: /9_manhae.jpg
       port-desc: >
 
         만해(卍海)스님 (1879∼1944)승려·시인·독립운동가. 본관은 청주(淸州). 본명은 정옥(貞玉), 아명은 유천(裕天). 법명은 용운(龍雲), 법호는 만해(萬海·卍海). 충청남도 홍성출신. 응준(應俊)의 아들이다.대원군의 집정, 외세의 침략, 등 불행한 시대적 배경과 사회적 여건은 그 자신의 술회대로 세상에 대한 관심과 생활의 방편으로 집을 떠나 설악산 오세암(五歲庵)에 입산하여 승려가 되게 하였다. 출가 직후에는 오세암에 머무르면서 불교의 기초지식을 섭렵하면서 선(禪)을 닦았다. 27세 때 설악산 백담사(百潭寺)에서 연곡(連谷)을 은사로 하여 정식으로 득도하였다.<br><br>
@@ -382,12 +382,12 @@ tabs-current:
 
     - name: 환경스님  
       source: tab10
+      port-url: /10_환경스님.png
       img-num: 0
       image-url: /10_
       img-desc: >
         갤러리설명1 <br>
         갤러리설명2 <br>
-      port-url: /10_hwankyung.jpg      
       port-desc: >
 
         1887(고종 24)∼1983. 승려.<br>
@@ -449,12 +449,12 @@ tabs-current:
 
     - name: 청담스님 
       source: tab11
+      port-url: /11_청담스님.jpg
       img-num: 0
       image-url: /11_
       img-desc: >
         갤러리설명1 <br>
         갤러리설명2 <br>
-      port-url: /11_cheongdam.jpg      
       port-desc: >
         (1902~1971)<br><br>
 
@@ -495,12 +495,12 @@ tabs-current:
 
 
     - name: 구산스님 
-      source: tab12      
+      source: tab12
+      port-url: /12_구산스님.jpg
       img-num: 0
       image-url: /12_
       img-desc: >
         갤러리설명
-      port-url: /12_kusan.jpg
       port-desc: >  
         (1909~1983)<br><br>
 
@@ -556,12 +556,12 @@ tabs-current:
         http://www.songgwangsa.org/sub/sub_1_04_009.jsp<br>
 
     - name: 해안스님 
-      source: tab13      
+      source: tab13
+      port-url: /13_해안스님.jpg
       img-num: 0
       image-url: /13_
       img-desc: >
         갤러리설명
-      port-url: /13_haean.jpg
       port-desc: >  
 
         ○…1901년 3월7일(음) 전북 부안군 산내면 격포리에서 태어났다. 어린시절 이름은 성봉(成鳳)이고, 훗날 봉수(鳳秀)라고 했다. 본관은 김해. 유년시절 서당에서 한학을 배웠다. <br><br>
@@ -651,11 +651,11 @@ tabs-current:
 
     - name: 석주스님  
       source: tab14
+      port-url: /14_석주스님.jpg
       img-num: 0
       image-url: /14_
       img-desc: >
           갤러리설명
-      port-url: /14_seokju.jpg
       port-desc: >  
         [ 昔珠 ]<br><br>
 
@@ -733,11 +733,11 @@ tabs-current:
 
     - name: 서암스님  
       source: tab15
+      port-url: /15_서암스님.jpg
       img-num: 0
       image-url: /15_
       img-desc: >
           갤러리설명
-      port-url: /15_seoam.jpg
       port-desc: >  
         西庵 <br><br>
 
@@ -871,11 +871,11 @@ tabs-current:
 
     - name: 일타스님
       source: tab16
+      port-url: /16_일타스님.jpg
       img-num: 0
       image-url: /16_
       img-desc: >
           갤러리설명
-      port-url: /16_ilta.jpg
       port-desc: >  
         
         은해사 조실 역임<br><br>
@@ -958,17 +958,17 @@ tabs-current:
     
     - name: 관응스님 
       source: tab17
+      port-url: /17_관응스님.jpg 
       img-num: 0
       image-url: /17_
       img-desc: >
           갤러리설명
-      port-url: /17_kwanng.jpg 
       port-desc: >  
         직지사 조실 관응(觀應)큰스님<br><br>
 
-        관응(觀應) 스님 (1910-2004)<br><br>
+        관   응 (觀應) 스님 (1910-2004)<br><br>
 
-        ·1910년 6월 15일생. 경북 상주 生<br>
+         1910년 6월 15일생. 경북 상주 生<br>
         ·1929년 광주 남장사서 혜봉스님 계사로 사미계 수지<br>
         ·1936년 선학원 일붕스님 계사로 비구계 수지<br>
         ·1938년 동국대 졸업<br>
@@ -1021,11 +1021,11 @@ tabs-current:
 
     - name: 청화스님
       source: tab18
+      port-url: /18_청화스님.jpg
       img-num: 0
       image-url: /18_
       img-desc: >
           갤러리설명
-      port-url: /18_cheonghwa.jpg
       port-desc: >  
 
         <청화(淸華, 1923~2003) 스님><br><br>
@@ -1075,12 +1075,12 @@ tabs-current:
         https://blog.daum.net/511-33/12369918<br>
 
     - name: 탄허스님  
-      source: tab19      
+      source: tab19
+      port-url: /19_탄허스님.png
       img-num: 0
       image-url: /19_
       img-desc: >
           갤러리설명
-      port-url: /19_tanheo.jpg          
       port-desc: >  
 
         呑虛大宗師의 縮約 年譜<br><br>
@@ -1239,22 +1239,22 @@ tabs-current:
 
     - name: 용봉스님 
       source: tab20
+      port-url: 
       img-num: 0
       image-url: /20_
       img-desc: >
           갤러리설명
-      port-url: 
       port-desc: >  
 
         금산사 주지 역임.<br><br>
 
     - name: 서운스님 
       source: tab21
+      port-url: /21_서운스님.jpg 
       img-num: 0
       image-url: /21_
       img-desc: >
           갤러리설명
-      port-url: /21_seoun.jpg       
       port-desc: >  
 
         1903년 5월 16일 경북 칠곡군 칠곡면 읍내동 출생<br>
@@ -1289,20 +1289,20 @@ tabs-current:
 
     - name: 성우스님 
       source: tab22
+      port-url: 
       img-num: 0
       image-url: /22_
       img-desc: >
           갤러리설명
-      port-url: 
       port-desc: >  
 
     - name: 법정스님 
       source: tab23
+      port-url: /23_법정스님.jpg
       img-num: 1
       image-url: /23_
       img-desc: >
           갤러리설명
-      port-url: /23_bubjeong.jpg          
       port-desc: >  
 
         법정(法頂, 속명(본명) 박재철(朴在喆), 1932년 11월 5일(음력 10월 8일) ~ 2010년 3월 11일)은 대한민국의 불교 승려이자 수필가이다.
@@ -1347,12 +1347,12 @@ tabs-current:
 
 
     - name: 석정스님
-      source: tab24      
+      source: tab24
+      port-url: /24_석정스님.jpg
       img-num: 0
       image-url: /24_
       img-desc: >
           갤러리설명
-      port-url: /24_seokjeong.jpg          
       port-desc: >  
 
         석정 스님은 1924년 강원도 고성 출생.<br>
@@ -1448,11 +1448,11 @@ tabs-current:
 
     - name: 원담스님 
       source: tab25
+      port-url: /25_원담스님.jpg
       img-num: 0
       image-url: /25_
       img-desc: >
           갤러리설명
-      port-url: /25_wondam.jpg
       port-desc: >  
 
         만공선사로부터 직접 탁마한 ‘마지막 선승’<br><br>
@@ -1476,11 +1476,11 @@ tabs-current:
 
     - name: 중광스님 
       source: tab26
+      port-url: /26_중광스님.jpg
       img-num: 0
       image-url: /26_
       img-desc: >
           갤러리설명
-      port-url: /26_joongkwang.jpg
       port-desc: >  
 
         중광(重光, 1934년 1월 4일 ~ 2002년 3월 9일)은 대한민국의 불교 승려, 시인, 수필가, 화가<br><br>
@@ -1557,11 +1557,11 @@ tabs-current:
 
     - name: 혜암스님
       source: tab27
+      port-url: /27_혜암스님.jpg
       img-num: 0
       image-url: /27_
       img-desc: >
           갤러리설명
-      port-url: /27_hyeam.jpg
       port-desc: >  
         
         50년 長坐不臥…종단의 師表<br><br>
@@ -1642,11 +1642,11 @@ tabs-current:
 
     - name: 동헌스님
       source: tab28
+      port-url: /28_동헌스님.jpg
       img-num: 0
       image-url: /28_
       img-desc: >
           갤러리설명
-      port-url: /28_dongheon.jpg
       port-desc: >  
         (1896~1983년)<br><br>
 
@@ -1710,11 +1710,11 @@ tabs-current:
 
     - name: 정광스님 
       source: tab29
+      port-url: 
       img-num: 0
       image-url: /29_
       img-desc: >
           갤러리설명
-      port-url: 
       port-desc: >  
 
         순천 송광사에서 출가. 송광사 주석. 서예에 능해서 전라남북도 사찰에 작품이 많이 보관되어 있다.<br><br>
@@ -1722,11 +1722,11 @@ tabs-current:
 
     - name: 서옹스님 
       source: tab30
+      port-url: /30_서웅스님.jpg
       img-num: 0
       image-url: /30_
       img-desc: >
           갤러리설명
-      port-url: /30_seowoong.jpg
       port-desc: >  
 
 
@@ -1816,11 +1816,11 @@ tabs-current:
 
     - name: 옥봉스님 
       source: tab31
+      port-url: /31_옥봉스님.jpg
       img-num: 0
       image-url: /31_
       img-desc: >
           갤러리설명
-      port-url: /31_okbong.jpg
       port-desc: >  
 
         죽란화(竹蘭畵)'의 대가 옥봉스님<br><br>
@@ -1912,11 +1912,11 @@ tabs-current:
 
     - name: 월하스님  
       source: tab32
+      port-url: /32_월하스님.jpg
       img-num: 0
       image-url: /32_
       img-desc: >
           갤러리설명
-      port-url: /32_wolha.jpg
       port-desc: >  
         
 
@@ -1964,11 +1964,11 @@ tabs-current:
 
     - name: 일장스님 
       source: tab33
+      port-url: /33_일장스님.png
       img-num: 0
       image-url: /33_
       img-desc: >
           갤러리설명
-      port-url: /33_iljang.png
       port-desc: >  
 
         그림 그리며 화두드는 목부암 일장스님<br><br>
@@ -2022,11 +2022,11 @@ tabs-current:
 
     - name: 수안스님 
       source: tab34
+      port-url: /34_수안스님.jpg
       img-num: 0
       image-url: /34_
       img-desc: >
           갤러리설명
-      port-url: /34_sooan.jpg
       port-desc: >  
         (통도사 문수원)<br><br>
 
@@ -2099,11 +2099,11 @@ tabs-current:
 
     - name: 송담스님 
       source: tab35
+      port-url: /35_송담스님.jpg
       img-num: 0
       image-url: /35_
       img-desc: >
           갤러리설명
-      port-url: /35_songdam.jpg
       port-desc: >  
 
 
@@ -2133,11 +2133,11 @@ tabs-current:
 
     - name: 설정스님 
       source: tab36
+      port-url: /36_설정스님.jpg
       img-num: 0
       image-url: /36_
       img-desc: >
           갤러리설명
-      port-url: /36_seoljeong.jpg
       port-desc: >  
 
         조계종 총무원장 설정 스님은 1942년 충남 예산에서 출생하였다, 덕숭총림 제3대 방장을 지낸 원담 스님을 은사로 14살에 출가한 설정 스님은 1955년 수덕사에서 혜원 스님을 계사로 사미계를 받았다.<br><br>
@@ -2162,23 +2162,23 @@ tabs-current:
 
     - name: 원광스님
       source: tab37
+      port-url: 
       img-num: 0
       image-url: /37_
       img-desc: >
           갤러리설명
-      port-url: 
       port-desc: >  
 
 
         금산사 월주스님을 은사로 출가해서 시서화에 능하다. 국전 초대 작가 <br><br>
 
     - name: 월주덕문 
-      source: tab38      
+      source: tab38
+      port-url: /38_월주덕문.png
       img-num: 3
       image-url: /38_
       img-desc: >
           갤러리설명
-      port-url: /38_woljoodeokmoon.jpg
       port-desc: >  
       
 
@@ -2265,11 +2265,11 @@ tabs-current:
 
     - name: 만봉스님 
       source: tab39
+      port-url: /39_만봉스님.jpg
       img-num: 0
       image-url: /39_
       img-desc: >
           갤러리설명
-      port-url: /39_manbong.jpg
       port-desc: >  
 
         불화(佛畵)작업에 한 평생을 헌신했던 한국불교미술의 거장 만봉(萬峰)스님이 지난 17일 0시10분 주석하던 서울 신촌 봉원사 운수각에서 입적했다. 세수 97세, 법랍 81세.<br><br>
@@ -2377,11 +2377,11 @@ tabs-current:
 
     - name: 기현스님 
       source: tab40
+      port-url: /40_기현스님.jpg
       img-num: 1
       image-url: /40_
       img-desc: >
           갤러리설명
-      port-url: /40_kihyun.jpg
       port-desc: >  
 
         沙門 奇玄  渭石, 西岡, 石衲  약력<br>
@@ -2413,11 +2413,11 @@ tabs-current:
 
     - name: 혜인스님
       source: tab41
+      port-url: /41_혜인스님.jpg
       img-num: 0
       image-url: /41_
       img-desc: >
           갤러리설명
-      port-url: /41_hyein.jpg
       port-desc: >  
 
         ‘혜인스님’, 법명을 대면 불자라면 모르는 사람이 없는 스님이다. 수행 계율 포교 불사 법문 모든 분야에서 경이로운 모습을 보인, 이 시대를 대표하는 수행자로 모든 사람들이 꼽는 분이다. 무릎에서 고름이 나오고 코피가 쏟아지는 고통 속에서도 108만 배를 했다. 황무지 위에 제주도를 대표하는 사찰을 세웠다. 그 규모에 보는 사람이 압도당하는 웅장한 사찰은 하루 관광버스 100여대가 몰려올 정도로 관광명소가 됐다. 그것도 모자라 방 100개가 들어가는 대형 사찰이 소백산 기슭에 들어서고 있다. 지금까지 2천 번 넘게 비행기를 탔다. 당신을 뵙기를 청하는 전 세계 신도들을 만나기 위해서다.<br><br>
