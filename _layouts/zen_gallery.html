@@ -30,6 +30,9 @@ layout: leftnav-page
 .table-x {
     min-width: 600px;
 }
+.p.tab {
+text-indent: 50px;
+}
 
 </style>
 
@@ -44,11 +47,11 @@ layout: leftnav-page
 
 <div class="allWrap">     
     <div class="tabBox">
-
-        <p class="tab-link current" data-tab="{{curr.source}}"> {{curr.name}}</p>   
+        <p class="tab-link current" data-tab="{{curr.source}}"> {{curr.name}}  </p> 
+        
         {%- for t in curr.sub-tabs -%}
-            <p class="tab-link" data-tab="{{t.source}}"> {{t.name}}</p>            
-        {% endfor %}
+          <p class="tab-link" data-tab="{{t.source}}"> {{t.name}}</p>            
+        {% endfor %}        
     </div>
     
 <!-- show content     -->
