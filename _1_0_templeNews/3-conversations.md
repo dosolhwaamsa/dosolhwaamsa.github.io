@@ -9,3 +9,10 @@ collection_name: 1_0_templeNews
 > ### **스님과의 대화**
 
 ---
+
+<iframe width="100%"
+        height="600"
+        src="https://m.cafe.naver.com/ca-fe/web/cafes/29963936/menus/9"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen></iframe>
