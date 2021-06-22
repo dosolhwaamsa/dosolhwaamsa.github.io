@@ -79,7 +79,7 @@ layout: leftnav-page
     <div id="{{t.source}}" class="tab-content">      
       <h4 class="has-text-secondary"> <b>| {{t.name}} </b></h4> 
       <br>
-        {%- if t.img-num > 0 -%}
+        
           {%- for i in (1.. t.img-num) -%}
             
               <img class="margin--right--none"  src="{{- site.url -}}{{- t.image-url -}}/{{t.name}}-{{i}}.png" alt="{{t.name}}-{{i}}"/><br> <span>{{ t.name }}-{{i}}</span>
@@ -91,17 +91,16 @@ layout: leftnav-page
           {%- if t.img-desc == true -%}
             {{t.img-desc}}
             <br><br>
-          {%- endif -%}  
-        {%- endif -%}            
+          {%- endif -%}                   
         
         <hr style="margin-top: 28px">
 
-        
+        {%- if t.port-url != nil -%}
             <!-- <img class="pics-x"  src="{{- site.url -}}{{- t.port-url -}}" > -->
             <img class="margin--right--none"  src="{{- site.url -}}{{- t.port-url -}}" />
             <!-- <img class="margin--right--none" src="//images.weserv.nl/?url={{- site.url -}}{{- t.port-url -}}&w=300&h=400&output=jpg&q=50&t=square"/> <br> -->
             
-        
+        {%- endif -%}                
         <br><br>
         {{t.port-desc}}          
     </div>
