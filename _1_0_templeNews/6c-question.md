@@ -29,24 +29,21 @@ second_nav_title: "문의·안내·신청·접수"
 
 ---
 
-##### **-. 도솔노인복지센터**
+#### **[도솔노인복지센터]**
 - 대전 서구 변동서로27번길 20-3 
 - Tel. +82 042-528-1080 
 - Fax. +82 042-472-7209
 - [dosol-hwaam@naver.com](mailto:dosol-hwaam@naver.com)
 
-
-##### **-. 도솔노인복지센터 운영시간**
-Mon - Fri <br>
-8.30am - 6.00pm <br>
-Closed on Weekends and Public Holidays <br>
-
-
-##### **-. 도솔산화암사**
+#### **[도솔산화암사]**
 - 대전 서구 변동서로27번길 20-3 
 - +82 042-488-7209
 - [kakaotalk문의](https://pf.kakao.com/_cBGaK/chat)
 
+#### **[도솔노인복지센터 운영시간]**
+Mon - Fri <br>
+8.30am - 6.00pm <br>
+Closed on Weekends and Public Holidays <br>
 
 ---
 
