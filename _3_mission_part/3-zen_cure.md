@@ -25,6 +25,7 @@ collection_name: 3_mission_part
 
 ![image]({{site.baseurl}}/images/religious_part/s08_img_03.jpg)
 
+---
 
 <iframe width="100%"
         height="600"
