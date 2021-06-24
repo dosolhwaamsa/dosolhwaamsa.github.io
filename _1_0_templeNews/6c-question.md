@@ -4,7 +4,7 @@ title: 문의·신청하기
 permalink: /1_0_templeNews/questions/
 breadcrumb: 문의·신청하기
 collection_name: 1_0_templeNews
-second_nav_title: "봉사안내·신청"
+second_nav_title: "문의·안내·신청·접수"
 ---
 
 > ### **문의·신청하기**
