@@ -1,4 +1,5 @@
 ---
+# layout: leftnav-page-content
 layout: leftnav-page-content
 permalink: /2_dosolnoin_part/daycare/five/
 breadcrumb: visitingcare
