@@ -4,7 +4,7 @@ permalink: /1_0_templeNews/volunteer/
 title: 봉사·후원안내
 breadcrumb: volunteer
 collection_name: 1_0_templeNews
-second_nav_title: "봉사안내·신청"
+second_nav_title: "문의·안내·신청·접수"
 ---
 
 > ### **봉사·후원안내**
