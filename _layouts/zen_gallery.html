@@ -62,7 +62,7 @@ text-indent: 50px;
         {%- for i in (1..curr.img-num) -%}
           {%- if curr.image-url -%}
               <!-- <img class="margin--right--none"  src="{{- site.url -}}{{link}}arts{{- curr.image-url -}}/{{curr.name}}-{{ i }}.png" > -->
-              <a href="{{- site.url -}}{{link}}arts{{curr.image-url}}-{{ i }}.png" data-lightbox="image-1"> <img class="img-gallery" src="//images.weserv.nl/?url={{- site.url -}}{{link}}arts{{- curr.image-url -}}-{{ i }}.png&output=jpg&q=50&t=square"/></a>   
+              <a href="{{- site.url -}}{{link}}arts{{curr.image-url}}-{{ i }}.png" data-lightbox="image-1" alt="{{img-desc}}"> <img class="img-gallery" src="//images.weserv.nl/?url={{- site.url -}}{{link}}arts{{- curr.image-url -}}-{{ i }}.png&output=jpg&q=50&t=square"/></a>   
           {%- endif -%}
           <br> <br>                  
         {%- endfor -%}
