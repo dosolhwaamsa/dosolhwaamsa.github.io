@@ -5,9 +5,9 @@ layout: leftnav-page
 <style>
 .pics-x{
   object-fit: cover;
-  width: 70%;
-  /* height: 250px; */
-  height: 100%;
+  width: 320px;
+  height: 390px;
+  /* height: 80%; */
 }
 
 
@@ -74,7 +74,7 @@ text-indent: 50px;
         <hr style="margin-top: 28px">
 
         {%- if curr.port-url -%}
-        <img class="margin--right--none"  src="{{- site.url -}}{{link}}portrait{{- curr.port-url -}}"/>
+        <img class="pics-x"  src="{{- site.url -}}{{link}}portrait{{- curr.port-url -}}" />
             <!-- <img class="margin--right--none" src="//images.weserv.nl/?url={{- site.url -}}{{- curr.port-url -}}&output=jpg&q=50&t=square" /><br> -->
         {%- endif -%}
         <br><br>
@@ -104,7 +104,7 @@ text-indent: 50px;
         <hr style="margin-top: 28px">
 
         {%- if t.port-url -%}                   
-          <img class="jarallex-img" src="{{- site.url -}}{{link}}portrait{{- t.port-url | relative-url -}}" />
+          <img class="pics-x" src="{{- site.url -}}{{link}}portrait{{- t.port-url | relative-url -}}" />
 
           <!-- <img class="margin--right--none" src="//images.weserv.nl/?url={{- site.url -}}{{link}}portrait{{- t.port-url -}}&w=300&h=400&output=jpg&q=50&t=square"/> <br>  -->
         {%- endif -%} 
