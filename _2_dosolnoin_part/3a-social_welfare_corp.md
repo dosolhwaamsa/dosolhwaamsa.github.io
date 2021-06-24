@@ -40,7 +40,7 @@ second_nav_title: "대전불교사회복지회" #좌측 레벨1 메뉴제목
 
 <!-- <img src="{{site.url}}/images/const.jpg" />{: .img2} -->
 
-> 주요사업안내
+> 법인목적사업
 
 1. 재가복지시설 설치 운영
 2. 어르신 종합상담
