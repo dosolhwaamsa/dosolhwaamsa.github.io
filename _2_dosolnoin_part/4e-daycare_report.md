@@ -1,6 +1,5 @@
 ---
-# layout: leftnav-page-content
-layout: what-we-do
+layout: leftnav-page-content
 permalink: /2_dosolnoin_part/daycare/four/
 breadcrumb: 주간보호생활현장
 title:  주간보호 생활현장
