@@ -62,7 +62,7 @@ text-indent: 50px;
         {%- for i in (1..curr.img-num) -%}
           {%- if curr.image-url -%}
               <!-- <img class="margin--right--none"  src="{{- site.url -}}{{link}}arts{{- curr.image-url -}}/{{curr.name}}-{{ i }}.png" > -->
-              <a href="{{- site.url -}}{{link}}arts{{curr.image-url}}{{link}}arts{{curr.img-url}}/{{curr.name}}-{{ i }}.png" data-lightbox="image-1" title="{{curr.name}}"> <img class="img-gallery" src="//images.weserv.nl/?url={{- site.url -}}{{link}}arts{{- curr.image-url -}}/{{curr.name}}-{{ i }}.png&output=jpg&q=50&t=square" alt="{{curr.name}}{{ i }} from {{ curr.img-num | capitalize }}"/></a>   
+              <a href="{{- site.url -}}{{link}}arts{{curr.image-url}}-{{ i }}.png" data-lightbox="image-1"> <img class="img-gallery" src="//images.weserv.nl/?url={{- site.url -}}{{link}}arts{{- curr.image-url -}}-{{ i }}.png&output=jpg&q=50&t=square"/></a>   
           {%- endif -%}
           <br> <br>                  
         {%- endfor -%}
@@ -91,7 +91,7 @@ text-indent: 50px;
             
               <!-- <img class="margin--right--none"  src="{{- site.url -}}{{- t.image-url -}}/{{t.name}}-{{i}}.png" alt="{{t.name}}-{{i}}"/><br> <span>{{ t.name }}-{{i}}</span> -->
                                         
-              <ul class="image-gallery"><li><a href="{{- site.url -}}{{link}}arts{{t.image-url}}/{{t.name}}-{{i}}.png" data-lightbox="image-1" title="{{ t.name }}-{{i}}"><img src="//images.weserv.nl/?url={{site.url}}{{link}}arts{{t.image-url}}/{{t.name}}-{{i}}.png&output=jpg&q=50&t=square" alt="{{ t.name }}-{{i}}"/></a></li></ul>
+              <ul class="image-gallery"><li><a href="{{- site.url -}}{{link}}arts{{t.image-url}}-{{i}}.png" data-lightbox="image-1" ><img src="//images.weserv.nl/?url={{site.url}}{{link}}arts{{t.image-url}}-{{i}}.png&output=jpg&q=50&t=square" /></a></li></ul>
             <br><br>                             
           <!-- {%- endfor -%}   -->
 

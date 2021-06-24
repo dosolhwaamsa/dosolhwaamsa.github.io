@@ -10,7 +10,7 @@ tabs-current:
   name: 서산대사
   source: tab01  
   img-num: 2
-  image-url: /1_
+  image-url: /1_/susan
   img-desc: |+
       <b> 작품1. </b> <br>
       
@@ -2224,7 +2224,7 @@ tabs-current:
         https://blog.naver.com/evergreen122/220941792475
         부산역사문화대전  http://busan.grandculture.net/Contents?local=busan&dataType=01&contents_id=GC04200651<br><br>
 
-        <ul class="image-gallery"><li><a href="{{site.url}}{{main-url}}arts/38_/월주덕문-1.png" data-lightbox="image-1" ><img src="//images.weserv.nl/?url={{site.url}}{{main-url}}arts/38_/월주덕문-1.png&output=jpg&q=50&t=square" /></a></li></ul><br><br>
+        <img src="/images/religious_part/zen_pics/arts/38_/wolju-1.png" /> <br><br>
 
         먹선 한 척 긋는 힘은 천리길 걷는 힘과 같다<br><br>
 
@@ -2240,9 +2240,8 @@ tabs-current:
         대금어 완호 낙현 제자<br><br>
 
 
-
-        <ul class="image-gallery"><li><a href="{{site.url}}{{main-url}}arts/38_/월주덕문-2.png" data-lightbox="image-1" ><img src="//images.weserv.nl/?url={{site.url}}{{main-url}}arts/38_/월주덕문-2.png&output=jpg&q=50&t=square" /></a></li></ul><br><br>
-
+        <img src="/images/religious_part/zen_pics/arts/38_/wolju-2.png" /> <br><br>
+        
 
         <사진설명>통도사 독성탱. 1937년 월주 덕문 作.<br><br>
 
@@ -2254,8 +2253,7 @@ tabs-current:
         日 유학 후 새구도 제시<br><br>
 
 
-        <ul class="image-gallery"><li><a href="{{site.url}}{{main-url}}arts/38_/월주덕문-3.png" data-lightbox="image-1" ><img src="//images.weserv.nl/?url={{site.url}}{{main-url}}arts/38_/월주덕문-3.png&output=jpg&q=50&t=square" /></a></li></ul><br><br>
-
+        <img src="/images/religious_part/zen_pics/arts/38_/wolju-3.png" /> <br><br>
 
 
         <사진설명>물금포교당 석가모니 후불탱. 1944년 월주 덕문 作.<br><br>
