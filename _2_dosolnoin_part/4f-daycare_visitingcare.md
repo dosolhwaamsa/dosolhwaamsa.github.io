@@ -1,6 +1,5 @@
 ---
-# layout: leftnav-page-content
-layout: what-we-do
+layout: leftnav-page-content
 permalink: /2_dosolnoin_part/daycare/five/
 breadcrumb: visitingcare
 title:  방문요양 프로그램 안내
