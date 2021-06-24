@@ -9,7 +9,7 @@ main-url: /images/religious_part/zen_pics/
 tabs-current:  
   name: 서산대사
   source: tab01  
-  img-num: 0
+  img-num: 2
   image-url: /1_
   img-desc: |+
       <b> 작품1. </b> <br>
@@ -2188,7 +2188,7 @@ tabs-current:
 
     - name: 월주덕문 
       source: tab38      
-      img-num: 3
+      img-num: 0
       image-url: /38_
       img-desc: |+
           갤러리설명
