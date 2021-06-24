@@ -6,7 +6,7 @@ breadcrumb: 복지센터공지사항
 collection_name: 1_0_templeNews
 ---
 
-> ### ***도솔노인 복지센터 공지사항**
+> ### **도솔노인 복지센터 공지사항**
 
 ---
 
