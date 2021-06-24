@@ -39,8 +39,6 @@
   sub-links:
   - title: 화암사공지사항
     url: /1_0_templeNews/hwaamsa_news/
-  - title: 복지센터공지사항
-    url: /1_0_templeNews/dosolnoin_news/
   - title: 스님과의대화
     url: /1_0_templeNews/conversations/
   - title: 화암사일상
@@ -81,8 +79,12 @@
     url: /2_dosolnoin_part/socialwelfare/
   - title: 주간보호센터안내
     url: /2_dosolnoin_part/daycare/
+  - title: 방문요양안내
+    url: /2_dosolnoin_part/visitingcare/
   - title: 숲체험교육
     url: /2_dosolnoin_part/forest/
+  - title: 복지센터공지사항
+    url: /1_0_templeNews/dosolnoin_news/
 
 - title: 포교·신도회
   url: /3_mission_part/etiquette/
