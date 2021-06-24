@@ -12,7 +12,14 @@ tabs-current:
   img-num: 0
   image-url: /1_
   img-desc: |+
-      갤러리설명
+      <b> 작품1. </b> <br>
+      
+      1번 작품 설명 <br><br>
+
+      <b> 작품2. </b> <br>
+      
+      2번 작품 설명
+
   port-url: /1_susan.jpg
   port-desc: |+ 
     
@@ -2217,7 +2224,7 @@ tabs-current:
         https://blog.naver.com/evergreen122/220941792475
         부산역사문화대전  http://busan.grandculture.net/Contents?local=busan&dataType=01&contents_id=GC04200651<br><br>
 
-        port-url /38-1_월주덕문.png<br><br>
+        <ul class="image-gallery"><li><a href="{{site.url}}{{main-url}}arts/38_/월주덕문-1.png" data-lightbox="image-1" ><img src="//images.weserv.nl/?url={{site.url}}{{main-url}}arts/38_/월주덕문-1.png&output=jpg&q=50&t=square" /></a></li></ul><br><br>
 
         먹선 한 척 긋는 힘은 천리길 걷는 힘과 같다<br><br>
 
@@ -2234,7 +2241,7 @@ tabs-current:
 
 
 
-        port-url /38-2_월주덕문.png<br><br>
+        <ul class="image-gallery"><li><a href="{{site.url}}{{main-url}}arts/38_/월주덕문-2.png" data-lightbox="image-1" ><img src="//images.weserv.nl/?url={{site.url}}{{main-url}}arts/38_/월주덕문-2.png&output=jpg&q=50&t=square" /></a></li></ul><br><br>
 
 
         <사진설명>통도사 독성탱. 1937년 월주 덕문 作.<br><br>
@@ -2247,7 +2254,7 @@ tabs-current:
         日 유학 후 새구도 제시<br><br>
 
 
-        port-url /38-3_월주덕문.png<br><br>
+        <ul class="image-gallery"><li><a href="{{site.url}}{{main-url}}arts/38_/월주덕문-3.png" data-lightbox="image-1" ><img src="//images.weserv.nl/?url={{site.url}}{{main-url}}arts/38_/월주덕문-3.png&output=jpg&q=50&t=square" /></a></li></ul><br><br>
 
 
 
