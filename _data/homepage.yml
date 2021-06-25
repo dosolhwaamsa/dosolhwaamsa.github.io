@@ -81,18 +81,18 @@ info-sections:
 
 # Careers Section
 # To edit the careers details, go to careers-stories.yml
-# careers-title: 문의하기
-# careers-subtitle: 봉사 및 후원안내
-# careers-description: 화암사는 많은 봉사자들의 헌신적인 노력으로 운영되고 있습니다. <br> 여러분의 따뜻한 관심과 후원은 사회복지를 증진시키는  큰 원동력입니다.
-# careers-more-button: 바로가기
-# careers-more-button-url: /3_volunteers_part/contact-us/
+careers-title: 문의하기
+careers-subtitle: 봉사 및 후원안내
+careers-description: 화암사는 많은 봉사자들의 헌신적인 노력으로 운영되고 있습니다. <br> 여러분의 따뜻한 관심과 후원은 사회복지를 증진시키는  큰 원동력입니다.
+careers-more-button: 바로가기
+careers-more-button-url: /1_0_templeNews/volunteer/
 
 
 # Resources Section
-resources-title: 참여마당
-resources-subtitle: 공지사항 및 상담게시판
-resources-more-button: 더 많은 소식 보러가기
-resources-more-button-url: /resource_room/
+# resources-title: 참여마당
+# resources-subtitle: 공지사항 및 상담게시판
+# resources-more-button: 더 많은 소식 보러가기
+# resources-more-button-url: /resource_room/
 
 # # Programmes Section
 # # To edit the programme details, go to programmes.yml

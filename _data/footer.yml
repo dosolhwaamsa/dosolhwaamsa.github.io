@@ -30,6 +30,8 @@
       url: /0_temple/temple_office/info/
     - title: 화암사오시는길
       url: /0_temple/address/
+    # - title: (구)도솔산화암사
+    #   url: //dosolarchive.github.io/resource_room/
 
 - title: 화암사소식
   url: /1_0_templeNews/hwaamsa_news/
@@ -96,4 +98,6 @@
     url: /3_mission_part/temple_stay/  
   - title: 신도회
     url: /3_mission_part/community/info/
-  
+
+- title: (구)도솔산화암사
+  url: //dosolarchive.github.io/resource_room/

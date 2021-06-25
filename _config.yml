@@ -79,8 +79,8 @@ paginate: 16
 
 # Homepage sections
 # homepage_hero_i_want_to: true # if i_want_to is true, there will be no key highlights
-homepage_careers: true
-homepage_resources: true
+homepage_careers: false
+homepage_resources: false
 homepage_programmes: false
 
 # Custom CSS file path
