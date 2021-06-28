@@ -6,11 +6,6 @@ breadcrumb: 화암사공지사항
 collection_name: 1_0_templeNews
 ---
 
-> ### **화암사 공지사항**
-
----
-
-
 
 <iframe width="100%"
         height="600"

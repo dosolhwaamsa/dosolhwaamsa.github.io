@@ -6,9 +6,6 @@ breadcrumb: 화암사일상
 collection_name: 1_0_templeNews
 ---
 
-> ### **화암사 일상**
-
----
 
 
 <iframe width="100%"

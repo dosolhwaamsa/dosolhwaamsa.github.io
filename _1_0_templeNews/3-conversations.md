@@ -6,9 +6,6 @@ breadcrumb: 스님과의대화
 collection_name: 1_0_templeNews
 ---
 
-> ### **스님과의 대화**
-
----
 
 <iframe width="100%"
         height="600"

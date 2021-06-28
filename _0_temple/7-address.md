@@ -32,7 +32,9 @@ collection_name: 0_temple
 	}).render();
 </script>
 
-<br><br><br>
+
+[[<span style="color:blue">문의하기</span>] ](/1_0_templeNews/questions/)
+
 <!-- ![image info](/images/contact-us.jpg) -->
 
 <!-- h2 { background:url(/images/contact-us.jpg); } -->

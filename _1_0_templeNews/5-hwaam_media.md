@@ -6,9 +6,6 @@ breadcrumb: 미디어속화암사
 collection_name: 1_0_templeNews
 ---
 
-> ### **미디어 속 화암사**
-
----
 
 <iframe width="100%"
         height="600"
