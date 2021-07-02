@@ -3,10 +3,10 @@
 layout: zen_gallery
 permalink: /0_temple/zen_gallery/
 title: 선갤러리(고승선서) # 좌측 레벨2 메뉴제목
-breadcrumb: 선갤러리
+breadcrumb: 선갤러리고승
 # last_updated: 01-04-2018 
 collection_name: 0_temple
-# second_nav_title: "화암사소개" #좌측 레벨1 메뉴제목
+second_nav_title: "선갤러리" #좌측 레벨1 메뉴제목
 ---
 
 <iframe width="100%"
