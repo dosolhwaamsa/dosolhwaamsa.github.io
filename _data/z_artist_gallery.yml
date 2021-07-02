@@ -1,0 +1,614 @@
+##################################
+#                                #
+# Edit this file carefully.      #
+#                                #
+##################################
+
+main-url: /images/religious_part/zen_pics/
+
+tabs-current:         
+  sub-tabs:
+    - name: 만화원응지민지순
+      source: tab999
+      img-num: 5
+      image-url: /999_
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+
+        - subtitle: img2 title
+          description: |+
+            img2 description 
+
+        - subtitle: img3 title
+          description: |+
+            img3 description 
+
+        - subtitle: img4 title
+          description: |+
+            img4 description 
+            
+        - subtitle: img5 title
+          description: |+
+            img5 description 
+
+      port-url: /1_susan.jpg
+      port-desc: |+         
+        <b>작가설명</b> <br> 
+
+    - name: 강암송성용
+      source: tab1001
+      img-num: 3
+      image-url: /1001_
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+            
+        - subtitle: img2 title
+          description: |+
+            img2 description 
+
+        - subtitle: img3 title
+          description: |+
+            img3 description 
+
+      port-url: /
+      port-desc: |+ 
+       desc
+
+    
+    - name: 근제노영
+      source: tab1002
+      img-num: 2
+      image-url: /1002_
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+
+        - subtitle: img2 title
+          description: |+
+            img2 description          
+
+      port-url: /
+      port-desc: |+ 
+       desc
+
+    - name: 김옥균
+      source: tab1003
+      img-num: 1
+      image-url: /1003_
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+            
+
+      port-url: /
+      port-desc: |+ 
+       desc
+
+    - name: 라오
+      source: tab1004
+      img-num: 2
+      image-url: /1004_
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+
+        - subtitle: img2 title
+          description: |+
+            img2 description 
+        
+      port-url: /
+      port-desc: |+ 
+       desc
+
+    - name: 미산허영구
+      source: tab1005
+      img-num: 1
+      image-url: /1005_
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+            
+
+      port-url: /
+      port-desc: |+ 
+       desc
+
+    - name: 미산황용하
+      source: tab1006
+      img-num: 2
+      image-url: /1006_
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+            
+        - subtitle: img2 title
+          description: |+
+            img2 description 
+
+            
+      port-url: /
+      port-desc: |+ 
+       desc
+
+    
+    - name: 백의관음
+      source: tab1007
+      img-num: 1
+      image-url: /1007_
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+            
+
+      port-url: /
+      port-desc: |+ 
+       desc
+
+    - name: 산민이용
+      source: tab1008
+      img-num: 8
+      image-url: /1008_
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+
+        - subtitle: img2 title
+          description: |+
+            img2 description 
+
+        - subtitle: img3 title
+          description: |+
+            img3 description 
+            
+        - subtitle: img4 title
+          description: |+
+            img4 description 
+
+        - subtitle: img5 title
+          description: |+
+            img5 description 
+
+        - subtitle: img6 title
+          description: |+
+            img6 description 
+
+        - subtitle: img7 title
+          description: |+
+            img7 description 
+
+        - subtitle: img8 title
+          description: |+
+            img8 description 
+
+      port-url: /
+      port-desc: |+ 
+       desc
+
+    - name: 석전황욱
+      source: tab1009
+      img-num: 2
+      image-url: /1009_
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+
+        - subtitle: img2 title
+          description: |+
+            img2 description 
+          
+
+      port-url: /
+      port-desc: |+ 
+       desc
+
+    - name: 성하유석영
+      source: tab1010
+      img-num: 5
+      image-url: /1010_
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+
+        - subtitle: img2 title
+          description: |+
+            img2 description 
+
+        - subtitle: img3 title
+          description: |+
+            img3 description 
+
+        - subtitle: img4 title
+          description: |+
+            img4 description 
+
+        - subtitle: img5 title
+          description: |+
+            img5 description 
+            
+
+      port-url: /
+      port-desc: |+ 
+       desc
+
+
+    - name: 소공
+      source: tab1011
+      img-num: 4
+      image-url: /1011_
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+
+        - subtitle: img2 title
+          description: |+
+            img2 description 
+
+        - subtitle: img3 title
+          description: |+
+            img3 description 
+
+        - subtitle: img4 title
+          description: |+
+            img4 description    
+
+      port-url: /
+      port-desc: |+ 
+       desc
+
+    
+    - name: 송전
+      source: tab1012
+      img-num: 2
+      image-url: /1012_
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+        
+        - subtitle: img2 title
+          description: |+
+            img2 description 
+
+      port-url: /
+      port-desc: |+ 
+       desc
+
+    - name: 어세창
+      source: tab1013
+      img-num: 1
+      image-url: /1013_
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+            
+
+      port-url: /
+      port-desc: |+ 
+       desc
+
+    - name: 여초김응현
+      source: tab1014
+      img-num: 3
+      image-url: /1014_
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+        - subtitle: img2 title
+          description: |+
+            img2 description 
+
+        - subtitle: img3 title
+          description: |+
+            img3 description 
+
+           
+
+      port-url: /
+      port-desc: |+ 
+       desc
+
+    - name: 유경희
+      source: tab1015
+      img-num: 2
+      image-url: /1015_
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+
+        - subtitle: img2 title
+          description: |+
+            img2 description 
+          
+
+      port-url: /
+      port-desc: |+ 
+       desc
+
+    - name: 은봉
+      source: tab1016
+      img-num: 3
+      image-url: /1016_
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+            
+
+      port-url: /
+      port-desc: |+ 
+       desc
+
+    
+    - name: 의암김정호
+      source: tab1017
+      img-num: 6
+      image-url: /1017_
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+
+        - subtitle: img2 title
+          description: |+
+            img2 description 
+
+        - subtitle: img3 title
+          description: |+
+            img3 description 
+
+        - subtitle: img4 title
+          description: |+
+            img4 description 
+
+        - subtitle: img5 title
+          description: |+
+            img5 description 
+
+        - subtitle: img6 title
+          description: |+
+            img6 description 
+   
+
+      port-url: /
+      port-desc: |+ 
+       desc
+
+    - name: 이서령
+      source: tab1018
+      img-num: 1
+      image-url: /1018_
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+            
+
+      port-url: /
+      port-desc: |+ 
+       desc
+
+    - name: 이은혁
+      source: tab1019
+      img-num: 1
+      image-url: /1019_
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+            
+
+      port-url: /
+      port-desc: |+ 
+       desc
+
+    - name: 이철규
+      source: tab1020
+      img-num: 1
+      image-url: /1020_
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+            
+
+      port-url: /
+      port-desc: |+ 
+       desc 
+
+    - name: 일중김충현
+      source: tab1021
+      img-num: 2
+      image-url: /1021_
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+        
+        - subtitle: img2 title
+          description: |+
+            img2 description 
+       
+
+      port-url: /
+      port-desc: |+ 
+       desc
+
+    
+    - name: 조범재
+      source: tab1022
+      img-num: 10
+      image-url: /1022_
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+
+        - subtitle: img2 title
+          description: |+
+            img2 description 
+
+        - subtitle: img3 title
+          description: |+
+            img3 description 
+
+        - subtitle: img4 title
+          description: |+
+            img4 description   
+
+        - subtitle: img5 title
+          description: |+
+            img5 description 
+
+        - subtitle: img6 title
+          description: |+
+            img6 description 
+
+        - subtitle: img7 title
+          description: |+
+            img7 description 
+
+        - subtitle: img8 title
+          description: |+
+            img8 description  
+
+        - subtitle: img9 title
+          description: |+
+            img9 description 
+
+        - subtitle: img10 title
+          description: |+
+            img10 description 
+
+      port-url: /
+      port-desc: |+ 
+       desc
+
+    - name: 창암이삼만
+      source: tab1023
+      img-num: 4
+      image-url: /1023_
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+
+        - subtitle: img2 title
+          description: |+
+            img2 description 
+
+        - subtitle: img3 title
+          description: |+
+            img3 description 
+
+        - subtitle: img4 title
+          description: |+
+            img4 description             
+
+      port-url: /
+      port-desc: |+ 
+       desc
+
+    - name: 추사김정희
+      source: tab1024
+      img-num: 2
+      image-url: /1024_
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+
+        - subtitle: img2 title
+          description: |+
+            img2 description 
+          
+
+      port-url: /
+      port-desc: |+ 
+       desc
+
+    - name: 판화가이철수
+      source: tab1025
+      img-num: 1
+      image-url: /1025_
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+            
+
+      port-url: /
+      port-desc: |+ 
+       desc
+
+    - name: 해강김규진
+      source: tab1026
+      img-num: 2
+      image-url: /1026_
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+        - subtitle: img2 title
+          description: |+
+            img2 description 
+            
+
+      port-url: /
+      port-desc: |+ 
+       desc
+
+    
+    - name: 기현용상방
+      source: tab1027
+      img-num: 1
+      image-url: /1027_
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+            
+
+      port-url: /
+      port-desc: |+ 
+       desc
+
+    - name: 동헌
+      source: tab1028
+      img-num: 1
+      image-url: /1028_
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+            
+
+      port-url: /
+      port-desc: |+ 
+       desc
+
+    - name: 작자미상
+      source: tab2000
+      img-num: 10
+      image-url: /2000_
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+    
