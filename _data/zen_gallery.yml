@@ -6,69 +6,69 @@
 
 main-url: /images/religious_part/zen_pics/
 
-tabs-current:  
-  name: 서산대사
-  source: tab01  
-  img-num: 2
-  image-url: /1_/susan
-  img-desc: |+
-      <b> 작품1. </b> <br>
-      
-      1번 작품 설명 <br><br>
-
-      <b> 작품2. </b> <br>
-      
-      2번 작품 설명
-
-  port-url: /1_susan.jpg
-  port-desc: |+ 
-    
-    <b>휴정</b>(休靜, 1520년 3월 26일~1604년 1월 23일)은 조선 중기의 고승, 승장(僧將)이다. 속성은 최(崔), 본관은 완산, 이름은 여신(汝 信), 아명은 운학(雲鶴), 자는 현응(玄應), 호는 청허(淸虛)·서산(西山), 별호는 백화도인(白華道人) 또는 서산대사(西山大師)·풍악산 인(楓岳山人)·두류산인(頭流山人)·묘향산인(妙香山人)·조계퇴은(曹溪退隱)·병로(病老)이다[1]. 휴정은 법명. 제63대 조사이다. 임진왜란 당시 제자인 사명당 유정과 함께 승병(僧兵)을 일으켜서 크게 전공을 세웠다. <br><br>
-    
-    <b>임진왜란 이전</b> <br>
-    평안도 안주(安州)에서 출생하여 9살때에 어머니를 잃었고 뒤이 어 10살 때에는 아버지마저 세상을 떠나 고아가 되었다. 시재가 뛰어난 소년을 기특히 여긴 안주 목사 이사증은 그를 데리고 한양에 올라와 반재(泮齋)에서 공부시켰다. 이 무렵 그를 지도해준 어느 학자가 호남 감사로 부임했으나 몇달 만에 별세하자 동급생 몇 사람과 같이 문상을 하러간 김에 지리산일대를 두루 구경하고 경전을 공부하게 되었으며 이윽고 선가(禪家)의 법을 깨닫고 숭인(崇仁) 장로에게서 승려가 되었다. 21세에 운관 대사에게 인가(印可)를 얻고 촌락으로 돌아다니다가 정오에 닭 울음소리를 듣고 홀연히 심신(心神)을 깨달았다. 30세에 선과(禪科)에 합격하였다. <br>
-    대선(大選)에서 양종 판사(兩宗判事)에까지 이르러 승직을 버리고 금강산에 들어가서 삼몽사(三夢詞)를 짓고 향로봉에 올라가    <br><br>
-
-    만국의 도성은 개미집이요, 일천 집의 호걸은 초파리 같네, 창에 비친 밝은 달 아래 청허하게 누우니, 끝없는 솔바람 운치가 별미로다. <br><br>
-    
-    萬國都城如蛭蟻, 千家豪傑似醯鷄, 一窓明月淸虛枕, 無限松風韻不齋 <br><br>        
-
-    라는 시를 지었는데, 1589년(선조 22) 정여립의 옥사에 요승 무업(無業)이 이 시로 무고하여 옥에 갇혔으나 선조가 그 억울함을 알고 석방하였을 뿐 아니라 시를 칭찬하고 상을 내렸다.<br><br>
-    
-    <b>임진왜란</b> <br>
-    1592년 임진왜란 때 의주에서 선조께 뵙고 각지의 노약자로 하여금 기도케 하고 나머지 승려들을 데리고 적군을 몰아내겠다고 하여 8도 16종 도총섭(都摠攝)이 되었다. 의승(義僧) 5천을 모집하여 인솔하고 관군을 도와 평양전투등의 공을 세우고 왕을 모시고 한양에 돌아와 늙음을 이유로 군사를 유정(惟政)과 처영(處英)에게 맡기고 묘향산 보현사로 되돌아가 <br><br>
-
-    國국 一일都도 大대 禪선 師사 禪선 敎교 都도 摠총 攝섭 扶부 宗종 樹수 敎교 普보 濟제 登등 階계 尊 존 者자<br><br>
-
-    라는 호를 받았다. 그리하여 도의의 이름이 더욱 높았으며 풍악(楓岳)·두류(頭流)·묘향(妙香) 등의 산으로 왕래하니 따르는 제자가 천여 명이요, 출세한 제자도 70여 인에 이르렀다. 그리하여 도의의 이름이 더욱 높았으며 풍악(楓岳)·두류(頭流)·묘향(妙香) 등의 산으로 왕래하니 따르는 제자가 천여 명이요, 출세한 제자도 70여 인에  이르렀다. <br><br>
-
-    <b>임진왜란 이후</b> <br>
-    묘향산 원적암(圓寂菴)에 제자들을 모아 설법을 하고 글을 그 영정(影幀) 뒤에 써서 유정·처영에게 주고 85 세에 사망했다. <br><br>
-
-    <table class="table-x">
-        <tr>  <td>법명</td> <td>휴정(休靜)</td> </tr>
-        <tr>  <td>출생</td> <td>1520년 03월 26일 <br>조선 평안도 안주</td> </tr>      
-        <tr> <td> 입적 </td>  <td> 1604년 01월 23일 (83세) <br> 조선 평안도 묘향산 원적암(圓寂庵) </td> </tr>
-        <tr> <td> 속명 </td>  <td> 최여신(崔汝信)  </td> </tr>
-        <tr> <td> 종파 </td>  <td> 선종 </td> </tr>
-        <tr> <td> 출가 </td>  <td> 1538년 </td> </tr>
-        <tr> <td> 저작 </td>  <td> 《선가귀감(禪家龜鑑)》 <br> 《유가귀감(儒家龜鑑)》 <br> 《도가귀감(道家龜鑑)》 <br> 《선교석(禪敎釋)》 <br> 《선교결(禪敎訣)》 <br> 《심법요초(心法要抄)》 <br> 《운수단(雲水壇)》 <br> 《설선의(說禪儀)》 <br> 《삼로행적(三老行蹟)》 <br> 《청허당집(淸虛堂集)》 외 </td> </tr>
-        <tr> <td> 칭호 </td>  <td> 청허(淸虛)·서산(西山) </td> </tr>
-        <tr> <td> 스승 </td>  <td> 숭인장로(崇仁長老) </td> </tr>
-        <tr> <td> 제자 </td>  <td> 유정, 처영, 영규, 의엄 </td> </tr>
-        <tr> <td> 부모 </td>  <td> 아버지 최세창(崔世昌), 어머니 김씨(金氏) </td> </tr>
-      </table>
-      <br>
-        출처  https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=tngusrla001&logNo=220796399013<br>
-        출처  한국민족문화대백과<br><br>  
-        
+tabs-current:         
   sub-tabs:
+    - name: 서산대사
+      source: tab01  
+      img-num: 1
+      image-url: /1_/susan
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+            
+
+      port-url: /1_susan.jpg
+      port-desc: |+         
+        <b>휴정</b>(休靜, 1520년 3월 26일~1604년 1월 23일)은 조선 중기의 고승, 승장(僧將)이다. 속성은 최(崔), 본관은 완산, 이름은 여신(汝 信), 아명은 운학(雲鶴), 자는 현응(玄應), 호는 청허(淸虛)·서산(西山), 별호는 백화도인(白華道人) 또는 서산대사(西山大師)·풍악산 인(楓岳山人)·두류산인(頭流山人)·묘향산인(妙香山人)·조계퇴은(曹溪退隱)·병로(病老)이다[1]. 휴정은 법명. 제63대 조사이다. 임진왜란 당시 제자인 사명당 유정과 함께 승병(僧兵)을 일으켜서 크게 전공을 세웠다. <br><br>
+        
+        <b>임진왜란 이전</b> <br>
+        평안도 안주(安州)에서 출생하여 9살때에 어머니를 잃었고 뒤이 어 10살 때에는 아버지마저 세상을 떠나 고아가 되었다. 시재가 뛰어난 소년을 기특히 여긴 안주 목사 이사증은 그를 데리고 한양에 올라와 반재(泮齋)에서 공부시켰다. 이 무렵 그를 지도해준 어느 학자가 호남 감사로 부임했으나 몇달 만에 별세하자 동급생 몇 사람과 같이 문상을 하러간 김에 지리산일대를 두루 구경하고 경전을 공부하게 되었으며 이윽고 선가(禪家)의 법을 깨닫고 숭인(崇仁) 장로에게서 승려가 되었다. 21세에 운관 대사에게 인가(印可)를 얻고 촌락으로 돌아다니다가 정오에 닭 울음소리를 듣고 홀연히 심신(心神)을 깨달았다. 30세에 선과(禪科)에 합격하였다. <br>
+        대선(大選)에서 양종 판사(兩宗判事)에까지 이르러 승직을 버리고 금강산에 들어가서 삼몽사(三夢詞)를 짓고 향로봉에 올라가    <br><br>
+
+        만국의 도성은 개미집이요, 일천 집의 호걸은 초파리 같네, 창에 비친 밝은 달 아래 청허하게 누우니, 끝없는 솔바람 운치가 별미로다. <br><br>
+        
+        萬國都城如蛭蟻, 千家豪傑似醯鷄, 一窓明月淸虛枕, 無限松風韻不齋 <br><br>        
+
+        라는 시를 지었는데, 1589년(선조 22) 정여립의 옥사에 요승 무업(無業)이 이 시로 무고하여 옥에 갇혔으나 선조가 그 억울함을 알고 석방하였을 뿐 아니라 시를 칭찬하고 상을 내렸다.<br><br>
+        
+        <b>임진왜란</b> <br>
+        1592년 임진왜란 때 의주에서 선조께 뵙고 각지의 노약자로 하여금 기도케 하고 나머지 승려들을 데리고 적군을 몰아내겠다고 하여 8도 16종 도총섭(都摠攝)이 되었다. 의승(義僧) 5천을 모집하여 인솔하고 관군을 도와 평양전투등의 공을 세우고 왕을 모시고 한양에 돌아와 늙음을 이유로 군사를 유정(惟政)과 처영(處英)에게 맡기고 묘향산 보현사로 되돌아가 <br><br>
+
+        國국 一일都도 大대 禪선 師사 禪선 敎교 都도 摠총 攝섭 扶부 宗종 樹수 敎교 普보 濟제 登등 階계 尊 존 者자<br><br>
+
+        라는 호를 받았다. 그리하여 도의의 이름이 더욱 높았으며 풍악(楓岳)·두류(頭流)·묘향(妙香) 등의 산으로 왕래하니 따르는 제자가 천여 명이요, 출세한 제자도 70여 인에 이르렀다. 그리하여 도의의 이름이 더욱 높았으며 풍악(楓岳)·두류(頭流)·묘향(妙香) 등의 산으로 왕래하니 따르는 제자가 천여 명이요, 출세한 제자도 70여 인에  이르렀다. <br><br>
+
+        <b>임진왜란 이후</b> <br>
+        묘향산 원적암(圓寂菴)에 제자들을 모아 설법을 하고 글을 그 영정(影幀) 뒤에 써서 유정·처영에게 주고 85 세에 사망했다. <br><br>
+
+        <table class="table-x">
+            <tr>  <td>법명</td> <td>휴정(休靜)</td> </tr>
+            <tr>  <td>출생</td> <td>1520년 03월 26일 <br>조선 평안도 안주</td> </tr>      
+            <tr> <td> 입적 </td>  <td> 1604년 01월 23일 (83세) <br> 조선 평안도 묘향산 원적암(圓寂庵) </td> </tr>
+            <tr> <td> 속명 </td>  <td> 최여신(崔汝信)  </td> </tr>
+            <tr> <td> 종파 </td>  <td> 선종 </td> </tr>
+            <tr> <td> 출가 </td>  <td> 1538년 </td> </tr>
+            <tr> <td> 저작 </td>  <td> 《선가귀감(禪家龜鑑)》 <br> 《유가귀감(儒家龜鑑)》 <br> 《도가귀감(道家龜鑑)》 <br> 《선교석(禪敎釋)》 <br> 《선교결(禪敎訣)》 <br> 《심법요초(心法要抄)》 <br> 《운수단(雲水壇)》 <br> 《설선의(說禪儀)》 <br> 《삼로행적(三老行蹟)》 <br> 《청허당집(淸虛堂集)》 외 </td> </tr>
+            <tr> <td> 칭호 </td>  <td> 청허(淸虛)·서산(西山) </td> </tr>
+            <tr> <td> 스승 </td>  <td> 숭인장로(崇仁長老) </td> </tr>
+            <tr> <td> 제자 </td>  <td> 유정, 처영, 영규, 의엄 </td> </tr>
+            <tr> <td> 부모 </td>  <td> 아버지 최세창(崔世昌), 어머니 김씨(金氏) </td> </tr>
+          </table>
+          <br>
+            출처  https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=tngusrla001&logNo=220796399013<br>
+            출처  한국민족문화대백과<br><br> 
+
     - name: 초의선사 
       source: tab02      
-      img-num: 0
+      img-num: 1
       image-url: /2_
-      img-desc: |+
-        갤러리설명
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+            
+        
       port-url: /2_초의선사.jpg
       port-desc: |+
 
@@ -118,10 +118,16 @@ tabs-current:
 
     - name: 만공스님 
       source: tab03      
-      img-num: 0
+      img-num: 2
       image-url: /3_
-      img-desc: |+
-        갤러리설명
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+            
+        - subtitle: img2 title
+          description: |+
+            img2 description
       port-url: /3_만공스님.jpg
       port-desc: |+
         송만공[ 宋滿空 ]
@@ -186,10 +192,24 @@ tabs-current:
     - name: 경봉스님
       source: tab04
       port-url: /4_경봉스님.png
-      img-num: 0
+      img-num: 4
       image-url: /4_
-      img-desc: |+
-        갤러리설명
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+            
+        - subtitle: img2 title
+          description: |+
+            img2 description
+
+        - subtitle: img3 title
+          description: |+
+            img3 description 
+            
+        - subtitle: img4 title
+          description: |+
+            img4 description
       port-desc: |+
 
         경봉 정석(鏡峰靖錫 1892-1982) 스님은 근현대의 고승으로서 광주 김씨이며, 속명은 용국(鏞國), 호는 경봉(鏡峰), 시호는 원광(圓光)이다. 경상남도 밀양출신으로 아버지는 영규(榮奎)이며, 어머니는 안동 권씨이다. 7세 때 밀양의 한학자 강달수(姜達壽)에게 사서삼경을 배웠으며, 15세 되던 해 모친상을 겪고 인생의 무상함을 깨닫고, 16세때 양산 통도사의 성해(聖海) 선사를 찾아가 출가했다.<br><br>
@@ -221,11 +241,14 @@ tabs-current:
     - name: 퇴경권상로스님 
       source: tab05
       port-url: /5_퇴경권상로스님.jpg
-      img-num: 2
+      img-num: 1
       image-url: /5_
-      img-desc: |+
-        갤러리설명1 <br>
-        갤러리설명2 <br>
+      works: 
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+            
+    
       port-desc: |+
 
         권상로(權相老, 1879년 2월 28일 ~ 1965년 4월 19일)는 일제 강점기의 승려이다. 창씨개명 후에는 안도 쇼로(일본어-安東 相老)로 불렸다. 법명은 퇴경(退耕), 아호는 퇴경당(退耕堂).<br><br>
@@ -274,11 +297,12 @@ tabs-current:
 
     - name: 백학명스님 
       source: tab06      
-      img-num: 0
+      img-num: 1
       image-url: /6_
-      img-desc: |+
-        갤러리설명1 <br>
-        갤러리설명2 <br>
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
       port-url: /6_.jpg
       port-desc: |+
 
@@ -311,11 +335,12 @@ tabs-current:
 
     - name: 춘담스님 
       source: tab07
-      img-num: 0
+      img-num: 1
       image-url: /7_
-      img-desc: |+
-        갤러리설명1 <br>
-        갤러리설명2 <br>
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
       port-url: 
       port-desc: |+
 
@@ -324,11 +349,12 @@ tabs-current:
        
     - name: 대은스님 
       source: tab08
-      img-num: 0
+      img-num: 1
       image-url: /8_
-      img-desc: |+
-        갤러리설명1 <br>
-        갤러리설명2 <br>
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
       port-url: /8_daeun.jpg      
       port-desc: |+
 
@@ -353,11 +379,12 @@ tabs-current:
 
     - name: 한용운스님
       source: tab09
-      img-num: 0
+      img-num: 1
       image-url: /9_
-      img-desc: |+
-        갤러리설명1 <br>
-        갤러리설명2 <br>
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
       port-url: /9_manhae.jpg
       port-desc: |+
 
@@ -410,11 +437,12 @@ tabs-current:
 
     - name: 환경스님  
       source: tab10
-      img-num: 0
+      img-num: 1
       image-url: /10_
-      img-desc: |+
-        갤러리설명1 <br>
-        갤러리설명2 <br>
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
       port-url: /10_hwankyung.jpg      
       port-desc: |+
 
@@ -477,11 +505,12 @@ tabs-current:
 
     - name: 청담스님 
       source: tab11
-      img-num: 0
+      img-num: 1
       image-url: /11_
-      img-desc: |+
-        갤러리설명1 <br>
-        갤러리설명2 <br>
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
       port-url: /11_cheongdam.jpg      
       port-desc: |+
         (1902~1971)<br><br>
@@ -524,10 +553,12 @@ tabs-current:
 
     - name: 구산스님 
       source: tab12      
-      img-num: 0
+      img-num: 1
       image-url: /12_
-      img-desc: |+
-        갤러리설명
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
       port-url: /12_kusan.jpg
       port-desc: |+  
         (1909~1983)<br><br>
@@ -585,10 +616,12 @@ tabs-current:
 
     - name: 해안스님 
       source: tab13      
-      img-num: 0
+      img-num: 1
       image-url: /13_
-      img-desc: |+
-        갤러리설명
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
       port-url: /13_haean.jpg
       port-desc: |+  
 
@@ -679,10 +712,21 @@ tabs-current:
 
     - name: 석주스님  
       source: tab14
-      img-num: 0
+      img-num: 3
       image-url: /14_
-      img-desc: |+
-          갤러리설명
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+
+        - subtitle: img2 title
+          description: |+
+            img2 description 
+
+        - subtitle: img3 title
+          description: |+
+            img3 description 
+
       port-url: /14_seokju.jpg
       port-desc: |+  
         [ 昔珠 ]<br><br>
@@ -761,10 +805,13 @@ tabs-current:
 
     - name: 서암스님  
       source: tab15
-      img-num: 0
+      img-num: 1
       image-url: /15_
-      img-desc: |+
-          갤러리설명
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+       
       port-url: /15_seoam.jpg
       port-desc: |+  
         西庵 <br><br>
@@ -899,10 +946,16 @@ tabs-current:
 
     - name: 일타스님
       source: tab16
-      img-num: 0
+      img-num: 2
       image-url: /16_
-      img-desc: |+
-          갤러리설명
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+
+        - subtitle: img2 title
+          description: |+
+            img2 description 
       port-url: /16_ilta.jpg
       port-desc: |+  
         
@@ -986,10 +1039,14 @@ tabs-current:
     
     - name: 관응스님 
       source: tab17
-      img-num: 0
+      img-num: 1
       image-url: /17_
-      img-desc: |+
-          갤러리설명
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+
+       
       port-url: /17_kwanng.jpg 
       port-desc: |+  
         직지사 조실 관응(觀應)큰스님<br><br>
@@ -1051,8 +1108,11 @@ tabs-current:
       source: tab18
       img-num: 0
       image-url: /18_
-      img-desc: |+
-          갤러리설명
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+        
       port-url: /18_cheonghwa.jpg
       port-desc: |+  
 
@@ -1104,10 +1164,28 @@ tabs-current:
 
     - name: 탄허스님  
       source: tab19      
-      img-num: 0
+      img-num: 5
       image-url: /19_
-      img-desc: |+
-          갤러리설명
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+
+        - subtitle: img2 title
+          description: |+
+            img2 description 
+
+        - subtitle: img3 title
+          description: |+
+            img3 description 
+
+        - subtitle: img4 title
+          description: |+
+            img4 description         
+
+        - subtitle: img5 title
+          description: |+
+            img5 description 
       port-url: /19_tanheo.jpg          
       port-desc: |+  
 
@@ -1267,10 +1345,13 @@ tabs-current:
 
     - name: 용봉스님 
       source: tab20
-      img-num: 0
+      img-num: 1
       image-url: /20_
-      img-desc: |+
-          갤러리설명
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+
       port-url: 
       port-desc: |+  
 
@@ -1278,10 +1359,13 @@ tabs-current:
 
     - name: 서운스님 
       source: tab21
-      img-num: 0
+      img-num: 1
       image-url: /21_
-      img-desc: |+
-          갤러리설명
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+        
       port-url: /21_seoun.jpg       
       port-desc: |+  
 
@@ -1317,19 +1401,36 @@ tabs-current:
 
     - name: 성우스님 
       source: tab22
-      img-num: 0
+      img-num: 2
       image-url: /22_
-      img-desc: |+
-          갤러리설명
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+
+        - subtitle: img2 title
+          description: |+
+            img2 description 
       port-url: 
       port-desc: |+  
 
     - name: 법정스님 
       source: tab23
-      img-num: 1
+      img-num: 3
       image-url: /23_
-      img-desc: |+
-          갤러리설명
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+
+        - subtitle: img2 title
+          description: |+
+            img2 description 
+        
+        - subtitle: img3 title
+          description: |+
+            img3 description 
+
       port-url: /23_bubjeong.jpg          
       port-desc: |+  
 
@@ -1373,10 +1474,33 @@ tabs-current:
 
     - name: 석정스님
       source: tab24      
-      img-num: 0
+      img-num: 6
       image-url: /24_
-      img-desc: |+
-          갤러리설명
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+
+        - subtitle: img2 title
+          description: |+
+            img2 description 
+        
+        - subtitle: img3 title
+          description: |+
+            img3 description 
+
+        - subtitle: img4 title
+          description: |+
+            img4 description 
+
+        - subtitle: img5 title
+          description: |+
+            img5 description 
+        
+        - subtitle: img6 title
+          description: |+
+            img6 description 
+
       port-url: /24_seokjeong.jpg          
       port-desc: |+  
 
@@ -1473,10 +1597,42 @@ tabs-current:
 
     - name: 원담스님 
       source: tab25
-      img-num: 0
+      img-num: 8
       image-url: /25_
-      img-desc: |+
-          갤러리설명
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+
+        - subtitle: img2 title
+          description: |+
+            img2 description 
+        
+        - subtitle: img3 title
+          description: |+
+            img3 description
+
+        - subtitle: img4 title
+          description: |+
+            img4 description 
+
+        - subtitle: img5 title
+          description: |+
+            img5 description 
+        
+        - subtitle: img6 title
+          description: |+
+            img6 description
+
+        
+        - subtitle: img7 title
+          description: |+
+            img7 description 
+
+        - subtitle: img8 title
+          description: |+
+            img8 description 
+        
       port-url: /25_wondam.jpg
       port-desc: |+  
 
@@ -1501,10 +1657,21 @@ tabs-current:
 
     - name: 중광스님 
       source: tab26
-      img-num: 0
+      img-num: 3
       image-url: /26_
-      img-desc: |+
-          갤러리설명
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+
+        - subtitle: img2 title
+          description: |+
+            img2 description 
+        
+        - subtitle: img3 title
+          description: |+
+            img3 description
+
       port-url: /26_joongkwang.jpg
       port-desc: |+  
 
@@ -1582,10 +1749,17 @@ tabs-current:
 
     - name: 혜암스님
       source: tab27
-      img-num: 0
+      img-num: 2
       image-url: /27_
-      img-desc: |+
-          갤러리설명
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+
+        - subtitle: img2 title
+          description: |+
+            img2 description 
+       
       port-url: /27_hyeam.jpg
       port-desc: |+  
         
@@ -1667,10 +1841,14 @@ tabs-current:
 
     - name: 동헌스님
       source: tab28
-      img-num: 0
+      img-num: 1
       image-url: /28_
-      img-desc: |+
-          갤러리설명
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+
+        
       port-url: /28_dongheon.jpg
       port-desc: |+  
         (1896~1983년)<br><br>
@@ -1735,10 +1913,13 @@ tabs-current:
 
     - name: 정광스님 
       source: tab29
-      img-num: 0
+      img-num: 1
       image-url: /29_
-      img-desc: |+
-          갤러리설명
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+       
       port-url: 
       port-desc: |+  
 
@@ -1747,10 +1928,29 @@ tabs-current:
 
     - name: 서옹스님 
       source: tab30
-      img-num: 0
+      img-num: 5
       image-url: /30_
-      img-desc: |+
-          갤러리설명
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+
+        - subtitle: img2 title
+          description: |+
+            img2 description 
+        
+        - subtitle: img3 title
+          description: |+
+            img3 description
+        
+        - subtitle: img4 title
+          description: |+
+            img4 description 
+        
+        - subtitle: img5 title
+          description: |+
+            img5 description
+
       port-url: /30_seowoong.jpg
       port-desc: |+  
 
@@ -1841,10 +2041,18 @@ tabs-current:
 
     - name: 옥봉스님 
       source: tab31
-      img-num: 0
+      img-num: 2
       image-url: /31_
-      img-desc: |+
-          갤러리설명
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+
+        - subtitle: img2 title
+          description: |+
+            img2 description 
+        
+        
       port-url: /31_okbong.jpg
       port-desc: |+  
 
@@ -1937,10 +2145,21 @@ tabs-current:
 
     - name: 월하스님  
       source: tab32
-      img-num: 0
+      img-num: 3
       image-url: /32_
-      img-desc: |+
-          갤러리설명
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+
+        - subtitle: img2 title
+          description: |+
+            img2 description 
+        
+        - subtitle: img3 title
+          description: |+
+            img3 description
+
       port-url: /32_wolha.jpg
       port-desc: |+  
         
@@ -1989,10 +2208,24 @@ tabs-current:
 
     - name: 일장스님 
       source: tab33
-      img-num: 0
+      img-num: 4
       image-url: /33_
-      img-desc: |+
-          갤러리설명
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+
+        - subtitle: img2 title
+          description: |+
+            img2 description 
+        
+        - subtitle: img3 title
+          description: |+
+            img3 description
+        
+        - subtitle: img3 title
+          description: |+
+            img3 description
       port-url: /33_iljang.jpg
       port-desc: |+  
 
@@ -2045,10 +2278,24 @@ tabs-current:
 
     - name: 수안스님 
       source: tab34
-      img-num: 0
+      img-num: 4
       image-url: /34_
-      img-desc: |+
-          갤러리설명
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+
+        - subtitle: img2 title
+          description: |+
+            img2 description 
+        
+        - subtitle: img3 title
+          description: |+
+            img3 description
+        
+        - subtitle: img3 title
+          description: |+
+            img3 description
       port-url: /34_sooan.jpg
       port-desc: |+  
         (통도사 문수원)<br><br>
@@ -2122,10 +2369,22 @@ tabs-current:
 
     - name: 송담스님 
       source: tab35
-      img-num: 0
+      img-num: 3
       image-url: /35_
-      img-desc: |+
-          갤러리설명
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+
+        - subtitle: img2 title
+          description: |+
+            img2 description 
+        
+        - subtitle: img3 title
+          description: |+
+            img3 description
+        
+        
       port-url: /35_songdam.jpg
       port-desc: |+
 
@@ -2157,10 +2416,94 @@ tabs-current:
 
     - name: 설정스님 
       source: tab36
-      img-num: 0
+      img-num: 21
       image-url: /36_
-      img-desc: |+
-          갤러리설명
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+
+        - subtitle: img2 title
+          description: |+
+            img2 description 
+        
+        - subtitle: img3 title
+          description: |+
+            img3 description
+
+        - subtitle: img4 title
+          description: |+
+            img4 description
+        
+        - subtitle: img5 title
+          description: |+
+            img5 description
+
+        - subtitle: img6 title
+          description: |+
+            img6 description 
+
+        - subtitle: img7 title
+          description: |+
+            img7 description 
+        
+        - subtitle: img8 title
+          description: |+
+            img8 description
+        
+        - subtitle: img9 title
+          description: |+
+            img9 description 
+
+        - subtitle: img10 title
+          description: |+
+            img10 description 
+        
+        - subtitle: img11 title
+          description: |+
+            img11 description
+
+        - subtitle: img12 title
+          description: |+
+            img12 description
+        
+        - subtitle: img13 title
+          description: |+
+            img13 description
+
+        - subtitle: img14 title
+          description: |+
+            img14 description 
+
+        - subtitle: img15 title
+          description: |+
+            img15 description 
+        
+        - subtitle: img16 title
+          description: |+
+            img16 description
+
+        - subtitle: img17 title
+          description: |+
+            img17 description 
+
+        - subtitle: img18 title
+          description: |+
+            img18 description 
+        
+        - subtitle: img19 title
+          description: |+
+            img19 description
+
+        - subtitle: img20 title
+          description: |+
+            img20 description
+        
+        - subtitle: img21 title
+          description: |+
+            img21 description
+        
+
       port-url: /36_seoljeong.jpg
       port-desc: |+  
 
@@ -2183,10 +2526,36 @@ tabs-current:
 
     - name: 원광스님
       source: tab37
-      img-num: 0
+      img-num: 7
       image-url: /37_
-      img-desc: |+
-          갤러리설명
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+
+        - subtitle: img2 title
+          description: |+
+            img2 description 
+        
+        - subtitle: img3 title
+          description: |+
+            img3 description
+
+        - subtitle: img4 title
+          description: |+
+            img4 description
+        
+        - subtitle: img5 title
+          description: |+
+            img5 description
+
+        - subtitle: img6 title
+          description: |+
+            img6 description 
+
+        - subtitle: img7 title
+          description: |+
+            img7 description 
       port-url: 
       port-desc: |+  
 
@@ -2195,10 +2564,13 @@ tabs-current:
 
     - name: 월주덕문 
       source: tab38      
-      img-num: 0
+      img-num: 1
       image-url: /38_
-      img-desc: |+
-          갤러리설명
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+      
       port-url: /38_woljoodeokmoon.jpg
       port-desc: |+  
       
@@ -2287,10 +2659,18 @@ tabs-current:
 
     - name: 만봉스님 
       source: tab39
-      img-num: 0
+      img-num: 2
       image-url: /39_
-      img-desc: |+
-          갤러리설명
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+
+        - subtitle: img2 title
+          description: |+
+            img2 description 
+        
+        
       port-url: /39_manbong.jpg
       port-desc: |+  
 
@@ -2399,10 +2779,173 @@ tabs-current:
 
     - name: 기현스님 
       source: tab40
-      img-num: 1
+      img-num: 41
       image-url: /40_
-      img-desc: |+
-          갤러리설명
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+
+        - subtitle: img2 title
+          description: |+
+            img2 description 
+        
+        - subtitle: img3 title
+          description: |+
+            img3 description
+
+        - subtitle: img4 title
+          description: |+
+            img4 description
+        
+        - subtitle: img5 title
+          description: |+
+            img5 description
+
+        - subtitle: img6 title
+          description: |+
+            img6 description 
+
+        - subtitle: img7 title
+          description: |+
+            img7 description 
+        
+        - subtitle: img8 title
+          description: |+
+            img8 description
+        
+        - subtitle: img9 title
+          description: |+
+            img9 description 
+
+        - subtitle: img10 title
+          description: |+
+            img10 description 
+        
+        - subtitle: img11 title
+          description: |+
+            img11 description
+
+        - subtitle: img12 title
+          description: |+
+            img12 description
+        
+        - subtitle: img13 title
+          description: |+
+            img13 description
+
+        - subtitle: img14 title
+          description: |+
+            img14 description 
+
+        - subtitle: img15 title
+          description: |+
+            img15 description 
+        
+        - subtitle: img16 title
+          description: |+
+            img16 description
+
+        - subtitle: img17 title
+          description: |+
+            img17 description 
+
+        - subtitle: img18 title
+          description: |+
+            img18 description 
+        
+        - subtitle: img19 title
+          description: |+
+            img19 description
+
+        - subtitle: img20 title
+          description: |+
+            img20 description
+        
+        - subtitle: img21 title
+          description: |+
+            img21 description        
+
+        - subtitle: img22 title
+          description: |+
+            img22 description 
+        
+        - subtitle: img23 title
+          description: |+
+            img23 description
+
+        - subtitle: img24 title
+          description: |+
+            img24 description
+        
+        - subtitle: img25 title
+          description: |+
+            img25 description
+
+        - subtitle: img26 title
+          description: |+
+            img26 description 
+
+        - subtitle: img27 title
+          description: |+
+            img27 description 
+        
+        - subtitle: img28 title
+          description: |+
+            img28 description
+        
+        - subtitle: img29 title
+          description: |+
+            img29 description 
+
+        - subtitle: img30 title
+          description: |+
+            img30 description 
+        
+        - subtitle: img31 title
+          description: |+
+            img31 description
+
+        - subtitle: img32 title
+          description: |+
+            img32 description
+        
+        - subtitle: img33 title
+          description: |+
+            img33 description
+
+        - subtitle: img34 title
+          description: |+
+            img34 description 
+
+        - subtitle: img35 title
+          description: |+
+            img35 description 
+        
+        - subtitle: img36 title
+          description: |+
+            img36 description
+
+        - subtitle: img37 title
+          description: |+
+            img37 description 
+
+        - subtitle: img38 title
+          description: |+
+            img38 description 
+        
+        - subtitle: img39 title
+          description: |+
+            img39 description
+
+        - subtitle: img40 title
+          description: |+
+            img40 description
+        
+        - subtitle: img41 title
+          description: |+
+            img41 description
+            
       port-url: /40_kihyun.jpg
       port-desc: |+  
 
@@ -2431,10 +2974,14 @@ tabs-current:
 
     - name: 혜인스님
       source: tab41
-      img-num: 0
+      img-num: 1
       image-url: /41_
-      img-desc: |+
-          갤러리설명
+      works:
+        - subtitle: img1 title
+          description: |+
+            img1 description 
+
+        
       port-url: /41_hyein.jpg
       port-desc: |+  
 

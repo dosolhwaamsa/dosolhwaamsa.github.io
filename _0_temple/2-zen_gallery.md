@@ -9,10 +9,6 @@ collection_name: 0_temple
 # second_nav_title: "화암사소개" #좌측 레벨1 메뉴제목
 ---
 
-> ### **선갤러리(고승선서)**
-
----
-
 <iframe width="100%"
         height="300"
         src="https://youtube.com/embed/wKjkdmNswZ0?t=12"

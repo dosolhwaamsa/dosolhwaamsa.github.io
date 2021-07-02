@@ -43,63 +43,75 @@ text-indent: 50px;
 
 {%- assign tabs = site.data.zen_gallery -%}
 {%- assign link = tabs.main-url -%}
-{%- assign curr = tabs.tabs-current -%}
+{%- assign curr = tabs.tabs-current.sub-tabs -%}
 
 <div class="allWrap">     
-    <div class="tabBox">
-        <p class="tab-link current" data-tab="{{curr.source}}"> {{curr.name}}  </p> 
-        
-        {%- for t in curr.sub-tabs -%}
-          <p class="tab-link" data-tab="{{t.source}}"> {{t.name}}</p>            
+    <div class="tabBox">                
+        {%- for t in curr  -%}
+          {%- if forloop.first -%}
+            <p class="tab-link current" data-tab="{{t.source}}"> {{t.name}}</p> &nbsp;
+          {%- else -%}
+            <p class="tab-link" data-tab="{{t.source}}"> {{t.name}}</p> &nbsp;
+          {%- endif -%}
         {% endfor %}        
     </div>
     
 <!-- show content     -->
-    <div id="{{curr.source}}" class="tab-content current">
-      <h4 class="has-text-secondary"> <b>| {{curr.name}} </b></h4> 
+{%- for t in curr -%}
+  {%- if forloop.first -%}  
+    <div id="{{t.source}}" class="tab-content current">
+      <h4 class="has-text-secondary"> <b>| {{t.name}} </b></h4> 
         <br>
 
-        {%- for i in (1..curr.img-num) -%}
-          {%- if curr.image-url -%}
-              <!-- <img class="margin--right--none"  src="{{- site.url -}}{{link}}arts{{- curr.image-url -}}/{{curr.name}}-{{ i }}.png" > -->
-              <a href="{{- site.url -}}{{link}}arts{{curr.image-url}}-{{ i }}.png" data-lightbox="image-1" alt="{{img-desc}}"> <img class="img-gallery" src="//images.weserv.nl/?url={{- site.url -}}{{link}}arts{{- curr.image-url -}}-{{ i }}.png&output=jpg&q=50&t=square"/></a>   
-          {%- endif -%}
-          <br> <br>                  
-        {%- endfor -%}
-        {%- if curr.img-num > 0 -%}
-          {{- curr.img-desc -}}
-          <br><br>
+        {%- if t.img-num > 0 -%}
+          {%- for w in t.works -%}   
+            {%- assign i = forloop.index0 | plus: 1 -%}
+            <b>{{- w.subtitle -}}</b> <br>     
+            
+            <!-- <img class="margin--right--none"  src="{{- site.url -}}{{link}}arts{{- curr.image-url -}}/{{curr.name}}-{{ i }}.png" > -->
+            <a href="{{- site.url -}}{{link}}arts{{t.image-url}}-{{ i }}.jpeg" data-lightbox="image-1" alt="{{w.subtitle}}"> <img class="img-gallery" src="//images.weserv.nl/?url={{- site.url -}}{{link}}arts{{- t.image-url -}}-{{ i }}.jpeg&output=jpg&q=50&t=square"/></a>   
+
+            <br> <br> <br>                          
+            {{- w.description -}}
+            <br><br>
+          {%- endfor -%}
         {%- endif -%}
-        
+
         <hr style="margin-top: 28px">
 
-        {%- if curr.port-url -%}
-        <img class="pics-x"  src="{{- site.url -}}{{link}}portrait{{- curr.port-url -}}" />
+        {%- if t.port-url -%}
+        <img class="pics-x"  src="{{- site.url -}}{{link}}portrait{{- t.port-url -}}" />
             <!-- <img class="margin--right--none" src="//images.weserv.nl/?url={{- site.url -}}{{- curr.port-url -}}&output=jpg&q=50&t=square" /><br> -->
         {%- endif -%}
         <br><br>
-        {{curr.port-desc}}        
+        {{t.port-desc}}        
     </div>
-    
   
-    {%- for t in curr.sub-tabs -%} 
-    <div id="{{t.source}}" class="tab-content">      
-      <h4 class="has-text-secondary"> <b>| {{t.name}} </b></h4> 
-      <br>
-        {%- if t.img-num > 0 -%}
-          <!-- {%- for i in (1.. t.img-num) -%} -->
-            
-              <!-- <img class="margin--right--none"  src="{{- site.url -}}{{- t.image-url -}}/{{t.name}}-{{i}}.png" alt="{{t.name}}-{{i}}"/><br> <span>{{ t.name }}-{{i}}</span> -->
-                                        
-              <ul class="image-gallery"><li><a href="{{- site.url -}}{{link}}arts{{t.image-url}}-{{i}}.png" data-lightbox="image-1" ><img src="//images.weserv.nl/?url={{site.url}}{{link}}arts{{t.image-url}}-{{i}}.png&output=jpg&q=50&t=square" /></a></li></ul>
-            <br><br>                             
-          <!-- {%- endfor -%}   -->
 
-          {%- if t.img-desc -%}
-            {{t.img-desc}}
-            <br><br>
-          {%- endif -%}  
-        {%- endif -%}            
+    
+
+    
+  {%- else -%}
+     <div id="{{t.source}}" class="tab-content">      
+     <h4 class="has-text-secondary"> <b>| {{t.name}} </b></h4> 
+     <br>
+        {%- if t.img-num > 0 -%}
+                      
+            
+              <ul class="image-gallery">{% for file in site.static_files %}{% if file.path contains t.image-url %}{% if file.extname == '.jpeg' %}{% assign filenameparts = file.path | split: "/" %}{% assign filename = filenameparts | last | replace: file.extname,"" %}
+              <a href="{{ file.path | relative_url }}" data-lightbox="image-1" ><img src="//images.weserv.nl/?url={{site.url}}{{site.baseurl}}{{file.path}}&w=300&h=300&output=jpg&q=50&t=square" /></a> &nbsp; {% endif %}{% endif %}{% endfor %}</ul>
+              
+             
+              
+              <br><br>
+              {% for w in t.works %}
+              
+              <span>{{- w.description -}}</span>
+              <br><br>                         
+              {% endfor %}  
+            
+        {%- endif -%}   
+
         
         <hr style="margin-top: 28px">
 
@@ -111,9 +123,40 @@ text-indent: 50px;
         <br><br>
         {{t.port-desc}}
     </div>
-    {% endfor %}
+
+    {%- endif -%}
+  {%- endfor -%}
 </div>
 
+
+{% comment %}
+  {%- else -%}
+     <div id="{{t.source}}" class="tab-content">      
+     <h4 class="has-text-secondary"> <b>| {{t.name}} </b></h4> 
+     <br>
+        {%- if t.img-num > 0 -%}
+          {%- for w in t.works -%}
+            {%- assign i = forloop.index0 | plus: 1 -%}
+            
+            <!-- <b>{{- w.subtitle -}}</b> <br>  -->
+            <!-- <img class="margin--right--none"  src="{{- site.url -}}{{- t.image-url -}}/{{t.name}}-{{i}}.png" alt="{{t.name}}-{{i}}"/><br> <span>{{ t.name }}-{{i}}</span> -->                        
+                        
+
+
+              <ul class="image-gallery">{% for file in site.static_files %}{% if file.path contains t.image-url %}{% if file.extname == '.jpeg' %}{% assign filenameparts = file.path | split: "/" %}{% assign filename = filenameparts | last | replace: file.extname,"" %}
+              <li><a href="{{ file.path | relative_url }}" data-lightbox="image-1" title="{{ w.subtitle }}"><img src="//images.weserv.nl/?url={{site.url}}{{site.baseurl}}{{file.path}}&w=300&h=300&output=jpg&q=50&t=square" alt="{{  w.subtitle }}" /><span>{{- w.description -}}</span></a></li>{% endif %}{% endif %}{% endfor %}</ul>
+
+              
+              {%comment%}
+              <li><a href="{{- site.url -}}{{link}}arts{{t.image-url}}-{{i}}.jpeg" data-lightbox="image-1" ><img src="//images.weserv.nl/?url={{site.url}}{{link}}arts{{t.image-url}}-{{i}}.jpeg&output=jpg&q=50&t=square" /></a></li>{% endfor %}
+              {%endcomment%}
+            
+            <br><br><br>
+            {{- w.description -}}
+            <br><br>                         
+          {%- endfor -%}                      
+        {%- endif -%} 
+{% endcomment %}
 
 
 <!-- <span><img src="http://mmctxt.com/link/img/icon01.png" alt="icon"></span>

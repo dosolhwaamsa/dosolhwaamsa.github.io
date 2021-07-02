@@ -8,9 +8,6 @@ collection_name: 0_temple
 # second_nav_title: "화암사소개" #좌측 레벨1 메뉴제목
 ---
 
-> ### **도솔원**
-
----
 <iframe width="100%"
         height="300"
         src="https://youtube.com/embed/uTilytb2--E?t=16"
