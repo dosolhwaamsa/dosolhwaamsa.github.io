@@ -22,6 +22,8 @@
       url: /0_temple/samsung/
     - title: 선갤러리(고승선서)
       url: /0_temple/zen_gallery/
+    - title: 선갤러리(일반작가)
+      url: /0_temple/z_artist_gallery/
     - title: 차담헌
       url: /0_temple/chadam/
     - title: 도솔원
@@ -32,8 +34,7 @@
       url: /0_temple/temple_office/info/
     - title: 화암사오시는길
       url: /0_temple/address/
-    - title: (구)도솔산화암사
-      url: //dosolarchive.github.io/resource_room/
+
 
 - title: 화암사소식
   url: /1_0_templeNews/hwaamsa_news/

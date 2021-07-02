@@ -1,8 +1,8 @@
 ---
 layout: z_artist_gallery
 permalink: /0_temple/z_artist_gallery/
-title: 선갤러리(근대작가) # 좌측 레벨2 메뉴제목
-breadcrumb: 선갤러리근대
+title: 선갤러리(일반작가) # 좌측 레벨2 메뉴제목
+breadcrumb: 선갤러리일반
 collection_name: 0_temple
 ---
 
