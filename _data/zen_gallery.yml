@@ -11,7 +11,7 @@ tabs-current:
     - name: 서산대사
       source: tab01  
       img-num: 1
-      image-url: /1_/susan
+      image-url: /1_
       works:
         - subtitle: img1 title
           description: |+
