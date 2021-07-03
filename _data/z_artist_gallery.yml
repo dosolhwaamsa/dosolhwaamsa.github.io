@@ -7,36 +7,7 @@
 main-url: /images/religious_part/zen_pics/
 
 tabs-current:         
-  sub-tabs:
-    - name: 만화원응지민지순
-      source: tab999
-      img-num: 5
-      image-url: /999_
-      works:
-        - subtitle: img1 title
-          description: |+
-            img1 description 
-
-        - subtitle: img2 title
-          description: |+
-            img2 description 
-
-        - subtitle: img3 title
-          description: |+
-            img3 description 
-
-        - subtitle: img4 title
-          description: |+
-            img4 description 
-            
-        - subtitle: img5 title
-          description: |+
-            img5 description 
-
-      port-url: /1_susan.jpg
-      port-desc: |+         
-        <b>작가설명</b> <br> 
-
+  sub-tabs:    
     - name: 강암송성용
       source: tab1001
       img-num: 3
@@ -54,7 +25,7 @@ tabs-current:
           description: |+
             img3 description 
 
-      port-url: /
+      port-url: 
       port-desc: |+ 
        desc
 
@@ -72,7 +43,7 @@ tabs-current:
           description: |+
             img2 description          
 
-      port-url: /
+      port-url: 
       port-desc: |+ 
        desc
 
@@ -86,7 +57,7 @@ tabs-current:
             img1 description 
             
 
-      port-url: /
+      port-url: 
       port-desc: |+ 
        desc
 
@@ -103,7 +74,7 @@ tabs-current:
           description: |+
             img2 description 
         
-      port-url: /
+      port-url: 
       port-desc: |+ 
        desc
 
@@ -117,7 +88,7 @@ tabs-current:
             img1 description 
             
 
-      port-url: /
+      port-url: 
       port-desc: |+ 
        desc
 
@@ -135,7 +106,7 @@ tabs-current:
             img2 description 
 
             
-      port-url: /
+      port-url: 
       port-desc: |+ 
        desc
 
@@ -150,7 +121,7 @@ tabs-current:
             img1 description 
             
 
-      port-url: /
+      port-url: 
       port-desc: |+ 
        desc
 
@@ -191,7 +162,7 @@ tabs-current:
           description: |+
             img8 description 
 
-      port-url: /
+      port-url: 
       port-desc: |+ 
        desc
 
@@ -209,7 +180,7 @@ tabs-current:
             img2 description 
           
 
-      port-url: /
+      port-url: 
       port-desc: |+ 
        desc
 
@@ -239,7 +210,7 @@ tabs-current:
             img5 description 
             
 
-      port-url: /
+      port-url: 
       port-desc: |+ 
        desc
 
@@ -265,7 +236,7 @@ tabs-current:
           description: |+
             img4 description    
 
-      port-url: /
+      port-url: 
       port-desc: |+ 
        desc
 
@@ -283,7 +254,7 @@ tabs-current:
           description: |+
             img2 description 
 
-      port-url: /
+      port-url: 
       port-desc: |+ 
        desc
 
@@ -297,7 +268,7 @@ tabs-current:
             img1 description 
             
 
-      port-url: /
+      port-url: 
       port-desc: |+ 
        desc
 
@@ -319,7 +290,7 @@ tabs-current:
 
            
 
-      port-url: /
+      port-url: 
       port-desc: |+ 
        desc
 
@@ -337,7 +308,7 @@ tabs-current:
             img2 description 
           
 
-      port-url: /
+      port-url: 
       port-desc: |+ 
        desc
 
@@ -351,7 +322,7 @@ tabs-current:
             img1 description 
             
 
-      port-url: /
+      port-url: 
       port-desc: |+ 
        desc
 
@@ -386,7 +357,7 @@ tabs-current:
             img6 description 
    
 
-      port-url: /
+      port-url: 
       port-desc: |+ 
        desc
 
@@ -400,7 +371,7 @@ tabs-current:
             img1 description 
             
 
-      port-url: /
+      port-url: 
       port-desc: |+ 
        desc
 
@@ -414,7 +385,7 @@ tabs-current:
             img1 description 
             
 
-      port-url: /
+      port-url: 
       port-desc: |+ 
        desc
 
@@ -428,7 +399,7 @@ tabs-current:
             img1 description 
             
 
-      port-url: /
+      port-url: 
       port-desc: |+ 
        desc 
 
@@ -446,7 +417,7 @@ tabs-current:
             img2 description 
        
 
-      port-url: /
+      port-url: 
       port-desc: |+ 
        desc
 
@@ -496,7 +467,7 @@ tabs-current:
           description: |+
             img10 description 
 
-      port-url: /
+      port-url: 
       port-desc: |+ 
        desc
 
@@ -521,7 +492,7 @@ tabs-current:
           description: |+
             img4 description             
 
-      port-url: /
+      port-url: 
       port-desc: |+ 
        desc
 
@@ -539,7 +510,7 @@ tabs-current:
             img2 description 
           
 
-      port-url: /
+      port-url: 
       port-desc: |+ 
        desc
 
@@ -553,7 +524,7 @@ tabs-current:
             img1 description 
             
 
-      port-url: /
+      port-url: 
       port-desc: |+ 
        desc
 
@@ -570,7 +541,7 @@ tabs-current:
             img2 description 
             
 
-      port-url: /
+      port-url: 
       port-desc: |+ 
        desc
 
@@ -585,7 +556,7 @@ tabs-current:
             img1 description 
             
 
-      port-url: /
+      port-url: 
       port-desc: |+ 
        desc
 
@@ -599,7 +570,7 @@ tabs-current:
             img1 description 
             
 
-      port-url: /
+      port-url: 
       port-desc: |+ 
        desc
 
