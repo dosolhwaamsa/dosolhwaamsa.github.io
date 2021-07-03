@@ -7,9 +7,6 @@ collection_name: 1_religious_part
 second_nav_title: "법회·행사" #좌측 레벨1 메뉴제목
 ---
 
-> ### **정기법회·기도**
-
----
 ###### * *도솔산 화암사 정기법회 및 기도 일정을 안내 드립니다.*
 
 <br>
