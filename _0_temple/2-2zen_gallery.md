@@ -2,7 +2,7 @@
 # layout: leftnav-page-content
 layout: zen_gallery
 permalink: /0_temple/zen_gallery/
-title: 선갤러리(고승선서) # 좌측 레벨2 메뉴제목
+title: 선갤러리(스님작품) # 좌측 레벨2 메뉴제목
 breadcrumb: 선갤러리고승
 # last_updated: 01-04-2018 
 collection_name: 0_temple
