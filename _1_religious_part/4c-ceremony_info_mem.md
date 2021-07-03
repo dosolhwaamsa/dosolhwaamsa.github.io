@@ -7,10 +7,6 @@ collection_name: 1_religious_part
 second_nav_title: "기도안내·접수" 
 ---
 
-> ### **회원제기도**
-
----
-
 #### **회원제기도**
 
 
