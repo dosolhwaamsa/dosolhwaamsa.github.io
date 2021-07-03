@@ -7,10 +7,6 @@ collection_name: 1_religious_part
 # second_nav_title: "연등·인등안내" 
 ---
 
-> ### **연등·인등 안내·접수**
-
----
-
 #### 연등·인등안내
 
 ##### **봉축(초파일)燈**
