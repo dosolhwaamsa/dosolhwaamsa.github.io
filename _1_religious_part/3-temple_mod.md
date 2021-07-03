@@ -6,10 +6,6 @@ breadcrumb: 불사안내
 collection_name: 1_religious_part
 ---
 
-> ### **불사안내·접수**
-
----
-
 ##### 요양병원 불사(스님과 일반신도)
 * 일정: 상시
 * 기간: 상시
