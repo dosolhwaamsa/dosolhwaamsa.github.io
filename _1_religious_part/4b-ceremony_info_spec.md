@@ -7,10 +7,6 @@ collection_name: 1_religious_part
 second_nav_title: "기도안내·접수" 
 ---
 
-> ### **특별기도**
-
----
-
 #### **특별기도**
 
 |기도종류   |입재일     |기도<br>기간   |시간   |장소   |동참금액   |축원   |접수일|
