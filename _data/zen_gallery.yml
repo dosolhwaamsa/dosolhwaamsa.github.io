@@ -3029,23 +3029,23 @@ tabs-current:
       img-num: 5
       image-url: /999_
       works:
-        - subtitle: img1 title
+        - subtitle: 만화
           description: |+
             img1 description 
 
-        - subtitle: img2 title
+        - subtitle: 원응
           description: |+
             img2 description 
 
-        - subtitle: img3 title
+        - subtitle: 지민
           description: |+
             img3 description 
 
-        - subtitle: img4 title
+        - subtitle: 지민
           description: |+
             img4 description 
             
-        - subtitle: img5 title
+        - subtitle: 지순
           description: |+
             img5 description 
 
