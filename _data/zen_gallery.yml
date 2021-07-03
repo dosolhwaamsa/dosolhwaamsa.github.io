@@ -3023,28 +3023,3 @@ tabs-current:
 
         불교신문 2436호/ 6월21일자<br>
         출처  불교신문(http://www.ibulgyo.com)<br>
-        
-    - name: 만화원응지민지순
-      source: tab999
-      img-num: 5
-      image-url: /999_
-      works:
-        - subtitle: img1 title
-          description: |+
-            img1 description 
-        - subtitle: img2 title
-          description: |+
-            img2 description 
-        - subtitle: img3 title
-          description: |+
-            img3 description 
-        - subtitle: img4 title
-          description: |+
-            img4 description 
-            
-        - subtitle: img5 title
-          description: |+
-            img5 description 
-      port-url: /1_susan.jpg
-      port-desc: |+         
-        <b>작가설명</b> <br> 
