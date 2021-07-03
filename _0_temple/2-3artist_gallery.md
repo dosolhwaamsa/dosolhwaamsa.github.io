@@ -7,6 +7,12 @@ collection_name: 0_temple
 second_nav_title: "선갤러리" #좌측 레벨1 메뉴제목
 ---
 
+<iframe width="100%"
+        height="300"
+        src="https://youtube.com/embed/wKjkdmNswZ0?t=12"
+        frameborder="0"
+        allow="autoplay; encrypted-media"
+        allowfullscreen></iframe>
 
 > ###### *불교사상을 담은 일반작가들의 서화가 전시되어 있습니다.*
 
