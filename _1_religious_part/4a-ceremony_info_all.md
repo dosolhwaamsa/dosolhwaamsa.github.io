@@ -7,10 +7,6 @@ collection_name: 1_religious_part
 second_nav_title: "기도안내·접수" 
 ---
 
-> ### **상시기도**
-
----
-
 #### **상시기도**
 
 |기도종류   |시간   |장소   |축원기간   |기도비 |접수|
