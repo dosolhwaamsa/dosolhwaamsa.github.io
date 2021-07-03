@@ -1,8 +1,8 @@
 ---
 # layout: leftnav-page-content
 layout: zen_gallery_test
-permalink: /0_temple/zen_gallery4/
-title: 선갤러리(테스트) # 좌측 레벨2 메뉴제목
+permalink: /0_temple/zen_gallery3/
+title: 선갤러리(스님작품_예3) # 좌측 레벨2 메뉴제목
 breadcrumb: 선갤러리고승
 # last_updated: 01-04-2018 
 collection_name: 0_temple
