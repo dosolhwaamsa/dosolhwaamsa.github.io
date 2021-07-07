@@ -2940,7 +2940,7 @@ tabs-current:
 
     - name: 기현스님 
       source: tab40
-      img-num: 41
+      img-num: 42
       image-url: /40_
       works:
         - subtitle: 병풍-기현스님 작
@@ -3180,6 +3180,10 @@ tabs-current:
             
             直截根源佛所印 (직절근원불소인) 근원을 바로 끊음은 부처님이 인가하신 바요 <br>
             摘葉尋枝我不能 (적엽심지아불능) 잎 따고 가지 찾음은 내 할일 아니로다.<br>
+            
+        - subtitle: 서화-기현스님 작
+          description: |+
+            (기현-42IMG_8506)<br><br>
 
       port-url: /40_kihyun.jpg
       port-desc: |+  
