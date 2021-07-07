@@ -7,10 +7,6 @@ collection_name: 3_mission_part
 second_nav_title: "신도회"
 ---
 
-> ### **신도회 공지**
-
----
-
 <iframe width="100%"
         height="600"
         src="https://m.cafe.naver.com/ca-fe/web/cafes/29963936/menus/27"
