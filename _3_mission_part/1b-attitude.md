@@ -7,10 +7,6 @@ collection_name: 3_mission_part
 second_nav_title: "사찰예절및기초교리"
 ---
 
-> ### **불자의 자세**
-
----
-
 > ##### *차수, 합장, 좌선과 앉는 자세 등 불자의 자세*
 
 * **차수**
