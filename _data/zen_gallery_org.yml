@@ -124,13 +124,15 @@ tabs-current:
       img-num: 2
       image-url: /3_
       works:
-        - subtitle: img1 title
+        - subtitle: 放牛放是故鄕 不如離出生地
           description: |+
-            img1 description 
+            放牛放是故鄕 (방우방시고향) 소를 놓아주었다는 것마저 놓아버리면 바로 고향이지만
+            不如離出生地 (불여리출생지) 태어난 곳을 훌쩍 벗어나는 것만은 못하지
             
-        - subtitle: img2 title
+        - subtitle: 萬法歸宗
           description: |+
-            img2 description
+            萬法歸宗 (만법귀종) 만법은 근본으로 돌아간다.
+            
       port-url: /3_만공스님.jpg
       port-desc: |+
         송만공[ 宋滿空 ]
