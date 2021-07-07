@@ -15,12 +15,12 @@ tabs-current:
       works:
         - subtitle: 三江潮水急 五湖風浪湧...
           description: |+
-            (서산대사-1IMG_8393)<br>
+            (서산대사-1IMG_8393)<br><br>
             
             三江潮水急 (삼강조수급) 삼강은 조수가 급하고<br>
             五湖風浪湧 (오호풍랑용) 오호는 풍랑이 속수친다<br>
             由來花性輕 (유래화성경) 원래부터 꽃의 성장은 가벼우니<br>
-            莫畏蓮舟重 (막외연주중) 연꽃을 따는 배가 무겁다고 걱정하지 말라<br>
+            莫畏蓮舟重 (막외연주중) 연꽃을 따는 배가 무겁다고 걱정하지 말라.<br>
 
       port-url: /1_susan.jpg
       port-desc: |+         
@@ -70,7 +70,7 @@ tabs-current:
       works:
         - subtitle: 世界一花
           description: |+
-            (초이선사-1IMG_8411)<br>
+            (초이선사-1IMG_8411)<br><br>
             
             世界一花 (세계일화) 세상이 한송이의 꽃이다.
             
@@ -128,14 +128,13 @@ tabs-current:
       works:
         - subtitle: 放牛放是故鄕 不如離出生地
           description: |+
-            (만공-1IMG_8379)<br>
-            
+            (만공-1IMG_8379)<br><br>
             放牛放是故鄕 (방우방시고향) 소를 놓아주었다는 것마저 놓아버리면 바로 고향이지만
-            不如離出生地 (불여리출생지) 태어난 곳을 훌쩍 벗어나는 것만은 못하지
+            不如離出生地 (불여리출생지) 태어난 곳을 훌쩍 벗어나는 것만은 못하지.
             
         - subtitle: 萬法歸宗
           description: |+
-            (만공-2IMG_8381)<br>
+            (만공-2IMG_8381)<br><br>
             萬法歸宗 (만법귀종) 만법은 근본으로 돌아간다.
             
       port-url: /3_만공스님.jpg
@@ -205,21 +204,23 @@ tabs-current:
       img-num: 4
       image-url: /4_
       works:
-        - subtitle: img1 title
+        - subtitle: 香聲藏
           description: |+
-            img1 description 
+            (경봉-1IMG_8521)<br><br> 
+            香聲藏 (향성장) 향기로운 소리가 나는곳.
             
-        - subtitle: img2 title
+        - subtitle: 世界一花
           description: |+
-            img2 description
-
-        - subtitle: img3 title
+            (경봉-2IMG_8522)<br><br>
+            世界一花 (세계일화) 이세상은 하나의 꽃
+        - subtitle: 서화-경봉스님 작
           description: |+
-            img3 description 
+            (경봉-3IMG_8627)<br><br> 
             
-        - subtitle: img4 title
+        - subtitle: 서화-경봉스님 작
           description: |+
-            img4 description
+            (경봉-4IMG_8386)<br><br>
+            
       port-desc: |+
 
         경봉 정석(鏡峰靖錫 1892-1982) 스님은 근현대의 고승으로서 광주 김씨이며, 속명은 용국(鏞國), 호는 경봉(鏡峰), 시호는 원광(圓光)이다. 경상남도 밀양출신으로 아버지는 영규(榮奎)이며, 어머니는 안동 권씨이다. 7세 때 밀양의 한학자 강달수(姜達壽)에게 사서삼경을 배웠으며, 15세 되던 해 모친상을 겪고 인생의 무상함을 깨닫고, 16세때 양산 통도사의 성해(聖海) 선사를 찾아가 출가했다.<br><br>
@@ -254,9 +255,9 @@ tabs-current:
       img-num: 1
       image-url: /5_
       works: 
-        - subtitle: img1 title
+        - subtitle: 서화-퇴경권상로스님 작
           description: |+
-            img1 description 
+            (퇴경권상로-1IMG_8372)<br><br>
             
     
       port-desc: |+
@@ -310,9 +311,10 @@ tabs-current:
       img-num: 1
       image-url: /6_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화-백학명스님 작
           description: |+
-            img1 description 
+             (백학명-1IMG_8376)<br><br>
+             
       port-url: /6_.jpg
       port-desc: |+
 
@@ -348,9 +350,9 @@ tabs-current:
       img-num: 1
       image-url: /7_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화-송천춘담스님 작
           description: |+
-            img1 description 
+            (송천춘담-1IMG_8413 )<br><br>
       port-url: 
       port-desc: |+
 
