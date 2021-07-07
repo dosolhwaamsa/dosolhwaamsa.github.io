@@ -13,14 +13,14 @@ tabs-current:
       img-num: 1
       image-url: /1_
       works:
-        - subtitle: 三江潮水急 五湖風浪湧...
+        - subtitle: 三江潮水急...
           description: |+
-            (서산대사-1IMG_8393)<br>
+            (서산대사-1IMG_8393)<br><br>
             
             三江潮水急 (삼강조수급) 삼강은 조수가 급하고<br>
             五湖風浪湧 (오호풍랑용) 오호는 풍랑이 속수친다<br>
             由來花性輕 (유래화성경) 원래부터 꽃의 성장은 가벼우니<br>
-            莫畏蓮舟重 (막외연주중) 연꽃을 따는 배가 무겁다고 걱정하지 말라<br>
+            莫畏蓮舟重 (막외연주중) 연꽃을 따는 배가 무겁다고 걱정하지 말라.<br>
 
       port-url: /1_susan.jpg
       port-desc: |+         
@@ -70,7 +70,7 @@ tabs-current:
       works:
         - subtitle: 世界一花
           description: |+
-            (초이선사-1IMG_8411)<br>
+            (초이선사-1IMG_8411)<br><br>
             
             世界一花 (세계일화) 세상이 한송이의 꽃이다.
             
@@ -128,14 +128,13 @@ tabs-current:
       works:
         - subtitle: 放牛放是故鄕 不如離出生地
           description: |+
-            (만공-1IMG_8379)<br>
-            
+            (만공-1IMG_8379)<br><br>
             放牛放是故鄕 (방우방시고향) 소를 놓아주었다는 것마저 놓아버리면 바로 고향이지만
-            不如離出生地 (불여리출생지) 태어난 곳을 훌쩍 벗어나는 것만은 못하지
+            不如離出生地 (불여리출생지) 태어난 곳을 훌쩍 벗어나는 것만은 못하지.
             
         - subtitle: 萬法歸宗
           description: |+
-            (만공-2IMG_8381)<br>
+            (만공-2IMG_8381)<br><br>
             萬法歸宗 (만법귀종) 만법은 근본으로 돌아간다.
             
       port-url: /3_만공스님.jpg
@@ -205,21 +204,23 @@ tabs-current:
       img-num: 4
       image-url: /4_
       works:
-        - subtitle: img1 title
+        - subtitle: 香聲藏
           description: |+
-            img1 description 
+            (경봉-1IMG_8521)<br><br> 
+            香聲藏 (향성장) 향기로운 소리가 나는곳.
             
-        - subtitle: img2 title
+        - subtitle: 世界一花
           description: |+
-            img2 description
-
-        - subtitle: img3 title
+            (경봉-2IMG_8522)<br><br>
+            世界一花 (세계일화) 이세상은 하나의 꽃
+        - subtitle: 서화-경봉스님 작
           description: |+
-            img3 description 
+            (경봉-3IMG_8627)<br><br> 
             
-        - subtitle: img4 title
+        - subtitle: 서화-경봉스님 작
           description: |+
-            img4 description
+            (경봉-4IMG_8386)<br><br>
+            
       port-desc: |+
 
         경봉 정석(鏡峰靖錫 1892-1982) 스님은 근현대의 고승으로서 광주 김씨이며, 속명은 용국(鏞國), 호는 경봉(鏡峰), 시호는 원광(圓光)이다. 경상남도 밀양출신으로 아버지는 영규(榮奎)이며, 어머니는 안동 권씨이다. 7세 때 밀양의 한학자 강달수(姜達壽)에게 사서삼경을 배웠으며, 15세 되던 해 모친상을 겪고 인생의 무상함을 깨닫고, 16세때 양산 통도사의 성해(聖海) 선사를 찾아가 출가했다.<br><br>
@@ -254,9 +255,9 @@ tabs-current:
       img-num: 1
       image-url: /5_
       works: 
-        - subtitle: img1 title
+        - subtitle: 서화-퇴경권상로스님 작
           description: |+
-            img1 description 
+            (퇴경권상로-1IMG_8372)<br><br>
             
     
       port-desc: |+
@@ -310,9 +311,10 @@ tabs-current:
       img-num: 1
       image-url: /6_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화-백학명스님 작
           description: |+
-            img1 description 
+             (백학명-1IMG_8376)<br><br>
+             
       port-url: /6_.jpg
       port-desc: |+
 
@@ -348,23 +350,25 @@ tabs-current:
       img-num: 1
       image-url: /7_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화-송천춘담스님 작
           description: |+
-            img1 description 
+            (송천춘담-1IMG_8413)<br><br>
+            
       port-url: 
       port-desc: |+
 
         호- 송천, 법명 춘담, 본명  류재환<br>
-         구한말 전라북도 위봉사 본사 주지역임. 제자로는 서경보스님을 두었으며, 염불 종장 무형문화재 일응스님 등 다수를 듬. 전라도 전주 인근에서 활동한 스님. 남고사에서 열반 하셨다.<br><br>
+        구한말 전라북도 위봉사 본사 주지역임. 제자로는 서경보스님을 두었으며, 염불 종장 무형문화재 일응스님 등 다수를 듬. 전라도 전주 인근에서 활동한 스님. 남고사에서 열반 하셨다.<br><br>
        
     - name: 대은스님 
       source: tab08
       img-num: 1
       image-url: /8_
       works:
-        - subtitle: img1 title
+        - subtitle: 廻光返照
           description: |+
-            img1 description 
+            (대은-1IMG_8414)<br><br>
+            廻光返照 (회광반조) 빛을 돌이켜 거꾸로 비춘다.
       port-url: /8_daeun.jpg      
       port-desc: |+
 
@@ -392,9 +396,10 @@ tabs-current:
       img-num: 1
       image-url: /9_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화-한용운스님 작
           description: |+
-            img1 description 
+            (한용운-1IMG_8402)<br><br>
+            
       port-url: /9_manhae.jpg
       port-desc: |+
 
@@ -450,9 +455,10 @@ tabs-current:
       img-num: 1
       image-url: /10_
       works:
-        - subtitle: img1 title
+        - subtitle: 慈室忍依
           description: |+
-            img1 description 
+            (환경-1IMG_8388)<br><br>
+            慈室忍依 (자실인의) 자비로움으로 집을 삼고 참음을 옷으로 삼아.
       port-url: /10_hwankyung.jpg      
       port-desc: |+
 
@@ -518,9 +524,10 @@ tabs-current:
       img-num: 1
       image-url: /11_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화-청담스님 작
           description: |+
-            img1 description 
+            (청담-1IMG_8380)<br><br>
+            
       port-url: /11_cheongdam.jpg      
       port-desc: |+
         (1902~1971)<br><br>
@@ -566,9 +573,10 @@ tabs-current:
       img-num: 1
       image-url: /12_
       works:
-        - subtitle: img1 title
+        - subtitle: 芥納須彌
           description: |+
-            img1 description 
+            (구산-2IMG_8387) <br><br>
+            芥納須彌 (개납수미) 겨자씨 한 알이 수미산을 다 덮는다.
       port-url: /12_kusan.jpg
       port-desc: |+  
         (1909~1983)<br><br>
@@ -629,9 +637,12 @@ tabs-current:
       img-num: 1
       image-url: /13_
       works:
-        - subtitle: img1 title
+        - subtitle: 爭知不足 讓知有餘
           description: |+
-            img1 description 
+            (해안-1IMG_8385) <br><br>
+            爭知不足 (쟁지부족) 다투면 모자르고
+            讓知有餘 (양지유여) 양보하면 남는다.
+            
       port-url: /13_haean.jpg
       port-desc: |+  
 
@@ -725,24 +736,26 @@ tabs-current:
       img-num: 3
       image-url: /14_
       works:
-        - subtitle: 석주세계1
+        - subtitle: 勤儉門間 卽有樂園
           description: |+
-            석주스님 작품1 <br><br>
+            (석주-1IMG_8399) <br><br>
             
-            <b>휴정</b>(休靜, 1520년 3월 26일~1604년 1월 23일)은 조선 중기의 고승, 승장(僧將)이다. 속성은 최(崔), 본관은 완산, 이름은 여신(汝 信), 아명은 운학(雲鶴), 자는 현응(玄應), 호는 청허(淸虛)·서산(西山), 별호는 백화도인(白華道人) 또는 서산대사(西山大師)·풍악산 인(楓岳山人)·두류산인(頭流山人)·묘향산인(妙香山人)·조계퇴은(曹溪退隱)·병로(病老)이다[1]. 휴정은 법명. 제63대 조사이다. 임진왜란 당시 제자인 사명당 유정과 함께 승병(僧兵)을 일으켜서 크게 전공을 세웠다. <br><br>
-
-        - subtitle: 석주세계작품
+            勤儉門間 (근검문간) 근검하는 집안에
+            卽有樂園 (즉유낙원) 곧 낙원이 있다.
+            
+        - subtitle: 霜松潔操 水月虛襟
           description: |+
-            석주스님 작품2 <br><br>
+            (석주-2IMG_8473) <br><br>
             
-            <b>휴정</b>(休靜, 1520년 3월 26일~1604년 1월 23일)은 조선 중기의 고승, 승장(僧將)이다. 속성은 최(崔), 본관은 완산, 이름은 여신(汝 信), 아명은 운학(雲鶴), 자는 현응(玄應), 호는 청허(淸虛)·서산(西山), 별호는 백화도인(白華道人) 또는 서산대사(西山大師)·풍악산 인(楓岳山人)·두류산인(頭流山人)·묘향산인(妙香山人)·조계퇴은(曹溪退隱)·병로(病老)이다[1]. 휴정은 법명. 제63대 조사이다. 임진왜란 당시 제자인 사명당 유정과 함께 승병(僧兵)을 일으켜서 크게 전공을 세웠다. <br><br>
+            霜松潔操 (상송결조) 서리 어린 소나무처럼 곧은 지조로써 자신을 다루고 
+            水月虛襟 (수월허금) 물에 비친 달처럼 빈마음으로 사람과 사물을 대하라.
 
-        - subtitle: 세번째석주스님
+        - subtitle: 吾唯知足
           description: |+
-            석주스님 작품3 <br><br>
+            (석주-3IMG_8569) <br><br>
             
-            <b>휴정</b>(休靜, 1520년 3월 26일~1604년 1월 23일)은 조선 중기의 고승, 승장(僧將)이다. 속성은 최(崔), 본관은 완산, 이름은 여신(汝 信), 아명은 운학(雲鶴), 자는 현응(玄應), 호는 청허(淸虛)·서산(西山), 별호는 백화도인(白華道人) 또는 서산대사(西山大師)·풍악산 인(楓岳山人)·두류산인(頭流山人)·묘향산인(妙香山人)·조계퇴은(曹溪退隱)·병로(病老)이다[1]. 휴정은 법명. 제63대 조사이다. 임진왜란 당시 제자인 사명당 유정과 함께 승병(僧兵)을 일으켜서 크게 전공을 세웠다. <br><br>
-
+            吾唯知足(오유지족) 나 스스로 오직 만족함을 안다.
+            
       port-url: /14_seokju.jpg
       port-desc: |+  
         [ 昔珠 ]<br><br>
@@ -824,9 +837,11 @@ tabs-current:
       img-num: 1
       image-url: /15_
       works:
-        - subtitle: img1 title
+        - subtitle: 對境千差 心閑一境
           description: |+
-            img1 description 
+            (서암-1IMG_8400) <br><br>
+            對境千差 (대경천차) 천만 가지 상대를 해도
+            心閑一境 (심한일경) 마음은 항상 한가하게 있다.
        
       port-url: /15_seoam.jpg
       port-desc: |+  
@@ -965,13 +980,18 @@ tabs-current:
       img-num: 2
       image-url: /16_
       works:
-        - subtitle: img1 title
+        - subtitle: 摩訶般若波羅蜜
           description: |+
-            img1 description 
+            (일타-1IMG_8396)
+            
+            摩訶般若波羅蜜 (마하반야바라밀) 큰 지혜로 저 언덕에 이르는 일.
 
-        - subtitle: img2 title
+        - subtitle: 茶香山房
           description: |+
-            img2 description 
+            (일타-2IMG_8504)
+            
+            茶香山房 (다향산방) 차의 향기가 있는 집.
+            
       port-url: /16_ilta.jpg
       port-desc: |+  
         
@@ -1058,10 +1078,16 @@ tabs-current:
       img-num: 1
       image-url: /17_
       works:
-        - subtitle: img1 title
+        - subtitle: 慈悲喜捨
           description: |+
-            img1 description 
-
+            (관응-1IMG_8414) <br><br>
+            
+            慈悲喜捨 자비희사 <br>
+            慈, 남에게 즐거움을 주려는 마음<br>
+            悲, 남의 괴로움을 덜어 주려는 마음<br>
+            喜, 남이 괴로움을 떠나 즐거움을 얻으면 기뻐하려는 마음<br>
+            사, 남을 평등하게 대하려는 마음<br><br>
+            수행 방법으로 한량없는 중생에 대하여 일으키는 마음이므로 사무량심(四無量心)이라 함.<br>
        
       port-url: /17_kwanng.jpg 
       port-desc: |+  
@@ -1125,9 +1151,9 @@ tabs-current:
       img-num: 0
       image-url: /18_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화
           description: |+
-            img1 description 
+            (준비중)
         
       port-url: /18_cheonghwa.jpg
       port-desc: |+  
@@ -1183,25 +1209,39 @@ tabs-current:
       img-num: 5
       image-url: /19_
       works:
-        - subtitle: img1 title
+        - subtitle: 目足竝行
           description: |+
-            img1 description 
+            (탄허-1IMG_8415) <br><br>
+            
+            目足竝行 (목족병행) 눈과 발이 함께 행한다.<br>
 
-        - subtitle: img2 title
+        - subtitle: 板齒生毛
           description: |+
-            img2 description 
+            (탄허-2IMG_8487)<br><br>
+            
+            板齒生毛 (판치생모) 조주스님의 화두로 “달마대사가 서쪽에서 온 뜻이 무엇인가?<br>
+            (如何是 祖師西來意)”하니 “板齒生毛”라고 한 것. 판치는 앞이빨을 가리키며, <br>
+            生毛는 곰팡이가 생긴 것을 가리킴. 입을 열거나 말을 해도 필요없는 것을 뜻한다. <br><br>
+            - 판자때기 이빨에서 털이 난다.<br>
 
-        - subtitle: img3 title
+        - subtitle: 向上一路
           description: |+
-            img3 description 
+            (탄허-3IMG_8486) <br><br>
+            
+            向上一路 (향상일로) 위로 향하는 유일한 길.<br>
 
-        - subtitle: img4 title
+        - subtitle: 火裏生蓮
           description: |+
-            img4 description         
+            (탄허-4IMG_8573)<br><br>
+            
+            火裏生蓮 (화이생연) 뜨거운 불 속에 연꽃이 핀다.<br>
 
-        - subtitle: img5 title
+        - subtitle: 十方無卷...
           description: |+
-            img5 description 
+            (탄허-5IMG_8727)<br><br>
+            
+            十方無卷 非虧於小相 之中 (시방무권 비휴어소상 지중) (허공만큼 펼쳐진 것을 알면 너무 커서) 시방(우주) 조차도 거두어 들일 수가 없고, 작음 모습 안에 있더라도 (조금도) 어지러짐이 없도다.<br>
+            
       port-url: /19_tanheo.jpg          
       port-desc: |+  
 
@@ -1364,9 +1404,9 @@ tabs-current:
       img-num: 1
       image-url: /20_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화-용봉스님 작
           description: |+
-            img1 description 
+            (용봉-1IMG_8397)
 
       port-url: 
       port-desc: |+  
@@ -1378,9 +1418,11 @@ tabs-current:
       img-num: 1
       image-url: /21_
       works:
-        - subtitle: img1 title
+        - subtitle: 惟愛圖書
           description: |+
-            img1 description 
+            (서운-2IMG_8388) <br><br>
+            
+            惟愛圖書 (유애도서) 오직 도서를 사랑하라.<br>
         
       port-url: /21_seoun.jpg       
       port-desc: |+  
@@ -1420,13 +1462,20 @@ tabs-current:
       img-num: 2
       image-url: /22_
       works:
-        - subtitle: img1 title
+        - subtitle: 반야심경
           description: |+
-            img1 description 
+            (성우-1IMG_8442) <br><br>
+            
+            반야심경<br>
 
-        - subtitle: img2 title
+        - subtitle: 天上天下無如佛...
           description: |+
-            img2 description 
+            (성우-2IMG_8561)<br><br>
+            天上天下無如佛 (천상천하무여불) 하늘 위 하늘 아래 부처님 같으신 분 없으시네<br>
+            十方世界亦無比 (시방세계역무비) 온 시방세계 둘러보아도 또 비교할 만한 이 없고<br>
+            世間所有我盡見 (세간소유아진견) 이 세상에 있는 모든 것을 내가 다 살펴 보았지만 <br>
+            一切無有如佛者 (일체무유여불자) 그 모두가 부처님같이 존귀한 분 찾을 수 없네.<br>
+            
       port-url: 
       port-desc: |+  
 
@@ -1435,13 +1484,13 @@ tabs-current:
       img-num: 3
       image-url: /23_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화-법정스님 작
           description: |+
-            img1 description 
+            (법정-1IMG_8408) <br><br>
 
-        - subtitle: img2 title
+        - subtitle: 서화-법정스님 
           description: |+
-            img2 description 
+            (법정-2IMG_8416)<br><br>
         
         - subtitle: img3 title
           description: |+
@@ -1450,7 +1499,7 @@ tabs-current:
       port-url: /23_bubjeong.jpg          
       port-desc: |+  
 
-        법정(法頂, 속명(본명) 박재철(朴在喆), 1932년 11월 5일(음력 10월 8일) ~ 2010년 3월 11일)은 대한민국의 불교 승려이자 수필가이다.
+        법정(法頂, 속명(본명) 박재철(朴在喆), 1932년 11월 5일(음력 10월 8일) ~ 2010년 3월 11일)은 대한민국의 불교 승려이자 수필가이다.<br><br>
         무소유(無所有)의 정신으로 널리 알려져 있으며 수십 권이 넘는 저서를 통해 자신의 철학을 널리 전파해 왔다.<br><br>
         1954년 승려 효봉의 제자로 출가하였고 1970년대 후반에 송광사 뒷산에 손수 불일암(佛日庵)을 지어 지냈다.<br><br>
         2010년 3월 11일에 서울특별시 성북구 성북2동에 위치한 길상사에서 지병인 폐암으로 인해 세수 79세, 법랍 56세로 입적(入寂)하였다. 기일은 불교식 전통에 따라 매년 음력 1월 26일로 지낸다.<br><br>
@@ -1493,29 +1542,34 @@ tabs-current:
       img-num: 6
       image-url: /24_
       works:
-        - subtitle: img1 title
+        - subtitle: 掌上明珠一顆寒...
           description: |+
-            img1 description 
+            (석정-1IMG_8374)<br><br>
+            
+            掌上明珠一顆寒 (장상명주일과한) 손바닥 한 알의 마니주 밝은 구슬<br>
+            自然隨色辦來端 (자연수색변래단) 자연 빛 따라 중생과 부처 미지한 근원 밝혀<br>
+            幾回提起親分付 (기회제기친분촌) 몇 번이나 간곡히 당부 하였던가<br>
+            暗室兒孫向外看 (암실아손향외간) 어둔 밤 철없는 아이들 바깥만 바라보네.<br>
 
-        - subtitle: img2 title
+        - subtitle: 서화-석정스님 작
           description: |+
-            img2 description 
+            (석정-2IMG_8525) <br><br>
         
-        - subtitle: img3 title
+        - subtitle: 서화-석정스님 작
           description: |+
-            img3 description 
+            (석정-3IMG_8576) <br><br>
 
-        - subtitle: img4 title
+        - subtitle: 서화-석정스님 작
           description: |+
-            img4 description 
+            (석정-4IMG_8586) <br><br>
 
-        - subtitle: img5 title
+        - subtitle: 서화-석정스님 작
           description: |+
-            img5 description 
+            (석정-5IMG_8640) <br><br>
         
-        - subtitle: img6 title
+        - subtitle: 서화-석정스님 작
           description: |+
-            img6 description 
+            (석정-6IMG_8731) <br><br>
 
       port-url: /24_seokjeong.jpg          
       port-desc: |+  
@@ -1616,38 +1670,51 @@ tabs-current:
       img-num: 8
       image-url: /25_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화-원담스님 작
           description: |+
-            img1 description 
+            (원담-1IMG_8373)<br><br>
 
-        - subtitle: img2 title
+        - subtitle: 三春佳節 鳥啼歸...
           description: |+
-            img2 description 
+            (원담-2IMG_8661)<br><br>
+            
+            三春佳節 鳥啼歸 (삼춘가절 조제귀) 아름다운 봄이 좋다고 하나 새는 울면 돌아가고<br>
+            絶壁須危 花笑立 (절벽수위 화소립) 절벽은 비록 위태로우나 꽃은 거기에서 웃으며 서 있네.<br>
         
-        - subtitle: img3 title
+        - subtitle: 목판화-원담스님 작
           description: |+
-            img3 description
+            (원담-3IMG_8449)<br><br>
 
-        - subtitle: img4 title
+        - subtitle: 목판화-원담스님 작
           description: |+
-            img4 description 
+            (원담-4IMG_8471) <br><br>
 
         - subtitle: img5 title
           description: |+
-            img5 description 
+            (원담-5IMG_8501)<br><br>
+            
+            義筆萬人活路 (의필만인활로) 의로운 붓은 만인이 사는 길이다.<br>
         
         - subtitle: img6 title
           description: |+
-            img6 description
+            (원담-6IMG_8568)<br><br>
+            
+            世與靑山何者是 (세여청산하자시) 세상과 청산은 어느 쪽이 옳은가를 누군가가 묻거든<br>
+            春光無處不開花 (춘광무처불개화) 봄볕 있는 곳에 꽃피지 않는 곳이 없다네.<br>
 
-        
         - subtitle: img7 title
           description: |+
-            img7 description 
+            (원담-7IMG_8607) <br><br>
+            
+            桐千年老恒藏曲 (동천년노항장곡) 오동나무는 천년의 세월을 늙어가면서도 항상 거문고의 가락을 간직하고<br>
+            梅一生寒不賣香 (매일생한불매향) 매화는 한평생을 춥게 살아가더라도 결코 그 향기를 팔아 안락을 추구하지 않는다.<br>
 
         - subtitle: img8 title
           description: |+
-            img8 description 
+            (원담-8IMG_8621)<br><br>
+            
+            忽聞人語無鼻孔 (홀문인어무비공) 문득 콧구멍 없는 소라는 말을 듣고<br>
+            頓覺三千是我家 (돈각삼천시아가) 온 우주가 내 집임을 깨달았네.<br>
         
       port-url: /25_wondam.jpg
       port-desc: |+  
@@ -1676,17 +1743,17 @@ tabs-current:
       img-num: 3
       image-url: /26_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화-중광수님 작
           description: |+
-            img1 description 
+            (중광-1IMG_8371) <br><br>
 
-        - subtitle: img2 title
+        - subtitle: 서화-중광수님 작
           description: |+
-            img2 description 
+            (중광-2IMG_8446) <br><br>
         
-        - subtitle: img3 title
+        - subtitle: 서화-중광수님 작
           description: |+
-            img3 description
+            (중광-3IMG_8549)<br><br>
 
       port-url: /26_joongkwang.jpg
       port-desc: |+  
@@ -1768,13 +1835,15 @@ tabs-current:
       img-num: 2
       image-url: /27_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화-혜암스님 작
           description: |+
-            img1 description 
+            (혜암-1IMG_8384) <br><br>
 
-        - subtitle: img2 title
+        - subtitle: 無盡寶藏
           description: |+
-            img2 description 
+            (혜암-2IMG_8502)<br><br>
+            
+            無盡寶藏 (무진보장) 무궁무진한 보배와 갈무리.<br>
        
       port-url: /27_hyeam.jpg
       port-desc: |+  
@@ -1860,9 +1929,11 @@ tabs-current:
       img-num: 1
       image-url: /28_
       works:
-        - subtitle: img1 title
+        - subtitle: 回光返照
           description: |+
-            img1 description 
+            (동헌-1IMG_8387)<br><br>
+            
+            回光返照 (회광반조) 빛을 돌이켜 거꾸로 비춘다.<br>
 
         
       port-url: /28_dongheon.jpg
@@ -1932,9 +2003,9 @@ tabs-current:
       img-num: 1
       image-url: /29_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화-정광시님 작
           description: |+
-            img1 description 
+            (정광-1IMG_8395) <br><br>
        
       port-url: 
       port-desc: |+  
@@ -1947,25 +2018,32 @@ tabs-current:
       img-num: 5
       image-url: /30_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화-서옹스님 작
           description: |+
-            img1 description 
+            (서옹-1IMG_8398)<br><br>
 
-        - subtitle: img2 title
+        - subtitle: 서화-서옹스님 작
           description: |+
-            img2 description 
+            (서옹-2IMG_8421)<br><br>
         
-        - subtitle: img3 title
+        - subtitle: 隨處作主
           description: |+
-            img3 description
+            (서옹-3IMG_8488)<br><br>
+            
+            隨處作主 (수처작주) 어디서나 어떠한 경우에도 얽매이지 않아 주체적이고 자유 자재함.<br>
         
-        - subtitle: img4 title
+        - subtitle: 天晴日頭出
           description: |+
-            img4 description 
+            (서옹-4IMG_8648)<br><br>
+            
+            天晴日頭出 (천청일두출) 하늘이 맑으니 해가 솟아오른다.<br>
         
-        - subtitle: img5 title
+        - subtitle: 月落三更穿市過
           description: |+
-            img5 description
+            (서옹-5IMG_8615)<br><br>
+            
+            月落三更穿市過 (월락삼경천시과) 삼경에 달이 지니 저자를 뚫고 지나감이로다.<br>
+            교학에 의지하지 않고, 좌선에 의해서 바로 사람의 마음을 직관하여, 불의 깨달음에 도달하는 것.<br>
 
       port-url: /30_seowoong.jpg
       port-desc: |+  
@@ -2060,13 +2138,13 @@ tabs-current:
       img-num: 2
       image-url: /31_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화-옥봉스님 작
           description: |+
-            img1 description 
+            (옥봉-1IMG_8403)<br><br>
 
-        - subtitle: img2 title
+        - subtitle: 서화-옥봉스님 작
           description: |+
-            img2 description 
+            (옥봉-2IMG_8404) <br><br>
         
         
       port-url: /31_okbong.jpg
@@ -2164,17 +2242,22 @@ tabs-current:
       img-num: 3
       image-url: /32_
       works:
-        - subtitle: img1 title
+        - subtitle: 莫評他人
           description: |+
-            img1 description 
+            (월하-1IMG_8401)<br><br>
+            
+            莫評他人(막평타인) 남의 허물을 평하지 말라.<br>
 
-        - subtitle: img2 title
+        - subtitle: 和而不同 不肯自己
           description: |+
-            img2 description 
+            (월하-2IMG_8574)<br><br>
+            
+            和而不同 (화이부동) 군자는 주위 사람들과 친화하며 지내기는 하나 부화뇌동(附和雷同)하거나 무리를 만드는 등 편향된 행동은 하지 않는 자세를 말함.<br>
+            不肯自己 (불긍자기) 자기를 들어내어 자랑치 말라.<br>
         
-        - subtitle: img3 title
+        - subtitle: 서화-월하스님 작
           description: |+
-            img3 description
+            (월하-3IMG_8613)<br><br>
 
       port-url: /32_wolha.jpg
       port-desc: |+  
@@ -2227,21 +2310,22 @@ tabs-current:
       img-num: 4
       image-url: /33_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화-일장스님 작
           description: |+
-            img1 description 
+            (일장-1IMG_8418)<br><br>
 
-        - subtitle: img2 title
+        - subtitle: 서화-일장스님 작
           description: |+
-            img2 description 
+            (일장-2IMG_8505) <br><br>
         
-        - subtitle: img3 title
+        - subtitle: 서화-일장스님 작
           description: |+
-            img3 description
+            (일장-3IMG_8685)<br><br>
         
-        - subtitle: img3 title
+        - subtitle: 서화-일장스님 작
           description: |+
-            img3 description
+            (일장-4IMG_8704)<br><br>
+            
       port-url: /33_iljang.jpg
       port-desc: |+  
 
@@ -2297,21 +2381,22 @@ tabs-current:
       img-num: 4
       image-url: /34_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화-수안스님 작
           description: |+
-            img1 description 
+            (수안-1IMG_8420)<br><br> 
 
         - subtitle: img2 title
           description: |+
-            img2 description 
+            (수안-2IMG_8454) <br><br>
         
         - subtitle: img3 title
           description: |+
-            img3 description
+            (수안-3IMG_8557)<br><br>
         
         - subtitle: img3 title
           description: |+
-            img3 description
+            (수안-4IMG_8657)<br><br>
+            
       port-url: /34_sooan.jpg
       port-desc: |+  
         (통도사 문수원)<br><br>
@@ -2388,17 +2473,23 @@ tabs-current:
       img-num: 3
       image-url: /35_
       works:
-        - subtitle: img1 title
+        - subtitle: 尋春莫須向東去...
           description: |+
-            img1 description 
+            (송담-1IMG_8382)<br><br>
+            
+            尋春莫須向東去 (심춘막수향동거) 봄을 찾아 모름지기 동쪽으로 가지마라<br>
+            西園寒梅已破雪 (서원한매이파설) 서쪽 정원에 이미 눈 속에서 찬 매화가 피어있더라.<br>
 
-        - subtitle: img2 title
+        - subtitle: 서화-송담스님 작
           description: |+
-            img2 description 
+            (송담-2IMG_8646) <br><br>
         
-        - subtitle: img3 title
+        - subtitle: 一喝天地震動...
           description: |+
-            img3 description
+            (송담-3IMG_8745)<br><br>
+            
+            一喝天地震動 (일갈천지진동) 한번 소리 지르니 진동하고 <br>
+            一捧須彌粉碎 (일봉수미준쇄) 한번 치니 수미산이 부숴진다.<br>
         
         
       port-url: /35_songdam.jpg
@@ -2435,90 +2526,130 @@ tabs-current:
       img-num: 21
       image-url: /36_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화-설정스님 작
           description: |+
-            img1 description 
+            (설정-01IMG_8424)<br><br>
 
-        - subtitle: img2 title
+        - subtitle: 應無所住 而生其心
           description: |+
-            img2 description 
+            (설정-2IMG_8405)<br><br>
+            
+            應無所住 (응무소주) 머무는 바 없이<br>
+            而生其心 (이생기심) 그 마음을 내라.<br>
         
-        - subtitle: img3 title
+        - subtitle: 自利利他
           description: |+
-            img3 description
+            (설정-3IMG_8465)<br><br>
+            
+            自利利他 (자리이타) 자기도 이롭고 남도 이롭게 한다.<br>
 
-        - subtitle: img4 title
+        - subtitle: 知足第一富
           description: |+
-            img4 description
+            (설정-4IMG_8461)<br><br>
+            
+            知足第一富 (지족제일부) 만족을 아는 사람이 제일 큰 부자 (富者)다.<br>
         
-        - subtitle: img5 title
+        - subtitle: 서화-설정스님 작
           description: |+
-            img5 description
+            (설정-5IMG_8583)<br><br>
 
-        - subtitle: img6 title
+        - subtitle: 圓覺道場何處...
           description: |+
-            img6 description 
+            (설정-6IMG_8575)<br><br>
+            
+            圓覺道場何處 (원각도장하처) 지금 이 자리 원각의 도량이 어디던가<br>
+            現今生死卽時 (현금생사즉시) 지금 삶의 이 자리가 곧 원각이네. <br>
 
-        - subtitle: img7 title
+        - subtitle: 不立文字 以心傳心
           description: |+
-            img7 description 
+            (설정-7IMG_8602)<br><br>
+            
+            不立文字 (불립문자) 진리는 언어로 그 뜻을 세울 수 없어서<br>
+            以心傳心 (이심전심) 마음과 마음으로 전한다. <br>
         
-        - subtitle: img8 title
+        - subtitle: 서화-설정스님 작
           description: |+
-            img8 description
+            (설정-8IMG_8584)<br><br>
         
-        - subtitle: img9 title
+        - subtitle: 直指人心 見性成佛
           description: |+
-            img9 description 
+            (설정-9IMG_8603)<br><br>
+            
+            直指人心 見性成佛 (직지인심 견성성불) <br>
 
-        - subtitle: img10 title
+        - subtitle: 自從今身至佛身...
           description: |+
-            img10 description 
+            (설정-10IMG_8623)<br><br>
+            
+            自從今身至佛身 (자종금신지불신) 나, 이제부터 부처 이루는 날까지 <br>
+            堅持話頭切莫忘 (견지화두절막망) 화두들어 잊지 않고 정진 하겠나이다.<br>
+            唯願諸佛作證明 (유원제불작증명) 바라옵건데, 모든 부처님께서는 증명해 주시옵소서 <br>
+            寧捨身命終不退 (영사신명종불퇴) 차라리 목숨을 버릴지언정 끝내 물러나지 않겠나이다.<br>
         
-        - subtitle: img11 title
+        - subtitle: 서화-설정스님 작
           description: |+
-            img11 description
+            (설정-11IMG_8653)<br><br>
 
-        - subtitle: img12 title
+        - subtitle: 湛然圓寂 心境一如
           description: |+
-            img12 description
+            (설정-12IMG_8662)<br><br>
+            
+            湛然圓寂 心境一如(담연원적 심경일여) 지극히 맑고 교묘하여 마음과 환경이 하나다.<br>
         
-        - subtitle: img13 title
+        - subtitle: 靑山元不動...
           description: |+
-            img13 description
+            (설정-13IMG_8663)<br><br>
+            
+            靑山元不動(청산원부동) 청산은 원래 제자리에서 움직이지 않고<br>
+            白雲自去來(백운자거래) 흰 구름은 저 스스로 오간다네.<br>
 
-        - subtitle: img14 title
+        - subtitle: 서화-설정스님 작
           description: |+
-            img14 description 
+            (설정-14IMG_8751) <br><br>
 
-        - subtitle: img15 title
+        - subtitle: 현판-설정스님 작
           description: |+
-            img15 description 
+            (설정-15IMG_8738) <br><br>
         
-        - subtitle: img16 title
+        - subtitle: 서화-설정스님 작
           description: |+
-            img16 description
+            (설정-16IMG_8722)<br><br>
 
-        - subtitle: img17 title
+        - subtitle: 서화-설정스님 작
           description: |+
-            img17 description 
+            (설정-17IMG_8683) <br><br>
+            
+            中道 (중도) 두 극단을 떠나 한편에 치우치지 않는 공명한 길. <br>
+            불교에서는 유(有)나 공(空)에 치우치지 않는 진실한 도리, <br>
+            또는 고락의 양편을 떠난 올바른 행법을 중도라고 한다.<br>
 
-        - subtitle: img18 title
+        - subtitle: 風送水聲來枕畔...
           description: |+
-            img18 description 
+            (설정-18IMG_8645)<br><br>
+            
+            風送水聲來枕畔(풍송수성래침반) 바람은 물소리를 베개머리로 실어 나르고<br>
+            月移山影到狀邊(월이산영도상변) 달은 산 그림자를 잠자리로 옮겨주네.<br>
         
-        - subtitle: img19 title
+        - subtitle: 서화-설정스님 작
           description: |+
-            img19 description
+            (설정-19IMG_8726)<br><br>
 
-        - subtitle: img20 title
+        - subtitle: 心如工畵師...
           description: |+
-            img20 description
+            (설정-20IMG_8706)<br><br>
+            
+            心如工畵師 (심여공화사) 마음은 있지도 않은 그림을 그리는 화가와 같아<br>
+            能畵諸世間 (능화제세간) 능히 세상사를 다 그려내고<br>
+            五蘊實從生 (오온실종생) 오온은 모두 마음으로부터 나온 것이어서<br>
+            無法而不造 (무법이불조) 그 무엇도 만들어 내지 않는 것이 없다.<br>
         
-        - subtitle: img21 title
+        - subtitle: 死中得活
           description: |+
-            img21 description
-        
+            (설정-21IMG_8742)<br><br>
+            
+            死中得活 (사중득활) 죽은 자리에서 살아남는 경계에 이르는 것. <br>
+            성자는 육신이 죽기전에 먼저 눈, 귀, 코, 입, 몸, 뜻 의 육근을 죽이고 <br>
+            깨달음을 얻는 것을 말함.<br>
 
       port-url: /36_seoljeong.jpg
       port-desc: |+  
@@ -2545,33 +2676,42 @@ tabs-current:
       img-num: 7
       image-url: /37_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화-원광스님 작
           description: |+
-            img1 description 
+            (원광-1IMG_8422) <br><br>
 
-        - subtitle: img2 title
+        - subtitle: 서화-원광스님 작
           description: |+
-            img2 description 
+            (원광-2IMG_8458)<br><br>
         
-        - subtitle: img3 title
+        - subtitle: 서화-원광스님 작
           description: |+
-            img3 description
+            (원광-3IMG_8585)<br><br>
 
-        - subtitle: img4 title
+        - subtitle: 서화-원광스님 작
           description: |+
-            img4 description
+            (원광-4IMG_8426)<br><br>
+            
+            香鼻獛鼻梅得爭 (향비복화매득쟁)<br>
+            骨徹寒番一是不 (골철한번일시불)<br>
         
-        - subtitle: img5 title
+        - subtitle: 서화-원광스님 작
           description: |+
-            img5 description
+            (원광-5IMG_8667)<br><br>
 
-        - subtitle: img6 title
+        - subtitle:  밥값은 했는가
           description: |+
-            img6 description 
+            (원광-6IMG_8713)<br><br>
+            
+            밥값은 했는가. <br>
 
-        - subtitle: img7 title
+        - subtitle: 當斷不斷 反招其亂
           description: |+
-            img7 description 
+            (원광-7IMG_8749)<br><br>
+            
+            當斷不斷 (당단부단) 마땅히 끊어야 할 때 끊지 않으면<br>
+            反招其亂 (반초기란) 오히려 어려워지는 법이니라.<br>
+
       port-url: 
       port-desc: |+  
 
@@ -2583,9 +2723,14 @@ tabs-current:
       img-num: 1
       image-url: /38_
       works:
-        - subtitle: img1 title
+        - subtitle: 我本來玆土...
           description: |+
-            img1 description 
+            (월주덕문-1IMG_8392)<br><br>
+            
+            我本來玆土(아본래자토) 내가 본래 이땅에 온것은<br>
+            傳法救迷情(전법구미정) 법을 전하여 중생을 제도하고자 함이니<br>
+            一華開五葉(일화개오엽) 한 송이 꽃이 사섯잎 피우면<br>
+            結果自然成(결과자연성) 열매는 스스로 맺히리라.<br>
       
       port-url: /38_woljoodeokmoon.jpg
       port-desc: |+  
@@ -2678,13 +2823,13 @@ tabs-current:
       img-num: 2
       image-url: /39_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화-만봉스님 작
           description: |+
-            img1 description 
+            (만봉-1IMG_8375) <br><br>
 
-        - subtitle: img2 title
+        - subtitle: 병풍-만봉스님 작
           description: |+
-            img2 description 
+            (만봉-2IMG_8390)<br><br>
         
         
       port-url: /39_manbong.jpg
@@ -2798,170 +2943,244 @@ tabs-current:
       img-num: 41
       image-url: /40_
       works:
-        - subtitle: img1 title
+        - subtitle: 병풍-기현스님 작
           description: |+
-            img1 description 
+            (기현-01IMG_8389)<br><br>
 
-        - subtitle: img2 title
+        - subtitle: 啞者子喫苦瓜
           description: |+
-            img2 description 
+            (기현-2IMG_8432)<br><br>
+            
+            啞者子喫苦瓜 (아자끽고과) 괴롭지만 말을 할 수가 없다는 뜻.<br>
         
-        - subtitle: img3 title
+        - subtitle: 賊過後張弓
           description: |+
-            img3 description
+            (기현-3IMG_8433)<br><br>
+            
+            賊過後張弓 (적과후장궁) 도적이 지난 뒤에 활을 뽑는구나.<br>
 
-        - subtitle: img4 title
+        - subtitle: 一切唯心造
           description: |+
-            img4 description
+            (기현-4IMG_8435)<br><br>
+            
+            一切唯心造 (일체유심조) 모든 것은 오로지 마음이 지어내는 것이다.<br>
+            《화엄경(華嚴經)》의 중심 사상으로, 일체의 제법(諸法)은 그것을 인식하는 마음의 나타남이고, 존재의 본체는 오직 마음이 지어내는 것일 뿐이라는 뜻이다. 곧 일체의 모든 것은 오로지 마음에 있다는 것을 일컫는다. 실차난타(實叉難陀)가 번역한 《80화엄경》 보살설게품(菩薩設偈品)에 다음과 같은 4구의 게송이 나온다.<br>
         
-        - subtitle: img5 title
+        - subtitle: 良馬窺鞭 已遲八刻 
           description: |+
-            img5 description
+            (기현-5IMG_8440)<br><br>
+            
+            良馬窺鞭 已遲八刻 (양마규편 이지팔각) 채찍하기 전에 알아서 행해야 된다.<br>
 
-        - subtitle: img6 title
+        - subtitle: 靑葉黃實
           description: |+
-            img6 description 
+            (기현-6IMG_8460)<br><br>
+            
+            靑葉黃實 (청엽황실) 좋은 인연을 삼아야  좋은 결실을 맺는다. <br>
 
-        - subtitle: img7 title
+        - subtitle: 好事不如無
           description: |+
-            img7 description 
+            (기현-7IMG_8485)<br><br>
+            
+            好事不如無(호사불여무) 아무리 좋은 것이라도 없는 것보다는 못하다.<br>
+            조주선사께서 하신 말씀이다.
         
-        - subtitle: img8 title
+        - subtitle: 不欺自心
           description: |+
-            img8 description
+            (기현-8IMG_8491)<br><br>
+            
+            不欺自心 (불기자심) 「스스로의 마음을 속이지 말라.」는 뜻으로, 스스로에게 엄(嚴)하고 정직(正直)하게 자신(自身)과의 약속(約束)을 지키라는 말.<br>
         
-        - subtitle: img9 title
+        - subtitle: 서화-기현스님 작
           description: |+
-            img9 description 
+            (기현-09IMG_8497)<br><br>
 
-        - subtitle: img10 title
+        - subtitle: 獨步乾坤
           description: |+
-            img10 description 
+            (기현-10IMG_8519)<br><br>
+            
+            獨步乾坤 (독보건곤) 하늘 땅을 홀로 걷는다.<br>
         
-        - subtitle: img11 title
+        - subtitle: 서화-기현스님 작
           description: |+
-            img11 description
+            (기현-11IMG_8529)<br><br>
 
-        - subtitle: img12 title
+        - subtitle: 서화-기현스님 작
           description: |+
-            img12 description
+            (기현-12IMG_8535)<br><br>
         
-        - subtitle: img13 title
+        - subtitle: 精行儉德
           description: |+
-            img13 description
+            (기현-13IMG_8537)<br><br>
+            
+            精行儉德 (정행검덕) 바른 행실, 검소한 생활과 덕을 추구할 것.<br>
 
-        - subtitle: img14 title
+        - subtitle: 心田耕作
           description: |+
-            img14 description 
+            (기현-14IMG_8538)<br><br>
+            
+            心田耕作(심전경작) 마음의 밭을 갈아라. <br>
 
-        - subtitle: img15 title
+        - subtitle: 應機接物逍遙士...
           description: |+
-            img15 description 
+            (기현-15IMG_8539)<br><br>
+            
+            應機接物逍遙士 (응기접물소요사) 자기 각자의 그릇에 맞게<br>
+            行道宜藥自在夫 (행동의약자재부) 하고싶은 일을 하는 것이 도를 행하는 것.<br>
         
-        - subtitle: img16 title
+        - subtitle: 灋如筏喩
           description: |+
-            img16 description
+            (기현-16IMG_8541)<br><br>
+            
+            灋如筏喩 (법여벌유) 법은 땟목과 같아서 마땅히 버려야하거늘<br>
+            應捨非法 (응사비법) 법이 아닌 것이라 말하면 무엇하겠는가.<br>
 
-        - subtitle: img17 title
+        - subtitle: 斬截煩賊
           description: |+
-            img17 description 
+            (기현-17IMG_8542)<br><br>
+            
+            斬截煩賊 (참절번적) 번뇌라는 적을 베어버리니<br>
+            顯露真心 (현로진심) 참된 마음이 드러난다. <br>
 
-        - subtitle: img18 title
+        - subtitle: 達磨不識
           description: |+
-            img18 description 
+            (기현-18IMG_8543)<br><br>
+            
+            達磨不識 (달마불식) 달마대사가 모른다고 하다.<br>
         
-        - subtitle: img19 title
+        - subtitle: 放下着
           description: |+
-            img19 description
+            (기현-19IMG_8544)<br><br>
+            
+            放下着 (방하착) 마음속의 집착을 내려놓아라.<br>
 
-        - subtitle: img20 title
+        - subtitle: 대나무 숲가의 물은
           description: |+
-            img20 description
+            (기현-20IMG_8547)<br><br>
+            
+            대나무 숲가의 물은 스스로 차고, 꽃을 좇아 부는 바람은 향기를 품는다.<br>
         
         - subtitle: img21 title
           description: |+
-            img21 description        
-
-        - subtitle: img22 title
-          description: |+
-            img22 description 
-        
-        - subtitle: img23 title
-          description: |+
-            img23 description
-
-        - subtitle: img24 title
-          description: |+
-            img24 description
-        
-        - subtitle: img25 title
-          description: |+
-            img25 description
-
-        - subtitle: img26 title
-          description: |+
-            img26 description 
-
-        - subtitle: img27 title
-          description: |+
-            img27 description 
-        
-        - subtitle: img28 title
-          description: |+
-            img28 description
-        
-        - subtitle: img29 title
-          description: |+
-            img29 description 
-
-        - subtitle: img30 title
-          description: |+
-            img30 description 
-        
-        - subtitle: img31 title
-          description: |+
-            img31 description
-
-        - subtitle: img32 title
-          description: |+
-            img32 description
-        
-        - subtitle: img33 title
-          description: |+
-            img33 description
-
-        - subtitle: img34 title
-          description: |+
-            img34 description 
-
-        - subtitle: img35 title
-          description: |+
-            img35 description 
-        
-        - subtitle: img36 title
-          description: |+
-            img36 description
-
-        - subtitle: img37 title
-          description: |+
-            img37 description 
-
-        - subtitle: img38 title
-          description: |+
-            img38 description 
-        
-        - subtitle: img39 title
-          description: |+
-            img39 description
-
-        - subtitle: img40 title
-          description: |+
-            img40 description
-        
-        - subtitle: img41 title
-          description: |+
-            img41 description
+            (기현-21IMG_8558)<br><br>
             
+            아미타불     <br>   
+
+        - subtitle: 父子協力山城玉...
+          description: |+
+            (기현-22IMG_8567)<br><br>
+            
+            父子協力山城玉 (부자협력산성옥) 아버지와 아들이 협력하면 산을 흑으로 바꾸고<br>
+            兄弟同心土變金 (형제동심토변금) 형제가 한마음이 되면 흙을 금으로 바꾼다.<br>
+        
+        - subtitle: 隨處作主 立處皆眞
+          description: |+
+            (기현-23IMG_8605)<br><br>
+            
+            隨處作主 立處皆眞 (수처작주 입처개진) 머무르는 곳마다 주인이 되어라. 서있는 그곳이 참된 자리이다.<br><br>
+
+        - subtitle: 서화-기현스님 작
+          description: |+
+            (기현-24IMG_8610)<br><br>
+        
+        - subtitle: 合浦珠還雲山改觀
+          description: |+
+            (기현-25IMG_8628)<br><br>
+            
+            合浦珠還雲山改觀 (합포주환운산개관) 떠난 사람이 돌아오니, 구름과 산이 달라졌네.<br>
+
+        - subtitle: 空中撮影 非爲妙
+          description: |+
+            (기현-26IMG_8630)<br><br>
+            
+            空中撮影 非爲妙 (공중촬영 비위묘) 공중에서 그림자 붙잡는 일도 우스운데<br>
+            物外追蹤 豈俊機 (물외추종 기준기) 세상 밖에서 튀는 것(헛된 자취를 쫓는 사람들이) 무에 그리 장할까?<br>
+
+        - subtitle: 서화-기현스님 작
+          description: |+
+            (기현-27IMG_8631)<br><br>
+        
+        - subtitle: 서화-기현스님 작
+          description: |+
+            (기현-28IMG_8634)<br><br>
+        
+        - subtitle: 掀翻大海 躍倒湏彌
+          description: |+
+            (기현-29IMG_8636)<br><br>
+            
+            掀翻大海 躍倒湏彌 (혼번대해약도수미) 큰 바다를 번쩍 들어 뒤집고, 수미산을 차서 넘어뜨리다.<br>
+
+        - subtitle: 명리객래난우일
+          description: |+
+            (기현-30IMG_8642)<br><br>
+            
+            (명리객래난우일) (명예와 이익을)찾아오는 손님은 날마다 만나기 어렵고 <br>
+            (수운승도이경년) 물과 구름(아무런 사심없이) 이르르는 스님은 해를 보내기 쉽다. <br>
+        
+        - subtitle: 서화-기현스님 작
+          description: |+
+            (기현-31IMG_8654)<br><br>
+
+        - subtitle: 覺海日輪
+          description: |+
+            (기현-32IMG_8696)<br><br>
+            
+            覺海日輪 (각해일륜) 각(覺)이라는 것은 본각(本覺)·시각(始覺)·구경각(究竟覺)이 원만하여 둘이 아님을 말하는 것이고, 해(海)라는 것은 깊고 넓어서 헤아릴 수 없음을 말한 것이며, 일륜(日輪)이라는 것은 묘한 지혜가 원만하고 밝아서 비추지 않는 바가 없음을 말하는 것이니, 종교·도덕·진리·철학·과학·인과 등을 모두 다 갖추지 않음이 없으므로 각해일륜이라고 이름한 것이다.<br>
+        
+        - subtitle: 人知名位爲樂...
+          description: |+
+            (기현-33IMG_8698)<br><br>
+            
+            人知名位爲樂 (인지명위위락) 사람들은 높은 명예와 지위만이 즐거움인 줄 알고, <br>
+            不知無名無位之樂爲最眞 (부지무명무위지락위최진) 이름 없고 지위 없는 즐거움이 더 큰 줄 모른다.<br>
+
+        - subtitle: 서화-기현스님 작
+          description: |+
+            (기현-34IMG_8699)<br><br>
+            
+            식심명<br>
+
+        - subtitle: 竹密不妨流水過...
+          description: |+
+            (기현-35IMG_8708)<br><br>
+            
+            竹密不妨流水過 (죽밀불방류수과) 대나무 뿌리가 아무리 빽빽해도 흐르는 물을 막을수 없고(방해하지 못하고) <br>
+            山高豈碍白雲飛 (산고기애백운비) 산이 아무리 높다하여 흰구름을 흘러감을 어찌 막을수 있으리오.<br>
+            -금강경오가해<>한 구절
+        
+        - subtitle: 卽時現金 更無時節
+          description: |+
+            (기현-36IMG_8710)<br><br>
+            
+            卽時現金(즉시현금) 바로 지금이지<br>
+            更無時節(갱무시절) 다시 시절은 없다.<br><br>
+            지금이 바로 그때이지, 시간은 다시 오지 않는다.<br>
+
+        - subtitle: 병풍-기현스님 작
+          description: |+
+            (기현-37IMG_8712)<br><br>
+
+        - subtitle: 병풍-기현스님 작
+          description: |+
+            (기현-38IMG_8732)<br><br>
+        
+        - subtitle: 서화-기현스님 작
+          description: |+
+            (기현-39IMG_8736)<br><br>
+
+        - subtitle: 廻光返照
+          description: |+
+            (기현-40IMG_8743)<br><br>
+            
+            廻光返照 (회광반조) 자신의 내면세계를 돌이켜 반성하여 진실한 자신 불성을 발견하는 것을 의미한다.<br>
+            
+        - subtitle: 直截根源佛所印...
+          description: |+
+            (기현-41IMG_8750)<br><br>
+            
+            直截根源佛所印 (직절근원불소인) 근원을 바로 끊음은 부처님이 인가하신 바요 <br>
+            摘葉尋枝我不能 (적엽심지아불능) 잎 따고 가지 찾음은 내 할일 아니로다.<br>
+
       port-url: /40_kihyun.jpg
       port-desc: |+  
 
@@ -2993,9 +3212,9 @@ tabs-current:
       img-num: 1
       image-url: /41_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화-혜인스님 작
           description: |+
-            img1 description 
+            (혜인-1IMG_8412)<br><br>
 
         
       port-url: /41_hyein.jpg
@@ -3045,25 +3264,27 @@ tabs-current:
       img-num: 5
       image-url: /999_
       works:
-        - subtitle: 만화
+        - subtitle: 만화스님 작
           description: |+
-            img1 description 
+            (만화-1IMG_8587)<br><br>
 
-        - subtitle: 원응
+        - subtitle: 太古淸風
           description: |+
-            img2 description 
-
-        - subtitle: 지민
-          description: |+
-            img3 description 
-
-        - subtitle: 지민
-          description: |+
-            img4 description 
+            (원응-1IMG_8592)<br><br>
             
-        - subtitle: 지순
+            太古淸風 (태고천풍) 부처님(성인)의 맑은 바람.<br>
+
+        - subtitle: 지민스님 작
           description: |+
-            img5 description 
+            (지민-1IMG_8406) <br><br>
+
+        - subtitle: 지민스님 작
+          description: |+
+            (지민-2IMG_8430)<br><br>
+            
+        - subtitle: 지순스님 작
+          description: |+
+            (지순-1IMG_8556) <br><br>
       
       port-url:
       port-desc: |+         
