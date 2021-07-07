@@ -13,17 +13,20 @@ tabs-current:
       img-num: 3
       image-url: /1001_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화
           description: |+
-            img1 description 
+            (일반강암송성용-1IMG_8445) <br><br>
             
-        - subtitle: img2 title
+        - subtitle: 서화
           description: |+
-            img2 description 
+            (일반강암송성용-1IMG_8664)<br><br>
 
-        - subtitle: img3 title
+        - subtitle: 風暖鳥聲碎...
           description: |+
-            img3 description 
+            (일반강암송성용-2IMG_8686)<br><br>
+            
+            風暖鳥聲碎(풍난조성쇄) 바람 따뜻해지니 새소리 지지러지고<br>
+            日高花影重(일고화영중) 해 높아지니 꽃 그림자 더욱 짙어간다.<br>
 
       port-url: 
       port-desc: |+ 
@@ -35,13 +38,17 @@ tabs-current:
       img-num: 2
       image-url: /1002_
       works:
-        - subtitle: img1 title
+        - subtitle: 不請之友
           description: |+
-            img1 description 
+            (일반근제노영-1IMG_8494)<br><br>
+            
+            不請之友 (불청지우) 청하지 않더라도 도울 수 있는 벗이 되어 그들을 편안하게 해 준다.<br>
 
-        - subtitle: img2 title
+        - subtitle: 離苦得樂
           description: |+
-            img2 description          
+            (일반근제노영-2IMG_8495)<br><br>
+            
+            離苦得樂 (이고득락) 번뇌 망상이나 인간세상의 온갖 고통에서 벗어나 즐거움을 얻는다는 말.<br>     
 
       port-url: 
       port-desc: |+ 
@@ -52,9 +59,13 @@ tabs-current:
       img-num: 1
       image-url: /1003_
       works:
-        - subtitle: img1 title
+        - subtitle: 善財童子五十三善知識...
           description: |+
-            img1 description 
+            (일반김옥균-1IMG_8425)<br><br>
+            
+            善財童子五十三善知識 (선재동자오십삼선지식) 선재동자가 53선지식을 참배하고,<br>
+            末後到彌勒樓閣前 (말후도미륵누각전) 마침내 미륵누각 앞에 이르러<br>
+            暫時斂念云大慈大悲願 (잠시렴념운대자대비원) 잠시 생각을 거두고 말하기를 대자대비를 바라옵니다. <br>
             
 
       port-url: 
@@ -66,13 +77,13 @@ tabs-current:
       img-num: 2
       image-url: /1004_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화
           description: |+
-            img1 description 
+            (일반라오-1IMG_8606)<br><br>
 
-        - subtitle: img2 title
+        - subtitle: 서화
           description: |+
-            img2 description 
+            (일반라오-2IMG_8649)<br><br>
         
       port-url: 
       port-desc: |+ 
@@ -83,9 +94,9 @@ tabs-current:
       img-num: 1
       image-url: /1005_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화
           description: |+
-            img1 description 
+            (일반미산허영구-1IMG_8409)<br><br>
             
 
       port-url: 
@@ -97,14 +108,15 @@ tabs-current:
       img-num: 2
       image-url: /1006_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화
           description: |+
-            img1 description 
+            (일반미산황용하-1IMG_8439)<br><br>
+       
+        - subtitle: 국이제인
+          description: |+
+            (일반미산황용하-2IMG_8468)<br><br>
             
-        - subtitle: img2 title
-          description: |+
-            img2 description 
-
+            (국이제인 칙유재 지불굴자 대장부호) 국화를 모든 사람들이 심으려 하는 것은 뜻을 굽히지 않는 것이 대장부와 같기 때문이다.<br>
             
       port-url: 
       port-desc: |+ 
@@ -116,9 +128,9 @@ tabs-current:
       img-num: 1
       image-url: /1007_
       works:
-        - subtitle: img1 title
+        - subtitle: 백의관음
           description: |+
-            img1 description 
+            (일반백의관음-1IMG_8716)<br><br>
             
 
       port-url: 
@@ -130,37 +142,52 @@ tabs-current:
       img-num: 8
       image-url: /1008_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화
           description: |+
-            img1 description 
+            (일반산민이용-1IMG_8436) <br><br>
 
-        - subtitle: img2 title
+        - subtitle: 華嚴經略纂偈
           description: |+
-            img2 description 
-
-        - subtitle: img3 title
-          description: |+
-            img3 description 
+            (일반산민이용-2IMG_8528)<br><br>
             
-        - subtitle: img4 title
-          description: |+
-            img4 description 
+            華嚴經略纂偈(화엄경약찬게) ‘화엄경약찬게’는 갖추어서는 ‘대방광불화엄경’, ‘용수보살약찬게’입니다. 약찬게는 80화엄의 핵심사상을 간략히 엮어놓은 게송으로서 현 불교 교단에서 널리 독송되는 대표적인 염불문 가운데 하나이다.<br>
 
-        - subtitle: img5 title
+        - subtitle: 携手同行
           description: |+
-            img5 description 
+            (일반산민이용-3IMG_8533)<br><br>
+            
+            携手同行 (휴수동행) 마음 맞는 이와 손잡고 함께 떠나리.<br>
+            
+        - subtitle: 弗爲胡成
+          description: |+
+            (일반산민이용-4IMG_8550)<br><br>
+            
+            弗爲胡成 (불위호성) 동하지 않으면 어떤 일도 이룰 수 없음을 이르는 말.<br>
 
-        - subtitle: img6 title
+        - subtitle: 進修德行
           description: |+
-            img6 description 
+            (일반산민이용-5IMG_8563)<br><br>
+            
+            進修德行 (진수덕행) 나아가 덕행을 닦아라.<br>
 
-        - subtitle: img7 title
+        - subtitle: 形直影端
           description: |+
-            img7 description 
+            (일반산민이용-6IMG_8675)<br><br>
+            
+            形直影端 (형직영단) 몸의 자세가 아름다우면 그 사람의 그림자도 저절로 아름다워 진다.- 행동거지가 아름다우면 그 사람의 그림자도 저절로 아름다워진다.
 
-        - subtitle: img8 title
+        - subtitle: 靜坐處 茶半香初...
           description: |+
-            img8 description 
+            (일반산민이용-7IMG_8697)<br><br>
+            
+            靜坐處 茶半香初 (정좌처 다반향초) 조용히 앉아 차를 마시다 향을 피우니 <br>
+            妙用時 水流花開 (묘용시 수류화개) 오묘한 시간의 흐름속에 물은 흐르고 꽃은 핀다.<br>
+
+        - subtitle: 隨處作主 立處皆眞
+          description: |+
+            (일반산민이용-8IMG_8741)<br><br>
+            
+            隨處作主 立處皆眞 (수처작주 입처개진) 머무르는 곳마다 주인이 되라. 지금 있는 그곳이 바로  진리의 세계이니라.<br>
 
       port-url: 
       port-desc: |+ 
@@ -171,13 +198,17 @@ tabs-current:
       img-num: 2
       image-url: /1009_
       works:
-        - subtitle: img1 title
+        - subtitle: 天祥雲集
           description: |+
-            img1 description 
+            (일반석전황욱-1IMG_8562)<br><br>
+            
+            天祥雲集 (천상운집) 천가지 좋은 일이 구름처럼 몰려든다.<br>
 
-        - subtitle: img2 title
+        - subtitle: 萬法歸一
           description: |+
-            img2 description 
+            (일반석전황욱-2IMG_8571)<br><br>
+            
+            萬法歸一 만가지 법이 하나로 돌아간다.<br>
           
 
       port-url: 
@@ -189,25 +220,36 @@ tabs-current:
       img-num: 5
       image-url: /1010_
       works:
-        - subtitle: img1 title
+        - subtitle: 萬法歸一一歸何處
           description: |+
-            img1 description 
+            (일반성하유석영-1IMG_8496)<br><br>
+            
+            萬法歸一一歸何處 (만법귀일 일귀하처) 만법이 하나에 돌아갔다 하니 하나 그것은 어디로 돌아갈 것인가. <br>《대종경》 성리품 17장의 법문 - 중국의 조주종심(趙州從諗) 등 선사(禪師)들이 즐겨 사용했던 공안(公案)의 하나로 원오극근(圓悟克勤)이 찬집한 《벽암록(碧巖錄)》 권5에 45칙(則)으로 수록되어 있다.
 
-        - subtitle: img2 title
+        - subtitle: 눈을 뚫고 들판 길을...
           description: |+
-            img2 description 
+            (일반성하유석영-2IMG_8530)<br><br>
+            
+            눈을 뚫고 들판 길을 걸어가노니<br>
+            어지럽게 함부로 걷지를 말라.<br>
+            오늘 내가 밟고 간 이 발자국이<br>
+            뒷사람이 밟고 갈 길이 될 테니.<br>
 
-        - subtitle: img3 title
-          description: |+
-            img3 description 
 
-        - subtitle: img4 title
+        - subtitle: 若人欲了知 三世一切佛...
           description: |+
-            img4 description 
+            (일반성하유석영-3IMG_8565)<br><br>
+            
+            若人欲了知 三世一切佛 (약인욕요지 삼세일체불) 만약에 과거, 현재, 미래 삼세의 일체 부처님을 알고자 한다면<br>
+            應觀法界性 一切唯心造 (응관법계성 일체유심조) 마땅히 법계의 성품을 보아라 일체가 마음으로 지은 것이니라.<br>
 
-        - subtitle: img5 title
+        - subtitle: 서화
           description: |+
-            img5 description 
+            (일반성하유석영-4IMG_8624)<br><br>
+
+        - subtitle: 서화
+          description: |+
+            (일반성하유석영-5IMG_8723)<br><br>
             
 
       port-url: 
@@ -220,21 +262,23 @@ tabs-current:
       img-num: 4
       image-url: /1011_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화
           description: |+
-            img1 description 
+            (일반소공-1IMG_8622) <br><br>
 
-        - subtitle: img2 title
+        - subtitle: 서화
           description: |+
-            img2 description 
+            (일반소공-2IMG_8641)<br><br>
 
-        - subtitle: img3 title
+        - subtitle: 구년묵좌...
           description: |+
-            img3 description 
+            (일반소공-3IMG_8679)<br><br>
+            
+            (구년묵좌 좌단 천하인 설두) 구년 동안 침묵하고 앉았다가 앉음이 끊어지자 천하 사람들의 화두가 되었다.<br>
 
-        - subtitle: img4 title
+        - subtitle: 서화
           description: |+
-            img4 description    
+            (일반소공-4IMG_8591)<br><br>
 
       port-url: 
       port-desc: |+ 
@@ -246,26 +290,28 @@ tabs-current:
       img-num: 2
       image-url: /1012_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화
           description: |+
-            img1 description 
+            (일반송전-1IMG_8545)<br><br>
         
-        - subtitle: img2 title
+        - subtitle: 서화
           description: |+
-            img2 description 
+            (일반송전-2IMG_8582)<br><br>
 
       port-url: 
       port-desc: |+ 
        desc
 
-    - name: 어세창
+    - name: 오세창
       source: tab1013
       img-num: 1
       image-url: /1013_
       works:
-        - subtitle: img1 title
+        - subtitle: 華而能實
           description: |+
-            img1 description 
+            (일반오세창-1IMG_8462)<br><br>
+            
+            華而能實(화이능실) 꽃이피면 열매를 맺어야 한다.<br>
             
 
       port-url: 
@@ -277,16 +323,22 @@ tabs-current:
       img-num: 3
       image-url: /1014_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화
           description: |+
-            img1 description 
-        - subtitle: img2 title
+            (일반여초김응현-1IMG_8464)<br><br>
+            
+        - subtitle: 諸法從本來...
           description: |+
-            img2 description 
+            (일반여초김응현-2IMG_8524)<br><br>
+            
+            諸法從本來 (제법종본래) 모든 법은 본래부터<br>
+            常自寂滅相 (상자적멸상) 항상 고요하다<br>
+            佛子行道理 (불자행도리) 불자가 이런 도리를 알면<br>
+            來世得作佛 (내세득작불) 내세에는 꼭 부처가 될것이다.<br>
 
-        - subtitle: img3 title
+        - subtitle: 서화
           description: |+
-            img3 description 
+            (일반여초김응현-3IMG_8467)<br><br>
 
            
 
@@ -299,13 +351,13 @@ tabs-current:
       img-num: 2
       image-url: /1015_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화
           description: |+
-            img1 description 
+            (일반유경희-1IMG_8581)<br><br>
 
-        - subtitle: img2 title
+        - subtitle: 서화
           description: |+
-            img2 description 
+            (일반유경희-2IMG_8714)<br><br>
           
 
       port-url: 
@@ -317,10 +369,9 @@ tabs-current:
       img-num: 3
       image-url: /1016_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화
           description: |+
-            img1 description 
-            
+            (일반은봉-1IMG_8594)<br><br>
 
       port-url: 
       port-desc: |+ 
@@ -332,29 +383,31 @@ tabs-current:
       img-num: 6
       image-url: /1017_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화
           description: |+
-            img1 description 
+            (일반의암김정호-1IMG_8500)<br><br>
 
-        - subtitle: img2 title
+        - subtitle: 서화
           description: |+
-            img2 description 
+            (일반의암김정호-2IMG_8555) <br><br>
 
-        - subtitle: img3 title
+        - subtitle: 但知不會
           description: |+
-            img3 description 
+            (일반의암김정호-3IMG_8620)<br><br>
+            
+            但知不會 (단지불회) 단지 알지 못함을 아는가?<br>
 
-        - subtitle: img4 title
+        - subtitle: 서화
           description: |+
-            img4 description 
+            (일반의암김정호-4IMG_8623)<br><br>
 
-        - subtitle: img5 title
+        - subtitle: 서화
           description: |+
-            img5 description 
+            (일반의암김정호-5IMG_8659)<br><br>
 
-        - subtitle: img6 title
+        - subtitle: 서화
           description: |+
-            img6 description 
+            (일반의암김정호-6IMG_8703)<br><br>
    
 
       port-url: 
@@ -366,9 +419,9 @@ tabs-current:
       img-num: 1
       image-url: /1018_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화
           description: |+
-            img1 description 
+            (일반이서령-1IMG_8596)<br><br>
             
 
       port-url: 
@@ -380,9 +433,9 @@ tabs-current:
       img-num: 1
       image-url: /1019_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화
           description: |+
-            img1 description 
+            (일반이은혁-1IMG_8472)<br><br>
             
 
       port-url: 
@@ -394,9 +447,9 @@ tabs-current:
       img-num: 1
       image-url: /1020_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화
           description: |+
-            img1 description 
+            (일반이철규-1IMG_8597)<br><br>
             
 
       port-url: 
@@ -408,13 +461,16 @@ tabs-current:
       img-num: 2
       image-url: /1021_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화
           description: |+
-            img1 description 
+            (일반일중김충현-1IMG_8578)<br><br>
         
-        - subtitle: img2 title
+        - subtitle: 朝而往 暮而歸...
           description: |+
-            img2 description 
+            (일반일중김충현-2IMG_8447)<br><br>
+            
+            朝而往(조이왕) 暮而歸 (모이귀) 아침에 해뜨니 산에 오르고 석양 해지니 돌아오는데<br>
+            四時之景不同 (사시지경부동) 사사사철의 풍경이 저마다 다른지라 즐거움은 끝이 없다.<br>
        
 
       port-url: 
@@ -429,43 +485,43 @@ tabs-current:
       works:
         - subtitle: img1 title
           description: |+
-            img1 description 
+            (일반조범재-1IMG_8455)<br><br> 
 
         - subtitle: img2 title
           description: |+
-            img2 description 
-
+            (일반조범재-2IMG_8559)<br><br> 
+            
         - subtitle: img3 title
           description: |+
-            img3 description 
+            (일반조범재-3IMG_8459)<br><br> 
 
         - subtitle: img4 title
           description: |+
-            img4 description   
+            (일반조범재-4IMG_8470)<br><br> 
 
         - subtitle: img5 title
           description: |+
-            img5 description 
+            (일반조범재-5IMG_8489)<br><br>
 
         - subtitle: img6 title
           description: |+
-            img6 description 
+            (일반조범재-6IMG_8554)<br><br>
 
         - subtitle: img7 title
           description: |+
-            img7 description 
+            (일반조범재-7IMG_8688)<br><br>
 
         - subtitle: img8 title
           description: |+
-            img8 description  
+            (일반조범재-8IMG_8701)<br><br>
 
         - subtitle: img9 title
           description: |+
-            img9 description 
+            (일반조범재-9IMG_8443)<br><br>
 
         - subtitle: img10 title
           description: |+
-            img10 description 
+            (일반조범재-10IMG_8481)<br><br>
 
       port-url: 
       port-desc: |+ 
@@ -476,21 +532,29 @@ tabs-current:
       img-num: 4
       image-url: /1023_
       works:
-        - subtitle: img1 title
+        - subtitle: 병풍
           description: |+
-            img1 description 
+            (일반창암이삼만-1IMG_8410)<br><br>
 
-        - subtitle: img2 title
+        - subtitle: 南溪抱山流...
           description: |+
-            img2 description 
+            (일반창암이삼만-2IMG_8694)<br><br>
+            
+            南溪抱山流 (남계포산류) 남계는 산을 감싸 안고 흐르고 <br>
+            潤氣滋林麓 (윤기자림록) 윤택한 기운이 숲 가득 적시네.<br>
+            夢罷午牕陰 (몽파오창음) 꿈 깨서 보니 대낮 그늘졌는데 <br>
+            淸風在寒竹 (청풍재한죽) 맑은 바람만 서늘한 대숲에 가득해<br>
 
-        - subtitle: img3 title
+        - subtitle: 起事深隱爲...
           description: |+
-            img3 description 
+            (일반창암이삼만-3IMG_8692)<br><br>
+            
+            起事深隱爲 (가사심은위) 일을 계획하여 깊고 은은하게 행한다.<br>
+            莟應有高風 (함응유고풍) 꽃망울들이 높은 바람이 있는 곳에 응한다.<br>
 
-        - subtitle: img4 title
+        - subtitle: 서화
           description: |+
-            img4 description             
+            (일반창암이삼만-4IMG_8684)  <br><br>          
 
       port-url: 
       port-desc: |+ 
@@ -501,13 +565,13 @@ tabs-current:
       img-num: 2
       image-url: /1024_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화
           description: |+
-            img1 description 
+            (일반추사김정희-1IMG_8632)<br><br>
 
-        - subtitle: img2 title
+        - subtitle: 현판
           description: |+
-            img2 description 
+            (일반추사김정희-2IMG_8650)<br><br>
           
 
       port-url: 
@@ -519,9 +583,9 @@ tabs-current:
       img-num: 1
       image-url: /1025_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화
           description: |+
-            img1 description 
+            (일반판화가이철수-1IMG_8638)<br><br>
             
 
       port-url: 
@@ -533,12 +597,15 @@ tabs-current:
       img-num: 2
       image-url: /1026_
       works:
-        - subtitle: img1 title
+        - subtitle: 淸明在窮
           description: |+
-            img1 description 
-        - subtitle: img2 title
+            (일반해강김규진-1IMG_8665)<br><br>
+            
+            淸明在窮(청명재궁) 맑고 밝은 것이 내 몸안에 있다.<br>
+            
+        - subtitle: 서화
           description: |+
-            img2 description 
+            (일반해강김규진-1IMG_8690)<br><br>
             
 
       port-url: 
@@ -546,26 +613,28 @@ tabs-current:
        desc
 
     
-    - name: 기현용상방
+    - name: 동헌
       source: tab1027
       img-num: 1
       image-url: /1027_
       works:
-        - subtitle: img1 title
+        - subtitle: 守分安命
           description: |+
-            img1 description 
+            (일반동헌-1IMG_8590)<br><br>
+            
+            守分安命 (수분안명) 하늘의 뜻(명)을 따른다.<br>
             
 
       port-url: 
       port-desc: |+ 
        desc
 
-    - name: 동헌
+    - name: ...
       source: tab1028
       img-num: 1
       image-url: /1028_
       works:
-        - subtitle: img1 title
+        - subtitle: img2 title
           description: |+
             img1 description 
             
@@ -579,7 +648,7 @@ tabs-current:
       img-num: 10
       image-url: /2000_
       works:
-        - subtitle: img1 title
+        - subtitle: 작자미상
           description: |+
             img1 description 
     
