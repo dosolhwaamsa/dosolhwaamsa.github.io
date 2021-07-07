@@ -628,21 +628,7 @@ tabs-current:
       port-url: 
       port-desc: |+ 
        desc
-
-    - name: ...
-      source: tab1028
-      img-num: 1
-      image-url: /1028_
-      works:
-        - subtitle: img2 title
-          description: |+
-            img1 description 
-            
-
-      port-url: 
-      port-desc: |+ 
-       desc
-
+       
     - name: 작자미상
       source: tab2000
       img-num: 10
@@ -650,5 +636,8 @@ tabs-current:
       works:
         - subtitle: 작자미상
           description: |+
-            img1 description 
-    
+            img1 description             
+
+      port-url: 
+      port-desc: |+ 
+       desc
