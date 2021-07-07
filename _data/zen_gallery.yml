@@ -352,21 +352,23 @@ tabs-current:
       works:
         - subtitle: 서화-송천춘담스님 작
           description: |+
-            (송천춘담-1IMG_8413 )<br><br>
+            (송천춘담-1IMG_8413)<br><br>
+            
       port-url: 
       port-desc: |+
 
         호- 송천, 법명 춘담, 본명  류재환<br>
-         구한말 전라북도 위봉사 본사 주지역임. 제자로는 서경보스님을 두었으며, 염불 종장 무형문화재 일응스님 등 다수를 듬. 전라도 전주 인근에서 활동한 스님. 남고사에서 열반 하셨다.<br><br>
+        구한말 전라북도 위봉사 본사 주지역임. 제자로는 서경보스님을 두었으며, 염불 종장 무형문화재 일응스님 등 다수를 듬. 전라도 전주 인근에서 활동한 스님. 남고사에서 열반 하셨다.<br><br>
        
     - name: 대은스님 
       source: tab08
       img-num: 1
       image-url: /8_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화-대은스님 작
           description: |+
-            img1 description 
+            (대은-1IMG_8414)<br><br>
+            
       port-url: /8_daeun.jpg      
       port-desc: |+
 
@@ -394,9 +396,10 @@ tabs-current:
       img-num: 1
       image-url: /9_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화-한용운스님 작
           description: |+
-            img1 description 
+            (한용운-1IMG_8402)<br><br>
+            
       port-url: /9_manhae.jpg
       port-desc: |+
 
@@ -452,9 +455,10 @@ tabs-current:
       img-num: 1
       image-url: /10_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화-환경스님 작
           description: |+
-            img1 description 
+            (환경-1IMG_8388)<br><br>
+            
       port-url: /10_hwankyung.jpg      
       port-desc: |+
 
@@ -520,9 +524,10 @@ tabs-current:
       img-num: 1
       image-url: /11_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화-청담스님 작
           description: |+
-            img1 description 
+            (청담-1IMG_8380)<br><br>
+            
       port-url: /11_cheongdam.jpg      
       port-desc: |+
         (1902~1971)<br><br>
@@ -568,9 +573,9 @@ tabs-current:
       img-num: 1
       image-url: /12_
       works:
-        - subtitle: img1 title
+        - subtitle: 서화-구산스님 작
           description: |+
-            img1 description 
+            (구산-2IMG_8387) <br><br>
       port-url: /12_kusan.jpg
       port-desc: |+  
         (1909~1983)<br><br>
