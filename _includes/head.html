@@ -76,19 +76,17 @@
         
     </script>
 
-    <script language = "JavaScript">
-        $("body").on('mouseover', 'a', function (e) {
-        var $link = $(this),
-            href = $link.attr('href') || $link.data("href");
+    <script language = "Javascript">
+        function hidestatus(){ 
+            window.status="" 
+            return true 
+        } 
 
-        $link.off('click.chrome');
-        $link.on('click.chrome', function () {
-            window.location.href = href;
-        })
-        .attr('data-href', href) //keeps track of the href value
-        .css({ cursor: 'pointer' })
-        .removeAttr('href'); // <- this is what stops Chrome to display status bar
-    });
+        if (document.layers) 
+            document.captureEvents(Event.MOUSEOVER | Event.MOUSEOUT) 
+
+        document.onmouseover=hidestatus 
+        document.onmouseout=hidestatus         
     </script>
     
 <!-- ################### -->
