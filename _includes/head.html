@@ -44,11 +44,58 @@
     <script src="/assets/js/lunr.min.js" charset="utf-8"></script>
     <script src="/assets/js/lunr.js" charset="utf-8"></script>
 
+<!-- ################### 우클릭방지 / 소스보기방지 / 상태줄보기방지-->
+    <script type = "text/javascript">
+        var omitformtags = ["input", "textarea", "select"]
+        omitformtags = omitformtags.join("|")
+        function disableselect(e) {
+            if (omitformtags.indexOf(e.target.tagName.toLowerCase()) == -1)
+            return false
+        }
+        function reEnable(){
+            return true
+        }
+        if (typeof document.onselectstart != "undefined")
+            document.onselectstart = new Function ("return false")
+        else{
+            document.onmousedown = disableselect
+            document.onmouseup = reEnable
+        }    
+    </script>
 
+    <script LANGUAGE="JavaScript">
+        function processKey(){
+            if( (event.ctrlKey == true && (event.keyCode == 78 || event.keyCode == 82)) ||
+            (event.keyCode >= 112 && event.keyCode <= 123) || event.keyCode == 8){
+                event.keyCode = 0;
+                event.cancelBubble = true;
+                event.returnValue = false;
+            }
+        }
+        document.onkeydown = processKey;
+        
+    </script>
+
+    <script language = "JavaScript">
+        $("body").on('mouseover', 'a', function (e) {
+        var $link = $(this),
+            href = $link.attr('href') || $link.data("href");
+
+        $link.off('click.chrome');
+        $link.on('click.chrome', function () {
+            window.location.href = href;
+        })
+        .attr('data-href', href) //keeps track of the href value
+        .css({ cursor: 'pointer' })
+        .removeAttr('href'); // <- this is what stops Chrome to display status bar
+    });
+    </script>
+    
+<!-- ################### -->
+    
 
     {% if page.support contains 'jquery' %}
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.0/jquery.min.js"></script>
-
 
 <!-- ################### -->
     <link rel="stylesheet" href="{{- site.baseurl -}}/assets/js/jarallax/src/jarallax.css">
