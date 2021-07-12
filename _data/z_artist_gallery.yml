@@ -72,7 +72,7 @@ tabs-current:
       port-desc: |+ 
        desc
 
-    - name: 라오
+    - name: 라오김종우
       source: tab1004
       img-num: 2
       image-url: /1004_
@@ -89,7 +89,7 @@ tabs-current:
       port-desc: |+ 
        desc
 
-    - name: 미산허영구
+    - name: 미산허영
       source: tab1005
       img-num: 1
       image-url: /1005_
@@ -257,7 +257,7 @@ tabs-current:
        desc
 
 
-    - name: 소공
+    - name: 소공이명우
       source: tab1011
       img-num: 4
       image-url: /1011_
@@ -380,35 +380,30 @@ tabs-current:
     
     - name: 의암김정호
       source: tab1017
-      img-num: 6
+      img-num: 7
       image-url: /1017_
       works:
-        - subtitle: 서화
+        - subtitle: 서화(일반의암김정호-1IMG_8500)
           description: |+
-            (일반의암김정호-1IMG_8500)<br><br>
 
-        - subtitle: 서화
+        - subtitle: 서화(일반의암김정호-2IMG_8555)
           description: |+
-            (일반의암김정호-2IMG_8555) <br><br>
 
-        - subtitle: 但知不會
+        - subtitle: 但知不會(일반의암김정호-3IMG_8620)
           description: |+
-            (일반의암김정호-3IMG_8620)<br><br>
-            
             但知不會 (단지불회) 단지 알지 못함을 아는가?<br>
 
-        - subtitle: 서화
+        - subtitle: 서화(일반의암김정호-4IMG_8623)
           description: |+
-            (일반의암김정호-4IMG_8623)<br><br>
 
-        - subtitle: 서화
+        - subtitle: 서화(일반의암김정호-5IMG_8659)
           description: |+
-            (일반의암김정호-5IMG_8659)<br><br>
 
-        - subtitle: 서화
+        - subtitle: 서화(일반의암김정호-6IMG_8703)
           description: |+
-            (일반의암김정호-6IMG_8703)<br><br>
-   
+            
+        - subtitle: 보현행원품(일반의암김정호-7IMG_8455)
+          description: |+
 
       port-url: 
       port-desc: |+ 
@@ -480,13 +475,12 @@ tabs-current:
     
     - name: 조범재
       source: tab1022
-      img-num: 10
+      img-num: 9
       image-url: /1022_
       works:
         - subtitle: img1 title
           description: |+
-            (일반조범재-1IMG_8455)<br><br> 
-
+            (일반조범재-10IMG_8455)<br><br>
         - subtitle: img2 title
           description: |+
             (일반조범재-2IMG_8559)<br><br> 
@@ -494,10 +488,10 @@ tabs-current:
         - subtitle: img3 title
           description: |+
             (일반조범재-3IMG_8459)<br><br> 
-
+            
         - subtitle: img4 title
           description: |+
-            (일반조범재-4IMG_8470)<br><br> 
+            (일반조범재-4IMG_8470)<br><br>
 
         - subtitle: img5 title
           description: |+
@@ -519,9 +513,6 @@ tabs-current:
           description: |+
             (일반조범재-9IMG_8443)<br><br>
 
-        - subtitle: img10 title
-          description: |+
-            (일반조범재-10IMG_8481)<br><br>
 
       port-url: 
       port-desc: |+ 
@@ -625,6 +616,26 @@ tabs-current:
             守分安命 (수분안명) 하늘의 뜻(명)을 따른다.<br>
             
 
+      port-url: 
+      port-desc: |+ 
+       desc
+       
+    - name: 조우호
+      source: tab1028
+      img-num: 3
+      image-url: /1028_
+      works:
+        - subtitle: (일반조우호-1IMG_8470)
+          description: |+
+            
+        - subtitle: 작자미상
+          description: |+
+            img1 description  
+            
+        - subtitle: 작자미상
+          description: |+
+            img1 description  
+            
       port-url: 
       port-desc: |+ 
        desc
