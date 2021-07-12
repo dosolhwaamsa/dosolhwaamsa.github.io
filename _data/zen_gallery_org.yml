@@ -15,14 +15,7 @@ tabs-current:
       works:
         - subtitle: 三江潮水急...(서산대사-1IMG_8393)
           description: |+
-<!--
-            (서산대사-1IMG_8393)<br><br>
-            
-            三江潮水急 (삼강조수급) 삼강은 조수가 급하고<br>
-            五湖風浪湧 (오호풍랑용) 오호는 풍랑이 솟구친다<br>
-            由來花性輕 (유래화성경) 원래부터 연꽃의 성장은 가벼우니<br>
-            莫畏蓮舟重 (막외연주중) 연꽃을 따는 배가 무겁다고 걱정하지 말라.<br>
- -->
+          --
       port-url: /1_susan.jpg
       port-desc: |+         
         <b>휴정</b>(休靜, 1520년 3월 26일~1604년 1월 23일)은 조선 중기의 고승, 승장(僧將)이다. 속성은 최(崔), 본관은 완산, 이름은 여신(汝 信), 아명은 운학(雲鶴), 자는 현응(玄應), 호는 청허(淸虛)·서산(西山), 별호는 백화도인(白華道人) 또는 서산대사(西山大師)·풍악산 인(楓岳山人)·두류산인(頭流山人)·묘향산인(妙香山人)·조계퇴은(曹溪退隱)·병로(病老)이다[1]. 휴정은 법명. 제63대 조사이다. 임진왜란 당시 제자인 사명당 유정과 함께 승병(僧兵)을 일으켜서 크게 전공을 세웠다. <br><br>
@@ -69,11 +62,9 @@ tabs-current:
       img-num: 1
       image-url: /2_
       works:
-        - subtitle: 世界一花
+        - subtitle: 世界一花(초이선사-1IMG_8411)
           description: |+
-            (초이선사-1IMG_8411)<br><br>
-            
-            世界一花 (세계일화) 세상이 한송이의 꽃이다.
+          --
             
       port-url: /2_초의선사.jpg
       port-desc: |+
@@ -127,16 +118,13 @@ tabs-current:
       img-num: 2
       image-url: /3_
       works:
-        - subtitle: 放牛放是故鄕 不如離出生地
+        - subtitle: 放牛放是故鄕...(만공-1IMG_8379)
           description: |+
-            (만공-1IMG_8379)<br><br>
-            放牛放是故鄕 (방우방시고향) 소를 놓아주었다는 것마저 놓아버리면 바로 고향이지만
-            不如離出生地 (불여리출생지) 태어난 곳을 훌쩍 벗어나는 것만은 못하지.
+          --
             
-        - subtitle: 萬法歸宗
+        - subtitle: 萬法歸宗(만공-2IMG_8381)
           description: |+
-            (만공-2IMG_8381)<br><br>
-            萬法歸宗 (만법귀종) 만법은 근본으로 돌아간다.
+          --
             
       port-url: /3_만공스님.jpg
       port-desc: |+
@@ -205,23 +193,21 @@ tabs-current:
       img-num: 4
       image-url: /4_
       works:
-        - subtitle: 香聲藏
+        - subtitle: 香聲藏(경봉-1IMG_8521)
           description: |+
-            (경봉-1IMG_8521)<br><br> 
-            香聲藏 (향성장) 향기로운 소리가 나는 곳.
+          --
             
-        - subtitle: 世界一花
+        - subtitle: 世界一花(경봉-2IMG_8522)
           description: |+
-            (경봉-2IMG_8522)<br><br>
-            世界一花 (세계일화) 이세상은 하나의 꽃.
+          --
             
-        - subtitle: 서화-경봉스님 작
+        - subtitle: 서화(경봉-3IMG_8627)
           description: |+
-            (경봉-3IMG_8627)<br><br> 
+          --
             
-        - subtitle: 서화-경봉스님 작
+        - subtitle: 서화(경봉-4IMG_8386)
           description: |+
-            (경봉-4IMG_8386)<br><br>
+          --
             
       port-desc: |+
 
@@ -257,9 +243,9 @@ tabs-current:
       img-num: 1
       image-url: /5_
       works: 
-        - subtitle: 서화-퇴경권상로스님 작
+        - subtitle: 서화(퇴경권상로-1IMG_8372)
           description: |+
-            (퇴경권상로-1IMG_8372)<br><br>
+          --
             
     
       port-desc: |+
@@ -313,9 +299,9 @@ tabs-current:
       img-num: 1
       image-url: /6_
       works:
-        - subtitle: 서화-백학명스님 작
+        - subtitle: 서화(백학명-1IMG_8376)
           description: |+
-             (백학명-1IMG_8376)<br><br>
+          --
              
       port-url: /6_.jpg
       port-desc: |+
@@ -352,9 +338,9 @@ tabs-current:
       img-num: 1
       image-url: /7_
       works:
-        - subtitle: 서화-송천춘담스님 작
+        - subtitle: 서화(송천춘담-1IMG_8413)
           description: |+
-            (송천춘담-1IMG_8413)<br><br>
+          --
             
       port-url: 
       port-desc: |+
@@ -367,10 +353,10 @@ tabs-current:
       img-num: 1
       image-url: /8_
       works:
-        - subtitle: 廻光返照
+        - subtitle: 廻光返照(대은-1IMG_8414)
           description: |+
-            (대은-1IMG_8414)<br><br>
-            廻光返照 (회광반조) 빛을 돌이켜 거꾸로 비춘다.
+          --
+          
       port-url: /8_daeun.jpg      
       port-desc: |+
 
@@ -398,9 +384,9 @@ tabs-current:
       img-num: 1
       image-url: /9_
       works:
-        - subtitle: 서화-한용운스님 작
+        - subtitle: 서화(한용운-1IMG_8402)
           description: |+
-            (한용운-1IMG_8402)<br><br>
+          --
             
       port-url: /9_manhae.jpg
       port-desc: |+
@@ -457,10 +443,10 @@ tabs-current:
       img-num: 1
       image-url: /10_
       works:
-        - subtitle: 慈室忍依
+        - subtitle: 慈室忍依(환경-1IMG_8388)
           description: |+
-            (환경-1IMG_8388)<br><br>
-            慈室忍依 (자실인의) 자비로움으로 집을 삼고 참음을 옷으로 삼아.
+          --
+          
       port-url: /10_hwankyung.jpg      
       port-desc: |+
 
@@ -526,9 +512,9 @@ tabs-current:
       img-num: 1
       image-url: /11_
       works:
-        - subtitle: 서화-청담스님 작
+        - subtitle: 서화(청담-1IMG_8380)
           description: |+
-            (청담-1IMG_8380)<br><br>
+          --
             
       port-url: /11_cheongdam.jpg      
       port-desc: |+
@@ -575,10 +561,10 @@ tabs-current:
       img-num: 1
       image-url: /12_
       works:
-        - subtitle: 芥納須彌
+        - subtitle: 芥納須彌(구산-2IMG_8387)
           description: |+
-            (구산-2IMG_8387) <br><br>
-            芥納須彌 (개납수미) 겨자씨 한 알이 수미산을 다 덮는다.
+          --
+          
       port-url: /12_kusan.jpg
       port-desc: |+  
         (1909~1983)<br><br>
@@ -639,11 +625,9 @@ tabs-current:
       img-num: 1
       image-url: /13_
       works:
-        - subtitle: 爭知不足 讓知有餘
+        - subtitle: 爭知不足...(해안-1IMG_8385)
           description: |+
-            (해안-1IMG_8385) <br><br>
-            爭知不足 (쟁지부족) 다투면 모자르고
-            讓知有餘 (양지유여) 양보하면 남는다.
+          --
             
       port-url: /13_haean.jpg
       port-desc: |+  
@@ -738,25 +722,17 @@ tabs-current:
       img-num: 3
       image-url: /14_
       works:
-        - subtitle: 勤儉門間 卽有樂園
+        - subtitle: 勤儉門間...(석주-1IMG_8399)
           description: |+
-            (석주-1IMG_8399) <br><br>
+          --
             
-            勤儉門間 (근검문간) 근검하는 집안에
-            卽有樂園 (즉유낙원) 곧 낙원이 있다.
-            
-        - subtitle: 霜松潔操 水月虛襟
+        - subtitle: 霜松潔操...(석주-2IMG_8473)
           description: |+
-            (석주-2IMG_8473) <br><br>
-            
-            霜松潔操 (상송결조) 서리 어린 소나무처럼 곧은 지조로써 자신을 다루고 
-            水月虛襟 (수월허금) 물에 비친 달처럼 빈마음으로 사람과 사물을 대하라.
+          --
 
-        - subtitle: 吾唯知足
+        - subtitle: 吾唯知足(석주-3IMG_8569)
           description: |+
-            (석주-3IMG_8569) <br><br>
-            
-            吾唯知足(오유지족) 나 스스로 오직 만족함을 안다.
+          --
             
       port-url: /14_seokju.jpg
       port-desc: |+  
