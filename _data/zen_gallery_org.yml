@@ -15,7 +15,7 @@ tabs-current:
       works:
         - subtitle: 三江潮水急...(서산대사-1IMG_8393)
           description: |+
-            _
+            
           
       port-url: /1_susan.jpg
       port-desc: |+         
@@ -63,9 +63,9 @@ tabs-current:
       img-num: 1
       image-url: /2_
       works:
-        - subtitle: (초이선사-1IMG_8411)
+        - subtitle: (초의선사-1IMG_8411)
           description: |+
-            _
+            
             
       port-url: /2_초의선사.jpg
       port-desc: |+
@@ -125,7 +125,7 @@ tabs-current:
             
         - subtitle: 萬法歸宗(만공-2IMG_8381)
           description: |+
-          --
+          
             
       port-url: /3_만공스님.jpg
       port-desc: |+
@@ -354,7 +354,7 @@ tabs-current:
       works:
         - subtitle: 廻光返照(대은-1IMG_8414)
           description: |+
-          --
+          
           
       port-url: /8_daeun.jpg      
       port-desc: |+
@@ -385,7 +385,7 @@ tabs-current:
       works:
         - subtitle: 서화(한용운-1IMG_8402)
           description: |+
-          --
+          
             
       port-url: /9_manhae.jpg
       port-desc: |+
@@ -444,7 +444,7 @@ tabs-current:
       works:
         - subtitle: 慈室忍依(환경-1IMG_8388)
           description: |+
-          --
+          
           
       port-url: /10_hwankyung.jpg      
       port-desc: |+
@@ -513,7 +513,7 @@ tabs-current:
       works:
         - subtitle: 서화(청담-1IMG_8380)
           description: |+
-          --
+          
             
       port-url: /11_cheongdam.jpg      
       port-desc: |+
@@ -562,7 +562,7 @@ tabs-current:
       works:
         - subtitle: 芥納須彌(구산-2IMG_8387)
           description: |+
-          --
+          
           
       port-url: /12_kusan.jpg
       port-desc: |+  
@@ -626,7 +626,7 @@ tabs-current:
       works:
         - subtitle: 爭知不足...(해안-1IMG_8385)
           description: |+
-          --
+          
             
       port-url: /13_haean.jpg
       port-desc: |+  
@@ -723,15 +723,15 @@ tabs-current:
       works:
         - subtitle: 勤儉門間...(석주-1IMG_8399)
           description: |+
-          --
+          
             
         - subtitle: 霜松潔操...(석주-2IMG_8473)
           description: |+
-          --
+
 
         - subtitle: 吾唯知足(석주-3IMG_8569)
           description: |+
-          --
+          
             
       port-url: /14_seokju.jpg
       port-desc: |+  
@@ -814,9 +814,9 @@ tabs-current:
       img-num: 1
       image-url: /15_
       works:
-        - subtitle: 對境千差 心閑一境
+        - subtitle: 對境千差 心閑一境(서암-1IMG_8400) 
           description: |+
-            (서암-1IMG_8400) <br><br>
+            <br><br>
             對境千差 (대경천차) 천만 가지 상대를 해도
             心閑一境 (심한일경) 마음은 항상 한가하게 있다.
        
@@ -957,13 +957,13 @@ tabs-current:
       img-num: 2
       image-url: /16_
       works:
-        - subtitle: 摩訶般若波羅蜜
+        - subtitle: 摩訶般若波羅蜜(일타-1IMG_8396)
           description: |+
             (일타-1IMG_8396)
             
             摩訶般若波羅蜜 (마하반야바라밀) 큰 지혜로 저 언덕에 이르는 일.
 
-        - subtitle: 茶香山房
+        - subtitle: 茶香山房(일타-2IMG_8504)
           description: |+
             (일타-2IMG_8504)
             
@@ -1980,7 +1980,7 @@ tabs-current:
       img-num: 1
       image-url: /29_
       works:
-        - subtitle: 서화-정광시님 작
+        - subtitle: 서화-정광스님 작
           description: |+
             (정광-1IMG_8395) <br><br>
        
