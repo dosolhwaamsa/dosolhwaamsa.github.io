@@ -1126,7 +1126,7 @@ tabs-current:
 
     - name: 청화스님
       source: tab18
-      img-num: 0
+      img-num: 1
       image-url: /18_
       works:
         - subtitle: 서화(청화-1IMG_8415)
