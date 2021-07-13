@@ -2501,7 +2501,7 @@ tabs-current:
 
     - name: 설정스님 
       source: tab36
-      img-num: 21
+      img-num: 19
       image-url: /36_
       works:
         - subtitle: 서화-설정스님 작
