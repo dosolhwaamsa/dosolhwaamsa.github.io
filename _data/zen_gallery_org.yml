@@ -13,7 +13,7 @@ tabs-current:
       img-num: 1
       image-url: /1_
       works:
-        - subtitle: 三江潮水急...(서산대사-1IMG_8393)
+        - subtitle: 三江潮水急...
           description: |+
             
           
@@ -63,7 +63,7 @@ tabs-current:
       img-num: 1
       image-url: /2_
       works:
-        - subtitle: (초의선사-1IMG_8411)
+        - subtitle: 
           description: |+
             
             
@@ -119,11 +119,11 @@ tabs-current:
       img-num: 2
       image-url: /3_
       works:
-        - subtitle: 放牛放是故鄕...(만공-1IMG_8379)
+        - subtitle: 放牛放是故鄕...
           description: |+
           
             
-        - subtitle: 萬法歸宗(만공-2IMG_8381)
+        - subtitle: 萬法歸宗
           description: |+
           
             
@@ -194,19 +194,19 @@ tabs-current:
       img-num: 4
       image-url: /4_
       works:
-        - subtitle: 香聲藏(경봉-1IMG_8521)
+        - subtitle: 香聲藏
           description: |+
           
             
-        - subtitle: 世界一花(경봉-2IMG_8522)
+        - subtitle: 世界一花
           description: |+
           
             
-        - subtitle: 서화(경봉-3IMG_8627)
+        - subtitle: 서화
           description: |+
           
             
-        - subtitle: 서화(경봉-4IMG_8386)
+        - subtitle: 서화
           description: |+
           
             
@@ -244,7 +244,7 @@ tabs-current:
       img-num: 1
       image-url: /5_
       works: 
-        - subtitle: 서화(퇴경권상로-1IMG_8372)
+        - subtitle: 서화
           description: |+            
           
       port-desc: |+
@@ -298,7 +298,7 @@ tabs-current:
       img-num: 1
       image-url: /6_
       works:
-        - subtitle: 서화(백학명-1IMG_8376)
+        - subtitle: 서화
           description: |+
           
              
@@ -337,7 +337,7 @@ tabs-current:
       img-num: 1
       image-url: /7_
       works:
-        - subtitle: 서화(송천춘담-1IMG_8413)
+        - subtitle: 서화
           description: |+
           
             
@@ -352,7 +352,7 @@ tabs-current:
       img-num: 1
       image-url: /8_
       works:
-        - subtitle: 廻光返照(대은-1IMG_8414)
+        - subtitle: 廻光返照
           description: |+
           
           
@@ -383,7 +383,7 @@ tabs-current:
       img-num: 1
       image-url: /9_
       works:
-        - subtitle: 서화(한용운-1IMG_8402)
+        - subtitle: 서화
           description: |+
           
             
@@ -442,7 +442,7 @@ tabs-current:
       img-num: 1
       image-url: /10_
       works:
-        - subtitle: 慈室忍依(환경-1IMG_8388)
+        - subtitle: 慈室忍依
           description: |+
           
           
@@ -511,7 +511,7 @@ tabs-current:
       img-num: 1
       image-url: /11_
       works:
-        - subtitle: 서화(청담-1IMG_8380)
+        - subtitle: 서화
           description: |+
           
             
@@ -560,7 +560,7 @@ tabs-current:
       img-num: 1
       image-url: /12_
       works:
-        - subtitle: 芥納須彌(구산-2IMG_8387)
+        - subtitle: 芥納須彌
           description: |+
           
           
@@ -624,7 +624,7 @@ tabs-current:
       img-num: 1
       image-url: /13_
       works:
-        - subtitle: 爭知不足...(해안-1IMG_8385)
+        - subtitle: 爭知不足...
           description: |+
           
             
@@ -721,15 +721,15 @@ tabs-current:
       img-num: 3
       image-url: /14_
       works:
-        - subtitle: 勤儉門間...(석주-1IMG_8399)
+        - subtitle: 勤儉門間...
           description: |+
           
             
-        - subtitle: 霜松潔操...(석주-2IMG_8473)
+        - subtitle: 霜松潔操...
           description: |+
 
 
-        - subtitle: 吾唯知足(석주-3IMG_8569)
+        - subtitle: 吾唯知足
           description: |+
           
             
@@ -814,7 +814,7 @@ tabs-current:
       img-num: 1
       image-url: /15_
       works:
-        - subtitle: 對境千差 心閑一境(서암-1IMG_8400) 
+        - subtitle: 對境千差 心閑一境 
           description: |+
             <br><br>
             對境千差 (대경천차) 천만 가지 상대를 해도
@@ -957,13 +957,13 @@ tabs-current:
       img-num: 2
       image-url: /16_
       works:
-        - subtitle: 摩訶般若波羅蜜(일타-1IMG_8396)
+        - subtitle: 摩訶般若波羅蜜
           description: |+
             (일타-1IMG_8396)
             
             摩訶般若波羅蜜 (마하반야바라밀) 큰 지혜로 저 언덕에 이르는 일.
 
-        - subtitle: 茶香山房(일타-2IMG_8504)
+        - subtitle: 茶香山房
           description: |+
             (일타-2IMG_8504)
             
@@ -1128,7 +1128,7 @@ tabs-current:
       img-num: 1
       image-url: /18_
       works:
-        - subtitle: 서화(청화-1IMG_8415)
+        - subtitle: 서화
           description: |+
             --
         
