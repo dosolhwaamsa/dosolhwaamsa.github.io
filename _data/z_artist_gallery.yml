@@ -383,27 +383,34 @@ tabs-current:
       img-num: 7
       image-url: /1017_
       works:
-        - subtitle: 서화(일반의암김정호-1IMG_8500)
+        - subtitle: 서화
           description: |+
+            (일반의암김정호-1IMG_8500)
 
-        - subtitle: 서화(일반의암김정호-2IMG_8555)
+        - subtitle: 서화
           description: |+
+            (일반의암김정호-2IMG_8555)
 
-        - subtitle: 但知不會(일반의암김정호-3IMG_8620)
+        - subtitle: 但知不會
           description: |+
+            (일반의암김정호-3IMG_8620)
             但知不會 (단지불회) 단지 알지 못함을 아는가?<br>
 
-        - subtitle: 서화(일반의암김정호-4IMG_8623)
+        - subtitle: 서화
           description: |+
+            (일반의암김정호-4IMG_8623)
 
-        - subtitle: 서화(일반의암김정호-5IMG_8659)
+        - subtitle: 서화
           description: |+
+            (일반의암김정호-5IMG_8659)
 
-        - subtitle: 서화(일반의암김정호-6IMG_8703)
+        - subtitle: 서화
           description: |+
+            (일반의암김정호-6IMG_8703)
             
-        - subtitle: 보현행원품(일반의암김정호-7IMG_8481)
+        - subtitle: 보현행원품
           description: |+
+            (일반의암김정호-7IMG_8481)
 
       port-url: 
       port-desc: |+ 
