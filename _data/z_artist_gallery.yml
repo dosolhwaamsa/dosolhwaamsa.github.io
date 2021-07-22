@@ -446,6 +446,10 @@ tabs-current:
           description: |+
             (일반이철규-1IMG_8597)<br><br>
             
+        - subtitle: 산과 금빛 하늘
+          description: |+
+            (일반이철규-2IMG_8787)<br><br>
+            
 
       port-url: 
       port-desc: |+ 
@@ -475,43 +479,24 @@ tabs-current:
     
     - name: 조범재
       source: tab1022
-      img-num: 9
+      img-num: 4
       image-url: /1022_
       works:
-        - subtitle: img1 title
+        - subtitle: 
           description: |+
             (일반조범재-1IMG_8455)<br><br>
-        - subtitle: img2 title
+            
+        - subtitle: 
           description: |+
             (일반조범재-2IMG_8559)<br><br> 
             
-        - subtitle: img3 title
+        - subtitle: 
           description: |+
-            (일반조범재-3IMG_8459)<br><br> 
+            (일반조범재-3IMG_8780)<br><br> 
             
-        - subtitle: img4 title
+        - subtitle: 
           description: |+
-            (일반조범재-4IMG_8470)<br><br>
-
-        - subtitle: img5 title
-          description: |+
-            (일반조범재-5IMG_8489)<br><br>
-
-        - subtitle: img6 title
-          description: |+
-            (일반조범재-6IMG_8554)<br><br>
-
-        - subtitle: img7 title
-          description: |+
-            (일반조범재-7IMG_8688)<br><br>
-
-        - subtitle: img8 title
-          description: |+
-            (일반조범재-8IMG_8701)<br><br>
-
-        - subtitle: img9 title
-          description: |+
-            (일반조범재-9IMG_8443)<br><br>
+            (일반조범재-4IMG_8786)<br><br> 
 
 
       port-url: 
@@ -622,19 +607,35 @@ tabs-current:
        
     - name: 조우호
       source: tab1028
-      img-num: 3
+      img-num: 7
       image-url: /1028_
       works:
-        - subtitle: (일반조우호-1IMG_8470)
+        - subtitle: 
           description: |+
+            (일반조우호-1IMG_8470)
+        - subtitle: 
+          description: |+
+            (일반조우호-2IMG_8459)  
             
-        - subtitle: 작자미상
+        - subtitle: 
           description: |+
-            img1 description  
+            (일반조우호-3IMG_8489)
             
-        - subtitle: 작자미상
+        - subtitle: 
           description: |+
-            img1 description  
+            (일반조우호-4IMG_8554)
+            
+        - subtitle: 
+          description: |+
+            (일반조우호-5IMG_8688) 
+            
+        - subtitle: 
+          description: |+
+            (일반조우호-6IMG_8701)
+            
+        - subtitle: 
+          description: |+
+           (일반조우호-7IMG_8443) 
             
       port-url: 
       port-desc: |+ 
