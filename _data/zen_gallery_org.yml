@@ -191,7 +191,7 @@ tabs-current:
     - name: 경봉스님
       source: tab04
       port-url: /4_경봉스님.png
-      img-num: 4
+      img-num: 5
       image-url: /4_
       works:
         - subtitle: 香聲藏
@@ -207,6 +207,10 @@ tabs-current:
           
             
         - subtitle: 서화
+          description: |+
+          
+          
+        - subtitle: 茶禪一味
           description: |+
           
             
@@ -1717,7 +1721,7 @@ tabs-current:
 
     - name: 중광스님 
       source: tab26
-      img-num: 3
+      img-num: 4
       image-url: /26_
       works:
         - subtitle: 서화
@@ -1731,6 +1735,10 @@ tabs-current:
         - subtitle: 서화
           description: |+
             (중광-3IMG_8549)<br><br>
+            
+        - subtitle: 닭
+          description: |+
+            (중광-4IMG_8784)<br><br>
 
       port-url: /26_joongkwang.jpg
       port-desc: |+  
@@ -3231,6 +3239,15 @@ tabs-current:
 
         불교신문 2436호/ 6월21일자<br>
         출처  불교신문(http://www.ibulgyo.com)<br>
+        
+    - name: 성철스님
+      source: tab42
+      img-num: 1
+      image-url: /42_
+      works:
+        - subtitle: 眞空妙有
+          description: |+
+            (성철-1IMG_8781)<br><br>
         
     - name: 현대작품
       source: tab999
