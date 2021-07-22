@@ -439,7 +439,7 @@ tabs-current:
 
     - name: 이철규
       source: tab1020
-      img-num: 1
+      img-num: 2
       image-url: /1020_
       works:
         - subtitle: 서화
@@ -570,7 +570,7 @@ tabs-current:
 
     - name: 해강김규진
       source: tab1026
-      img-num: 2
+      img-num: 3
       image-url: /1026_
       works:
         - subtitle: 淸明在窮
@@ -581,7 +581,11 @@ tabs-current:
             
         - subtitle: 서화
           description: |+
-            (일반해강김규진-1IMG_8690)<br><br>
+            (일반해강김규진-2IMG_8690)<br><br>
+            
+        - subtitle: 풍죽
+          description: |+
+            (일반해강김규진-3IMG_8782)<br><br>
             
 
       port-url: 
@@ -636,6 +640,51 @@ tabs-current:
         - subtitle: 
           description: |+
            (일반조우호-7IMG_8443) 
+            
+      port-url: 
+      port-desc: |+ 
+       desc
+       
+    - name: 소산
+      source: tab1029
+      img-num: 1
+      image-url: /1029_
+      works:
+        - subtitle: 
+          description: |+
+            (일반소산-1IMG_8591)<br><br>
+
+      port-url: 
+      port-desc: |+ 
+       desc
+       
+    - name: 명장유철규
+      source: tab1030
+      img-num: 1
+      image-url: /1030_
+      works:
+        - subtitle: 
+          description: |+
+            (일반유철규-1IMG_8591)<br><br>
+
+      port-url: 
+      port-desc: |+ 
+       desc
+       
+    - name: 해산이종선
+      source: tab1031
+      img-num: 1
+      image-url: /1031_
+      works:
+        - subtitle: 無苦集滅道
+          description: |+
+            (일반해산이종선-1IMG_8783)<br><br>
+
+            無苦集滅道 (무고집멸도) 해결할 수 없는 고통이란 없다.<br>
+            지혜의 눈으로 우리 인생을 관찰해 볼 때 삶의 근본이라고 하는<br>
+            몸과 마음은 텅 비어 아무것도 없는데, 그 몸과 마음을 의지하여<br>
+            일어나는 온갖 고통은 아예 있을 수 없다. 따라서 그 고의 원인도,<br>
+            고가 소멸된 경지도 고를 소멸하는 방법도 있을 수 없다.<br>
             
       port-url: 
       port-desc: |+ 
