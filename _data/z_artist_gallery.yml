@@ -512,7 +512,7 @@ tabs-current:
 
     - name: 창암이삼만
       source: tab1023
-      img-num: 4
+      img-num: 5
       image-url: /1023_
       works:
         - subtitle: 병풍
@@ -537,7 +537,11 @@ tabs-current:
 
         - subtitle: 서화
           description: |+
-            (일반창암이삼만-4IMG_8684)  <br><br>          
+            (일반창암이삼만-4IMG_8684)  <br><br>       
+            
+        - subtitle: 
+          description: |+
+            (일반창암이삼만-5IMG_8793)  <br><br>   
 
       port-url: 
       port-desc: |+ 
@@ -693,6 +697,19 @@ tabs-current:
             일어나는 온갖 고통은 아예 있을 수 없다. 따라서 그 고의 원인도,<br>
             고가 소멸된 경지도 고를 소멸하는 방법도 있을 수 없다.<br>
             
+      port-url: 
+      port-desc: |+ 
+       desc
+       
+    - name: 동강
+      source: tab1032
+      img-num: 1
+      image-url: /1032_
+      works:
+        - subtitle: 동강
+          description: |+
+            (일반동강-1IMG_8791)             
+
       port-url: 
       port-desc: |+ 
        desc
