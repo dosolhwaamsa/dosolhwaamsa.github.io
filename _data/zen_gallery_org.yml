@@ -2000,7 +2000,7 @@ tabs-current:
 
     - name: 서옹스님 
       source: tab30
-      img-num: 5
+      img-num: 6
       image-url: /30_
       works:
         - subtitle: 서화
@@ -2029,6 +2029,11 @@ tabs-current:
             
             月落三更穿市過 (월락삼경천시과) 삼경에 달이 지니 저자를 뚫고 지나감이로다.<br>
             교학에 의지하지 않고, 좌선에 의해서 바로 사람의 마음을 직관하여, 불의 깨달음에 도달하는 것.<br>
+            
+        - subtitle: 
+          description: |+
+            (서옹-6IMG_8792)<br><br>
+
 
       port-url: /30_seowoong.jpg
       port-desc: |+  
