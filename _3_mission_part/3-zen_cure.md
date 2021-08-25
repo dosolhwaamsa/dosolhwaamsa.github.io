@@ -16,13 +16,6 @@ collection_name: 3_mission_part
 * 문의/신청 : [[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)
 
 -->
-![image]({{site.baseurl}}/images/religious_part/s08_img_01.jpg)
-
-![image]({{site.baseurl}}/images/religious_part/s08_img_02.jpg)
-
-![image]({{site.baseurl}}/images/religious_part/s08_img_03.jpg)
-
----
 
 <iframe width="100%"
         height="600"
@@ -30,6 +23,16 @@ collection_name: 3_mission_part
         frameborder="0"
         allow="autoplay; encrypted-media"
         allowfullscreen></iframe>
+        
+---
+
+![image]({{site.baseurl}}/images/religious_part/s08_img_01.jpg)
+
+![image]({{site.baseurl}}/images/religious_part/s08_img_02.jpg)
+
+![image]({{site.baseurl}}/images/religious_part/s08_img_03.jpg)
+
+---
 
 <!-- please email [dosol-hwaam@naver.com](mailto:dosol-hwaam@naver.com).      -->
 
