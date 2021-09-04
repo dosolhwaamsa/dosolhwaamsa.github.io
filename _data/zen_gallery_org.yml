@@ -191,7 +191,7 @@ tabs-current:
     - name: 경봉스님
       source: tab04
       port-url: /4_경봉스님.png
-      img-num: 5
+      img-num: 7
       image-url: /4_
       works:
         - subtitle: 香聲藏
@@ -212,6 +212,14 @@ tabs-current:
           
         - subtitle: 茶禪一味
           description: |+
+
+        - subtitle: 족자
+          description: |+
+            (경봉_JJIMG_8818)
+          
+        - subtitle: 족자
+          description: |+  
+            (경봉_JJIMG_8849)
           
             
       port-desc: |+
@@ -443,11 +451,15 @@ tabs-current:
 
     - name: 환경스님  
       source: tab10
-      img-num: 1
+      img-num: 2
       image-url: /10_
       works:
         - subtitle: 慈室忍依
           description: |+
+
+        - subtitle: 족자
+          description: |+  
+            (환경_JJIMG_8841)
           
           
       port-url: /10_hwankyung.jpg      
@@ -625,11 +637,15 @@ tabs-current:
 
     - name: 해안스님 
       source: tab13      
-      img-num: 1
+      img-num: 2
       image-url: /13_
       works:
         - subtitle: 爭知不足...
           description: |+
+
+        - subtitle: 족자
+          description: |+ 
+            (해안_JJIMG_8827) 
           
             
       port-url: /13_haean.jpg
@@ -1129,12 +1145,16 @@ tabs-current:
 
     - name: 청화스님
       source: tab18
-      img-num: 1
+      img-num: 2
       image-url: /18_
       works:
         - subtitle: 和光同塵
           description: |+
             --
+
+        - subtitle: 족자
+          description: |+
+            (청화_JJIMG_8821)  
         
       port-url: /18_cheonghwa.jpg
       port-desc: |+  
@@ -1520,7 +1540,7 @@ tabs-current:
 
     - name: 석정스님
       source: tab24      
-      img-num: 6
+      img-num: 8
       image-url: /24_
       works:
         - subtitle: 掌上明珠一顆寒...
@@ -1551,6 +1571,14 @@ tabs-current:
         - subtitle: 서화
           description: |+
             (석정-6IMG_8731) <br><br>
+
+        - subtitle: 족자
+          description: |+
+            (석정_JJIMG_8846) <br><br>
+
+        - subtitle: 족자
+          description: |+
+            (석정_JJIMG_8847) <br><br>        
 
       port-url: /24_seokjeong.jpg          
       port-desc: |+  
@@ -1648,7 +1676,7 @@ tabs-current:
 
     - name: 원담스님 
       source: tab25
-      img-num: 8
+      img-num: 10
       image-url: /25_
       works:
         - subtitle: 서화
@@ -1696,6 +1724,14 @@ tabs-current:
             
             忽聞人語無鼻孔 (홀문인어무비공) 문득 콧구멍 없는 소라는 말을 듣고<br>
             頓覺三千是我家 (돈각삼천시아가) 온 우주가 내 집임을 깨달았네.<br>
+
+        - subtitle: 족자
+          description: |+
+            (원담_JJIMG_8837)<br><br>
+
+        - subtitle: 족자
+          description: |+
+            (원담_JJIMG_8844)<br><br>        
         
       port-url: /25_wondam.jpg
       port-desc: |+  
@@ -2297,7 +2333,7 @@ tabs-current:
 
     - name: 일장스님 
       source: tab33
-      img-num: 4
+      img-num: 5
       image-url: /33_
       works:
         - subtitle: 서화
@@ -2315,6 +2351,10 @@ tabs-current:
         - subtitle: 서화
           description: |+
             (일장-4IMG_8704)<br><br>
+
+        - subtitle: 족자
+          description: |+
+            (일장_JJIMG_8830)<br><br>    
             
       port-url: /33_iljang.jpg
       port-desc: |+  
@@ -2513,7 +2553,7 @@ tabs-current:
 
     - name: 설정스님 
       source: tab36
-      img-num: 19
+      img-num: 21
       image-url: /36_
       works:
         - subtitle: 서화
@@ -2633,6 +2673,14 @@ tabs-current:
             성자는 육신이 죽기전에 먼저 눈, 귀, 코, 입, 몸, 뜻 의 육근을 죽이고 <br>
             깨달음을 얻는 것을 말함.<br>
 
+        - subtitle: 족자
+          description: |+
+            (설정_JJIMG_8828)<br><br>
+
+        - subtitle: 족자
+          description: |+
+            (설정_JJIMG_8857)<br><br>        
+
       port-url: /36_seoljeong.jpg
       port-desc: |+  
 
@@ -2655,7 +2703,7 @@ tabs-current:
 
     - name: 원광스님
       source: tab37
-      img-num: 7
+      img-num: 12
       image-url: /37_
       works:
         - subtitle: 서화
@@ -2693,6 +2741,26 @@ tabs-current:
             
             當斷不斷 (당단부단) 마땅히 끊어야 할 때 끊지 않으면<br>
             反招其亂 (반초기란) 오히려 어려워지는 법이니라.<br>
+
+        - subtitle: 족자
+          description: |+
+            (원광_JJIMG_8829)<br><br>
+
+        - subtitle: 족자
+          description: |+
+            (원광_JJIMG_8833)<br><br>
+
+        - subtitle: 족자
+          description: |+
+            (원광_JJIMG_8834)<br><br>
+
+        - subtitle: 족자
+          description: |+
+            (원광_JJIMG_8835)<br><br>
+
+        - subtitle: 족자
+          description: |+
+            (원광_JJIMG_8850)<br><br>                    
 
       port-url: 
       port-desc: |+  
@@ -2922,7 +2990,7 @@ tabs-current:
 
     - name: 기현스님 
       source: tab40
-      img-num: 42
+      img-num: 44
       image-url: /40_
       works:
         - subtitle: 병풍
@@ -3167,6 +3235,14 @@ tabs-current:
           description: |+
             (기현-42IMG_8506)<br><br>
 
+        - subtitle: 족자
+          description: |+
+            (기현_JJIMG_8822)<br><br>
+
+        - subtitle: 족자
+          description: |+
+            (기현_JJIMG_8855)<br><br>  
+
       port-url: /40_kihyun.jpg
       port-desc: |+  
 
@@ -3267,11 +3343,11 @@ tabs-current:
       img-num: 2
       image-url: /43_
       works:
-        - subtitle: 
+        - subtitle: 족자
           description: |+
             (정관_JJIMG_8839)<br><br>
 
-        - subtitle: 
+        - subtitle: 족자
           description: |+
             (정관_JJIMG_8858)<br><br>    
             
