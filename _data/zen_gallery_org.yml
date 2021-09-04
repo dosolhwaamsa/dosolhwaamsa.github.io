@@ -3247,17 +3247,37 @@ tabs-current:
         
     - name: 성철스님
       source: tab42
-      img-num: 1
+      img-num: 2
       image-url: /42_
       works:
         - subtitle: 眞空妙有
           description: |+
             (성철-1IMG_8781)<br><br>
+
+        - subtitle: 
+          description: |+
+            (성철_JJIMG_8817)<br><br>    
             
       port-url: 
       port-desc: |+ 
        desc
-       
+
+    - name: 정관스님
+      source: tab43
+      img-num: 2
+      image-url: /43_
+      works:
+        - subtitle: 
+          description: |+
+            (정관_JJIMG_8839)<br><br>
+
+        - subtitle: 
+          description: |+
+            (정관_JJIMG_8858)<br><br>    
+            
+      port-url: 
+      port-desc: |+ 
+       desc   
         
     - name: 현대작품
       source: tab999
