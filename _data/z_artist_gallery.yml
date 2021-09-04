@@ -209,7 +209,7 @@ tabs-current:
             (일반석전황욱-2IMG_8571)<br><br>
             
             萬法歸一 만가지 법이 하나로 돌아간다.<br>
-          
+
 
       port-url: 
       port-desc: |+ 
@@ -217,7 +217,7 @@ tabs-current:
 
     - name: 성하유석영
       source: tab1010
-      img-num: 5
+      img-num: 8
       image-url: /1010_
       works:
         - subtitle: 萬法歸一...
@@ -234,7 +234,7 @@ tabs-current:
             어지럽게 함부로 걷지를 말라.<br>
             오늘 내가 밟고 간 이 발자국이<br>
             뒷사람이 밟고 갈 길이 될 테니.<br>
-
+      
 
         - subtitle: 若人欲了...
           description: |+
@@ -250,8 +250,19 @@ tabs-current:
         - subtitle: 서화
           description: |+
             (일반성하유석영-5IMG_8723)<br><br>
-            
 
+        - subtitle:
+          description: |+
+            (일반성하유석영_JJIMG_8820)<br><br>
+
+        - subtitle:
+          description: |+
+            (일반성하유석영_JJIMG_8824)<br><br>
+
+        - subtitle:
+          description: |+
+            (일반성하유석영_JJIMG_8845)<br><br>            
+        
       port-url: 
       port-desc: |+ 
        desc
@@ -259,7 +270,7 @@ tabs-current:
 
     - name: 소공이명우
       source: tab1011
-      img-num: 4
+      img-num: 5
       image-url: /1011_
       works:
         - subtitle: 서화
@@ -276,10 +287,14 @@ tabs-current:
             
             (구년묵좌 좌단 천하인 설두) 구년 동안 침묵하고 앉았다가 앉음이 끊어지자 천하 사람들의 화두가 되었다.<br>
 
-        - subtitle: 서화
+            - subtitle: 
           description: |+
-            (일반소공-4IMG_8591)<br><br>
+            (일반소공이명우_JJIMG_8852)<br><br>
 
+            - subtitle: 
+          description: |+
+            (일반소공이명우_JJIMG_8861)<br><br>
+            
       port-url: 
       port-desc: |+ 
        desc
@@ -339,9 +354,8 @@ tabs-current:
         - subtitle: 서화
           description: |+
             (일반여초김응현-3IMG_8467)<br><br>
-
-           
-
+            
+          
       port-url: 
       port-desc: |+ 
        desc
@@ -505,7 +519,6 @@ tabs-current:
           description: |+
             (일반조범재-4IMG_8786)<br><br> 
 
-
       port-url: 
       port-desc: |+ 
        desc
@@ -549,7 +562,7 @@ tabs-current:
 
     - name: 추사김정희
       source: tab1024
-      img-num: 2
+      img-num: 3
       image-url: /1024_
       works:
         - subtitle: 서화
@@ -560,7 +573,10 @@ tabs-current:
           description: |+
             (일반추사김정희-2IMG_8650)<br><br>
           
-
+        - subtitle: 현판
+          description: |+
+            (일반추사김정희_HPIMG_8811)<br><br>  
+        
       port-url: 
       port-desc: |+ 
        desc
@@ -581,7 +597,7 @@ tabs-current:
 
     - name: 해강김규진
       source: tab1026
-      img-num: 3
+      img-num: 4
       image-url: /1026_
       works:
         - subtitle: 淸明在窮
@@ -598,7 +614,10 @@ tabs-current:
           description: |+
             (일반해강김규진-3IMG_8782)<br><br>
             
-
+        - subtitle: 
+          description: |+
+            (일반해강김규진_JJIMG_8826)<br><br>    
+            
       port-url: 
       port-desc: |+ 
        desc
@@ -614,7 +633,6 @@ tabs-current:
             (일반동헌-1IMG_8590)<br><br>
             
             守分安命 (수분안명) 하늘의 뜻(명)을 따른다.<br>
-            
 
       port-url: 
       port-desc: |+ 
@@ -665,6 +683,7 @@ tabs-current:
           description: |+
             (일반소산-1IMG_8591)<br><br>
 
+            
       port-url: 
       port-desc: |+ 
        desc
@@ -706,13 +725,89 @@ tabs-current:
       img-num: 1
       image-url: /1032_
       works:
-        - subtitle: 동강
+        - subtitle: 
           description: |+
             (일반동강-1IMG_8791)             
 
       port-url: 
       port-desc: |+ 
        desc
+
+    - name: 묵선자
+      source: tab1033
+      img-num: 1
+      image-url: /1033_
+      works:
+        - subtitle: 
+          description: |+
+            (일반묵선자_JJIMG_8831)             
+
+      port-url: 
+      port-desc: |+ 
+       desc   
+
+    - name: 소암현중화
+      source: tab1034
+      img-num: 1
+      image-url: /1034_
+      works:
+        - subtitle: 
+          description: |+
+            (일반소암현중화_JJIMG_8853)             
+
+      port-url: 
+      port-desc: |+ 
+       desc     
+
+    - name: 이인숙
+      source: tab1034
+      img-num: 5
+      image-url: /1034_
+      works:
+        - subtitle: 
+          description: |+
+            (일반이인숙_JJIMG_8836)  
+
+        - subtitle: 
+          description: |+
+            (일반이인숙_JJIMG_8843) 
+
+        - subtitle: 
+          description: |+
+            (일반이인숙_JJIMG_8848) 
+
+        - subtitle: 
+          description: |+
+            (일반이인숙_JJIMG_8859) 
+
+        - subtitle: 
+          description: |+
+            (일반이인숙_JJIMG_8860)                            
+
+      port-url: 
+      port-desc: |+ 
+       desc  
+
+    - name: 효산
+      source: tab1034
+      img-num: 3
+      image-url: /1034_
+      works:
+        - subtitle: 
+          description: |+
+            (일반효산_JJIMG_8819)  
+
+        - subtitle: 
+          description: |+
+            (일반효산_JJIMG_8840) 
+
+        - subtitle: 
+          description: |+
+            (일반효산_JJIMG_8851)                            
+
+      port-url: 
+      port-desc: |+ 
+       desc          
        
     - name: 작자미상
       source: tab2000
