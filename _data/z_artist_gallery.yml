@@ -811,10 +811,10 @@ tabs-current:
        
     - name: 작자미상
       source: tab2000
-      img-num: 10
+      img-num: 11
       image-url: /2000_
       works:
-        - subtitle: 작자미상
+        - subtitle: 
           description: |+
             img1 description             
 
