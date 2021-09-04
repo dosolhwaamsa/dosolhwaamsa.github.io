@@ -251,15 +251,15 @@ tabs-current:
           description: |+
             (일반성하유석영-5IMG_8723)<br><br>
 
-        - subtitle:
+        - subtitle: 족자
           description: |+
             (일반성하유석영_JJIMG_8820)<br><br>
 
-        - subtitle:
+        - subtitle: 족자
           description: |+
             (일반성하유석영_JJIMG_8824)<br><br>
 
-        - subtitle:
+        - subtitle: 족자
           description: |+
             (일반성하유석영_JJIMG_8845)<br><br>            
         
@@ -287,11 +287,11 @@ tabs-current:
             
             (구년묵좌 좌단 천하인 설두) 구년 동안 침묵하고 앉았다가 앉음이 끊어지자 천하 사람들의 화두가 되었다.<br>
 
-            - subtitle: 
+            - subtitle: 족자
           description: |+
             (일반소공이명우_JJIMG_8852)<br><br>
 
-            - subtitle: 
+            - subtitle: 족자
           description: |+
             (일반소공이명우_JJIMG_8861)<br><br>
             
@@ -614,7 +614,7 @@ tabs-current:
           description: |+
             (일반해강김규진-3IMG_8782)<br><br>
             
-        - subtitle: 
+        - subtitle: 족자
           description: |+
             (일반해강김규진_JJIMG_8826)<br><br>    
             
@@ -738,7 +738,7 @@ tabs-current:
       img-num: 1
       image-url: /1033_
       works:
-        - subtitle: 
+        - subtitle: 족자
           description: |+
             (일반묵선자_JJIMG_8831)             
 
@@ -751,7 +751,7 @@ tabs-current:
       img-num: 1
       image-url: /1034_
       works:
-        - subtitle: 
+        - subtitle: 족자
           description: |+
             (일반소암현중화_JJIMG_8853)             
 
@@ -760,27 +760,27 @@ tabs-current:
        desc     
 
     - name: 이인숙
-      source: tab1034
+      source: tab1035
       img-num: 5
-      image-url: /1034_
+      image-url: /1035_
       works:
-        - subtitle: 
+        - subtitle: 족자
           description: |+
             (일반이인숙_JJIMG_8836)  
 
-        - subtitle: 
+        - subtitle: 족자
           description: |+
             (일반이인숙_JJIMG_8843) 
 
-        - subtitle: 
+        - subtitle: 족자
           description: |+
             (일반이인숙_JJIMG_8848) 
 
-        - subtitle: 
+        - subtitle: 족자
           description: |+
             (일반이인숙_JJIMG_8859) 
 
-        - subtitle: 
+        - subtitle: 족자
           description: |+
             (일반이인숙_JJIMG_8860)                            
 
@@ -789,19 +789,19 @@ tabs-current:
        desc  
 
     - name: 효산
-      source: tab1034
+      source: tab1036
       img-num: 3
-      image-url: /1034_
+      image-url: /1036_
       works:
-        - subtitle: 
+        - subtitle: 족자
           description: |+
             (일반효산_JJIMG_8819)  
 
-        - subtitle: 
+        - subtitle: 족자
           description: |+
             (일반효산_JJIMG_8840) 
 
-        - subtitle: 
+        - subtitle: 족자
           description: |+
             (일반효산_JJIMG_8851)                            
 
