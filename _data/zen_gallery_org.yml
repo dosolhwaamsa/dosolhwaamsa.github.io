@@ -739,9 +739,9 @@ tabs-current:
         ■ 도움말  동명스님 (서울 성북구 전등사)   <br>
         ■ 자     료  <해안집(海眼集)> <br><br>
 
-        
-        [불교신문3435호/2018년10월27일자] <br><br>
-        출처  불교신문(http://www.ibulgyo.com)<br>
+        <a href="http://www.ibulgyo.com" target="_blank">출처: 불교신문3435호/2018년10월27일자 </a>
+        <!-- [불교신문3435호/2018년10월27일자] <br><br>
+        출처  불교신문(http://www.ibulgyo.com)<br> -->
 
     - name: 석주스님  
       source: tab14
@@ -834,7 +834,8 @@ tabs-current:
 
         경북 안동 옹천땅에서 1909년에 출생했다. 1923년에 서울 선학원에서 남전스님을 은사로 출가했다. 6년 선학원에서 행자생활을 했고 범어사 강원에서 이력을 마쳤다. 상원사 한암스님 회상에서 안거를 든 이후 금강산 마하연, 금정선원 등에서 수선안거를 성만 했다. 불국사 주지 선학원 이사장 조계종 총무원장(2회) 은해사주지 조계종 초대 포교원장 동국역경원 이사장 조계종 원로회의 부의장 등의 많은 소임을 거쳤다. 행정이면 행정, 수행이면 수행, 포교면 포교 다방면에서 조용히 그리고 부지런히 맡은바 소임을 다했다. 석주스님과 함께 떠오르는 단어들은 어린이 포교, 애종심, 역경사업이다. 다른 분야에서도 많은 족적을 남겼으나 이 세 분야에 있어서 석주스님의 그림자는 자못 크다. 포교를 위한 전시회라면 수십 장씩 글씨를 써 주기도 하고 역경사업을 위한 일이라면 노구를 일으켜 달려가 법문을 하는 석주스님의 면목이야 말로 소를 찾아 길을 들이고 난 뒤 저자거리로 나와 무애자재 하는 그 경지가 아닐까.<br><br>
 
-        출처  현대불교신문(http://www.hyunbulnews.com)<br>
+        <a href="http://www.hyunbulnews.com" target="_blank">출처: 현대불교신문 </a>
+        <!-- 출처  현대불교신문(http://www.hyunbulnews.com)<br> -->
 
     - name: 서암스님  
       source: tab15
@@ -977,7 +978,8 @@ tabs-current:
 
         -2003년(87세) 봉암사 염화실에서 3월 29일 오전 7시 50분께 원적.<br><br>
 
-        출처 불교신문(http://www.ibulgyo.com)<br>
+        <a href="http://www.ibulgyo.com" target="_blank">출처: 불교신문 </a>
+        <!-- 출처 불교신문(http://www.ibulgyo.com)<br> -->
 
     - name: 일타스님
       source: tab16
@@ -1071,11 +1073,7 @@ tabs-current:
         東谷日陀(동곡일타) 동쪽 계곡에 해 저물면<br>
         西岸月明(서안월명) 서쪽 해안에 달 밝으리<br><br>
 
-        출처  다음블로그 <br>
-        https://blog.daum.net/green7499/6481<br><br>
-
-        출처  아비라<br>
-        글쓴이  道光(화수분)<br>
+        <a href="http://blog.daum.net/green7499/6481" target="_blank">출처: 다음블로그 아비라 글쓴이 道光(화수분) </a>
     
     - name: 관응스님 
       source: tab17
@@ -1146,8 +1144,7 @@ tabs-current:
         2004년 2월 28일 오후 7시 거처하고 있던 직지사 중암에서 열반했다.<br><br>
         세수 94세, 법랍 75세.<br><br>
 
-        출처 :아름다운 60대 원문보기  글쓴이  실버스타<br>
-        출처  나의 뿌리 글쓴이  팔공산 원글보기<br>
+        <a href="http://blog.daum.net/green7499/6481" target="_blank">출처: 아름다운 60대 글쓴이  실버스타 / 나의 뿌리 글쓴이  팔공산 </a>        
 
 
     - name: 청화스님
@@ -1173,7 +1170,7 @@ tabs-current:
         1985년 4월부터 구산선문의 하나인 동리산 태안사에서 선문을 다시 일으켜 금강선원의 문을 열고 삼년결사 이후, 계속 머물렀으며 지금은 곡성 옥과 성륜사 조선당에 기거한다.
         법어집으로 ‘정통선의 향훈’‘원통불법의 요체’가 있고 ‘금강심론’을 편저했으며 역서로 ‘정토삼부경’‘약사경’등이 있다.<br><br>
 
-        출처  남도일보  webmaster@namdonews.com<br><br>
+        <a href="http://namdonews.com" target="_blank">출처: 남도일보 </a>        
 
         청화(淸華) 스님은 1923년 전남 무안군 운남면 연리에서 태어났다. 어려서부터 총명하고 효성이 지극했으며 학문을 좋아했고, 일제강점기 고향 망운소학교(望雲小學校)를 마치고 14세의 어린나이에 일본유학에 올랐다. 이때 타국 땅에서 겪은 나라 없는 설음과 멸시는 향학의 열정과 지하학생독립운동에 참여하게 했고, 신문팔이 등의 피나는 고학으로 동경대성중학교(東京大成中學敎)을 졸업하고 귀국해 다시 향리의 무안농림학교에 입학 졸업했다.<br><br>
           그러나 학문의 차원을 높이고자 재차 출국해 일본 명치대학(明治大學)에 입학하지만 태평양전쟁에 휩싸여 일본군 해병으로 강제징집 당해 한국 진해만에서 해방을 맞은 후 다시 광주사범학교를 졸업했다. 광주사범학교를 졸업한 후 향리에 사재를 털어 망운중학교(望雲中學校)를 설립해 교육사업에 종사했다.<br><br>
@@ -1209,8 +1206,7 @@ tabs-current:
 
         성불하십시오. <br><br>
 
-        출처  작성자 다음블로그 아미산(이덕호)<br>
-        https://blog.daum.net/511-33/12369918<br>
+        <a href="http://blog.daum.net/511-33/12369918" target="_blank">출처: 다음블로그 작성자 아미산(이덕호) </a>                
 
     - name: 탄허스님  
       source: tab19      
@@ -1405,7 +1401,7 @@ tabs-current:
         2019년 9월 덧말(음) 대방광 불화엄경 전5권으로 간행되다. 그리하여 화엄경이 5종류로 발행한 것은 공전절후의 일이라 하여도 과언이 아니다.<br>
         제자 우담이 만들고 반포하다.<br><br>
 
-        출처  탄허스님 공식 웹사이트 http://tanheo.com/<br>
+        <a href="http://tanheo.com" target="_blank">출처: 탄허스님 공식 웹사이트 </a>         
 
     - name: 용봉스님 
       source: tab20
@@ -1460,9 +1456,7 @@ tabs-current:
         無形打之卽有靈三毒火湯過平生脫却體路還本鄕寒月空山屬眞人형상이 없지만 두드리면 곧 신령스러움이 있고,삼독으로 화탕지옥에서 한 평생을 지냈다.이제 몸을 버리고 고향으로 돌아가니차가운달 빈산이 진리의 몸이로다.하시고 편안히 열반에 들었다.<br><br>
         세수는 93세요 법랍은 45세 이다.<br><br>
 
-
-        출처  불교신문(http://www.ibulgyo.com)<br>
-
+        <a href="http://www.ibulgyo.com" target="_blank">출처: 불교신문 </a>
 
 
     - name: 성우스님 
@@ -1542,8 +1536,7 @@ tabs-current:
         《내가 사랑한 책들》 (ISBN 9788993838107)<br>
         《숫타니파타》(번역)<br><br>
 
-        출처  위키백과 https://ko.wikipedia.org/wiki/<br>
-
+        <a href="https://ko.wikipedia.org/wiki/" target="_blank">출처: 위키백과 </a>
 
     - name: 석정스님
       source: tab24      
@@ -1674,12 +1667,8 @@ tabs-current:
         -역대 고승 선묵집을 제작하고 싶다<br><br>
 
         "이제 한 가지 더 하고 싶은 게 있습니다. 역대 고승의 선묵을 모아 책으로 엮어내는 일입니다. 모으는 일, 진위를 밝히는 일, 글을 번역하는 일, 고승의 약력정리 등 일이 많겠지요. 힘들고 어려운 일이라 해도 꼭 하고 싶습니다." <br><br>
-
-
-        이진두 객원기자 bibbab@paran.com<br><br>
-
-        [출처 부산일보] http://mobile.busan.com/view/busan/view.php?code=20080621000228<br>
-
+        
+        <a href="http://mobile.busan.com/view/busan/view.php?code=20080621000228" target="_blank">출처: 부산일보 </a>
 
     - name: 원담스님 
       source: tab25
@@ -1755,13 +1744,8 @@ tabs-current:
         조현 종교전문기자 cho@hani.co.kr<br><br>
 
 
-        원문보기<br>
-        https://www.hani.co.kr/arti/society/religious/276663.html#csidx2240892da11d0fc8301d433c4f3690f <br><br>
-
-
-        출처  한겨레 신문<br>
-        https://www.hani.co.kr/arti/society/religious/276663.html<br><br>
-
+        <a href="https://www.hani.co.kr/arti/society/religious/276663.html#csidx2240892da11d0fc8301d433c4f3690f" target="_blank">출처: 한겨례신문 </a>
+        
     - name: 중광스님 
       source: tab26
       img-num: 4
@@ -1855,9 +1839,8 @@ tabs-current:
         전시회<br><br>
         달마전 <괜히 왔다 갔다 한다> (2000년) 가나 아트 센터<br><br>
 
-        출처  위키 백과 <br>
-        https://ko.wikipedia.org/wiki/<br>
-
+        <a href="https://ko.wikipedia.org/wiki" target="_blank">출처: 위키백과 </a>
+        
     - name: 혜암스님
       source: tab27
       img-num: 2
@@ -1906,7 +1889,8 @@ tabs-current:
         밝음이 오면 밝음을, <br>
         치고 어둠이 오면 어둠을 친다" <br><br>
         <李相均기자>        <br><br>
-        출처  불교신문(http://www.ibulgyo.com)
+        <a href="http://www.ibulgyo.com" target="_blank">출처: 불교신문 </a>
+        
 
         <br><br>
         혜암스님(1920-2001), 1997-2003<br><br>
@@ -1950,7 +1934,7 @@ tabs-current:
         2005 조용헌-사찰기행, 이가써(공동작업) 우리민족문화상징 100선(Ⅰ,Ⅱ, Ⅲ), 한솔수북 <br>
         최인호-산중일기, 랜덤하우스<br><br>
 
-        출처   <a href="http://geonhi.com/korean/%EB%B0%B1%EC%A2%85%ED%95%98-%ED%98%9C%EC%95%94%EC%8A%A4%EB%8B%981920-2001-1997-2003/"> 박건희문화재단 </a> <br>
+        <a href="http://geonhi.com/korean/%EB%B0%B1%EC%A2%85%ED%95%98-%ED%98%9C%EC%95%94%EC%8A%A4%EB%8B%981920-2001-1997-2003/" target="_blank">출처: 박건희문화재단 </a>    
 
     - name: 동헌스님
       source: tab28
@@ -2023,9 +2007,9 @@ tabs-current:
         “선은 마음을 닦는 수심법(修心法)입니다. 마음을 닦는 것은 역시 마음입니다. 때문에 선은 마음으로 닦는 것입니다. 그러나 구경(究竟)에는 닦는 마음도 닦을 마음도 없는 것이 참다운 선인 것입니다. 이러기에 선의 심오한 경지를 말로나 논리로나 사량분별(思量分別) 계교의식(計較意識) 작용으로는 이룩할 수 없고 다만 참 지혜로써 홀연히 깨치는데 있다고 하겠습니다.” <br><br>
         - 참선 수행의 중요성을 강조한 법문에서<br><br>
 
-        불교신문3231호/2016년9월7일자<br>
-        출처  불교신문(http://www.ibulgyo.com)<br>
 
+        <a href="http://www.ibulgyo.com" target="_blank">출처: 불교신문3231호/2016년9월7일자 </a>
+        
     - name: 정광스님 
       source: tab29
       img-num: 1
@@ -2163,9 +2147,8 @@ tabs-current:
         장성 백양사=글·이성수 기자 soolee@ibulgyo.com<br>
         사진 김형주 기자 cooljoo@ibulgyo.com<br><br>
 
-        인터넷불교신문/ 2003-01-25 오전 12:28:26 등록<br>
-        출처  불교신문(http://www.ibulgyo.com)<br>
-
+        <a href="http://www.ibulgyo.com" target="_blank">출처: 불교신문</a>
+        
     - name: 옥봉스님 
       source: tab31
       img-num: 2
@@ -2220,12 +2203,8 @@ tabs-current:
 
         하인두화백 못지않게 주목해야할 미술인으로 하정 송두영화백이 있다. 동국대 불교학과를 졸업한 그는 이순의 나이를 넘기고 비로소 첫 개인전을 가졌던 이였지만 보응스님으로부터 불화를 사사받은 후 안변 석왕사, 화계사 관음전 등의 전통불화를 맡아 그리는 한편으로 전통불화 기법에서 탈피하여 문인화에 가까운 운필법으로 보살과 달마도를 시도하는 등 불화의 현대화에 나름대로 새로운 시도를 해왔던 미술인이다.<br><br>
 
-
-        김민경 기자<br>
-        mkklm@beopbo.com<br><br>
-
-        출처  법보신문(http://www.beopbo.com)<br><br>
-
+        <a href="http://www.beopbo.com" target="_blank">출처: 법보신문 </a><br><br>
+        
 
         “난초와 대나무처럼 살았던 옥봉스님”<br><br>
 
@@ -2265,10 +2244,9 @@ tabs-current:
 
         일제강점기, 해방, 한국전쟁 등 격동의 현대사를 겪은 옥봉스님은 출가수행자이면서 화백으로 고결한 난초와 절개를 지킨 대나무 같은 삶을 살았다. 원적에 든지 10년이란 세월이 흘렀지만 스님이 남긴 자취와 가르침의 향기는 지워지지 않을 것이다.<br><br>
 
-        공주=이성수 기자 soolee@ibulgyo.com<br>
-        이시영 충청지사장 lsy@ibulgyo.com<br><br>
 
-        출처  불교신문(http://www.ibulgyo.com)<br>
+        <a href="http://www.ibulgyo.com" target="_blank">출처: 불교신문  </a>
+        
 
     - name: 월하스님  
       source: tab32
@@ -2334,9 +2312,9 @@ tabs-current:
         頭頭顯法身(두두현법신) 두두물물이 법신을 나투네<br>
         莫論去與住(막논거여주) 가고 머뭄을 논하지 말라<br>
         處處盡吾家(처처진오가) 곳곳이 나의 집이니라.<br><br>
-
-        출처  영축총림 통도사<br>
-        http://www.tongdosa.or.kr/bbs/content.php?co_id=menu01104_08<br>
+        
+        <a href="http://www.tongdosa.or.kr/bbs/content.php?co_id=menu01104_08" target="_blank">출처: 영축총림 통도사</a>
+        
 
     - name: 일장스님 
       source: tab33
@@ -2409,9 +2387,10 @@ tabs-current:
 
         어린시절을 떠오르게 하는 ‘감따기’ 긴긴 겨울밤에 군밤을 화롯불에 익혀먹던 시절을 담은 ‘설야’ 개구리와 천진하게 뛰놀고 있는 ‘동자’ 등 화폭에 담긴 ‘선(禪)적 영감’은 보는 이들로 하여금 ‘귀향’의 길을 서두르게 한다. 10여년만에 불교문화지킴이를 위해 열리는 일장스님의 ‘선화’전은 멀고 가까운 인연들에게 불국토의 향화를 밝혀준다.<br><br>
 
-        남원= 이상균 기자 gyun20@ibulgyo.com<br>
-        기사출처  [불교신문 2015호/ 3월19일자]<br>
-        사진출처  [서울신문] https://www.seoul.co.kr/news/newsView.php?id=20070521026003<br>
+        남원= 이상균 기자 gyun20@ibulgyo.com<br>        
+        <a href="http://www.ibulgyo.com" target="_blank">기사출처: 불교신문 2015호/ 3월19일자</a><br>
+        <a href="https://www.seoul.co.kr/news/newsView.php?id=20070521026003" target="_blank">사진출처: 서울신문</a>
+        
 
     - name: 수안스님 
       source: tab34
@@ -2457,7 +2436,7 @@ tabs-current:
         1992년 프랑스 파리 곽은미술관 초대전, <br>
         1996년 대만 태평양문화기금회 초대전 등을 열며 활발한 활동을 벌이고 있다. 시집으로는 〈오소라〉 〈소옥〉 〈나의 노래〉 〈산이 텅빈 날〉 〈대방광화엄경 노랫말이 곱습니다〉 수필집 〈참 좋다 정말 좋구나〉 등이 있으며 현재 사회복지법인 통도사 자비원장이다.<br><br>
 
-        출처  불교신문(http://www.ibulgyo.com)<br><br>
+        <a href="http://www.ibulgyo.com" target="_blank">출처: 불교신문</a><br><br>        
 
         통도사 축서암 수안스님<br><br>
 
@@ -2501,9 +2480,8 @@ tabs-current:
         1940년 경남 통영에서 태어난 수안(秀眼)스님은 1957년 통도사에서 석정스님을 은사로 출가했다. 1964년 월하스님에게서 비구계를 수지한 이후 통도사 송광사 백련사 묘관음사 등 전국 선원에서 정진했다. 현재 사회복지법인 통도사 자비원장, 통도사 축서암 감원을 맡고 있다.<br><br>
 
 
-        불교신문 2147호/ 7월20일자<br>
-
-        출처  불교신문(http://www.ibulgyo.com)<br>
+        <a href="http://www.ibulgyo.com" target="_blank">출처: 불교신문 2147호/ 7월20일자</a>
+        
 
     - name: 송담스님 
       source: tab35
@@ -2554,9 +2532,8 @@ tabs-current:
 
         2012.10.15 향산 번역<br><br>
 
-
-        출처 다음블로그<br>
-        https://blog.daum.net/zero4833/8713399<br>
+        <a href="https://blog.daum.net/zero4833/8713399" target="_blank">출처: 다음블로그</a>
+        
 
     - name: 설정스님 
       source: tab36
@@ -2705,7 +2682,7 @@ tabs-current:
         1994 제11대 조계종 중앙종회 의장<br>
         1994 조계종단 개혁회의 법제위원장<br><br>
 
-        출처 https://newsmoum.tistory.com/561 [뉴스모음]<br>
+        <a href="https://newsmoum.tistory.com/561" target="_blank">출처: 뉴스모음</a>        
 
 
     - name: 원광스님
@@ -2825,9 +2802,10 @@ tabs-current:
           </table>
 
         <br><br>
-        출처  네이버블로그<br>
-        https://blog.naver.com/evergreen122/220941792475
-        부산역사문화대전  http://busan.grandculture.net/Contents?local=busan&dataType=01&contents_id=GC04200651<br><br>
+        <a href="https://blog.naver.com/evergreen122/220941792475" target="_blank">출처: 네이버블로그</a> <br>
+        <a href="http://busan.grandculture.net/Contents?local=busan&dataType=01&contents_id=GC04200651" target="_blank">출처: 부산역사문화대전</a>        
+
+          <br><br>
 
         <img src="/images/religious_part/zen_pics/arts/38_/wolju-1.png" /> <br><br>
 
@@ -2873,7 +2851,8 @@ tabs-current:
         
         사진제공 = 성보문화재연구원<br>
         채한기 기자 penshoot@beopbo.com<br>
-        출처 법보신문 - https://www.beopbo.com/news/articleView.html?idxno=44040<br>
+        <a href="https://www.beopbo.com/news/articleView.html?idxno=44040" target="_blank">출처: 법보신문</a>
+        
 
     - name: 만봉스님 
       source: tab39
@@ -2949,7 +2928,8 @@ tabs-current:
 
         2005. 한국문화재보호재단 창립 25주년기념 (현세에 꽃피는 극낙) 불화전시<br><br>
 
-        출처  불교신문(http://www.ibulgyo.com)<br><br>
+        <a href="https://www.ibulgyo.com" target="_blank">출처: 불교신문</a>
+        
 
         위대한 문화유산<br>
         한국문화재재단의 무형문화재이야기<br>
@@ -2989,11 +2969,10 @@ tabs-current:
           2002년 교토 전통공예전시 “한국 전통문화의 향기전”출품<br>
           2006년 5월 입적<br><br>
         글 이치헌 / 한국문화재재단<br>
-
         사진 서헌강(문화재전문 사진작가)<br><br>
 
-        출처  한국문화재단<br>
-        https://www.chf.or.kr/brd/board/696/L/menu/314?brdType=R&thisPage=1&bbIdx=110581&searchField=titlecontent&searchText=%EA%B9%80%EC%B2%A0%EC%A3%BC<br>
+        <a href="https://www.chf.or.kr/brd/board/696/L/menu/314?brdType=R&thisPage=1&bbIdx=110581&searchField=titlecontent&searchText=%EA%B9%80%EC%B2%A0%EC%A3%BC" target="_blank">출처: 한국문화재단</a>
+                
 
     - name: 기현스님 
       source: tab40
@@ -3273,8 +3252,8 @@ tabs-current:
 
          모두가 불경으로 시작하여 불경으로 마치면서도 불경의 분위기 전달보다는 서예술의 분위기를 먼저 전달한다는 것이 기현스님의 서사 기운이요, 스님의 서예에 대한 이해의 깊이라 할 수 있을 것이다.  보통의 서예가뿐만이 아니라 특수한 서예가라 하더라도 70만 자를 횡축의 길이가 1.2킬로미터나 되는 경서에서 같은 기운으로 자연스럽게 꾸미지 않고 썼다는 그 자체가 돈독한 신심으로 인하여 태어난 글씨라 할 것이다. 사용한 유인 가운데 抱病半生(포병반생) 인장이 있다. 거의 인생 전반기를 신병에 시달렸다는 것을 이를 통해 알 수 있다. 그럼에도 서에와 사경을 통하여 병마를 극복하고 대형전시를 연다는 것은 확고한 불교사상과 정신에 대한 믿음이 없고서는 도저히 불가할 것이라 생각된다.<br><br>
 
-        출처  다음 블로그 “경독재” <br>
-        https://blog.daum.net/naru636/9183<br>
+        <a href="https://blog.daum.net/naru636/9183" target="_blank">출처: 다음 블로그 '경독재'</a>        
+        
 
     - name: 혜인스님
       source: tab41
@@ -3323,10 +3302,8 @@ tabs-current:
 
         <신심>과 <원력>에서 그동안 먼발치로만 보았던 혜인스님을 친견할 수 있다.<br><br>
 
-        박부영 기자 chisan@ibulgyo.com<br><br>
-
-        불교신문 2436호/ 6월21일자<br>
-        출처  불교신문(http://www.ibulgyo.com)<br>
+        박부영 기자 chisan@ibulgyo.com<br><br>               
+        <a href="https://www.ibulgyo.com" target="_blank">출처: 불교신문 2436호/ 6월21일자</a>
         
     - name: 성철스님
       source: tab42
