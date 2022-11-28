@@ -40,10 +40,12 @@
   sub-links:
   - title: 화암사공지사항
     url: /1_0_templeNews/hwaamsa_news/
-  - title: 스님과의대화
-    url: /1_0_templeNews/conversations/
+  - title: 일요법회.불공
+    url: /1_0_templeNews/lecture_news/
   - title: 화암사일상
     url: /1_0_templeNews/hwaam_daylife/
+  - title: 스님과의대화
+    url: /1_0_templeNews/conversations/  
   - title: 미디어속화암사
     url: /1_0_templeNews/hwaam_media/
   - title: 문의·안내·신청·접수
