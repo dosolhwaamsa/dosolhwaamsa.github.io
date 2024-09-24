@@ -9,7 +9,7 @@ collection_name: 1_0_templeNews
 <iframe_url >
 <iframe width="100%"
         height="600"                
-        src = "https://m.cafe.naver.com/hwaamsa?iframe_url=/ArticleList.nhn%3Fsearch.clubid=29963936%26search.menuid=1%26search.boardtype=L&tab=notice"
+        src = "https://m.cafe.naver.com/ca-fe/hwaamsa?tab=notice?url=https://example.com/"
         frameborder="0"
         allow="autoplay; encrypted-media"
         allowfullscreen></iframe>
