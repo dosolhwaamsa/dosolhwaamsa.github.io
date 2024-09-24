@@ -9,7 +9,6 @@ collection_name: 1_0_templeNews
 
 <iframe width="100%"
         height="600"
-        is="x-frame-bypass"
         src = "https://m.cafe.naver.com/ca-fe/hwaamsa?tab=notice"
         frameborder="0"
         allow="autoplay; encrypted-media"
