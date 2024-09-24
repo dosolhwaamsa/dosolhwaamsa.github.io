@@ -18,7 +18,6 @@
 <script src="{{- "/assets/js/jquery.resize-sensor.js" | relative_url -}}" crossorigin="anonymous"></script>
 <script src="{{- "/assets/js/jquery.sticky-sidebar.js" | relative_url -}}" crossorigin="anonymous"></script>
 <script src="{{- "/assets/js/common.js" | relative_url -}}" crossorigin="anonymous"></script>
-<script type="module" src="{{- "/assets/js/x-frame-bypass.js" | relative_url -}}" crossorigin="anonymous"></script>
 
 {{ page.calendar_css | replace: "!PATH_TO_COMPONENTS!", "/components" | prepend: site.baseurl }}
 
@@ -49,6 +48,7 @@
 <script src="{{- "/assets/js/pagination-util.js" | relative_url -}}" crossorigin="anonymous" charset="utf-8"></script>
 <script src="{{- "/assets/js/search.js" | relative_url -}}" crossorigin="anonymous" charset="utf-8"></script>
 <script src="{{- "/assets/js/build-index.js" | relative_url -}}" crossorigin="anonymous" charset="utf-8"></script>
+<script type="module" src="{{- "/assets/js/x-frame-bypass.js" | relative_url -}}" crossorigin="anonymous" charset="utf-8"></script>
 
 {%- endif -%}
 
