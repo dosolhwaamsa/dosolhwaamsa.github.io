@@ -49,7 +49,7 @@ second_nav_title: "법회·행사" #좌측 레벨1 메뉴제목
 * 기도시간: 오후 9시 ~ 익일 오전 4시
 * 기도일자: 경신일(庚申日) 철야기도
 
-[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)
+[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/0_temple/temple_office/questions/)
 
 
 <!-- #### **수요법회**

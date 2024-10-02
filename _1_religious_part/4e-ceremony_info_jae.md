@@ -4,7 +4,7 @@ permalink: /1_religious_part/ceremony_info/memorial/
 title: 49재 및 제사 # 좌측 레벨2 메뉴제목
 breadcrumb: 49재 및 제사
 collection_name: 1_religious_part
-second_nav_title: "기도안내·접수" 
+second_nav_title: "기도안내" 
 ---
 
 #### **49재(齋) 및 제사(차례) 안내**
@@ -36,7 +36,6 @@ second_nav_title: "기도안내·접수"
 |**준비물(관욕세트,초,향)**|   12만원|
 |   |   |
 
-[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)
 
 *준비물은 사찰에서 준비해 드립니다.*
 *단, 동참인원 20명 이상일 경우 공양비가 추가 됩니다.*
@@ -75,7 +74,7 @@ second_nav_title: "기도안내·접수"
 |**추석 단독차례**|음력 8월 15 일|오전 7시|지장전|50만원|1달반 전 접수|
 |||||||
 
-[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)
+[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/0_temple/temple_office/questions/)
   
 --- 
   
@@ -89,5 +88,4 @@ second_nav_title: "기도안내·접수"
 |**영구위패**|30년|명부전|영가1위 및 부부(200만원)|수시|
 ||||||
 
-  [[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)
 

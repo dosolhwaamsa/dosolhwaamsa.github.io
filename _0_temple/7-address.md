@@ -33,7 +33,7 @@ collection_name: 0_temple
 </script>
 
 
-[[<span style="color:blue">문의하기</span>] ](/1_0_templeNews/questions/)
+[[<span style="color:blue">문의하기</span>] ](/0_temple/temple_office/questions/)
 
 <!-- ![image info](/images/contact-us.jpg) -->
 

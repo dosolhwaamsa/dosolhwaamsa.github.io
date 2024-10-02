@@ -43,4 +43,4 @@ second_nav_title: "주간보호센터안내" #좌측 레벨1 메뉴제목
 * 기초생활수습권자 : 전액무료
 
 
-[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)
+[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/0_temple/temple_office/questions/)

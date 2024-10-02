@@ -8,7 +8,11 @@ collection_name: 0_temple
 # second_nav_title: "화암사소개" #좌측 레벨1 메뉴제목
 ---
 
+
+
 > ### **초심자를 위한 신행생활**
+
+##### **도솔산화암사 공지사항 및 활동정보는 [[네이버카페]](https://m.cafe.naver.com/ca-fe/hwaamsa?tab=notice){:target="_blank"} 에서 확인하실 수 있습니다.**
 
 ---
 

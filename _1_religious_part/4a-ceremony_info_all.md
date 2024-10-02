@@ -4,7 +4,7 @@ permalink: /1_religious_part/ceremony_info/all/
 title: 상시기도 # 좌측 레벨2 메뉴제목
 breadcrumb: 상시기도
 collection_name: 1_religious_part
-second_nav_title: "기도안내·접수" 
+second_nav_title: "기도안내" 
 ---
 
 #### **상시기도**
@@ -26,7 +26,6 @@ second_nav_title: "기도안내·접수"
 |**삼성각칠성님기도**   |오전 10시30분    |삼성각 |매월 음력 7일   |30만원  |수시|
 | | | | | | |
 
-[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)
 
 ##### **생일불공**
 
@@ -61,4 +60,4 @@ second_nav_title: "기도안내·접수"
 
 - 일정 : 매월 7일, 오전 10시 30분
 - 장소 : 삼성각
-- 동참비 : 종무소 문의[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)
+- 동참비 : 종무소 문의

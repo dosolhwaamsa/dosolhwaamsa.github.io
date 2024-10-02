@@ -9,9 +9,10 @@ collection_name: 1_0_templeNews
 <iframe_url >
 <iframe width="100%"
         height="600"                
-        src = "https://m.cafe.naver.com/ca-fe/hwaamsa?tab=notice?url=https://example.com/"
+        src="http://localhost:4000?url=https://m.cafe.naver.com/ca-fe/hwaamsa?tab=notice"        
         frameborder="0"
         allow="autoplay; encrypted-media"
         allowfullscreen></iframe>
 
+<!-- src = "https://m.cafe.naver.com/ca-fe/hwaamsa?tab=notice?url=https://example.com/" -->
 <!--         src="https://m.cafe.naver.com/ca-fe/web/cafes/29963936/menus/1" -->

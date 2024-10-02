@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 permalink: /1_religious_part/lamp_info/
-title: 연등·인등안내·접수 # 좌측 레벨2 메뉴제목
+title: 연등·인등안내 # 좌측 레벨2 메뉴제목
 breadcrumb: 연등·인등안내 
 collection_name: 1_religious_part
 # second_nav_title: "연등·인등안내" 
@@ -26,7 +26,6 @@ collection_name: 1_religious_part
 |**치유등(속득쾌차)(1인 1등)**|	1년등| 명부전|	10만원|	2월 초|
 |   |   |   |   |   |
 
-[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)
 
 <!-- ##### 인등
 

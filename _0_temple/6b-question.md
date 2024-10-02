@@ -1,10 +1,10 @@
 ---
 layout: leftnav-page-content
 title: 문의·신청하기
-permalink: /1_0_templeNews/questions/
+permalink: /0_temple/temple_office/questions/
 breadcrumb: 문의·신청하기
-collection_name: 1_0_templeNews
-second_nav_title: "문의·안내·신청·접수"
+collection_name: 0_temple
+second_nav_title: "종무소"
 ---
 
 

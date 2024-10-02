@@ -18,38 +18,38 @@
       url: /0_temple/religious_life/
     - title: 사찰안내
       url: /0_temple/hwaamsa_info/gallery/
-    - title: 삼성각
-      url: /0_temple/samsung/
+    # - title: 삼성각
+    #   url: /0_temple/samsung/
     - title: 선갤러리
       url: /0_temple/zen_gallery/    
-    - title: 차담헌
-      url: /0_temple/chadam/
-    - title: 도솔원
-      url: /0_temple/dosolwon/
-    - title: 미륵전 야외음악당
-      url: /0_temple/outdoor_concert/
+    # - title: 차담헌
+    #   url: /0_temple/chadam/
+    # - title: 도솔원
+    #   url: /0_temple/dosolwon/
+    # - title: 미륵전 야외음악당
+    #   url: /0_temple/outdoor_concert/
     - title: 종무소안내
-      url: /0_temple/temple_office/info/
+      url: /0_temple/temple_office/volunteer/
     - title: 화암사오시는길
       url: /0_temple/address/
 
 
-- title: 화암사소식
-  url: /1_0_templeNews/hwaamsa_news/
-  cols: 1_0_templeNews
-  sub-links:
-  - title: 화암사공지사항
-    url: /1_0_templeNews/hwaamsa_news/
-  - title: 일요법회·불공
-    url: /1_0_templeNews/lecture_news/
-  - title: 화암사일상
-    url: /1_0_templeNews/hwaam_daylife/
-  - title: 스님과의대화
-    url: /1_0_templeNews/conversations/  
-  - title: 미디어속화암사
-    url: /1_0_templeNews/hwaam_media/
-  - title: 문의·안내·신청·접수
-    url: /1_0_templeNews/volunteer/
+# - title: 화암사소식
+#   url: /1_0_templeNews/hwaamsa_news/
+#   cols: 1_0_templeNews
+#   sub-links:
+#   - title: 화암사공지사항
+#     url: /1_0_templeNews/hwaamsa_news/
+#   - title: 일요법회·불공
+#     url: /1_0_templeNews/lecture_news/
+#   - title: 화암사일상
+#     url: /1_0_templeNews/hwaam_daylife/
+#   - title: 스님과의대화
+#     url: /1_0_templeNews/conversations/  
+#   - title: 미디어속화암사
+#     url: /1_0_templeNews/hwaam_media/
+#   - title: 문의·안내·신청·접수
+#     url: /1_0_templeNews/volunteer/
 
 
 - title: 법회·기도
@@ -60,13 +60,13 @@
     url: /1_religious_part/ceremony_info/one/
   - title: 법회·행사
     url: /1_religious_part/schedule_year/
-  - title: 불사안내·접수
+  - title: 불사안내
     url: /1_religious_part/temple_mod/
-  - title: 기도안내·접수
+  - title: 기도안내
     url: /1_religious_part/ceremony_info/all/
-  - title: 연등·인등안내·접수
+  - title: 연등·인등안내
     url: /1_religious_part/lamp_info/
-  - title: 공양안내·접수
+  - title: 공양안내
     url: /1_religious_part/offering_info/
 
 

@@ -4,7 +4,7 @@ permalink: /1_religious_part/ceremony_info/ritual/
 title: 합동천도재 # 좌측 레벨2 메뉴제목
 breadcrumb: 합동천도재
 collection_name: 1_religious_part
-second_nav_title: "기도안내·접수" 
+second_nav_title: "기도안내" 
 ---
 
 #### **합동천도재**
@@ -18,4 +18,4 @@ second_nav_title: "기도안내·접수"
 |**설날, 추석, 백중, 하안거, 동안거 회향<br>오백나한대재회향**|천도재|7시30, 10시 30분|화암사 만년위폐 봉안|종무소 문의 |해당 일정 1개월 전<br>(법회행사>연중행사 참조)|
 |   |   |   |   |   |   |
 
-[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)
+[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/0_temple/temple_office/questions/)

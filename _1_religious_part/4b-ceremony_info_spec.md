@@ -4,7 +4,7 @@ permalink: /1_religious_part/ceremony_info/special/
 title: 특별기도 # 좌측 레벨2 메뉴제목
 breadcrumb: 특별기도
 collection_name: 1_religious_part
-second_nav_title: "기도안내·접수" 
+second_nav_title: "기도안내" 
 ---
 
 #### **특별기도**
@@ -25,7 +25,7 @@ second_nav_title: "기도안내·접수"
 |||||||||
 
 
-[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)
+[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/0_temple/temple_office/questions/)
 
 
 ##### **정초기도**
@@ -74,5 +74,3 @@ second_nav_title: "기도안내·접수"
 12월 22일은 절기로 동지입니다. 동지는 해가 가장 짧은 날을 말하는데 이는 동시에 해가 점점 길어짐 을 의미하기도 합니다. 어둠의 끝에서 밝음으로 시작하는 날을 의미한다고 볼 수 있습니다. 우리 고조선 때의 홍범구주(洪範九疇)를 바탕으로 송나라 주희(朱熹)는 1년 365일의 흐름을 계산한 99 원수도(九九圓數圖)라는 척력을 만들었는데, 여기에서도 동지는 마침과 동시에 시작을 뜻하고 있음을 알 수 있습니다.
 
 그래서 동지 날에는 달력을 만들어 나누어주는 것입니다. 또한 동지는 전 날 죽었던 태양의 기운이 다시 살아나는 첫날로 하심, 평등, 화합의 의미를 갖는 날입니다. 그런 뜻에서 귀신을 쫒는다는 붉음의 상징 인 팥으로 죽을 쑤어서 먹는 것입니다. 첫날부터 정갈한 마음으로 돌아가겠다는 상징적인 표현이 생활문화 속에 깃들어 있는 것입니다.
-
-[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)

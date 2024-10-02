@@ -172,4 +172,4 @@ second_nav_title: "주간보호센터안내" #좌측 레벨1 메뉴제목
 
 ###### **본인부담금비율 1~3등급자(15%) 수급권자(0%) 경감자(7.5%)*
 
-[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)
+[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/0_temple/temple_office/questions/)

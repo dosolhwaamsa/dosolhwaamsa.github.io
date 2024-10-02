@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 permalink: /1_religious_part/offering_info/
-title: 공양안내·접수 # 좌측 레벨2 메뉴제목
+title: 공양안내 # 좌측 레벨2 메뉴제목
 breadcrumb: 공양안내
 collection_name: 1_religious_part
 ---
@@ -22,7 +22,7 @@ collection_name: 1_religious_part
 | **오백나한님전** | 5만원  | 10만원  |
 ||||
 
-[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)
+[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/0_temple/temple_office/questions/)
 
 ---
 
@@ -37,7 +37,7 @@ collection_name: 1_religious_part
 | **오백나한님전** | 6만원  | 12만원  |
 ||||
 
-[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)
+[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/0_temple/temple_office/questions/)
 
 ---
 
@@ -55,7 +55,7 @@ collection_name: 1_religious_part
 | **백설기** | 6만원   | 3만원  |
 ||||
 
-[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)
+[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/0_temple/temple_office/questions/)
 
 ---
 
@@ -70,6 +70,6 @@ collection_name: 1_religious_part
 | **오백나한님전** |  계절과일10만원 | 계절과일20만원 |
 ||||
 
-[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)
+[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/0_temple/temple_office/questions/)
 
 ---

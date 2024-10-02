@@ -1,10 +1,12 @@
 ---
 layout: leftnav-page-content
-permalink: /1_0_templeNews/volunteer/
+permalink: /0_temple/temple_office/volunteer/
 title: 봉사·후원안내
 breadcrumb: volunteer
-collection_name: 1_0_templeNews
-second_nav_title: "문의·안내·신청·접수"
+collection_name: 0_temple
+second_nav_title: "종무소"
+
+# second_nav_title: "문의·안내·신청·접수"
 ---
 
 
@@ -21,7 +23,7 @@ second_nav_title: "문의·안내·신청·접수"
 
     - 담당 사회복지사와 연락 후 노인복지센터로 직접 찾아오시면 됩니다.모든 프로그램마다 조금씩 다르지만 평균 주 1 ~ 2회 1 ~ 2 시간 정도 소요됩니다.
 
-[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)
+[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/0_temple/temple_office/questions/)
 
 ### **후원안내**
 
@@ -32,4 +34,4 @@ second_nav_title: "문의·안내·신청·접수"
    - **결연후원**: 시설에 거주하시는 어르신 또는 생활에 어려움을 겪고 있는 장애우, 아이들과의 1:1 결연을 통해 정기적으로 현금 및 물품이 지원됩니다. 행복을 나누는 사랑의 모금함 복지기금 마련을 위한 사랑의 모금함 운동을 통해 얻어지는 전액은 어르신, 장애우 및 아이들을 위한 사회복지기금(생필품지원 등)으로 쓰여집니다.    
 
 
-[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/1_0_templeNews/questions/)
+[[<span style="color:blue">문의 및 신청 바로가기</span>] ](/0_temple/temple_office/questions/)
