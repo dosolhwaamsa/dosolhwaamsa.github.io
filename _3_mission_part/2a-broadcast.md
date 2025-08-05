@@ -9,6 +9,9 @@ second_nav_title: "화암사방송"
 
 > ### **도솔산 화암사 YouTube Live TV**
 
+* **도솔산 화암사에서 새로운 유튜브 채널을 개설했습니다**
+  [바로가기 링크 클릭](https://www.youtube.com/@%ED%99%94%EC%95%94%EC%82%ACTV-t4s/videos)
+  
 ---
 
 <iframe width="100%"
