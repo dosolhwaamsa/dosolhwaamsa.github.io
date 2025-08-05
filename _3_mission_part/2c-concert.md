@@ -7,6 +7,9 @@ collection_name: 3_mission_part
 second_nav_title: "화암사방송"
 ---
 
+* **도솔산 화암사에서 새로운 유튜브 채널을 개설했습니다**
+  [바로가기 링크 클릭](https://www.youtube.com/@%ED%99%94%EC%95%94%EC%82%ACTV-t4s/videos)
+
 > ###### *(연속재생 : 각 영상 우측상단에 재생리스트 표시를 누르시면 시청을 원하시는 영상을 찾아 보실수 있습니다.)*
 
 <iframe width="100%"
