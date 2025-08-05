@@ -6,10 +6,8 @@ permalink: /
 ---
 <!-- Type your notification here - the notification bar will not appear if this is empty. For other changes, refer to _data/homepage.yml to edit the homepage. -->
 
-<div align="left"> 
-  
-###### 최신공지는 다음 링크에서 확인해주세요. [[링크바로가기]](https://m.cafe.naver.com/ca-fe/hwaamsa?tab=notice){:target="_blank"} 
-###### 도솔산 화암사가 새로운 유튜브 채널을 개설했습니다. [[링크바로가기]](https://youtube.com/channel/UCd3H1PtuO7In8dwgWdS_cUA?feature=shared){:target="_blank"} 
+> 최신공지는 다음 링크에서 확인해주세요. [[링크바로가기]](https://m.cafe.naver.com/ca-fe/hwaamsa?tab=notice){:target="_blank"} 
+> 도솔산 화암사가 새로운 유튜브 채널을 개설했습니다. [[링크바로가기]](https://youtube.com/channel/UCd3H1PtuO7In8dwgWdS_cUA?feature=shared){:target="_blank"} 
 
 </div> 
 
